@@ -176,3 +176,26 @@
 * [Xiaomi и мы](https://telegram.me/MiDevices) -- Чат про Xiaomi
 
 -------------
+
+#### Боты
+
+* [@ImageSearchBot](https://telegram.me/ImageSearchBot) -- Бот поиска картинок от Яндекса
+* [@temp_mail_bot](https://telegram.me/temp_mail_bot) -- Временная электронная почта на 10 минут для регистраций
+* [@fakemailbot](https://telegram.me/fakemailbot) -- Временная электронная почта на 10 минут
+* [@pomodoro_timer_bot](https://telegram.me/pomodoro_timer_bot) -- Бот-таймер по методу "помидорки"
+* [@vkmusic_bot](https://telegram.me/vkmusic_bot) -- Музыкальный бот ВК
+* [@sp2txt_bot](https://telegram.me/sp2txt_bot) -- Бот, превращающий речь в текст
+* [@AntiParkonBot](https://telegram.me/AntiParkonBot) -- Бот выдаёт контакты автовладельца по номеру машины
+* [@NodKeys_bot](https://telegram.me/NodKeys_bot) -- Ключница (может не работать)
+* [@AlertBot](https://telegram.me/AlertBot) -- Бот-напоминалка удобный
+* [@MyCookBot](https://telegram.me/MyCookBot) -- Бот шеф-повар. База рецептов
+* [@SpamBot](https://telegram.me/SpamBot) -- Узнать в бане ли в телеграме, или нет
+* [@AIPrismaBot](https://telegram.me/AIPrismaBot) -- Призма Бот
+* [@radiotgbot](https://telegram.me/radiotgbot) -- Бот - Лучшее радио!
+* [@MelodyRobot](https://telegram.me/MelodyRobot) -- Угадай мелодию бот
+* [@BotFather](https://telegram.me/BotFather) -- Крёстный бото-отец :-)
+* [@MyTeleCloudBot](https://telegram.me/MyTeleCloudBot) -- облачный бот ?
+* [@mybookbot](https://telegram.me/mybookbot) -- Бот-поисковик/скачиатель книг.
+* [@ru_tracker_bot](https://telegram.me/ru_tracker_bot) -- Бот рутрекера
+* [@WallpaperRobot](https://telegram.me/WallpaperRobot) -- Бот с обоями на рабочий стол
+* [@pikabubestbot](https://telegram.me/pikabubestbot) -- Бот пикабу

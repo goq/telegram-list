@@ -81,6 +81,7 @@
 ##### Фреймворки, среды разработок, библиотеки
 * [Angular.js](https://telegram.me/angular_js) -- Чат про AngularJS 1.x
 * [Angular 2](https://telegram.me/angular2) -- Чат про AngularJS 2.x
+* [Joomla! по-русски](https://telegram.me/joomlaru) -- Чат про Joomla!
 * [Laravel](https://telegram.me/laravel_pro) -- Чат про Laravel (~150)
 * [Laravel Russia](https://telegram.me/ru_laravel) -- Чат про Laravel (<50 человек)
 * [React Native](https://telegram.me/reactnative_ru) -- Чат про React Native

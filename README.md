@@ -110,6 +110,7 @@
 * [Zabbix Talks](https://telegram.me/ZabbixPro) -- Чат про Zabbix (>100)
 * [pro.zabbix](https://telegram.me/prozabbix) -- Чат про Zabbix (альтернативный) (<100)
 * [Proxmox/KVM](https://telegram.me/pro_proxmox) -- Чат о виртуализации и Proxmox
+* [glpi_ru](https://telegram.me/glpi_ru) -- Чат о системе инвентаризации GLPI
 
 ##### Управление конфигурациями, development & operations engineers
 * [Ansible](https://telegram.me/pro_ansible) -- Чат про Ansible

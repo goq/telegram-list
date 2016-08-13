@@ -110,7 +110,7 @@
 * [Ansible](https://telegram.me/pro_ansible) -- Чат про Ansible
 * [ChatOps RU](https://telegram.me/chatops_ru) -- Те, кто управляют серверами через чат ботов
 * [DevOps](https://telegram.me/devops_ru) -- Чат про DevOps (>1050 человек)
-* [ru_devops](https://telegram.me/devops_ru) -- Чат про DevOps (альтернативный)
+* [ru_devops](https://telegram.me/ru_devops) -- Чат про DevOps (альтернативный)
 * [Docker RU. Ламповая атмосфера](https://telegram.me/ru_docker) Чат про Docker
 * [Docker](https://telegram.me/docker_ru) -- Чат про Docker (альтернативный)
 * [Puppet](https://telegram.me/puppet_ru) -- Чат про Puppet и управление конфигурациями

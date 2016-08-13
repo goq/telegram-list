@@ -102,6 +102,7 @@
 * [Hosting and so on](https://telegram.me/pro_hosting) -- Про хостинг
 * [pro.telecom](https://telegram.me/protelecom) -- Чат про телекоммуникации.
 * [ru.VoIP](https://telegram.me/ru_voip) -- Чат про VoIP
+* [xmpp_ru](https://telegram.me/xmpp_ru) -- Чат про XMPP, ejabberd, openfire
 * [pro_openstack](https://telegram.me/pro_openstack) -- Чат про OpenStack, Ceph
 * [openstack_russia](https://telegram.me/openstack_russia) -- Чат про OpenStack (альтернативный)
 * [Трактор over IP](https://telegram.me/ntwrk) -- Чат сетевых инженеров

@@ -11,6 +11,7 @@
 * [L'homme qui pleure](https://telegram.me/lhommequipleure) -- Персональный канал Александра Чистякова ([@demeliorator](https://telegram.me/))
 * [opennet news](https://telegram.me/opennews) -- Новости opennet
 * [Hacker news](https://telegram.me/HakerNews) -- Новости информационной безопасности
+* [IT Security Alerts](https://telegram.me/itsecalert) -- Оповещение о крупных уязвимостях в софте и сервисах
 * [SPbLUG news](https://telegram.me/spblug_news) -- Канал новостей SPbLUG
 * [DevOps news](https://telegram.me/devops_news) -- Новости DevOps
 * [DevOps Deflope News](https://telegram.me/devops_deflope) -- Новостной канал DevOps
@@ -43,6 +44,8 @@
 * [Вакансии и резюме из Digital](https://telegram.me/seohr) -- Вакансии и резюме из Digital
 * [Digital Job](https://telegram.me/digitaljob_ch) -- Вакансии в индустрии Digital
 * [Web Freelance](https://telegram.me/webfl) -- Предложения по фрилансу для веб-разработчиков
+* [Трактор на Джинне](https://telegram.me/djinni_relocate) -- Предложения на релокейт для программистов в Европу и США
+* [Devaller](https://telegram.me/devaller) -- Вакансии от сообщества Devall
 
 ##### Погода
 * [Погода СПБ](https://telegram.me/weatherSPB) -- Погода в Санкт-Петербурге
@@ -100,11 +103,13 @@
 * [pro.telecom](https://telegram.me/protelecom) -- Чат про телекоммуникации.
 * [ru.VoIP](https://telegram.me/ru_voip) -- Чат про VoIP
 * [pro_openstack](https://telegram.me/pro_openstack) -- Чат про OpenStack, Ceph
+* [openstack_russia](https://telegram.me/openstack_russia) -- Чат про OpenStack (альтернативный)
 * [Трактор over IP](https://telegram.me/ntwrk) -- Чат сетевых инженеров
 * [Nag.Ru](https://telegram.me/nag_public) -- Чат Nag.ru
 * [Mikrotik.Ru](https://telegram.me/MikrotikRu) -- Чат про Микротики
 * [Zabbix Talks](https://telegram.me/ZabbixPro) -- Чат про Zabbix (>100)
 * [pro.zabbix](https://telegram.me/prozabbix) -- Чат про Zabbix (альтернативный) (<100)
+* [Proxmox/KVM](https://telegram.me/pro_proxmox) -- Чат о виртуализации и Proxmox
 
 ##### Управление конфигурациями, development & operations engineers
 * [Ansible](https://telegram.me/pro_ansible) -- Чат про Ansible
@@ -114,6 +119,7 @@
 * [Docker RU. Ламповая атмосфера](https://telegram.me/ru_docker) Чат про Docker
 * [Docker](https://telegram.me/docker_ru) -- Чат про Docker (альтернативный)
 * [Puppet](https://telegram.me/puppet_ru) -- Чат про Puppet и управление конфигурациями
+* [Kubernetes](https://telegram.me/kubernetes_ru) -- Чат про Kubernetes
 
 ##### Базы Данных
 * [MongoDBRussian](https://telegram.me/MongoDBRussian) -- Чат про MongoDB
@@ -132,6 +138,7 @@
 * [DevOps Jobs](https://telegram.me/devops_jobs) -- Чат про вакансии и работу в сфере DevOps
 * [Битрикс работа](https://telegram.me/bitrix_work) -- Чат про вакансии и работу в сфере Битрикса
 * [Devall | Upwork](https://telegram.me/upworkcom) -- Чат про Upwork для разработчиков
+* [Jobs_IT](https://telegram.me/bitrix_work) -- Чат по вакансиям в сфере IT
 
 ##### Сообщества
 * [SPbLUG](https://telegram.me/spblug) -- Чат Saint-Petersburg Linux User Group
@@ -141,6 +148,8 @@
 * [SPb Python](https://telegram.me/spbpython) -- Saint-Petersburg Python Interest Group
 * [Developers Chat](https://telegram.me/joinchat/ABI4pz3M7FCxoDZcdcfVUA) -- Чат сообщества Chatbots
 * [spb_auto](https://telegram.me/spb_auto) -- Чат сообщества spb_auto
+* [Погромисты-трактористы](https://telegram.me/pogromisty) -- Опыт миграции в другие страны, вакансии
+* [ITишники в Бангкоке](https://telegram.me/usr_local_bkk) -- Чат ITшников, мигрировавших в Bangkok (Thailand)
 
 ##### Электроника, микроконтроллеры и встраиваемые системы
 * [Catethysis](https://telegram.me/telecatethysis) -- Чат про электронику, программирование микроконтроллеров, stm32

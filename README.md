@@ -136,9 +136,8 @@
 * [Mobile Dev Jobs](https://telegram.me/mobile_jobs) -- Чат по вакансиям разработчиков мобильных приложений
 * [JavaScript Jobs](https://telegram.me/javascript_jobs) -- Чат про вакансии и работу в сфере JavaScript
 * [DevOps Jobs](https://telegram.me/devops_jobs) -- Чат про вакансии и работу в сфере DevOps
-* [Битрикс работа](https://telegram.me/bitrix_work) -- Чат про вакансии и работу в сфере Битрикса
+* [Битрикс работа](https://telegram.me/bitrix_work) -- Чат про вакансии и работу в сфере Битрикса и IT
 * [Devall | Upwork](https://telegram.me/upworkcom) -- Чат про Upwork для разработчиков
-* [Jobs_IT](https://telegram.me/bitrix_work) -- Чат по вакансиям в сфере IT
 
 ##### Сообщества
 * [SPbLUG](https://telegram.me/spblug) -- Чат Saint-Petersburg Linux User Group

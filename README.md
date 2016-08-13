@@ -168,6 +168,7 @@
 * [Fedora](https://telegram.me/fedora) -- Чат про Fedora. English
 * [Russian Fedora](https://telegram.me/russianfedora) -- Чат про Fedora. Русский
 * [freebsd_ru](https://telegram.me/freebsd_ru) -- Чат про FreeBSD
+* [Свидетели ReactOS](https://telegram.me/reactos_ru) -- Чат про ReactOS
 * [smartos_ru](https://telegram.me/smartos_ru) -- Чат про SmartOS
 * [Ubuntu](https://telegram.me/ru_ubuntu) -- Чат про Ubuntu
 * [pro.windows](https://telegram.me/joinchat/Be4rsT5IrA8x69FnrpMMvw) Чат про Windows

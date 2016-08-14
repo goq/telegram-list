@@ -152,6 +152,7 @@
 * [spb_auto](https://telegram.me/spb_auto) -- Чат сообщества spb_auto
 * [Погромисты-трактористы](https://telegram.me/pogromisty) -- Опыт миграции в другие страны, вакансии
 * [ITишники в Бангкоке](https://telegram.me/usr_local_bkk) -- Чат ITшников, мигрировавших в Bangkok (Thailand)
+* [ru-board group](https://telegram.me/ru_board) -- Группа популярного форума Ru-Board
 
 ##### Электроника, микроконтроллеры и встраиваемые системы
 * [Catethysis](https://telegram.me/telecatethysis) -- Чат про электронику, программирование микроконтроллеров, stm32

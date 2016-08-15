@@ -141,6 +141,7 @@
 * [DevOps Jobs](https://telegram.me/devops_jobs) -- Чат про вакансии и работу в сфере DevOps
 * [Битрикс работа](https://telegram.me/bitrix_work) -- Чат про вакансии и работу в сфере Битрикса и IT
 * [Devall | Upwork](https://telegram.me/upworkcom) -- Чат про Upwork для разработчиков
+* [QA](https://telegram.me/qa_jobs) -- Чат про вакансии и работу в сфере тестирования
 
 ##### Сообщества
 * [SPbLUG](https://telegram.me/spblug) -- Чат Saint-Petersburg Linux User Group

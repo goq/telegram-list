@@ -10,8 +10,6 @@
 * [Веб-стандарты](https://telegram.me/webstandards_ru) -- Новости фронтенда от "Веб-стандартов"
 * [L'homme qui pleure](https://telegram.me/lhommequipleure) -- Персональный канал Александра Чистякова ([@demeliorator](https://telegram.me/))
 * [opennet news](https://telegram.me/opennews) -- Новости opennet
-* [Hacker news](https://telegram.me/HakerNews) -- Новости информационной безопасности
-* [IT Security Alerts](https://telegram.me/itsecalert) -- Оповещение о крупных уязвимостях в софте и сервисах
 * [SPbLUG news](https://telegram.me/spblug_news) -- Канал новостей SPbLUG
 * [DevOps news](https://telegram.me/devops_news) -- Новости DevOps
 * [DevOps Deflope News](https://telegram.me/devops_deflope) -- Новостной канал DevOps
@@ -26,6 +24,11 @@
 * [nag.ru news](https://telegram.me/NagNews) -- Новости от nag.ru
 * [DTP](https://telegram.me/DTPublishing) Канал новостей о паблишинге, полиграфии, препресс, вёрстка, дизайн
 * [pro.elixir_news](https://telegram.me/proelixir_news) -- Новости из мира Elixir
+
+##### Каналы информации по Информационной безопасности
+* [Technologique](https://telegram.me/technologique) -- Various aspects of FOSS technologies, Linux, coding, development, infrastructure solutions, DevOps
+* [Hacker news](https://telegram.me/HakerNews) -- Новости информационной безопасности
+* [IT Security Alerts](https://telegram.me/itsecalert) -- Оповещение о крупных уязвимостях в софте и сервисах
 
 ##### Каталоги каналов, групп, чатов, ботов
 * [Группы/конференции](https://telegram.me/groupsguide) -- Гид по группам, каналам и чатам телеграма.

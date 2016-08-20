@@ -160,6 +160,7 @@
 * [ITишники в Бангкоке](https://telegram.me/usr_local_bkk) -- Чат ITшников, мигрировавших в Bangkok (Thailand)
 * [ru-board group](https://telegram.me/ru_board) -- Группа популярного форума Ru-Board
 * [QA](https://telegram.me/qa_ru) -- Чат русскоязычного сообщества тестировщиков
+* [Frontend Raccoon](https://telegram.me/frontendraccoon) -- Чат сообщества Frontend Raccoon
 
 ##### Электроника, микроконтроллеры и встраиваемые системы
 * [Catethysis](https://telegram.me/telecatethysis) -- Чат про электронику, программирование микроконтроллеров, stm32

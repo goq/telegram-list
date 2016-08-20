@@ -40,6 +40,7 @@
 ##### Библиотеки и базы данных
 * [Бизнес-книги](https://telegram.me/marketologmanager) -- Канал с подборками литературы по бизнесу
 * [Библиотека программиста](https://telegram.me/proglibrary) -- Библиотека программиста. (для нубов)
+* [Библиотека Python](https://telegram.me/ru_python_books) -- Канал-библиотека с книгами, журналами и статьями по языку программирования Python (активный)
 * [Библиотека Golang](https://telegram.me/joinchat/Be4rsT2X7QRJmDbFbnAcnQ) -- Канал-библиотека по языку программирования Golang (пустующий)
 * [справочник "Единой России"](https://telegram.me/joinchat/ACqUWT8mxfwM8vgXxxFqQQ) -- Телефонный справочник "Единой России" в Госдуме РФ
 

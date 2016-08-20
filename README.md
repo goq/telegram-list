@@ -24,6 +24,7 @@
 * [nag.ru news](https://telegram.me/NagNews) -- Новости от nag.ru
 * [DTP](https://telegram.me/DTPublishing) Канал новостей о паблишинге, полиграфии, препресс, вёрстка, дизайн
 * [pro.elixir_news](https://telegram.me/proelixir_news) -- Новости из мира Elixir
+* [Frontend Raccoon](https://telegram.me/frontendraccoon) -- Новости сообщества Frontend Raccoon
 
 ##### Каналы информации по Информационной безопасности
 * [Technologique](https://telegram.me/technologique) -- Various aspects of FOSS technologies, Linux, coding, development, infrastructure solutions, DevOps
@@ -160,7 +161,6 @@
 * [ITишники в Бангкоке](https://telegram.me/usr_local_bkk) -- Чат ITшников, мигрировавших в Bangkok (Thailand)
 * [ru-board group](https://telegram.me/ru_board) -- Группа популярного форума Ru-Board
 * [QA](https://telegram.me/qa_ru) -- Чат русскоязычного сообщества тестировщиков
-* [Frontend Raccoon](https://telegram.me/frontendraccoon) -- Чат сообщества Frontend Raccoon
 
 ##### Электроника, микроконтроллеры и встраиваемые системы
 * [Catethysis](https://telegram.me/telecatethysis) -- Чат про электронику, программирование микроконтроллеров, stm32

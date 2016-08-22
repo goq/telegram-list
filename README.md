@@ -17,7 +17,6 @@
 * [Geeks](https://telegram.me/g33ks) -- Статьи и новости. Для гиков и от гиков.
 * [40Pk](https://telegram.me/fortypk) -- Новости и статьи про кодинг, технологии и науку.
 * [Fedora Project News](https://telegram.me/fedoranews) -- Официальные новости Fedora. English
-* [PRO Стартапы и бизнес](https://telegram.me/startupnews) -- Новости про стратапы и бизнес
 * [pro.JVM](https://telegram.me/proJVM) -- Новости сообщества JVM
 * [SEO life](https://telegram.me/seolife) -- Новости из мира SEO
 * [SMM в Telegram](https://telegram.me/aboutSMM) -- Канал про SMM
@@ -30,6 +29,11 @@
 * [Technologique](https://telegram.me/technologique) -- Various aspects of FOSS technologies, Linux, coding, development, infrastructure solutions, DevOps
 * [Hacker news](https://telegram.me/HakerNews) -- Новости информационной безопасности
 * [IT Security Alerts](https://telegram.me/itsecalert) -- Оповещение о крупных уязвимостях в софте и сервисах
+
+##### Каналы по бизнесу и стартапам
+* [Темная сторона](https://telegram.me/temno) -- Канал по бизнесу "Темная сторона"
+* [Мини-бизнес по-русски](https://telegram.me/piznes) -- Мини-бизнес по-русски
+* [PRO Стартапы и бизнес](https://telegram.me/startupnews) -- Новости про стратапы и бизнес
 
 ##### Каталоги каналов, групп, чатов, ботов
 * [Группы/конференции](https://telegram.me/groupsguide) -- Гид по группам, каналам и чатам телеграма.

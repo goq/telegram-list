@@ -179,6 +179,7 @@
 * [SEO Chat](https://telegram.me/seochat) -- Чат про SEO
 * [Чат про СММ в России](https://telegram.me/rusmmchat) -- Чат про SMM
 * [PRO Стартапы и бизнес](https://telegram.me/startupchat) -- Чат про стартапы и бизнес
+* [Мини-бизнес чат](https://telegram.me/pizneschat) -- Чат про мини-бизнес в интернете
 
 ##### Операционные системы
 * [Fedora](https://telegram.me/fedora) -- Чат про Fedora. English

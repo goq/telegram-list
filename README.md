@@ -30,6 +30,10 @@
 * [Hacker news](https://telegram.me/HakerNews) -- Новости информационной безопасности
 * [IT Security Alerts](https://telegram.me/itsecalert) -- Оповещение о крупных уязвимостях в софте и сервисах
 
+##### Информационные и новостные каналы по Data science, Big Data, Машинному обучению и deep learning.
+* [ModelOverfit](https://telegram.me/modeloverfit) -- Канал сообщества modeloverfit
+* [Data Science](https://telegram.me/opendatascience) -- Первый новостной канал про data science
+
 ##### Каналы по бизнесу и стартапам
 * [Темная сторона](https://telegram.me/temno) -- Канал по бизнесу "Темная сторона"
 * [Мини-бизнес по-русски](https://telegram.me/piznes) -- Мини-бизнес по-русски
@@ -139,6 +143,10 @@
 * [MongoDBRussian](https://telegram.me/MongoDBRussian) -- Чат про MongoDB
 * [DBA](https://telegram.me/dba_ru) -- Чат про базы данных и их администрирование
 * [pgsql](https://telegram.me/pgsql) -- Чат про PostgreSQL
+
+##### Big Data, Машинное обучение, deep learning и data science
+* [Big Data & Machine Learning](https://telegram.me/bigdata_ru) -- Чат по большим данным, обработке и машинному обучению
+* [Data Science Chat](https://telegram.me/datasciencechat) -- Чат по теме Data Science
 
 ##### Мобильная разработка
 * [Android Developers](https://telegram.me/android_ru) -- Чат про разработку под Android. (>150)

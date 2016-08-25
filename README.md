@@ -33,6 +33,7 @@
 ##### Информационные и новостные каналы по Data science, Big Data, Машинному обучению и deep learning.
 * [ModelOverfit](https://telegram.me/modeloverfit) -- Канал сообщества modeloverfit
 * [Data Science](https://telegram.me/opendatascience) -- Первый новостной канал про data science
+* [Deep Learning Russia](https://telegram.me/deeplearning_ru) -- Канал сообщества vk.com/deeplearning_ru
 * [Чаты и группы телеграма по теме](#big-data-Машинное-обучение-deep-learning-и-data-science)
 
 ##### Каналы по бизнесу и стартапам

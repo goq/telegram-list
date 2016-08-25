@@ -71,7 +71,7 @@
 * [Edimhorosho](https://telegram.me/edimhorosho) -- Новости и статьи из мира кулинарии. Едим хорошо!
 
 -------------
-#### Группы
+## Группы
 
 ##### Языки программирования
 * [pro.asm](https://telegram.me/proasm) -- Чат про Assembler
@@ -215,7 +215,15 @@
 
 -------------
 
-#### Боты
+## Боты
+
+##### Полезные боты для разработки
+* [@trello_bot](https://telegram.me/trello_bot) -- Интеграция всемирно известной Канбан доски в телеграм
+* [@bitbucket_bot](https://telegram.me/bitbucket_bot) -- Интеграция bitbucket в телеграм
+* [@integram_bot](https://telegram.me/integram_bot) -- Интеграция разных сервисов по разработке ПО в телеграм
+
+
+##### Прочие боты
 
 * [@ImageSearchBot](https://telegram.me/ImageSearchBot) -- Бот поиска картинок от Яндекса
 * [@temp_mail_bot](https://telegram.me/temp_mail_bot) -- Временная электронная почта на 10 минут для регистраций

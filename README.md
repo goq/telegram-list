@@ -145,6 +145,7 @@
 * [MongoDBRussian](https://telegram.me/MongoDBRussian) -- Чат про MongoDB
 * [DBA](https://telegram.me/dba_ru) -- Чат про базы данных и их администрирование
 * [pgsql](https://telegram.me/pgsql) -- Чат про PostgreSQL
+* [PostgreSQL + 1C + Linux](https://telegram.me/PostgreSQL_1C_Linux) -- Чат про особенности работы PostgreSQL и 1С на Linux
 
 ##### Big Data, Машинное обучение, deep learning и data science
 * [Big Data & Machine Learning](https://telegram.me/bigdata_ru) -- Чат по большим данным, обработке и машинному обучению

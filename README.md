@@ -137,6 +137,7 @@
 * [ru_devops](https://telegram.me/ru_devops) -- Чат про DevOps (альтернативный)
 * [Docker RU. Ламповая атмосфера](https://telegram.me/ru_docker) Чат про Docker
 * [Docker](https://telegram.me/docker_ru) -- Чат про Docker (альтернативный)
+* [Брутальный Docker](https://telegram.me/brutal_docker) -- Чат для тех, кому есть что сказать про докер
 * [Puppet](https://telegram.me/puppet_ru) -- Чат про Puppet и управление конфигурациями
 * [Kubernetes](https://telegram.me/kubernetes_ru) -- Чат про Kubernetes
 * [Метрики](https://telegram.me/metrics_ru) -- Чат про метрики, мониторинг и анализ данных

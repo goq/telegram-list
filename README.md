@@ -177,6 +177,10 @@
 * [ITишники в Бангкоке](https://telegram.me/usr_local_bkk) -- Чат ITшников, мигрировавших в Bangkok (Thailand)
 * [ru-board group](https://telegram.me/ru_board) -- Группа популярного форума Ru-Board
 * [QA](https://telegram.me/qa_ru) -- Чат русскоязычного сообщества тестировщиков
+* [Freelancers & Remote workers](https://telegram.me/ru_freelancers) -- Чат практикующих и интересующихся удаленной работой и самозанятостью
+* [P2P, Mesh, Cryptocurrency, etc.](https://telegram.me/distributed) -- Криптовалюты, p2p, mesh и другие средства личной свободы
+* [Политика](https://telegram.me/ru_politics) -- Политические обсуждения
+* [Философия](https://telegram.me/ru_philosophy) -- Философское кафе
 
 ##### Электроника, микроконтроллеры и встраиваемые системы
 * [Catethysis](https://telegram.me/telecatethysis) -- Чат про электронику, программирование микроконтроллеров, stm32

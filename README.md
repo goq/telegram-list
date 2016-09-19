@@ -24,6 +24,7 @@
 * [DTP](https://telegram.me/DTPublishing) Канал новостей о паблишинге, полиграфии, препресс, вёрстка, дизайн
 * [pro.elixir_news](https://telegram.me/proelixir_news) -- Новости из мира Elixir
 * [Frontend Raccoon](https://telegram.me/frontendraccoon) -- Новости сообщества Frontend Raccoon
+* [Addmeto](https://telegram.me/addmeto) -- Канал Григория Бакунова (Bobuk), новости из мира ИТ и не только
 
 ##### Каналы информации по Информационной безопасности
 * [Technologique](https://telegram.me/technologique) -- Various aspects of FOSS technologies, Linux, coding, development, infrastructure solutions, DevOps
@@ -70,6 +71,12 @@
 
 ##### Кулинария
 * [Edimhorosho](https://telegram.me/edimhorosho) -- Новости и статьи из мира кулинарии. Едим хорошо!
+
+##### Копирайтинг
+* [Паша и его прокрастинация](https://telegram.me/abbsol) -- Как писать текст, проблемы пишущих, правила русского языка, советы писателей, книги о ремесле.
+
+##### Медицина
+* [Намочи Манту](https://telegram.me/namochimanturu) -- Канал о доказательной медицине, который ведут медицинские журналисты.
 
 -------------
 ## Группы
@@ -182,6 +189,8 @@
 * [P2P, Mesh, Cryptocurrency, etc.](https://telegram.me/distributed) -- Криптовалюты, p2p, mesh и другие средства личной свободы
 * [Политика](https://telegram.me/ru_politics) -- Политические обсуждения
 * [Философия](https://telegram.me/ru_philosophy) -- Философское кафе
+* [Borodutch](https://telegram.me/borodutcher) -- Cобрались программисты-фрилансеры-предприниматели-стартаперы и замутили свою ламповую конфу.
+* [Сообщество UX / UI - дизайнеров](https://telegram.me/uxchat) -- uxchat.live
 
 ##### Электроника, микроконтроллеры и встраиваемые системы
 * [Catethysis](https://telegram.me/telecatethysis) -- Чат про электронику, программирование микроконтроллеров, stm32
@@ -206,6 +215,7 @@
 * [Ubuntu](https://telegram.me/ru_ubuntu) -- Чат про Ubuntu
 * [pro.windows](https://telegram.me/joinchat/Be4rsT5IrA8x69FnrpMMvw) Чат про Windows
 * [iHack - Hackintosh & Jailbreak](https://telegram.me/macosx86) -- Чат про Хакинтош
+* [That's Linux - общение](https://telegram.me/that_is_linux) -- Чат про Linux. 
 
 ##### Разное и интересное
 * [DTP :: @DTPublish](https://telegram.me/DTPublish) -- Всё о паблишинге, полиграфии, препресс, вёрстка, дизайн
@@ -252,3 +262,5 @@
 * [@ru_tracker_bot](https://telegram.me/ru_tracker_bot) -- Бот рутрекера
 * [@WallpaperRobot](https://telegram.me/WallpaperRobot) -- Бот с обоями на рабочий стол
 * [@pikabubestbot](https://telegram.me/pikabubestbot) -- Бот пикабу
+* [@arbeit_bot](https://telegram.me/arbeit_bot) -- Opensourse freelance биржа [arbeitbot](https://arbeitbot.com/)
+* [@xorappbot](https://telegram.me/xorappbot) -- Frelance биржа [xor.ai](https://www.xor.ai/).

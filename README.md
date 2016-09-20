@@ -5,7 +5,7 @@
 
 ## Каналы
 
-##### Новости 
+##### Новости
 * [For Web](https://telegram.me/forwebdev) -- Канал новостей для веб-разработчиков
 * [Веб-стандарты](https://telegram.me/webstandards_ru) -- Новости фронтенда от "Веб-стандартов"
 * [L'homme qui pleure](https://telegram.me/lhommequipleure) -- Персональный канал Александра Чистякова ([@demeliorator](https://telegram.me/))
@@ -144,7 +144,7 @@
 * [ChatOps RU](https://telegram.me/chatops_ru) -- Те, кто управляют серверами через чат ботов
 * [DevOps](https://telegram.me/devops_ru) -- Чат про DevOps (>1050 человек)
 * [ru_devops](https://telegram.me/ru_devops) -- Чат про DevOps (альтернативный)
-* [Docker RU. Ламповая атмосфера](https://telegram.me/ru_docker) Чат про Docker
+* [Docker Официальное Русское Сообщество](https://telegram.me/ru_docker) -- Официальный чат про Docker
 * [Docker](https://telegram.me/docker_ru) -- Чат про Docker (альтернативный)
 * [Брутальный Docker](https://telegram.me/brutal_docker) -- Чат для тех, кому есть что сказать про докер
 * [Puppet](https://telegram.me/puppet_ru) -- Чат про Puppet и управление конфигурациями
@@ -217,7 +217,7 @@
 * [Ubuntu](https://telegram.me/ru_ubuntu) -- Чат про Ubuntu
 * [pro.windows](https://telegram.me/joinchat/Be4rsT5IrA8x69FnrpMMvw) Чат про Windows
 * [iHack - Hackintosh & Jailbreak](https://telegram.me/macosx86) -- Чат про Хакинтош
-* [That's Linux - общение](https://telegram.me/that_is_linux) -- Чат про Linux. 
+* [That's Linux - общение](https://telegram.me/that_is_linux) -- Чат про Linux.
 
 ##### Разное и интересное
 * [DTP :: @DTPublish](https://telegram.me/DTPublish) -- Всё о паблишинге, полиграфии, препресс, вёрстка, дизайн

@@ -193,6 +193,7 @@
 * [Философия](https://telegram.me/ru_philosophy) -- Философское кафе
 * [Borodutch](https://telegram.me/borodutcher) -- Cобрались программисты-фрилансеры-предприниматели-стартаперы и замутили свою ламповую конфу.
 * [Сообщество UX / UI - дизайнеров](https://telegram.me/uxchat) -- uxchat.live
+* [Телеграм Гики](https://telegram.me/tgchat) -- Обсуждение новостей о Telegram
 
 ##### Электроника, микроконтроллеры и встраиваемые системы
 * [Catethysis](https://telegram.me/telecatethysis) -- Чат про электронику, программирование микроконтроллеров, stm32
@@ -266,3 +267,5 @@
 * [@pikabubestbot](https://telegram.me/pikabubestbot) -- Бот пикабу
 * [@arbeit_bot](https://telegram.me/arbeit_bot) -- Opensourse freelance биржа [arbeitbot](https://arbeitbot.com/)
 * [@xorappbot](https://telegram.me/xorappbot) -- Frelance биржа [xor.ai](https://www.xor.ai/).
+* [@passgenbot](https://telegram.me/passgenbot) -- Генератор [человекопонятных](http://xkcd.com/936/) паролей.
+* [@bashim_bot](https://telegram.me/bashim_bot) -- Случайные цитаты с сайта [bash.im](http://bash.im) (+ поиск в инлайн-режиме)

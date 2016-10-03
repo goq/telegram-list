@@ -145,9 +145,8 @@
 * [Ansible](https://telegram.me/pro_ansible) -- Чат про Ansible
 * [ChatOps RU](https://telegram.me/chatops_ru) -- Те, кто управляют серверами через чат ботов
 * [DevOps](https://telegram.me/devops_ru) -- Чат про DevOps (>1050 человек)
-* [ru_devops](https://telegram.me/ru_devops) -- Чат про DevOps (альтернативный)
+* [ru_devops](https://telegram.me/ru_devops) -- Чат про DevOps
 * [Docker Официальное Русское Сообщество](https://telegram.me/ru_docker) -- Официальный чат про Docker
-* [Docker](https://telegram.me/docker_ru) -- Чат про Docker (альтернативный)
 * [Брутальный Docker](https://telegram.me/brutal_docker) -- Чат для тех, кому есть что сказать про докер
 * [Puppet](https://telegram.me/puppet_ru) -- Чат про Puppet и управление конфигурациями
 * [Kubernetes](https://telegram.me/kubernetes_ru) -- Чат про Kubernetes
@@ -158,6 +157,7 @@
 * [DBA](https://telegram.me/dba_ru) -- Чат про базы данных и их администрирование
 * [pgsql](https://telegram.me/pgsql) -- Чат про PostgreSQL
 * [PostgreSQL + 1C + Linux](https://telegram.me/PostgreSQL_1C_Linux) -- Чат про особенности работы PostgreSQL и 1С на Linux
+* [Pony ORM](https://telegram.me/ponyorm) -- Чат про Pony ORM
 
 ##### Big Data, Машинное обучение, deep learning и data science
 * [Big Data & Machine Learning](https://telegram.me/bigdata_ru) -- Чат по большим данным, обработке и машинному обучению
@@ -215,6 +215,7 @@
 * [Fedora](https://telegram.me/fedora) -- Чат про Fedora. English
 * [Russian Fedora](https://telegram.me/russianfedora) -- Чат про Fedora. Русский
 * [freebsd_ru](https://telegram.me/freebsd_ru) -- Чат про FreeBSD
+* [Manjaro ru](https://telegram.me/manjarolinux) -- Чат про Manjaro Linux
 * [Свидетели ReactOS](https://telegram.me/reactos_ru) -- Чат про ReactOS
 * [smartos_ru](https://telegram.me/smartos_ru) -- Чат про SmartOS
 * [Ubuntu](https://telegram.me/ru_ubuntu) -- Чат про Ubuntu

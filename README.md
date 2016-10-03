@@ -27,6 +27,7 @@
 * [Addmeto](https://telegram.me/addmeto) -- Канал Григория Бакунова (Bobuk), новости из мира ИТ и не только
 
 ##### Каналы информации по Информационной безопасности
+* [ИБач](https://telegram.me/ibach) -- Канал об Информационной Безопасности
 * [Technologique](https://telegram.me/technologique) -- Various aspects of FOSS technologies, Linux, coding, development, infrastructure solutions, DevOps
 * [Hacker news](https://telegram.me/HakerNews) -- Новости информационной безопасности
 * [IT Security Alerts](https://telegram.me/itsecalert) -- Оповещение о крупных уязвимостях в софте и сервисах

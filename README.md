@@ -193,6 +193,7 @@
 * [P2P, Mesh, Cryptocurrency, etc.](https://telegram.me/distributed) -- Криптовалюты, p2p, mesh и другие средства личной свободы
 * [Политика](https://telegram.me/ru_politics) -- Политические обсуждения
 * [Философия](https://telegram.me/ru_philosophy) -- Философское кафе
+* [Инвесторы и трейдеры](https://telegram.me/ru_traders) -- Инвестирование и торговля на бирже
 * [Borodutch](https://telegram.me/borodutcher) -- Cобрались программисты-фрилансеры-предприниматели-стартаперы и замутили свою ламповую конфу.
 * [Сообщество UX / UI - дизайнеров](https://telegram.me/uxchat) -- uxchat.live
 * [Телеграм Гики](https://telegram.me/tgchat) -- Обсуждение новостей о Telegram

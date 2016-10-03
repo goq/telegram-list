@@ -130,6 +130,7 @@
 * [xmpp_ru](https://telegram.me/xmpp_ru) -- Чат про XMPP, ejabberd, openfire
 * [pro_openstack](https://telegram.me/pro_openstack) -- Чат про OpenStack, Ceph
 * [openstack_russia](https://telegram.me/openstack_russia) -- Чат про OpenStack (альтернативный)
+* [ru_freeswitch](https://telegram.me/ru_freeswitch) -- Чат про Freeswitch
 * [Трактор over IP](https://telegram.me/ntwrk) -- Чат сетевых инженеров
 * [Nag.Ru](https://telegram.me/nag_public) -- Чат Nag.ru
 * [Mikrotik.Ru](https://telegram.me/MikrotikRu) -- Чат про Микротики

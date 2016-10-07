@@ -113,7 +113,7 @@
 * [Angular 2](https://telegram.me/angular2) -- Чат про AngularJS 2.x
 * [Django](https://telegram.me/pydjango) -- Чат про Django
 * [Joomla! по-русски](https://telegram.me/joomlaru) -- Чат про Joomla!
-* [Laravel](https://telegram.me/laravel_pro) -- Чат про Laravel (~150)
+* [Laravel](https://telegram.me/laravel_pro) -- Чат про Laravel (~200)
 * [Laravel Russia](https://telegram.me/ru_laravel) -- Чат про Laravel (<50 человек)
 * [React Native](https://telegram.me/reactnative_ru) -- Чат про React Native
 * [Node.js](https://telegram.me/nodejs_ru) -- Чат по NodeJS
@@ -135,8 +135,8 @@
 * [Трактор over IP](https://telegram.me/ntwrk) -- Чат сетевых инженеров
 * [Nag.Ru](https://telegram.me/nag_public) -- Чат Nag.ru
 * [Mikrotik.Ru](https://telegram.me/MikrotikRu) -- Чат про Микротики
-* [Zabbix Talks](https://telegram.me/ZabbixPro) -- Чат про Zabbix (>100)
-* [pro.zabbix](https://telegram.me/prozabbix) -- Чат про Zabbix (альтернативный) (<100)
+* [Zabbix Talks](https://telegram.me/ZabbixPro) -- Чат про Zabbix (>150)
+* [pro.zabbix](https://telegram.me/prozabbix) -- Чат про Zabbix (альтернативный) (~130)
 * [Proxmox/KVM](https://telegram.me/pro_proxmox) -- Чат о виртуализации и Proxmox
 * [glpi_ru](https://telegram.me/glpi_ru) -- Чат о системе helpdesk и инвентаризации GLPI
 * [pro.enterprise](https://telegram.me/pro_enterprise) -- Чат про корп.сектор: серверы, СХД, CDN, сетевое оборудование и облака.
@@ -144,7 +144,7 @@
 ##### Управление конфигурациями, development & operations engineers
 * [Ansible](https://telegram.me/pro_ansible) -- Чат про Ansible
 * [ChatOps RU](https://telegram.me/chatops_ru) -- Те, кто управляют серверами через чат ботов
-* [DevOps](https://telegram.me/devops_ru) -- Чат про DevOps (>1050 человек)
+* [DevOps](https://telegram.me/devops_ru) -- Чат про DevOps (>1220 человек)
 * [ru_devops](https://telegram.me/ru_devops) -- Чат про DevOps
 * [Docker Официальное Русское Сообщество](https://telegram.me/ru_docker) -- Официальный чат про Docker
 * [Брутальный Docker](https://telegram.me/brutal_docker) -- Чат для тех, кому есть что сказать про докер

@@ -151,6 +151,7 @@
 * [Puppet](https://telegram.me/puppet_ru) -- Чат про Puppet и управление конфигурациями
 * [Kubernetes](https://telegram.me/kubernetes_ru) -- Чат про Kubernetes
 * [Метрики](https://telegram.me/metrics_ru) -- Чат про метрики, мониторинг и анализ данных
+* [Continuous Integration/Delivery на русском](https://telegram.me/ci_cd_ru) -- Чат про CI/CD на русском
 
 ##### Базы Данных
 * [MongoDBRussian](https://telegram.me/MongoDBRussian) -- Чат про MongoDB

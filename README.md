@@ -142,7 +142,7 @@
 * [Mikrotik.Ru](https://telegram.me/MikrotikRu) -- Чат про Микротики
 * [Zabbix Talks](https://telegram.me/ZabbixPro) -- Чат про Zabbix (>150)
 * [pro.zabbix](https://telegram.me/prozabbix) -- Чат про Zabbix (альтернативный) (~130)
-* [Proxmox/KVM](https://telegram.me/pro_proxmox) -- Чат о виртуализации и Proxmox
+* [KVM (PVE/oVirt etc)](https://telegram.me/pro_kvm) -- Чат о виртуализации и Proxmox
 * [glpi_ru](https://telegram.me/glpi_ru) -- Чат о системе helpdesk и инвентаризации GLPI
 * [pro.enterprise](https://telegram.me/pro_enterprise) -- Чат про корп.сектор: серверы, СХД, CDN, сетевое оборудование и облака.
 

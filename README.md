@@ -22,7 +22,7 @@
 * [SEO life](https://telegram.me/seolife) -- Новости из мира SEO
 * [SMM в Telegram](https://telegram.me/aboutSMM) -- Канал про SMM
 * [nag.ru news](https://telegram.me/NagNews) -- Новости от nag.ru
-* [DTP](https://telegram.me/DTPublishing) Канал новостей о паблишинге, полиграфии, препресс, вёрстка, дизайн
+* [DTP](https://telegram.me/DTPublishing) -- Канал новостей о паблишинге, полиграфии, препресс, вёрстка, дизайн
 * [pro.elixir_news](https://telegram.me/proelixir_news) -- Новости из мира Elixir
 * [Frontend Raccoon](https://telegram.me/frontendraccoon) -- Новости сообщества Frontend Raccoon
 * [Addmeto](https://telegram.me/addmeto) -- Канал Григория Бакунова (Bobuk), новости из мира ИТ и не только
@@ -43,7 +43,7 @@
 ##### Каналы по бизнесу и стартапам
 * [Темная сторона](https://telegram.me/temno) -- Канал по бизнесу "Темная сторона"
 * [Мини-бизнес по-русски](https://telegram.me/piznes) -- Мини-бизнес по-русски
-* [PRO Стартапы и бизнес](https://telegram.me/startupnews) -- Новости про стратапы и бизнес
+* [PRO Стартапы и бизнес](https://telegram.me/startupnews) -- Новости про стартапы и бизнес
 
 ##### Каталоги каналов, групп, чатов, ботов
 * [Группы/конференции](https://telegram.me/groupsguide) -- Гид по группам, каналам и чатам телеграма.
@@ -199,7 +199,7 @@
 * [Политика](https://telegram.me/ru_politics) -- Политические обсуждения
 * [Философия](https://telegram.me/ru_philosophy) -- Философское кафе
 * [Инвесторы и трейдеры](https://telegram.me/ru_traders) -- Инвестирование и торговля на бирже
-* [Borodutch](https://telegram.me/borodutcher) -- Cобрались программисты-фрилансеры-предприниматели-стартаперы и замутили свою ламповую конфу.
+* [Borodutch](https://telegram.me/borodutcher) -- Собрались программисты-фрилансеры-предприниматели-стартаперы и замутили свою ламповую конфу.
 * [Сообщество UX / UI - дизайнеров](https://telegram.me/uxchat) -- uxchat.live
 * [Телеграм Гики](https://telegram.me/tgchat) -- Обсуждение новостей о Telegram
 
@@ -224,7 +224,7 @@
 * [Свидетели ReactOS](https://telegram.me/reactos_ru) -- Чат про ReactOS
 * [smartos_ru](https://telegram.me/smartos_ru) -- Чат про SmartOS
 * [Ubuntu](https://telegram.me/ru_ubuntu) -- Чат про Ubuntu
-* [pro.windows](https://telegram.me/joinchat/Be4rsT5IrA8x69FnrpMMvw) Чат про Windows
+* [pro.windows](https://telegram.me/joinchat/Be4rsT5IrA8x69FnrpMMvw) -- Чат про Windows
 * [iHack - Hackintosh & Jailbreak](https://telegram.me/macosx86) -- Чат про Хакинтош
 * [That's Linux - общение](https://telegram.me/that_is_linux) -- Чат про Linux.
 

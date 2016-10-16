@@ -277,3 +277,4 @@
 * [@xorappbot](https://telegram.me/xorappbot) -- Frelance биржа [xor.ai](https://www.xor.ai/).
 * [@passgenbot](https://telegram.me/passgenbot) -- Генератор [человекопонятных](http://xkcd.com/936/) паролей.
 * [@bashim_bot](https://telegram.me/bashim_bot) -- Случайные цитаты с сайта [bash.im](http://bash.im) (+ поиск в инлайн-режиме)
+* [@SocialSaveBot](https://telegram.me/SocialSaveBot) -- Позволяет сохранить фотографии из инстаграма 

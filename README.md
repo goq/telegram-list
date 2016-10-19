@@ -183,6 +183,7 @@
 * [QA](https://telegram.me/qa_jobs) -- Чат про вакансии и работу в сфере тестирования
 
 ##### Сообщества
+* [קהילה יהודית](https://telegram.me/ru_jews) -- Еврейская община / Виртуальная синагога
 * [SPbLUG](https://telegram.me/spblug) -- Чат Saint-Petersburg Linux User Group
 * [Piter Py Conference](https://telegram.me/PiterPy) -- Ежегодная Python конференция Piter Py
 * [DC7499](https://telegram.me/DEFCON) -- DefCon Russia

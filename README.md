@@ -219,7 +219,8 @@
 * [Мини-бизнес чат](https://telegram.me/pizneschat) -- Чат про мини-бизнес
 
 ##### Операционные системы
-* [Fedora](https://telegram.me/fedora) -- Чат про Fedora
+* [Fedora](https://telegram.me/fedora) -- Чат про Fedora (англ.)
+* [Russian Fedora](https://telegram.me/russianfedora) -- Чат про Fedora (рус.)
 * [freebsd_ru](https://telegram.me/freebsd_ru) -- Чат про FreeBSD
 * [Manjaro ru](https://telegram.me/manjarolinux) -- Чат про Manjaro Linux
 * [Свидетели ReactOS](https://telegram.me/reactos_ru) -- Чат про ReactOS

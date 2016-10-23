@@ -50,6 +50,7 @@
 * [Чаты IT,OC,программирование](https://telegram.me/CatalogTelegram03) — Каталог чатов и каналов
 * [Телеграм-маркетинг](https://telegram.me/tgmarketing) — Канал о продвижении каналов, ботов, чатов в мессенжерах
 * [Коллекция групп pro](https://telegram.me/proDOT) — Канал коллекции групп pro.
+* [Каталог чатов, каналов и ботов в Telegram](https://telegram.me/CatalogTelegram) – Структуризированный каталог.
 
 ##### Библиотеки и базы данных
 * [Бизнес-книги](https://telegram.me/marketologmanager) — Канал с подборками литературы по бизнесу
@@ -205,6 +206,8 @@
 * [Borodutch](https://telegram.me/borodutcher) — Собрались программисты-фрилансеры-предприниматели-стартаперы и замутили свою ламповую конфу.
 * [Сообщество UX / UI - дизайнеров](https://telegram.me/uxchat) — uxchat.live
 * [Телеграм Гики](https://telegram.me/tgchat) — Обсуждение новостей о Telegram
+* [Питерчат](https://telegram.me/piterchat) – Чат для жителей Санкт-Петербурга.
+* [МоскваChat](https://telegram.me/MOCKBAchat) – Чат для жителей Москвы.
 
 ##### Электроника, микроконтроллеры и встраиваемые системы
 * [Catethysis](https://telegram.me/telecatethysis) — Чат про электронику, программирование микроконтроллеров, stm32

@@ -40,6 +40,10 @@
 * [Deep Learning Russia](https://telegram.me/deeplearning_ru) — Канал сообщества vk.com/deeplearning_ru
 * [Чаты и группы телеграма по теме](#big-data-Машинное-обучение-deep-learning-и-data-science)
 
+##### Математика
+* [Мехмат МГУ](https://telegram.me/mechmath) — Внутренний чат Мехмата МГУ
+* [Листочки с глубинным](https://telegram.me/joinchat/CLH3zUAVsl_s3pMqbwvm2g) — Математический чат
+
 ##### Каналы по бизнесу и стартапам
 * [Темная сторона](https://telegram.me/temno) — Канал по бизнесу "Темная сторона"
 * [Мини-бизнес по-русски](https://telegram.me/piznes) — Мини-бизнес по-русски

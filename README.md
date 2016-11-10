@@ -133,6 +133,7 @@
 * [Rails Chat](https://telegram.me/railschat) — Чат про Rails (<50 человек)
 * [React.js](https://telegram.me/react_js) — Чат про React.JS
 * [Битрикс для разработчиков](https://telegram.me/bitrixfordevelopers) — Чат про Битрикс
+* [Symfony Ru](https://telegram.me/symfony_ru) - Чат про Symfony
 
 ##### Системное и сетевое администрирование, телефония и телекоммуникации.
 * [Asterisk Russian Community](https://telegram.me/asterisk_ru) — Чат про Asterisk

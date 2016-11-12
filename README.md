@@ -27,6 +27,7 @@
 * [Frontend Raccoon](https://telegram.me/frontendraccoon) — Новости сообщества Frontend Raccoon
 * [Addmeto](https://telegram.me/addmeto) — Канал Григория Бакунова (Bobuk), новости из мира ИТ и не только
 * [LSA](https://telegram.me/networklsa) — Информационный канал о сетевых технологиях и NetDevOps (новости, книги, презентации)
+* [Robotics](https://telegram.me/robotics_channel) - Робототехника, нейросети, киборги (свежие новости, обзоры разработок и интересные статьи).
 
 ##### Каналы информации по Информационной безопасности
 * [ИБач](https://telegram.me/ibach) — Канал об Информационной Безопасности

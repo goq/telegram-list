@@ -144,6 +144,7 @@
 * [ru.VoIP](https://telegram.me/ru_voip) — Чат про VoIP
 * [xmpp_ru](https://telegram.me/xmpp_ru) — Чат про XMPP, ejabberd, openfire
 * [pro_openstack](https://telegram.me/pro_openstack) — Чат про OpenStack, Ceph
+* [Hyper-V](https://telegram.me/ru_hyper) — Чат про Hyper-V
 * [openstack_russia](https://telegram.me/openstack_russia) — Чат про OpenStack (альтернативный)
 * [ru_freeswitch](https://telegram.me/ru_freeswitch) — Чат про Freeswitch
 * [Трактор over IP](https://telegram.me/ntwrk) — Чат сетевых инженеров

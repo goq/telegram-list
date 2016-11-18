@@ -114,6 +114,7 @@
 * [Rude Python](https://telegram.me/rudepython) — Грубый чат про Python (для мужиков)
 * [PHP](https://telegram.me/phpgeeks) — Чат про PHP. (~500)
 * [phpclub](https://telegram.me/phpclubru) — Чат про PHP
+* [prophp](https://telegram.me/prophp7) — Чат про современный PHP (~100 человек)
 * [php.ru](https://telegram.me/ru_php) — php.ru (<30 человек)
 * [Devall | PHP](https://telegram.me/joinchat/AAtJOjx9l5F9IhkHIIVP9Q) — Чат про PHP. Флуд
 * [pro.ruby](https://telegram.me/proRuby) — Чат про Ruby

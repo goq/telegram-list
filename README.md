@@ -171,6 +171,7 @@
 
 ##### Базы Данных
 * [MongoDBRussian](https://telegram.me/MongoDBRussian) — Чат про MongoDB
+* [mysql_ru](https://telegram.me/mysql_ru) — Чат про MySQL
 * [DBA](https://telegram.me/dba_ru) — Чат про базы данных и их администрирование
 * [pgsql](https://telegram.me/pgsql) — Чат про PostgreSQL
 * [PostgreSQL + 1C + Linux](https://telegram.me/PostgreSQL_1C_Linux) — Чат про особенности работы PostgreSQL и 1С на Linux

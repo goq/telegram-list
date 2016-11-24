@@ -297,3 +297,5 @@
 * [@bashim_bot](https://telegram.me/bashim_bot) — Случайные цитаты с сайта [bash.im](http://bash.im) (+ поиск в инлайн-режиме)
 * [@SocialSaveBot](https://telegram.me/SocialSaveBot) — Позволяет сохранить фотографии из инстаграма 
 * [@spoibot](https://telegram.me/spoibot) — Инлайн бот для прятанья спойлер текстов за кнопку (удобно в крупных чатах)
+* [@TgRusBot](https://telegram.me/tgrusbot) – Бот для русификации Telegram (Android, Desktop, iOS). Работает и в инлайн-режиме.
+

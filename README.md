@@ -137,6 +137,7 @@
 * [React.js](https://telegram.me/react_js) — Чат про React.JS
 * [Битрикс для разработчиков](https://telegram.me/bitrixfordevelopers) — Чат про Битрикс
 * [Symfony Ru](https://telegram.me/symfony_ru) - Чат про Symfony
+* [Electron Ru](https://telegram.me/electron_ru) - Чат по Electron (Atom)
 
 ##### Системное и сетевое администрирование, телефония и телекоммуникации.
 * [Asterisk Russian Community](https://telegram.me/asterisk_ru) — Чат про Asterisk

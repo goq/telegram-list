@@ -138,6 +138,7 @@
 * [Битрикс для разработчиков](https://telegram.me/bitrixfordevelopers) — Чат про Битрикс
 * [Symfony Ru](https://telegram.me/symfony_ru) - Чат про Symfony
 * [Electron Ru](https://telegram.me/electron_ru) - Чат по Electron (Atom)
+- [HTML5 GameDev](https://telegram.me/joinchat/Cm9nK0CbDzghfTHd4hipYQ) - разработка игр на html5 платформе, pixi.js, cocos2d-js, phaser.js и т.п.
 
 ##### Системное и сетевое администрирование, телефония и телекоммуникации.
 * [Asterisk Russian Community](https://telegram.me/asterisk_ru) — Чат про Asterisk

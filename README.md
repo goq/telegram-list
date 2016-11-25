@@ -121,7 +121,7 @@
 * [pro.ruby](https://telegram.me/proRuby) — Чат про Ruby
 * [Ruby & RoR](https://telegram.me/rubylang) — Чат про Ruby и Rails
 * [pro.rust](https://telegram.me/proRust) — Чат про Rust
-* [TypeScript + Flow = ❤](https://telegram.me/typescript_ru) — Чат про TypeScript
+* [TypeScript + Flow = ❤](https://telegram.me/typescript_ru) — Чат про TypeScript и про Flow
 
 ##### Фреймворки, среды разработок, библиотеки
 * [Angular.js](https://telegram.me/angular_js) — Чат про AngularJS 1.x

@@ -260,6 +260,7 @@
 * [Web Programming](https://telegram.me/WebProgrammingRu) — Чат про Frontend и Backend программирование
 * [Программисты](https://telegram.me/coding_ru) — Чат программистов на Delphi, Lua, Python, php, C, С++, C#, Kotlin, Ruby, Golang, JavaScript и др. Флуд.
 * [Xiaomi и мы](https://telegram.me/MiDevices) — Чат про Xiaomi
+* [#Bookcrossing_spb](https://telegram.me/bookcrossing_spb) - Обмен книгами в Санкт - Петербурге, буккроссинг.
 
 -------------
 

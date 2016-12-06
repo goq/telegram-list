@@ -136,6 +136,7 @@
 * [Rails Chat](https://telegram.me/railschat) — Чат про Rails (<50 человек)
 * [React.js](https://telegram.me/react_js) — Чат про React.JS
 * [Битрикс для разработчиков](https://telegram.me/bitrixfordevelopers) — Чат про Битрикс
+* [Symfony](https://telegram.me/symfony_php) - Чат про Symfony Framework
 * [Symfony Ru](https://telegram.me/symfony_ru) - Чат про Symfony
 * [Electron Ru](https://telegram.me/electron_ru) - Чат по Electron (Atom)
 - [HTML5 GameDev](https://telegram.me/joinchat/Cm9nK0CbDzghfTHd4hipYQ) - разработка игр на html5 платформе, pixi.js, cocos2d-js, phaser.js и т.п.

@@ -79,9 +79,6 @@
 * [Метеорадар Москва](http://telegram.me/mskweathergif) — Метеорадар Москва
 * [Метеорадар Сочи](http://telegram.me/sochiweathergif) — Метеорадар Сочи
 
-##### Кулинария
-* [Edimhorosho](https://telegram.me/edimhorosho) — Новости и статьи из мира кулинарии. Едим хорошо!
-
 ##### Копирайтинг
 * [Паша и его прокрастинация](https://telegram.me/abbsol) — Как писать текст, проблемы пишущих, правила русского языка, советы писателей, книги о ремесле.
 
@@ -94,6 +91,7 @@
 * [PIN-MIX](https://telegram.me/pinmix) — Еженедельные всесезонные пятничные ночные покатушки по улицам Санкт-Петербурга
 * [Метро Петербурга](https://telegram.me/spbmetro) — Новости Петербургского Метрополитена
 * [The After Times](https://telegram.me/theaftertimes) — Паста, мысли, критика.
+* [Edimhorosho](https://telegram.me/edimhorosho) — Новости и статьи из мира кулинарии. Едим хорошо!
 
 -------------
 
@@ -122,7 +120,7 @@
 * [pro.ruby](https://telegram.me/proRuby) — Чат про Ruby
 * [Ruby & RoR](https://telegram.me/rubylang) — Чат про Ruby и Rails
 * [pro.rust](https://telegram.me/proRust) — Чат про Rust
-* [TypeScript + Flow = ❤](https://telegram.me/typescript_ru) — Чат про TypeScript и про Flow
+* [TypeScript + Flow = ❤](https://telegram.me/typescript_ru) — Чат про TypeScript и Flow
 
 ##### Фреймворки, среды разработок, библиотеки
 * [Angular.js](https://telegram.me/angular_js) — Чат про AngularJS 1.x
@@ -137,10 +135,10 @@
 * [Rails Chat](https://telegram.me/railschat) — Чат про Rails (<50 человек)
 * [React.js](https://telegram.me/react_js) — Чат про React.JS
 * [Битрикс для разработчиков](https://telegram.me/bitrixfordevelopers) — Чат про Битрикс
-* [Symfony](https://telegram.me/symfony_php) - Чат про Symfony Framework
-* [Symfony Ru](https://telegram.me/symfony_ru) - Чат про Symfony
+* [Symfony](https://telegram.me/symfony_php) - Чат про Symfony Framework. Атмосферный! Без цензуры :-D
+* [Symfony Ru](https://telegram.me/symfony_ru) - Чат про Symfony Framework. Со строгими правилами и без мата.
 * [Electron Ru](https://telegram.me/electron_ru) - Чат по Electron (Atom)
-- [HTML5 GameDev](https://telegram.me/joinchat/Cm9nK0CbDzghfTHd4hipYQ) - разработка игр на html5 платформе, pixi.js, cocos2d-js, phaser.js и т.п.
+* [HTML5 GameDev](https://telegram.me/joinchat/Cm9nK0CbDzghfTHd4hipYQ) - разработка игр на html5 платформе, pixi.js, cocos2d-js, phaser.js и т.п.
 
 ##### Системное и сетевое администрирование, телефония и телекоммуникации.
 * [Asterisk Russian Community](https://telegram.me/asterisk_ru) — Чат про Asterisk

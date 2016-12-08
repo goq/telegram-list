@@ -47,7 +47,8 @@
 * [Листочки с глубинным](https://telegram.me/joinchat/CLH3zUAVsl_s3pMqbwvm2g) — Математический чат
 
 ##### Каналы по бизнесу и стартапам
-* [Темная сторона](https://telegram.me/temno) — Канал по бизнесу "Темная сторона"
+* [TNN Public](https://telegram.me/tnnpublic) — Предприниматели, экономика, криптовалюты, стартапы, черные рынки, тренды. Опережают русскоязычные СМИ.
+* [Тёмная сторона](https://telegram.me/temno) — Канал по бизнесу "Темная сторона"
 * [Мини-бизнес по-русски](https://telegram.me/piznes) — Мини-бизнес по-русски
 * [PRO Стартапы и бизнес](https://telegram.me/startupnews) — Новости про стартапы и бизнес
 
@@ -80,6 +81,7 @@
 * [Метеорадар Сочи](http://telegram.me/sochiweathergif) — Метеорадар Сочи
 
 ##### Копирайтинг
+* [Главред](https://telegram.me/glvrdru) — Канал Максима Ильяхова про текст. Советы и статьи о тексте, редактуре, информационном стиле и рекламе.
 * [Паша и его прокрастинация](https://telegram.me/abbsol) — Как писать текст, проблемы пишущих, правила русского языка, советы писателей, книги о ремесле.
 
 ##### Медицина
@@ -206,6 +208,7 @@
 * [#ctfchat](https://telegram.me/ctfchat) — Чат CTF
 * [SPb Python](https://telegram.me/spbpython) — Saint-Petersburg Python Interest Group
 * [Developers Chat](https://telegram.me/joinchat/ABI4pz3M7FCxoDZcdcfVUA) — Чат сообщества Chatbots
+* [Нейронные сети](https://telegram.me/joinchat/ABI4pz6rz2iVzWUzaVqpmA) — Чат про нейронные сети сообщества Chatbots
 * [spb_auto](https://telegram.me/spb_auto) — Чат сообщества spb_auto
 * [Погромисты-трактористы](https://telegram.me/pogromisty) — Опыт миграции в другие страны, вакансии
 * [ITишники в Бангкоке](https://telegram.me/usr_local_bkk) — Чат ITшников, мигрировавших в Bangkok (Thailand)

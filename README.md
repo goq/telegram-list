@@ -271,10 +271,11 @@
 ## Боты
 
 ##### Полезные боты для разработки
-* [@trello_bot](https://telegram.me/trello_bot) — Интеграция всемирно известной Канбан доски в телеграм
-* [@bitbucket_bot](https://telegram.me/bitbucket_bot) — Интеграция bitbucket в телеграм
-* [@integram_bot](https://telegram.me/integram_bot) — Интеграция разных сервисов по разработке ПО в телеграм
-
+| Название | Описание |
+| --- | --- |
+| [@trello_bot](https://telegram.me/trello_bot) | Интеграция всемирно известной Канбан доски в телеграм |
+| [@bitbucket_bot](https://telegram.me/bitbucket_bot) | Интеграция bitbucket в телеграм |
+| [@integram_bot](https://telegram.me/integram_bot) | Интеграция разных сервисов по разработке ПО в телеграм |
 
 ##### Прочие боты
 

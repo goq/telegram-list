@@ -27,8 +27,8 @@
 * [Frontend Raccoon](https://telegram.me/frontendraccoon) — Новости сообщества Frontend Raccoon
 * [Addmeto](https://telegram.me/addmeto) — Канал Григория Бакунова (Bobuk), новости из мира ИТ и не только
 * [LSA](https://telegram.me/networklsa) — Информационный канал о сетевых технологиях и NetDevOps (новости, книги, презентации)
-* [Robotics](https://telegram.me/robotics_channel) - Робототехника, нейросети, киборги (свежие новости, обзоры разработок и интересные статьи).
-* [Product-Shmoduct](https://telegram.me/productshmoduct) - Диджитал продукты и продакт менеджмент
+* [Robotics](https://telegram.me/robotics_channel) — Робототехника, нейросети, киборги (свежие новости, обзоры разработок и интересные статьи).
+* [Product-Shmoduct](https://telegram.me/productshmoduct) — Диджитал продукты и продакт менеджмент
 
 ##### Каналы информации по Информационной безопасности
 * [ИБач](https://telegram.me/ibach) — Канал об Информационной Безопасности
@@ -94,6 +94,7 @@
 * [Метро Петербурга](https://telegram.me/spbmetro) — Новости Петербургского Метрополитена
 * [The After Times](https://telegram.me/theaftertimes) — Паста, мысли, критика.
 * [Edimhorosho](https://telegram.me/edimhorosho) — Новости и статьи из мира кулинарии. Едим хорошо!
+* [Вице-губернатор Санкт-Петербурга](https://telegram.me/IgorAlbin) — Вице-губернатор Санкт-Петербурга. Для официальных обращений: albin@vg.gov.spb.ru
 
 -------------
 
@@ -137,14 +138,14 @@
 * [Rails Chat](https://telegram.me/railschat) — Чат про Rails (<50 человек)
 * [React.js](https://telegram.me/react_js) — Чат про React.JS
 * [Битрикс для разработчиков](https://telegram.me/bitrixfordevelopers) — Чат про Битрикс
-* [Symfony](https://telegram.me/symfony_php) - Чат про Symfony Framework. Атмосферный! Без цензуры :-D
-* [Symfony Ru](https://telegram.me/symfony_ru) - Чат про Symfony Framework. Со строгими правилами и без мата.
-* [Electron Ru](https://telegram.me/electron_ru) - Чат по Electron (Atom)
-* [HTML5 GameDev](https://telegram.me/joinchat/Cm9nK0CbDzghfTHd4hipYQ) - разработка игр на html5 платформе, pixi.js, cocos2d-js, phaser.js и т.п.
+* [Symfony](https://telegram.me/symfony_php) — Чат про Symfony Framework. Атмосферный! Без цензуры :-D
+* [Symfony Ru](https://telegram.me/symfony_ru) — Чат про Symfony Framework. Со строгими правилами и без мата.
+* [Electron Ru](https://telegram.me/electron_ru) — Чат по Electron (Atom)
+* [HTML5 GameDev](https://telegram.me/joinchat/Cm9nK0CbDzghfTHd4hipYQ) — разработка игр на html5 платформе, pixi.js, cocos2d-js, phaser.js и т.п.
 
 ##### Системное и сетевое администрирование, телефония и телекоммуникации.
-* [Asterisk Russian Community](https://telegram.me/asterisk_ru) — Чат про Asterisk
 * [RU.SYSADMIN](https://telegram.me/ru_sysadmin) — Чат сисадминов
+* [Asterisk Russian Community](https://telegram.me/asterisk_ru) — Чат про Asterisk
 * [Hosting and so on](https://telegram.me/pro_hosting) — Про хостинг
 * [pro.telecom](https://telegram.me/protelecom) — Чат про телекоммуникации.
 * [ru.VoIP](https://telegram.me/ru_voip) — Чат про VoIP
@@ -156,7 +157,7 @@
 * [Трактор over IP](https://telegram.me/ntwrk) — Чат сетевых инженеров
 * [Nag.Ru](https://telegram.me/nag_public) — Чат Nag.ru
 * [Mikrotik.Ru](https://telegram.me/MikrotikRu) — Чат про Микротики
-* [Zabbix Talks](https://telegram.me/ZabbixPro) — Чат про Zabbix (>150)
+* [Zabbix Talks](https://telegram.me/ZabbixPro) — Чат про Zabbix (>220)
 * [pro.zabbix](https://telegram.me/prozabbix) — Чат про Zabbix (альтернативный) (~130)
 * [KVM (PVE/oVirt etc)](https://telegram.me/pro_kvm) — Чат о виртуализации и Proxmox
 * [glpi_ru](https://telegram.me/glpi_ru) — Чат о системе helpdesk и инвентаризации GLPI
@@ -165,7 +166,7 @@
 ##### Управление конфигурациями, development & operations engineers
 * [Ansible](https://telegram.me/pro_ansible) — Чат про Ansible
 * [ChatOps RU](https://telegram.me/chatops_ru) — Те, кто управляют серверами через чат ботов
-* [DevOps](https://telegram.me/devops_ru) — Чат про DevOps (>1220 человек)
+* [DevOps](https://telegram.me/devops_ru) — Чат про DevOps (>1410 человек)
 * [ru_devops](https://telegram.me/ru_devops) — Чат про DevOps
 * [Docker Официальное Русское Сообщество](https://telegram.me/ru_docker) — Официальный чат про Docker
 * [Брутальный Docker](https://telegram.me/brutal_docker) — Чат для тех, кому есть что сказать про докер
@@ -180,7 +181,7 @@
 * [pgsql](https://telegram.me/pgsql) — Чат про PostgreSQL
 * [PostgreSQL + 1C + Linux](https://telegram.me/PostgreSQL_1C_Linux) — Чат про особенности работы PostgreSQL и 1С на Linux
 * [Pony ORM](https://telegram.me/ponyorm) — Чат про Pony ORM
-* [ClickHouse](https://telegram.me/clickhouse_ru) - Чат про СУБД ClickHouse
+* [ClickHouse](https://telegram.me/clickhouse_ru) — Чат про СУБД ClickHouse
 
 ##### Big Data, Машинное обучение, deep learning и data science
 * [Big Data & Machine Learning](https://telegram.me/bigdata_ru) — Чат по большим данным, обработке и машинному обучению
@@ -249,7 +250,7 @@
 * [Ubuntu](https://telegram.me/ru_ubuntu) — Чат про Ubuntu
 * [pro.windows](https://telegram.me/joinchat/Be4rsT5IrA8x69FnrpMMvw) — Чат про Windows
 * [iHack - Hackintosh & Jailbreak](https://telegram.me/macosx86) — Чат про Хакинтош
-* [That's Linux - общение](https://telegram.me/that_is_linux) — Чат про Linux.
+* [That's Linux - общение](https://telegram.me/that_is_linux) — Чат про Linux
 
 ##### Разное и интересное
 * [DTP :: @DTPublish](https://telegram.me/DTPublish) — Всё о паблишинге, полиграфии, препресс, вёрстка, дизайн
@@ -263,7 +264,7 @@
 * [Web Programming](https://telegram.me/WebProgrammingRu) — Чат про Frontend и Backend программирование
 * [Программисты](https://telegram.me/coding_ru) — Чат программистов на Delphi, Lua, Python, php, C, С++, C#, Kotlin, Ruby, Golang, JavaScript и др. Флуд.
 * [Xiaomi и мы](https://telegram.me/MiDevices) — Чат про Xiaomi
-* [#Bookcrossing_spb](https://telegram.me/bookcrossing_spb) - Обмен книгами в Санкт - Петербурге, буккроссинг.
+* [#Bookcrossing_spb](https://telegram.me/bookcrossing_spb) — Обмен книгами в Санкт-Петербурге, буккроссинг.
 
 -------------
 

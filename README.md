@@ -253,18 +253,20 @@
 * [That's Linux - общение](https://telegram.me/that_is_linux) — Чат про Linux
 
 ##### Разное и интересное
-* [DTP :: @DTPublish](https://telegram.me/DTPublish) — Всё о паблишинге, полиграфии, препресс, вёрстка, дизайн
-* [radio](https://telegram.me/proradio) — Про радио и радиовещание. Djin
-* [Разработка для чайников](https://telegram.me/ru_devchat) — Чат для разработчиков. Флуд.
-* [NOC Project](https://telegram.me/nocproject) — NOC Project
-* [DC7499](https://telegram.me/DC7499) — Чат DefCon Москва (+7 499)
-* [Нейронные сети](https://telegram.me/joinchat/ABI4pz6rz2iVzWUzaVqpmA) — Чат по нейронным сетям
-* [Telegram Bot Developers](https://telegram.me/botoid) — Чат про разработку ботов в телеграме
-* [linkmeup_chat](https://telegram.me/linkmeup_chat) — Эфирный чат подкаста linkmeup.ru
-* [Web Programming](https://telegram.me/WebProgrammingRu) — Чат про Frontend и Backend программирование
-* [Программисты](https://telegram.me/coding_ru) — Чат программистов на Delphi, Lua, Python, php, C, С++, C#, Kotlin, Ruby, Golang, JavaScript и др. Флуд.
-* [Xiaomi и мы](https://telegram.me/MiDevices) — Чат про Xiaomi
-* [#Bookcrossing_spb](https://telegram.me/bookcrossing_spb) — Обмен книгами в Санкт-Петербурге, буккроссинг.
+| Название | Описание |
+| --- | --- |
+| [DTP :: @DTPublish](https://telegram.me/DTPublish) | Всё о паблишинге, полиграфии, препресс, вёрстка, дизайн |
+| [radio](https://telegram.me/proradio) | Про радио и радиовещание. Djin |
+| [Разработка для чайников](https://telegram.me/ru_devchat) | Чат для разработчиков. Флуд. |
+| [NOC Project](https://telegram.me/nocproject) | NOC Project |
+| [DC7499](https://telegram.me/DC7499) | Чат DefCon Москва (+7 499) |
+| [Нейронные сети](https://telegram.me/joinchat/ABI4pz6rz2iVzWUzaVqpmA) | Чат по нейронным сетям |
+| [Telegram Bot Developers](https://telegram.me/botoid) | Чат про разработку ботов в телеграме |
+| [linkmeup_chat](https://telegram.me/linkmeup_chat) | Эфирный чат подкаста linkmeup.ru |
+| [Web Programming](https://telegram.me/WebProgrammingRu) | Чат про Frontend и Backend программирование |
+| [Программисты](https://telegram.me/coding_ru) | Чат программистов на Delphi, Lua, Python, php, C, С++, C#, Kotlin, Ruby, Golang, JavaScript и др. Флуд. |
+| [Xiaomi и мы](https://telegram.me/MiDevices) | Чат про Xiaomi |
+| [#Bookcrossing_spb](https://telegram.me/bookcrossing_spb) | Обмен книгами в Санкт-Петербурге, буккроссинг. |
 
 -------------
 

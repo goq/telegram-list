@@ -7,9 +7,10 @@
 ## Каналы
 
 ##### Новости
+* [Газета.Ру](https://telegram.me/gazetaru) — Официальный канал "Газеты.Ru"
+* [L'homme qui pleure](https://telegram.me/lhommequipleure) — Персональный канал Александра Чистякова ([@demeliorator](https://telegram.me/))
 * [For Web](https://telegram.me/forwebdev) — Канал новостей для веб-разработчиков
 * [Веб-стандарты](https://telegram.me/webstandards_ru) — Новости фронтенда от "Веб-стандартов"
-* [L'homme qui pleure](https://telegram.me/lhommequipleure) — Персональный канал Александра Чистякова ([@demeliorator](https://telegram.me/))
 * [opennet news](https://telegram.me/opennews) — Новости opennet
 * [SPbLUG news](https://telegram.me/spblug_news) — Канал новостей SPbLUG
 * [DevOps news](https://telegram.me/devops_news) — Новости DevOps
@@ -27,8 +28,7 @@
 * [Frontend Raccoon](https://telegram.me/frontendraccoon) — Новости сообщества Frontend Raccoon
 * [Addmeto](https://telegram.me/addmeto) — Канал Григория Бакунова (Bobuk), новости из мира ИТ и не только
 * [LSA](https://telegram.me/networklsa) — Информационный канал о сетевых технологиях и NetDevOps (новости, книги, презентации)
-* [Robotics](https://telegram.me/robotics_channel) — Робототехника, нейросети, киборги (свежие новости, обзоры разработок и интересные статьи).
-* [Product-Shmoduct](https://telegram.me/productshmoduct) — Диджитал продукты и продакт менеджмент
+
 
 ##### Каналы информации по Информационной безопасности
 * [ИБач](https://telegram.me/ibach) — Канал об Информационной Безопасности
@@ -89,12 +89,17 @@
 * [Гонзо - записки юного врача](https://telegram.me/a_young_doctors_notebook) — Канал с медлайфхаками и простыми рассказами про сложные медицинские штуки.
 * [Dental Jedi](https://telegram.me/dentaljedi) — Канал о буднях стоматолога
 
-##### Разное и интересное
-* [PIN-MIX](https://telegram.me/pinmix) — Еженедельные всесезонные пятничные ночные покатушки по улицам Санкт-Петербурга
-* [Метро Петербурга](https://telegram.me/spbmetro) — Новости Петербургского Метрополитена
-* [The After Times](https://telegram.me/theaftertimes) — Паста, мысли, критика.
+##### Разные и интересные каналы
 * [Edimhorosho](https://telegram.me/edimhorosho) — Новости и статьи из мира кулинарии. Едим хорошо!
+* [The After Times](https://telegram.me/theaftertimes) — Паста, мысли, критика.
+* [Robotics](https://telegram.me/robotics_channel) — Робототехника, нейросети, киборги (свежие новости, обзоры разработок и интересные статьи).
+* [Product-Shmoduct](https://telegram.me/productshmoduct) — Диджитал продукты и продакт менеджмент
+
+##### Санкт-Петербург. Новости, полезная информация
 * [Вице-губернатор Санкт-Петербурга](https://telegram.me/IgorAlbin) — Вице-губернатор Санкт-Петербурга. Для официальных обращений: albin@vg.gov.spb.ru
+* [Новости районов Санкт-Петербурга](https://telegram.me/petrolenspb) — Новости районов Санкт-Петербурга
+* [Метро Петербурга](https://telegram.me/spbmetro) — Новости Петербургского Метрополитена
+* [PIN-MIX](https://telegram.me/pinmix) — Еженедельные всесезонные пятничные ночные покатушки по улицам Санкт-Петербурга
 
 -------------
 

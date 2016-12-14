@@ -196,6 +196,7 @@
 * [Android Developers](https://telegram.me/android_ru) — Чат про разработку под Android. (>150)
 * [Android Developers](https://telegram.me/androidev) — Чат про разработку под Android. Альтернативный (~75)
 * [iOS Developers](https://telegram.me/ios_ru) — Чат про разработку под iOS
+* [Xamarin Developers](https://telegram.me/xamarin_russia) - Чат про разработку на платформе Xamarin под Android, IOS, Windows, MacOs
 
 ##### Вакансии и работа
 * [Jobs and Project Chat](https://telegram.me/joinchat/ABI4pz7v7KfJhb12XIkIUA) — Чат по вакансиям и проектам от сообщества Chatbots

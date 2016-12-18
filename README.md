@@ -124,7 +124,7 @@
 * [phpclub](https://telegram.me/phpclubru) — Чат про PHP
 * [prophp](https://telegram.me/prophp7) — Чат про современный PHP (~100 человек)
 * [php.ru](https://telegram.me/ru_php) — php.ru (<30 человек)
-* [Devall | PHP](https://telegram.me/joinchat/AAtJOjx9l5F9IhkHIIVP9Q) — Чат про PHP. Флуд
+* [Devall — PHP](https://telegram.me/joinchat/AAtJOjx9l5F9IhkHIIVP9Q) — Чат про PHP. Флуд
 * [pro.ruby](https://telegram.me/proRuby) — Чат про Ruby
 * [Ruby & RoR](https://telegram.me/rubylang) — Чат про Ruby и Rails
 * [pro.rust](https://telegram.me/proRust) — Чат про Rust
@@ -204,7 +204,7 @@
 * [JavaScript Jobs](https://telegram.me/javascript_jobs) — Чат про вакансии и работу в сфере JavaScript
 * [DevOps Jobs](https://telegram.me/devops_jobs) — Чат про вакансии и работу в сфере DevOps
 * [Битрикс работа](https://telegram.me/bitrix_work) — Чат про вакансии и работу в сфере Битрикса и IT
-* [Devall | Upwork](https://telegram.me/upworkcom) — Чат про Upwork для разработчиков
+* [Devall — Upwork](https://telegram.me/upworkcom) — Чат про Upwork для разработчиков
 * [QA](https://telegram.me/qa_jobs) — Чат про вакансии и работу в сфере тестирования
 
 ##### Сообщества
@@ -259,59 +259,52 @@
 * [That's Linux - общение](https://telegram.me/that_is_linux) — Чат про Linux
 
 ##### Разное и интересное
-| Название | Описание |
-| --- | --- |
-| [DTP :: @DTPublish](https://telegram.me/DTPublish) | Всё о паблишинге, полиграфии, препресс, вёрстка, дизайн |
-| [radio](https://telegram.me/proradio) | Про радио и радиовещание. Djin |
-| [Разработка для чайников](https://telegram.me/ru_devchat) | Чат для разработчиков. Флуд. |
-| [NOC Project](https://telegram.me/nocproject) | NOC Project |
-| [DC7499](https://telegram.me/DC7499) | Чат DefCon Москва (+7 499) |
-| [Нейронные сети](https://telegram.me/joinchat/ABI4pz6rz2iVzWUzaVqpmA) | Чат по нейронным сетям |
-| [Telegram Bot Developers](https://telegram.me/botoid) | Чат про разработку ботов в телеграме |
-| [linkmeup_chat](https://telegram.me/linkmeup_chat) | Эфирный чат подкаста linkmeup.ru |
-| [Web Programming](https://telegram.me/WebProgrammingRu) | Чат про Frontend и Backend программирование |
-| [Программисты](https://telegram.me/coding_ru) | Чат программистов на Delphi, Lua, Python, php, C, С++, C#, Kotlin, Ruby, Golang, JavaScript и др. Флуд. |
-| [Xiaomi и мы](https://telegram.me/MiDevices) | Чат про Xiaomi |
-| [#Bookcrossing_spb](https://telegram.me/bookcrossing_spb) | Обмен книгами в Санкт-Петербурге, буккроссинг. |
+* [DTP :: @DTPublish](https://telegram.me/DTPublish) — Всё о паблишинге, полиграфии, препресс, вёрстка, дизайн
+* [radio](https://telegram.me/proradio) — Про радио и радиовещание. Djin
+* [Разработка для чайников](https://telegram.me/ru_devchat) — Чат для разработчиков. Флуд.
+* [NOC Project](https://telegram.me/nocproject) — NOC Project
+* [DC7499](https://telegram.me/DC7499) — Чат DefCon Москва (+7 499)
+* [Нейронные сети](https://telegram.me/joinchat/ABI4pz6rz2iVzWUzaVqpmA) — Чат по нейронным сетям
+* [Telegram Bot Developers](https://telegram.me/botoid) — Чат про разработку ботов в телеграме
+* [linkmeup_chat](https://telegram.me/linkmeup_chat) — Эфирный чат подкаста linkmeup.ru
+* [Web Programming](https://telegram.me/WebProgrammingRu) — Чат про Frontend и Backend программирование
+* [Программисты](https://telegram.me/coding_ru) — Чат программистов на Delphi, Lua, Python, php, C, С++, C#, Kotlin, Ruby, Golang, JavaScript и др. Флуд.
+* [#Bookcrossing_spb](https://telegram.me/bookcrossing_spb) — Обмен книгами в Санкт-Петербурге, буккроссинг.
 
 -------------
 
 ## Боты
 
 ##### Полезные боты для разработки
-| Название | Описание |
-| --- | --- |
-| [@trello_bot](https://telegram.me/trello_bot) | Интеграция всемирно известной Канбан доски в телеграм |
-| [@bitbucket_bot](https://telegram.me/bitbucket_bot) | Интеграция bitbucket в телеграм |
-| [@integram_bot](https://telegram.me/integram_bot) | Интеграция разных сервисов по разработке ПО в телеграм |
+* [@trello_bot](https://telegram.me/trello_bot) — Интеграция всемирно известной Канбан доски в телеграм
+* [@bitbucket_bot](https://telegram.me/bitbucket_bot) — Интеграция bitbucket в телеграм
+* [@integram_bot](https://telegram.me/integram_bot) — Интеграция разных сервисов по разработке ПО в телеграм
 
 ##### Прочие боты
-| Название | Описание |
-| --- | --- |
-| [@ImageSearchBot](https://telegram.me/ImageSearchBot) | Бот поиска картинок от Яндекса |
-| [@temp_mail_bot](https://telegram.me/temp_mail_bot) | Временная электронная почта на 10 минут для регистраций |
-| [@fakemailbot](https://telegram.me/fakemailbot) | Временная электронная почта на 10 минут |
-| [@pomodoro_timer_bot](https://telegram.me/pomodoro_timer_bot) | Бот-таймер по методу "помидорки" |
-| [@vkmusic_bot](https://telegram.me/vkmusic_bot) | Музыкальный бот ВК |
-| [@sp2txt_bot](https://telegram.me/sp2txt_bot) | Бот, превращающий речь в текст |
-| [@AntiParkonBot](https://telegram.me/AntiParkonBot) | Бот выдаёт контакты автовладельца по номеру машины |
-| [@NodKeys_bot](https://telegram.me/NodKeys_bot) | Ключница (может не работать) |
-| [@AlertBot](https://telegram.me/AlertBot) | Бот-напоминалка удобный |
-| [@MyCookBot](https://telegram.me/MyCookBot) | Бот шеф-повар. База рецептов |
-| [@SpamBot](https://telegram.me/SpamBot) | Узнать в бане ли в телеграме, или нет |
-| [@AIPrismaBot](https://telegram.me/AIPrismaBot) | Призма Бот |
-| [@radiotgbot](https://telegram.me/radiotgbot) | Бот - Лучшее радио! |
-| [@MelodyRobot](https://telegram.me/MelodyRobot) | Угадай мелодию бот |
-| [@BotFather](https://telegram.me/BotFather) | Крёстный бото-отец :-) |
-| [@MyTeleCloudBot](https://telegram.me/MyTeleCloudBot) | облачный бот ? |
-| [@mybookbot](https://telegram.me/mybookbot) | Бот-поисковик/скачиатель книг. |
-| [@ru_tracker_bot](https://telegram.me/ru_tracker_bot) | Бот рутрекера |
-| [@WallpaperRobot](https://telegram.me/WallpaperRobot) | Бот с обоями на рабочий стол |
-| [@pikabubestbot](https://telegram.me/pikabubestbot) | Бот пикабу |
-| [@arbeit_bot](https://telegram.me/arbeit_bot) | Opensourse freelance биржа [arbeitbot](https://arbeitbot.com/) |
-| [@xorappbot](https://telegram.me/xorappbot) | Frelance биржа [xor.ai](https://www.xor.ai/). |
-| [@passgenbot](https://telegram.me/passgenbot) | Генератор [человекопонятных](http://xkcd.com/936/) паролей. |
-| [@bashim_bot](https://telegram.me/bashim_bot) | Случайные цитаты с сайта [bash.im](http://bash.im) (+ поиск в инлайн-режиме) |
-| [@SocialSaveBot](https://telegram.me/SocialSaveBot) | Позволяет сохранить фотографии из инстаграма |
-| [@spoibot](https://telegram.me/spoibot) | Инлайн бот для прятанья спойлер текстов за кнопку (удобно в крупных чатах) |
-| [@TgRusBot](https://telegram.me/tgrusbot) | Бот для русификации Telegram (Android, Desktop, iOS). Работает и в инлайн-режиме. |
+* [@ImageSearchBot](https://telegram.me/ImageSearchBot) — Бот поиска картинок от Яндекса
+* [@temp_mail_bot](https://telegram.me/temp_mail_bot) — Временная электронная почта на 10 минут для регистраций
+* [@fakemailbot](https://telegram.me/fakemailbot) — Временная электронная почта на 10 минут
+* [@pomodoro_timer_bot](https://telegram.me/pomodoro_timer_bot) — Бот-таймер по методу "помидорки"
+* [@vkmusic_bot](https://telegram.me/vkmusic_bot) — Музыкальный бот ВК
+* [@sp2txt_bot](https://telegram.me/sp2txt_bot) — Бот, превращающий речь в текст
+* [@AntiParkonBot](https://telegram.me/AntiParkonBot) — Бот выдаёт контакты автовладельца по номеру машины
+* [@NodKeys_bot](https://telegram.me/NodKeys_bot) — Ключница (может не работать)
+* [@AlertBot](https://telegram.me/AlertBot) — Бот-напоминалка удобный
+* [@MyCookBot](https://telegram.me/MyCookBot) — Бот шеф-повар. База рецептов
+* [@SpamBot](https://telegram.me/SpamBot) — Узнать в бане ли в телеграме, или нет
+* [@AIPrismaBot](https://telegram.me/AIPrismaBot) — Призма Бот
+* [@radiotgbot](https://telegram.me/radiotgbot) — Бот - Лучшее радио!
+* [@MelodyRobot](https://telegram.me/MelodyRobot) — Угадай мелодию бот
+* [@BotFather](https://telegram.me/BotFather) — Крёстный бото-отец :-)
+* [@MyTeleCloudBot](https://telegram.me/MyTeleCloudBot) — облачный бот ?
+* [@mybookbot](https://telegram.me/mybookbot) — Бот-поисковик/скачиатель книг.
+* [@ru_tracker_bot](https://telegram.me/ru_tracker_bot) — Бот рутрекера
+* [@WallpaperRobot](https://telegram.me/WallpaperRobot) — Бот с обоями на рабочий стол
+* [@pikabubestbot](https://telegram.me/pikabubestbot) — Бот пикабу
+* [@arbeit_bot](https://telegram.me/arbeit_bot) — Opensourse freelance биржа [arbeitbot](https://arbeitbot.com/) —
+* [@xorappbot](https://telegram.me/xorappbot) — Frelance биржа [xor.ai](https://www.xor.ai/). —
+* [@passgenbot](https://telegram.me/passgenbot) — Генератор [человекопонятных](http://xkcd.com/936/) паролей. —
+* [@bashim_bot](https://telegram.me/bashim_bot) — Случайные цитаты с сайта [bash.im](http://bash.im) (+ поиск в инлайн-режиме)
+* [@SocialSaveBot](https://telegram.me/SocialSaveBot) — Позволяет сохранить фотографии из инстаграма
+* [@spoibot](https://telegram.me/spoibot) — Инлайн бот для прятанья спойлер текстов за кнопку (удобно в крупных чатах)
+* [@TgRusBot](https://telegram.me/tgrusbot) — Бот для русификации Telegram (Android, Desktop, iOS). Работает и в инлайн-режиме.

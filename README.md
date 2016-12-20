@@ -193,8 +193,7 @@
 * [Data Science Chat](https://telegram.me/datasciencechat) — Чат по теме Data Science
 
 ##### Мобильная разработка
-* [Android Developers](https://telegram.me/android_ru) — Чат про разработку под Android. (>150)
-* [Android Developers](https://telegram.me/androidev) — Чат про разработку под Android. Альтернативный (~75)
+* [Android Developers](https://telegram.me/android_ru) — Чат про разработку под Android. (>950)
 * [iOS Developers](https://telegram.me/ios_ru) — Чат про разработку под iOS
 * [Xamarin Developers](https://telegram.me/xamarin_russia) - Чат про разработку на платформе Xamarin под Android, IOS, Windows, MacOs
 

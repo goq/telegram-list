@@ -307,3 +307,4 @@
 * [@SocialSaveBot](https://telegram.me/SocialSaveBot) — Позволяет сохранить фотографии из инстаграма
 * [@spoibot](https://telegram.me/spoibot) — Инлайн бот для прятанья спойлер текстов за кнопку (удобно в крупных чатах)
 * [@TgRusBot](https://telegram.me/tgrusbot) — Бот для русификации Telegram (Android, Desktop, iOS). Работает и в инлайн-режиме.
+* [@tlgurbot](https://telegram.me/tlgurbot) — Предоставляет доступ по http к файлам из Телеграма.

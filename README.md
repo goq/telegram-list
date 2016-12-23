@@ -116,6 +116,7 @@
 * [pro.js](https://telegram.me/JSlang) — Чат про JavaScript
 * [pro.js.noobs](https://telegram.me/joinchat/Be4rsT3Uyr1TjmSlrRc77g) — Чат про JavaScript (для новичков)
 * [pro.jvm](https://telegram.me/jvmchat) — Чат про JVM
+* [Kotlin](https://telegram.me/kotlin_lang) - Чат про Kotlin
 * [Python](https://telegram.me/ru_python) — Чат про Python. (>1150 человек)
 * [pro.python](https://telegram.me/propython) — Чат про Python. (<50 человек)
 * [Python_beginners](https://telegram.me/python_beginners) — Чат про Python для новичков (~500)

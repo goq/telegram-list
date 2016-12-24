@@ -247,6 +247,7 @@
 * [Мини-бизнес чат](https://telegram.me/pizneschat) — Чат про мини-бизнес
 
 ##### Операционные системы
+* [Arch](https://telegram.me/ArchLinuxChatRU) — Чат про Arch Linux
 * [Fedora](https://telegram.me/fedora) — Чат про Fedora (англ.)
 * [Russian Fedora](https://telegram.me/russianfedora) — Чат про Fedora (рус.)
 * [freebsd_ru](https://telegram.me/freebsd_ru) — Чат про FreeBSD

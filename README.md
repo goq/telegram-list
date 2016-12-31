@@ -90,6 +90,7 @@
 * [Dental Jedi](https://telegram.me/dentaljedi) — Канал о буднях стоматолога
 
 ##### Разные и интересные каналы
+* [#Тыжпрограммист /dev/null](https://telegram.me/yourProger) — развлекательные IT-паблики в одном месте.
 * [Edimhorosho](https://telegram.me/edimhorosho) — Новости и статьи из мира кулинарии. Едим хорошо!
 * [The After Times](https://telegram.me/theaftertimes) — Паста, мысли, критика.
 * [Robotics](https://telegram.me/robotics_channel) — Робототехника, нейросети, киборги (свежие новости, обзоры разработок и интересные статьи).

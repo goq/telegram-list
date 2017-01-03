@@ -95,6 +95,7 @@
 * [The After Times](https://telegram.me/theaftertimes) — Паста, мысли, критика.
 * [Robotics](https://telegram.me/robotics_channel) — Робототехника, нейросети, киборги (свежие новости, обзоры разработок и интересные статьи).
 * [Product-Shmoduct](https://telegram.me/productshmoduct) — Диджитал продукты и продакт менеджмент
+* [#LifeStories](https://telegram.me/LifeStoriesRU) — жизненные истории из VK-пабликов в одном месте.
 
 ##### Санкт-Петербург. Новости, полезная информация
 * [Вице-губернатор Санкт-Петербурга](https://telegram.me/IgorAlbin) — Вице-губернатор Санкт-Петербурга. Для официальных обращений: albin@vg.gov.spb.ru

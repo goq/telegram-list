@@ -233,6 +233,7 @@
 * [Телеграм Гики](https://telegram.me/tgchat) — Обсуждение новостей о Telegram
 * [Питерчат](https://telegram.me/piterchat) – Чат для жителей Санкт-Петербурга.
 * [МоскваChat](https://telegram.me/MOCKBAchat) – Чат для жителей Москвы.
+* [Яндекс Народная Карта](https://telegram.me/YandexPeopleMap) – неофициальная группа НЯК.
 
 ##### Электроника, микроконтроллеры и встраиваемые системы
 * [Catethysis](https://telegram.me/telecatethysis) — Чат про электронику, программирование микроконтроллеров, stm32

@@ -118,7 +118,7 @@
 * [pro.js](https://telegram.me/JSlang) — Чат про JavaScript
 * [pro.js.noobs](https://telegram.me/joinchat/Be4rsT3Uyr1TjmSlrRc77g) — Чат про JavaScript (для новичков)
 * [pro.jvm](https://telegram.me/jvmchat) — Чат про JVM
-* [Kotlin](https://telegram.me/kotlin_lang) - Чат про Kotlin
+* [Kotlin](https://telegram.me/kotlin_lang) — Чат про Kotlin
 * [Python](https://telegram.me/ru_python) — Чат про Python. (>1150 человек)
 * [pro.python](https://telegram.me/propython) — Чат про Python. (<50 человек)
 * [Python_beginners](https://telegram.me/python_beginners) — Чат про Python для новичков (~500)
@@ -130,6 +130,7 @@
 * [Devall — PHP](https://telegram.me/joinchat/AAtJOjx9l5F9IhkHIIVP9Q) — Чат про PHP. Флуд
 * [pro.ruby](https://telegram.me/proRuby) — Чат про Ruby
 * [Ruby & RoR](https://telegram.me/rubylang) — Чат про Ruby и Rails
+* [Ruby School .us](https://telegram.me/rubyschool) — Чат-болталка для учеников руби-школы
 * [pro.rust](https://telegram.me/proRust) — Чат про Rust
 * [TypeScript + Flow = ❤](https://telegram.me/typescript_ru) — Чат про TypeScript и Flow
 
@@ -198,7 +199,7 @@
 ##### Мобильная разработка
 * [Android Developers](https://telegram.me/android_ru) — Чат про разработку под Android. (>950)
 * [iOS Developers](https://telegram.me/ios_ru) — Чат про разработку под iOS
-* [Xamarin Developers](https://telegram.me/xamarin_russia) - Чат про разработку на платформе Xamarin под Android, IOS, Windows, MacOs
+* [Xamarin Developers](https://telegram.me/xamarin_russia) — Чат про разработку на платформе Xamarin под Android, IOS, Windows, MacOs
 
 ##### Вакансии и работа
 * [Jobs and Project Chat](https://telegram.me/joinchat/ABI4pz7v7KfJhb12XIkIUA) — Чат по вакансиям и проектам от сообщества Chatbots

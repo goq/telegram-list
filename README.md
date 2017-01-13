@@ -35,6 +35,7 @@
 * [Technologique](https://telegram.me/technologique) — Various aspects of FOSS technologies, Linux, coding, development, infrastructure solutions, DevOps
 * [Hacker news](https://telegram.me/HakerNews) — Новости информационной безопасности
 * [IT Security Alerts](https://telegram.me/itsecalert) — Оповещение о крупных уязвимостях в софте и сервисах
+* [Информация опасносте](https://t.me/alexmakus) — New! Информация опасносте
 
 ##### Информационные и новостные каналы по Data science, Big Data, Машинному обучению и deep learning.
 * [ModelOverfit](https://telegram.me/modeloverfit) — Канал сообщества modeloverfit

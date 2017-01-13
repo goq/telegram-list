@@ -143,6 +143,7 @@
 * [Joomla! по-русски](https://telegram.me/joomlaru) — Чат про Joomla!
 * [Laravel](https://telegram.me/laravel_pro) — Чат про Laravel (~200)
 * [Laravel Russia](https://telegram.me/ru_laravel) — Чат про Laravel (<50 человек)
+* [Yii Framework](https://t.me/yii2ru) — Чат про любимый Yii :-D
 * [React Native](https://telegram.me/reactnative_ru) — Чат про React Native
 * [Node.js](https://telegram.me/nodejs_ru) — Чат по NodeJS
 * [CodenameCRUD](https://telegram.me/codenamecrud) — Чат про Ruby on Rails (~250)

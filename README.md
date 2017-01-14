@@ -9,13 +9,11 @@
 ##### Новости
 * [Газета.Ру](https://t.me/gazetaru) — Официальный канал "Газеты.Ru"
 * [L'homme qui pleure](https://t.me/lhommequipleure) — Персональный канал Александра Чистякова ([@demeliorator](https://t.me/))
-* [For Web](https://t.me/forwebdev) — Канал новостей для веб-разработчиков
 * [Веб-стандарты](https://t.me/webstandards_ru) — Новости фронтенда от "Веб-стандартов"
 * [opennet news](https://t.me/opennews) — Новости opennet
 * [SPbLUG news](https://t.me/spblug_news) — Канал новостей SPbLUG
 * [DevOps news](https://t.me/devops_news) — Новости DevOps
 * [DevOps Deflope News](https://t.me/devops_deflope) — Новостной канал DevOps
-* [Evil Martians](https://t.me/evilmartians) — Новости от Злых Марсиан
 * [Geeks](https://t.me/g33ks) — Статьи и новости. Для гиков и от гиков.
 * [40Pk](https://t.me/fortypk) — Новости и статьи про кодинг, технологии и науку.
 * [Fedora Project News](https://t.me/fedoranews) — Официальные новости Fedora. English
@@ -24,11 +22,15 @@
 * [SMM в Telegram](https://t.me/aboutSMM) — Канал про SMM
 * [nag.ru news](https://t.me/NagNews) — Новости от nag.ru
 * [DTP](https://t.me/DTPublishing) — Канал новостей о паблишинге, полиграфии, препресс, вёрстка, дизайн
-* [pro.elixir_news](https://t.me/proelixir_news) — Новости из мира Elixir
-* [Frontend Raccoon](https://t.me/frontendraccoon) — Новости сообщества Frontend Raccoon
 * [Addmeto](https://t.me/addmeto) — Канал Григория Бакунова (Bobuk), новости из мира ИТ и не только
 * [LSA](https://t.me/networklsa) — Информационный канал о сетевых технологиях и NetDevOps (новости, книги, презентации)
-* [Android Дичь](https://t.me/shitty_android) - Тщательно отобранные статьи и доклады по Android-разработке и смежным темам
+
+##### Каналы по программированию и разработке ПО
+* [Evil Martians](https://t.me/evilmartians) — Новости от Злых Марсиан
+* [For Web](https://t.me/forwebdev) — Канал новостей для веб-разработчиков
+* [pro.elixir_news](https://t.me/proelixir_news) — Новости из мира Elixir
+* [Frontend Raccoon](https://t.me/frontendraccoon) — Новости сообщества Frontend Raccoon
+* [Android Дичь](https://t.me/shitty_android) — Тщательно отобранные статьи и доклады по Android-разработке и смежным темам
 
 
 ##### Каналы информации по Информационной безопасности

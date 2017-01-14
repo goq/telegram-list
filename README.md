@@ -28,6 +28,7 @@
 * [Frontend Raccoon](https://t.me/frontendraccoon) — Новости сообщества Frontend Raccoon
 * [Addmeto](https://t.me/addmeto) — Канал Григория Бакунова (Bobuk), новости из мира ИТ и не только
 * [LSA](https://t.me/networklsa) — Информационный канал о сетевых технологиях и NetDevOps (новости, книги, презентации)
+* [Android Дичь](https://t.me/shitty_android) - Тщательно отобранные статьи и доклады по Android-разработке и смежным темам
 
 
 ##### Каналы информации по Информационной безопасности

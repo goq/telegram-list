@@ -138,6 +138,7 @@
 * [Ruby School .us](https://t.me/rubyschool) — Чат-болталка для учеников руби-школы
 * [pro.rust](https://t.me/proRust) — Чат про Rust
 * [TypeScript + Flow = ❤](https://t.me/typescript_ru) — Чат про TypeScript и Flow
+* [noobrank](https://t.me/noobrank) — Решаем вместе задачки по программированию для начинающих (hackerrank и аналогичные)
 
 ##### Фреймворки, среды разработок, библиотеки
 * [Angular.js](https://t.me/angular_js) — Чат про AngularJS 1.x

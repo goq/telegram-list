@@ -31,6 +31,7 @@
 * [pro.elixir_news](https://t.me/proelixir_news) — Новости из мира Elixir
 * [Frontend Raccoon](https://t.me/frontendraccoon) — Новости сообщества Frontend Raccoon
 * [Android Дичь](https://t.me/shitty_android) — Тщательно отобранные статьи и доклады по Android-разработке и смежным темам
+* [Annode News](https://t.me/annode_news) — Подборка самых интересных статей/новостей/уроков
 
 
 ##### Каналы информации по Информационной безопасности

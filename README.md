@@ -161,6 +161,7 @@
 * [HTML5 GameDev](https://t.me/joinchat/Cm9nK0CbDzghfTHd4hipYQ) — разработка игр на html5 платформе, pixi.js, cocos2d-js, phaser.js и т.п.
 * [ООП](https://t.me/oop_ru) — Объектно-Ориентированное Программирование
 * [Fire-Monkey](https://t.me/fire_monkey) — Независимое сообщество разработчиков использующих Fire-Monkey
+* [Vue](https://t.me/vuejs_ru) — Чат про фреймворк Vue.js
 
 ##### Системное и сетевое администрирование, телефония и телекоммуникации.
 * [RU.SYSADMIN](https://t.me/ru_sysadmin) — Чат сисадминов

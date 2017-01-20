@@ -24,6 +24,7 @@
 * [DTP](https://t.me/DTPublishing) — Канал новостей о паблишинге, полиграфии, препресс, вёрстка, дизайн
 * [Addmeto](https://t.me/addmeto) — Канал Григория Бакунова (Bobuk), новости из мира ИТ и не только
 * [LSA](https://t.me/networklsa) — Информационный канал о сетевых технологиях и NetDevOps (новости, книги, презентации)
+* [Apache Hadoop stack](https://t.me/hadoopusers) — Новости сообщества Apache Hadoop
 
 ##### Каналы по программированию и разработке ПО
 * [Evil Martians](https://t.me/evilmartians) — Новости от Злых Марсиан
@@ -206,6 +207,7 @@
 ##### Big Data, Машинное обучение, deep learning и data science
 * [Big Data & Machine Learning](https://t.me/bigdata_ru) — Чат по большим данным, обработке и машинному обучению
 * [Data Science Chat](https://t.me/datasciencechat) — Чат по теме Data Science
+* [Apache Hadoop stack](https://t.me/hadoopusers) — Чат по всему, что связано с Apache Hadoop стеком
 
 ##### Мобильная разработка
 * [Android Developers](https://t.me/android_ru) — Чат про разработку под Android. (>950)

@@ -283,9 +283,14 @@
 * [Нейронные сети](https://t.me/joinchat/ABI4pz6rz2iVzWUzaVqpmA) — Чат по нейронным сетям
 * [Telegram Bot Developers](https://t.me/botoid) — Чат про разработку ботов в телеграме
 * [linkmeup_chat](https://t.me/linkmeup_chat) — Эфирный чат подкаста linkmeup.ru
-* [Web Programming](https://t.me/WebProgrammingRu) — Чат про Frontend и Backend программирование
 * [Программисты](https://t.me/coding_ru) — Чат программистов на Delphi, Lua, Python, php, C, С++, C#, Kotlin, Ruby, Golang, JavaScript и др. Флуд.
 * [#Bookcrossing_spb](https://t.me/bookcrossing_spb) — Обмен книгами в Санкт-Петербурге, буккроссинг.
+
+##### Группа чатов annode
+* [annode](https://t.me/WebProgrammingRu) — Основной обобщенный чат про Frontend и Backend программирование, а так же настройку серверов и Linux. Тут можно задать общие вопросы по вебу в любом направлении.
+* [annode frontend](https://t.me/annode_frontend) — Дочерний чат по frontend. Дизайн, верстка, фреймворки для фронтенда и много другое.
+* [annode backend](https://t.me/annode_backend) — Дочерний чат по backend. CMS/CMF и компоненты для них, фреймворки для бекенда, базы данных и все остальное по данной тематике.
+* [annode serv](https://t.me/annode_serv) — Дочерний чат для сисадминов. Выбор и обсуждение серверов, настройка, выбор ПО для сервера, настройка ПК, установка и настройка ОС.
 
 -------------
 

@@ -22,6 +22,7 @@
 * [DTP](https://t.me/DTPublishing) — Канал новостей о паблишинге, полиграфии, препресс, вёрстка, дизайн
 * [Addmeto](https://t.me/addmeto) — Канал Григория Бакунова (Bobuk), новости из мира ИТ и не только
 * [LSA](https://t.me/networklsa) — Информационный канал о сетевых технологиях и NetDevOps (новости, книги, презентации)
+* [Apache Hadoop stack](https://t.me/hadoopusers) — Новости сообщества Apache Hadoop
 
 ##### Каналы по программированию и разработке ПО
 * [Evil Martians](https://t.me/evilmartians) — Новости от Злых Марсиан
@@ -47,6 +48,9 @@
 * [Data Science](https://t.me/opendatascience) — Первый новостной канал про data science
 * [Deep Learning Russia](https://t.me/deeplearning_ru) — Канал сообщества vk.com/deeplearning_ru
 * [Чаты и группы телеграма по теме](#big-data-Машинное-обучение-deep-learning-и-data-science)
+
+##### Музыка
+* [DFF Радио](https://t.me/dffradio) - Отличное радио, выпускающее миксы пару раз в неделю
 
 ##### Каналы по бизнесу и стартапам
 * [TNN Public](https://t.me/tnnpublic) — Предприниматели, экономика, криптовалюты, стартапы, черные рынки, тренды. Опережают русскоязычные СМИ.
@@ -205,6 +209,7 @@
 ##### Big Data, Машинное обучение, deep learning и data science
 * [Big Data & Machine Learning](https://t.me/bigdata_ru) — Чат по большим данным, обработке и машинному обучению
 * [Data Science Chat](https://t.me/datasciencechat) — Чат по теме Data Science
+* [Apache Hadoop stack](https://t.me/hadoopusers) — Чат по всему, что связано с Apache Hadoop стеком
 
 ##### Математика и другие точные науки
 * [Мехмат МГУ](https://t.me/mechmath) — Внутренний чат Мехмата МГУ

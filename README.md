@@ -18,8 +18,6 @@
 * [40Pk](https://t.me/fortypk) — Новости и статьи про кодинг, технологии и науку.
 * [Fedora Project News](https://t.me/fedoranews) — Официальные новости Fedora. English
 * [pro.JVM](https://t.me/proJVM) — Новости сообщества JVM
-* [SEO life](https://t.me/seolife) — Новости из мира SEO
-* [SMM в Telegram](https://t.me/aboutSMM) — Канал про SMM
 * [nag.ru news](https://t.me/NagNews) — Новости от nag.ru
 * [DTP](https://t.me/DTPublishing) — Канал новостей о паблишинге, полиграфии, препресс, вёрстка, дизайн
 * [Addmeto](https://t.me/addmeto) — Канал Григория Бакунова (Bobuk), новости из мира ИТ и не только
@@ -32,12 +30,15 @@
 * [Frontend Raccoon](https://t.me/frontendraccoon) — Новости сообщества Frontend Raccoon
 * [Android Дичь](https://t.me/shitty_android) — Тщательно отобранные статьи и доклады по Android-разработке и смежным темам
 * [Annode News](https://t.me/annode_news) — Подборка самых интересных статей/новостей/уроков
-
+* [TM Feed](https://t.me/tmfeed) — Лента публикаций с Хабра и Гиктаймс
+* [Tproger Channel](https://t.me/tproger_official) — Лента новостей от сообщества "Типичный программист"
+* [Spalmalo Tech Talk](https://t.me/spalmalo_tt) — Спалмало (spalmalo.com) находит и шарит с вами всякие полезности
 
 ##### Каналы информации по Информационной безопасности
 * [ИБач](https://t.me/ibach) — Канал об Информационной Безопасности
 * [Technologique](https://t.me/technologique) — Various aspects of FOSS technologies, Linux, coding, development, infrastructure solutions, DevOps
-* [Hacker news](https://t.me/HakerNews) — Новости информационной безопасности
+* [Hacker news Ru](https://t.me/HakerNews) — Новости информационной безопасности
+* [Hacker News En](https://t.me/hacker_news_feed) — Hacker News (english)
 * [IT Security Alerts](https://t.me/itsecalert) — Оповещение о крупных уязвимостях в софте и сервисах
 * [Информация опасносте](https://t.me/alexmakus) — New! Информация опасносте
 
@@ -46,10 +47,6 @@
 * [Data Science](https://t.me/opendatascience) — Первый новостной канал про data science
 * [Deep Learning Russia](https://t.me/deeplearning_ru) — Канал сообщества vk.com/deeplearning_ru
 * [Чаты и группы телеграма по теме](#big-data-Машинное-обучение-deep-learning-и-data-science)
-
-##### Математика
-* [Мехмат МГУ](https://t.me/mechmath) — Внутренний чат Мехмата МГУ
-* [Листочки с глубинным](https://t.me/joinchat/CLH3zUAVsl_s3pMqbwvm2g) — Математический чат
 
 ##### Каналы по бизнесу и стартапам
 * [TNN Public](https://t.me/tnnpublic) — Предприниматели, экономика, криптовалюты, стартапы, черные рынки, тренды. Опережают русскоязычные СМИ.
@@ -85,7 +82,9 @@
 * [Метеорадар Москва](http://telegram.me/mskweathergif) — Метеорадар Москва
 * [Метеорадар Сочи](http://telegram.me/sochiweathergif) — Метеорадар Сочи
 
-##### Копирайтинг
+##### SEO, SMM и Копирайтинг
+* [SEO life](https://t.me/seolife) — Новости из мира SEO
+* [SMM в Telegram](https://t.me/aboutSMM) — Канал про SMM
 * [Главред](https://t.me/glvrdru) — Канал Максима Ильяхова про текст. Советы и статьи о тексте, редактуре, информационном стиле и рекламе.
 * [Паша и его прокрастинация](https://t.me/abbsol) — Как писать текст, проблемы пишущих, правила русского языка, советы писателей, книги о ремесле.
 
@@ -125,11 +124,11 @@
 * [pro.jvm](https://t.me/jvmchat) — Чат про JVM
 * [Scala](https://t.me/scala_ru) — Чат про Scala
 * [Kotlin](https://t.me/kotlin_lang) — Чат про Kotlin
-* [Python](https://t.me/ru_python) — Чат про Python. (>1150 человек)
+* [Python](https://t.me/ru_python) — Чат про Python. (>1990 человек)
 * [pro.python](https://t.me/propython) — Чат про Python. (<50 человек)
 * [Python_beginners](https://t.me/python_beginners) — Чат про Python для новичков (~500)
 * [Rude Python](https://t.me/rudepython) — Грубый чат про Python (для мужиков)
-* [phpGeeks](https://t.me/phpgeeks) — Чат про PHP. (>1000)
+* [phpGeeks](https://t.me/phpgeeks) — Чат про PHP. (>1130)
 * [phpclub](https://t.me/phpclubru) — Чат про PHP
 * [prophp](https://t.me/prophp7) — Чат про современный PHP (~100 человек)
 * [php.ru](https://t.me/ru_php) — php.ru (<30 человек)
@@ -186,7 +185,7 @@
 ##### Управление конфигурациями, development & operations engineers
 * [Ansible](https://t.me/pro_ansible) — Чат про Ansible
 * [ChatOps RU](https://t.me/chatops_ru) — Те, кто управляют серверами через чат ботов
-* [DevOps](https://t.me/devops_ru) — Чат про DevOps (>1410 человек)
+* [DevOps](https://t.me/devops_ru) — Чат про DevOps (>1480 человек)
 * [ru_devops](https://t.me/ru_devops) — Чат про DevOps
 * [Docker Официальное Русское Сообщество](https://t.me/ru_docker) — Официальный чат про Docker
 * [Брутальный Docker](https://t.me/brutal_docker) — Чат для тех, кому есть что сказать про докер
@@ -206,6 +205,10 @@
 ##### Big Data, Машинное обучение, deep learning и data science
 * [Big Data & Machine Learning](https://t.me/bigdata_ru) — Чат по большим данным, обработке и машинному обучению
 * [Data Science Chat](https://t.me/datasciencechat) — Чат по теме Data Science
+
+##### Математика и другие точные науки
+* [Мехмат МГУ](https://t.me/mechmath) — Внутренний чат Мехмата МГУ
+* [Листочки с глубинным](https://t.me/joinchat/CLH3zUAVsl_s3pMqbwvm2g) — Математический чат
 
 ##### Мобильная разработка
 * [Android Developers](https://t.me/android_ru) — Чат про разработку под Android. (>950)
@@ -246,6 +249,9 @@
 * [Питерчат](https://t.me/piterchat) – Чат для жителей Санкт-Петербурга.
 * [МоскваChat](https://t.me/MOCKBAchat) – Чат для жителей Москвы.
 * [Яндекс Народная Карта](https://t.me/YandexPeopleMap) – неофициальная группа НЯК.
+* [Chaos Construction](https://t.me/chaosconstructions) – Chaos Construction Санкт-Петербург
+* [IT PPL](https://t.me/spbitpeople) – Безтематический чат, только для IT.
+* [IT Security Talk](https://t.me/itsectalk) – IT Security Talk (english)
 
 ##### Электроника, микроконтроллеры и встраиваемые системы
 * [Catethysis](https://t.me/telecatethysis) — Чат про электронику, программирование микроконтроллеров, stm32
@@ -271,7 +277,7 @@
 * [smartos_ru](https://t.me/smartos_ru) — Чат про SmartOS
 * [Ubuntu](https://t.me/ru_ubuntu) — Чат про Ubuntu
 * [pro.windows](https://t.me/joinchat/Be4rsT5IrA8x69FnrpMMvw) — Чат про Windows
-* [iHack - Hackintosh & Jailbreak](https://t.me/macosx86) — Чат про Хакинтош
+* [iHack - Hackintosh & Jailbreak](https://t.me/macosx86) — Чат про Хакинтош и MacOS
 * [That's Linux - общение](https://t.me/that_is_linux) — Чат про Linux
 
 ##### Разное и интересное

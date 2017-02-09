@@ -262,6 +262,7 @@
 * [Chaos Construction](https://t.me/chaosconstructions) – Chaos Construction Санкт-Петербург
 * [IT PPL](https://t.me/spbitpeople) – Безтематический чат, только для IT.
 * [IT Security Talk](https://t.me/itsectalk) – IT Security Talk (english)
+* [IT Lobby Irkutsk](https://t.me/joinchat/CD0D_D31vVD8L1FO4UutnQ) — чат ITишников города Иркутск
 
 ##### Электроника, микроконтроллеры и встраиваемые системы
 * [Catethysis](https://t.me/telecatethysis) — Чат про электронику, программирование микроконтроллеров, stm32
@@ -278,7 +279,6 @@
 * [Мини-бизнес чат](https://t.me/pizneschat) — Чат про мини-бизнес
 
 ##### Операционные системы
-* [Arch](https://t.me/ArchLinuxChatRU) — Чат про Arch Linux
 * [Fedora](https://t.me/fedora) — Чат про Fedora (англ.)
 * [Russian Fedora](https://t.me/russianfedora) — Чат про Fedora (рус.)
 * [freebsd_ru](https://t.me/freebsd_ru) — Чат про FreeBSD

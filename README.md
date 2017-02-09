@@ -100,14 +100,14 @@
 * [Dental Jedi](https://t.me/dentaljedi) — Канал о буднях стоматолога
 
 ##### Разные и интересные каналы
-* [#All-im-One Person] (https://t.me/themarfa) - канал о технологиях, стартапах, автоматизации, лайфхаках и продуктивности. Экспертные советы по Evernote, Google и многому другому.
+* [#All-im-One Person](https://t.me/themarfa) — канал о технологиях, стартапах, автоматизации, лайфхаках и продуктивности. Экспертные советы по Evernote, Google и многому другому.
 * [#Тыжпрограммист /dev/null](https://t.me/yourProger) — развлекательные IT-паблики в одном месте.
 * [Edimhorosho](https://t.me/edimhorosho) — Новости и статьи из мира кулинарии. Едим хорошо!
 * [The After Times](https://t.me/theaftertimes) — Паста, мысли, критика.
 * [Robotics](https://t.me/robotics_channel) — Робототехника, нейросети, киборги (свежие новости, обзоры разработок и интересные статьи).
 * [Product-Shmoduct](https://t.me/productshmoduct) — Диджитал продукты и продакт менеджмент
 * [#LifeStories](https://t.me/LifeStoriesRU) — жизненные истории из VK-пабликов в одном месте.
-* [#CoolAdmin] (https://t.me/cooladmin) - канал про системное администрирование, сети, сервера и системы хранения. С новостями и историями.  
+* [#CoolAdmin](https://t.me/cooladmin) — канал про системное администрирование, сети, сервера и системы хранения. С новостями и историями. 
 
 ##### Санкт-Петербург. Новости, полезная информация
 * [Вице-губернатор Санкт-Петербурга](https://t.me/IgorAlbin) — Вице-губернатор Санкт-Петербурга. Для официальных обращений: albin@vg.gov.spb.ru
@@ -289,6 +289,7 @@
 * [pro.windows](https://t.me/joinchat/Be4rsT5IrA8x69FnrpMMvw) — Чат про Windows
 * [iHack - Hackintosh & Jailbreak](https://t.me/macosx86) — Чат про Хакинтош и MacOS
 * [That's Linux - общение](https://t.me/that_is_linux) — Чат про Linux
+* [ROSA Linux / Роса ОС - Российская операционная система](https://t.me/rosa_linux) — Общение и помощь пользователям ОС ROSA Linux.
 
 ##### Разное и интересное
 * [DTP :: @DTPublish](https://t.me/DTPublish) — Всё о паблишинге, полиграфии, препресс, вёрстка, дизайн

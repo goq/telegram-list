@@ -100,6 +100,7 @@
 * [Dental Jedi](https://t.me/dentaljedi) — Канал о буднях стоматолога
 
 ##### Разные и интересные каналы
+* [#All-im-One Person] (https://t.me/themarfa) - канал о технологиях, стартапах, автоматизации, лайфхаках и продуктивности. Экспертные советы по Evernote, Google и многому другому.
 * [#Тыжпрограммист /dev/null](https://t.me/yourProger) — развлекательные IT-паблики в одном месте.
 * [Edimhorosho](https://t.me/edimhorosho) — Новости и статьи из мира кулинарии. Едим хорошо!
 * [The After Times](https://t.me/theaftertimes) — Паста, мысли, критика.

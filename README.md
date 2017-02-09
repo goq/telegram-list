@@ -134,6 +134,7 @@
 * [Kotlin](https://t.me/kotlin_lang) — Чат про Kotlin
 * [Python](https://t.me/ru_python) — Чат про Python. (>1990 человек)
 * [pro.python](https://t.me/propython) — Чат про Python. (<50 человек)
+* [javascript_ru](https://t.me/javascript_ru) (>30)
 * [Python_beginners](https://t.me/python_beginners) — Чат про Python для новичков (~500)
 * [Rude Python](https://t.me/rudepython) — Грубый чат про Python (для мужиков)
 * [phpGeeks](https://t.me/phpgeeks) — Чат про PHP. (>1130)

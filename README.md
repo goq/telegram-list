@@ -238,6 +238,7 @@
 * [QA](https://t.me/qa_jobs) — Чат про вакансии и работу в сфере тестирования
 
 ##### Сообщества
+* [IT PPL](https://t.me/spbitpeople) – IT People: общение айтишников и про айти, и не про айти ;-)
 * [קהילה יהודית](https://t.me/ru_jews) — Еврейская община / Виртуальная синагога
 * [SPbLUG](https://t.me/spblug) — Чат Saint-Petersburg Linux User Group
 * [Piter Py Conference](https://t.me/PiterPy) — Ежегодная Python конференция Piter Py
@@ -263,7 +264,6 @@
 * [МоскваChat](https://t.me/MOCKBAchat) – Чат для жителей Москвы.
 * [Яндекс Народная Карта](https://t.me/YandexPeopleMap) – неофициальная группа НЯК.
 * [Chaos Construction](https://t.me/chaosconstructions) – Chaos Construction Санкт-Петербург
-* [IT PPL](https://t.me/spbitpeople) – Безтематический чат, только для IT.
 * [IT Security Talk](https://t.me/itsectalk) – IT Security Talk (english)
 * [IT Lobby Irkutsk](https://t.me/joinchat/CD0D_D31vVD8L1FO4UutnQ) — чат ITишников города Иркутск
 

@@ -308,6 +308,12 @@
 
 ## Боты
 
+##### Музыка и Радио
+* [@RadioBot](https://t.me/radiobot) — Бот в котором можно переслушать эфиры 40+ популярных российских радиостанций.
+* [@vkmusic_bot](https://t.me/vkmusic_bot) — Музыкальный бот ВК
+* [@radiotgbot](https://t.me/radiotgbot) — Бот - Лучшее радио!
+* [@MelodyRobot](https://t.me/MelodyRobot) — Угадай мелодию бот
+
 ##### Полезные боты для разработки
 * [@trello_bot](https://t.me/trello_bot) — Интеграция всемирно известной Канбан доски в телеграм
 * [@bitbucket_bot](https://t.me/bitbucket_bot) — Интеграция bitbucket в телеграм
@@ -318,7 +324,6 @@
 * [@temp_mail_bot](https://t.me/temp_mail_bot) — Временная электронная почта на 10 минут для регистраций
 * [@fakemailbot](https://t.me/fakemailbot) — Временная электронная почта на 10 минут
 * [@pomodoro_timer_bot](https://t.me/pomodoro_timer_bot) — Бот-таймер по методу "помидорки"
-* [@vkmusic_bot](https://t.me/vkmusic_bot) — Музыкальный бот ВК
 * [@sp2txt_bot](https://t.me/sp2txt_bot) — Бот, превращающий речь в текст
 * [@AntiParkonBot](https://t.me/AntiParkonBot) — Бот выдаёт контакты автовладельца по номеру машины
 * [@NodKeys_bot](https://t.me/NodKeys_bot) — Ключница (может не работать)
@@ -326,8 +331,6 @@
 * [@MyCookBot](https://t.me/MyCookBot) — Бот шеф-повар. База рецептов
 * [@SpamBot](https://t.me/SpamBot) — Узнать в бане ли в телеграме, или нет
 * [@AIPrismaBot](https://t.me/AIPrismaBot) — Призма Бот
-* [@radiotgbot](https://t.me/radiotgbot) — Бот - Лучшее радио!
-* [@MelodyRobot](https://t.me/MelodyRobot) — Угадай мелодию бот
 * [@BotFather](https://t.me/BotFather) — Крёстный бото-отец :-)
 * [@MyTeleCloudBot](https://t.me/MyTeleCloudBot) — облачный бот ?
 * [@mybookbot](https://t.me/mybookbot) — Бот-поисковик/скачиатель книг.

@@ -267,9 +267,9 @@
 
 ##### Электроника, микроконтроллеры и встраиваемые системы
 * [Catethysis](https://t.me/telecatethysis) — Чат про электронику, программирование микроконтроллеров, stm32
-* [Анархическая электроника](https://t.me/ru_arduino) — Чат про ардуино
 * [pro.embedded](https://t.me/proembedded) — Чат про встраиваемые системы
-* [Про электронику](https://t.me/ru_electronics) — Чат про электронику
+* [Про электронику](https://t.me/ru_electronics) — QA чат для решения вопросов, связанных с электроникой. На линии работает контроль. 
+* [Анархическая электроника](https://t.me/ru_arduino) — Сателлит [@ru_electronics](https://t.me/ru_electronics) с [около]электронными темами.
 
 ##### SMM, SEO, Стартапы, Бизнес в интернете
 * [AboutSMMchat](https://t.me/aboutSMMchat) — Чат про SMM

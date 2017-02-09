@@ -175,10 +175,9 @@
 
 ##### Системное и сетевое администрирование, телефония и телекоммуникации.
 * [RU.SYSADMIN](https://t.me/ru_sysadmin) — Чат сисадминов
-* [Asterisk Russian Community](https://t.me/asterisk_ru) — Чат про Asterisk
+* [ru.VoIP](https://t.me/ru_voip) — Чат про телефонию, VoIP, Asterisk
 * [Hosting and so on](https://t.me/pro_hosting) — Про хостинг
 * [pro.telecom](https://t.me/protelecom) — Чат про телекоммуникации.
-* [ru.VoIP](https://t.me/ru_voip) — Чат про VoIP
 * [xmpp_ru](https://t.me/xmpp_ru) — Чат про XMPP, ejabberd, openfire
 * [pro_openstack](https://t.me/pro_openstack) — Чат про OpenStack, Ceph
 * [Hyper-V](https://t.me/ru_hyper) — Чат про Hyper-V
@@ -187,6 +186,7 @@
 * [Трактор over IP](https://t.me/ntwrk) — Чат сетевых инженеров
 * [Nag.Ru](https://t.me/nag_public) — Чат Nag.ru
 * [Mikrotik.Ru](https://t.me/MikrotikRu) — Чат про Микротики
+* [Asterisk Russian Community](https://t.me/asterisk_ru) — Чат про Asterisk
 * [Zabbix Talks](https://t.me/ZabbixPro) — Чат про Zabbix (>220)
 * [pro.zabbix](https://t.me/prozabbix) — Чат про Zabbix (альтернативный) (~130)
 * [KVM (PVE/oVirt etc)](https://t.me/pro_kvm) — Чат о виртуализации и Proxmox

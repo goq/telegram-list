@@ -190,6 +190,7 @@
 * [KVM (PVE/oVirt etc)](https://t.me/pro_kvm) — Чат о виртуализации и Proxmox
 * [glpi_ru](https://t.me/glpi_ru) — Чат о системе helpdesk и инвентаризации GLPI
 * [pro.enterprise](https://t.me/pro_enterprise) — Чат про корп.сектор: серверы, СХД, CDN, сетевое оборудование и облака.
+* [annode serv](https://t.me/annode_serv) — Чат для сисадминов. Выбор и обсуждение серверов, настройка, выбор ПО для сервера, настройка ПК, установка и настройка ОС.
 
 ##### Управление конфигурациями, development & operations engineers
 * [Ansible](https://t.me/pro_ansible) — Чат про Ansible
@@ -300,9 +301,11 @@
 * [Нейронные сети](https://t.me/joinchat/ABI4pz6rz2iVzWUzaVqpmA) — Чат по нейронным сетям
 * [Telegram Bot Developers](https://t.me/botoid) — Чат про разработку ботов в телеграме
 * [linkmeup_chat](https://t.me/linkmeup_chat) — Эфирный чат подкаста linkmeup.ru
-* [Web Programming](https://t.me/WebProgrammingRu) — Чат про Frontend и Backend программирование
 * [Программисты](https://t.me/coding_ru) — Чат программистов на Delphi, Lua, Python, php, C, С++, C#, Kotlin, Ruby, Golang, JavaScript и др. Флуд.
 * [#Bookcrossing_spb](https://t.me/bookcrossing_spb) — Обмен книгами в Санкт-Петербурге, буккроссинг.
+* [Web Programming](https://t.me/WebProgrammingRu) — Чат про Frontend и Backend программирование
+* [annode frontend](https://t.me/annode_frontend) — Чат по Frontend. Дизайн, верстка, фреймворки для фронтенда и много другое.
+* [annode backend](https://t.me/annode_backend) — Чат по Backend. CMS/CMF и компоненты для них, фреймворки для бекенда, базы данных и все остальное по данной тематике.
 
 -------------
 

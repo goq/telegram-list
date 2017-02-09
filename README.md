@@ -108,6 +108,8 @@
 * [Product-Shmoduct](https://t.me/productshmoduct) — Диджитал продукты и продакт менеджмент
 * [#LifeStories](https://t.me/LifeStoriesRU) — жизненные истории из VK-пабликов в одном месте.
 * [#CoolAdmin](https://t.me/cooladmin) — канал про системное администрирование, сети, сервера и системы хранения. С новостями и историями. 
+* [Linkmeup](https://t.me/linkmeup_podcast) — Официальный канал подкаста для связистов Linkmeup (новости подкаста и сетевых технологий). 
+* [Gik.me](https://t.me/gikme) — Канал подкаста gik.me - веселый подкаст о IT (на канале размещаются выпуски подкаста). 
 
 ##### Санкт-Петербург. Новости, полезная информация
 * [Вице-губернатор Санкт-Петербурга](https://t.me/IgorAlbin) — Вице-губернатор Санкт-Петербурга. Для официальных обращений: albin@vg.gov.spb.ru
@@ -306,7 +308,7 @@
 * [Web Programming](https://t.me/WebProgrammingRu) — Чат про Frontend и Backend программирование
 * [annode frontend](https://t.me/annode_frontend) — Чат по Frontend. Дизайн, верстка, фреймворки для фронтенда и много другое.
 * [annode backend](https://t.me/annode_backend) — Чат по Backend. CMS/CMF и компоненты для них, фреймворки для бекенда, базы данных и все остальное по данной тематике.
-
+* [gik.me](https://t.me/gikmechat) — Чат подкаста gik.me
 -------------
 
 ## Боты

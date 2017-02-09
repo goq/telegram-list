@@ -310,7 +310,7 @@
 * [@trello_bot](https://t.me/trello_bot) — Интеграция всемирно известной Канбан доски в телеграм
 * [@bitbucket_bot](https://t.me/bitbucket_bot) — Интеграция bitbucket в телеграм
 * [@integram_bot](https://t.me/integram_bot) — Интеграция разных сервисов по разработке ПО в телеграм
-* [@chatbrobot](https://chatbro.com) — Позволяет встроить Telegram чат на сайт
+* [@ChatbroBot](https://chatbro.com) — Позволяет встроить Telegram чат на сайт
 
 ##### Прочие боты
 * [@ImageSearchBot](https://t.me/ImageSearchBot) — Бот поиска картинок от Яндекса

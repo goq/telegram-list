@@ -139,6 +139,8 @@
 * [pro.jvm](https://t.me/jvmchat) — Чат про JVM
 * [Scala](https://t.me/scala_ru) — Чат про Scala
 * [Kotlin](https://t.me/kotlin_lang) — Чат про Kotlin
+* [Modern::Perl](https://t.me/modernperl) — Чат про Perl. Современный::Perl
+* [use Perl or die;](https://t.me/usePerlOrDie) — Группа о языке Perl и обо всём что с ним связано.
 * [Python](https://t.me/ru_python) — Чат про Python. (>1990 человек)
 * [pro.python](https://t.me/propython) — Чат про Python. (<50 человек)
 * [javascript_ru](https://t.me/javascript_ru) Общаемся на тему самого популярного языка программирования

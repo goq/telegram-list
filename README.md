@@ -136,7 +136,9 @@
 * [Kotlin](https://t.me/kotlin_lang) — Чат про Kotlin
 * [Python](https://t.me/ru_python) — Чат про Python. (>1990 человек)
 * [pro.python](https://t.me/propython) — Чат про Python. (<50 человек)
-* [javascript_ru](https://t.me/javascript_ru) (>30)
+* [javascript_ru](https://t.me/javascript_ru) Общаемся на тему самого популярного языка программирования
+* [css_ru](https://t.me/css_ru) Обсуждаем CSS, решаем проблемы вместе
+* [frontend_ru](https://t.me/frontend_ru) Русскоговорящее сообщество веб-фронтенд разработчиков
 * [Python_beginners](https://t.me/python_beginners) — Чат про Python для новичков (~500)
 * [Rude Python](https://t.me/rudepython) — Грубый чат про Python (для мужиков)
 * [phpGeeks](https://t.me/phpgeeks) — Чат про PHP. (>1130)

@@ -154,6 +154,7 @@
 * [pro.rust](https://t.me/proRust) — Чат про Rust
 * [TypeScript + Flow = ❤](https://t.me/typescript_ru) — Чат про TypeScript и Flow
 * [noobrank](https://t.me/noobrank) — Решаем вместе задачки по программированию для начинающих (hackerrank и аналогичные)
+* [ExtremeCodeTV](https://t.me/extremecode) — Чат C# разработчиков (есть свой бот компилирующий C# код)
 
 ##### Фреймворки, среды разработок, библиотеки
 * [Angular.js](https://t.me/angular_js) — Чат про AngularJS 1.x

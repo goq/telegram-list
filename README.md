@@ -312,6 +312,7 @@
 * [annode frontend](https://t.me/annode_frontend) — Чат по Frontend. Дизайн, верстка, фреймворки для фронтенда и много другое.
 * [annode backend](https://t.me/annode_backend) — Чат по Backend. CMS/CMF и компоненты для них, фреймворки для бекенда, базы данных и все остальное по данной тематике.
 * [gik.me](https://t.me/gikmechat) — Чат подкаста gik.me
+* [gik.me](https://t.me/RCmodels) — Хоббийный чат про летающие радиоуправляемые модели.
 
 -------------
 

@@ -4,6 +4,9 @@
 
 Уважаемые коллеги, если у вас есть интересные каналы, группы, чаты, или боты, пожалуйста присылайте свои предложения и пулреквесты. Мы с большим удовольствием расширим наш полезный для всех список.
 
+* [Telegram Group List](https://t.me/listnews) — Официальный канал новостей списка групп
+* [Telegram Group List Chat](https://t.me/grouplst) — Чат списка: обсуждения, предложения и идеи.
+
 ## Каналы
 
 ##### Новости
@@ -244,6 +247,7 @@
 
 ##### Сообщества
 * [IT PPL](https://t.me/spbitpeople) – IT People: общение айтишников и про айти, и не про айти ;-)
+* [Microsoft Developer Chat](https://t.me/msdevchat) – Сообщество разработчиков под платформу Microsoft
 * [קהילה יהודית](https://t.me/ru_jews) — Еврейская община / Виртуальная синагога
 * [SPbLUG](https://t.me/spblug) — Чат Saint-Petersburg Linux User Group
 * [Piter Py Conference](https://t.me/PiterPy) — Ежегодная Python конференция Piter Py

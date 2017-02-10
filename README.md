@@ -36,7 +36,6 @@
 * [Tproger Channel](https://t.me/tproger_official) — Лента новостей от сообщества "Типичный программист"
 * [Spalmalo Tech Talk](https://t.me/spalmalo_tt) — Спалмало (spalmalo.com) находит и шарит с вами всякие полезности
 * [∏ρØƒuñçτØρ Øπτµç∑](https://t.me/libmustdie) — Авторский канал о программировании (Пэйперы, видео, интересные репозитории)
-* [ExtremeCodeTV](https://t.me/extremecode) — Канал для C# разработчиков (есть свой бот компилирующий C# код)
 
 ##### Каналы информации по Информационной безопасности
 * [ИБач](https://t.me/ibach) — Канал об Информационной Безопасности
@@ -151,6 +150,7 @@
 * [pro.rust](https://t.me/proRust) — Чат про Rust
 * [TypeScript + Flow = ❤](https://t.me/typescript_ru) — Чат про TypeScript и Flow
 * [noobrank](https://t.me/noobrank) — Решаем вместе задачки по программированию для начинающих (hackerrank и аналогичные)
+* [ExtremeCodeTV](https://t.me/extremecode) — Канал для C# разработчиков (есть свой бот компилирующий C# код)
 
 ##### Фреймворки, среды разработок, библиотеки
 * [Angular.js](https://t.me/angular_js) — Чат про AngularJS 1.x

@@ -24,6 +24,7 @@
 * [LSA](https://t.me/networklsa) — Информационный канал о сетевых технологиях и NetDevOps (новости, книги, презентации)
 * [Apache Hadoop stack](https://t.me/hadoopusers) — Новости сообщества Apache Hadoop
 * [Tehnojam.pro](https://t.me/tehnojam) — Лента публикаций сайта ТехноДжем.
+* [QUANTUM QUINTUM](https://t.me/quantumquintum) — Канал Константина Кичинского (Technical Evangelism Lead в Microsoft), короткие заметки про Microsoft и технологии
 
 ##### Каналы по программированию и разработке ПО
 * [Evil Martians](https://t.me/evilmartians) — Новости от Злых Марсиан

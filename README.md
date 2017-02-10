@@ -35,12 +35,12 @@
 * [TM Feed](https://t.me/tmfeed) — Лента публикаций с Хабра и Гиктаймс
 * [Tproger Channel](https://t.me/tproger_official) — Лента новостей от сообщества "Типичный программист"
 * [Spalmalo Tech Talk](https://t.me/spalmalo_tt) — Спалмало (spalmalo.com) находит и шарит с вами всякие полезности
+* [Technologique](https://t.me/technologique) — "Нажми на кнопку, получишь результат": Технологии программирования и разработки
 * [∏ρØƒuñçτØρ Øπτµç∑](https://t.me/libmustdie) — Авторский канал о программировании (Пэйперы, видео, интересные репозитории)
 * [Microsoft Developer](https://t.me/msdnru) — Официальный канал сообщества Microsoft для разработчиков и всех, кто интересуется новыми технологиям
 
 ##### Каналы информации по Информационной безопасности
 * [ИБач](https://t.me/ibach) — Канал об Информационной Безопасности
-* [Technologique](https://t.me/technologique) — Various aspects of FOSS technologies, Linux, coding, development, infrastructure solutions, DevOps
 * [Hacker news Ru](https://t.me/HakerNews) — Новости информационной безопасности
 * [Hacker News En](https://t.me/hacker_news_feed) — Hacker News (english)
 * [IT Security Alerts](https://t.me/itsecalert) — Оповещение о крупных уязвимостях в софте и сервисах

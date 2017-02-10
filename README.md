@@ -284,6 +284,7 @@
 ##### Операционные системы
 * [Fedora](https://t.me/fedora) — Чат про Fedora (англ.)
 * [Russian Fedora](https://t.me/russianfedora) — Чат про Fedora (рус.)
+* [ArchLinux RU](https://t.me/archlinux_ru) — ArchLinux (рус.)
 * [freebsd_ru](https://t.me/freebsd_ru) — Чат про FreeBSD
 * [Manjaro ru](https://t.me/manjarolinux) — Чат про Manjaro Linux
 * [Свидетели ReactOS](https://t.me/reactos_ru) — Чат про ReactOS

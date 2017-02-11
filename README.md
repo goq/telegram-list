@@ -139,6 +139,7 @@
 * [pro.js](https://t.me/JSlang) — Чат про JavaScript
 * [pro.js.noobs](https://t.me/joinchat/Be4rsT3Uyr1TjmSlrRc77g) — Чат про JavaScript (для новичков)
 * [pro.jvm](https://t.me/jvmchat) — Чат про JVM
+* [learn.java](https://t.me/javastart) — Изучаем java вместе. Чат для начинающих и не только!
 * [Scala](https://t.me/scala_ru) — Чат про Scala
 * [Kotlin](https://t.me/kotlin_lang) — Чат про Kotlin
 * [Modern::Perl](https://t.me/modernperl) — Чат про Perl. Современный::Perl

@@ -373,3 +373,4 @@
 * [@spoibot](https://t.me/spoibot) — Инлайн бот для прятанья спойлер текстов за кнопку (удобно в крупных чатах)
 * [@TgRusBot](https://t.me/tgrusbot) — Бот для русификации Telegram (Android, Desktop, iOS). Работает и в инлайн-режиме.
 * [@tlgurbot](https://t.me/tlgurbot) — Предоставляет доступ по http к файлам из Телеграма.
+* [@EinfoBot](https://t.me/EinfoBot) — Бот, который ищет электронные компоненты и интегрирован в поисковую систему.

@@ -302,6 +302,8 @@
 * [Russian Fedora](https://t.me/russianfedora) — Чат про Fedora (рус.)
 * [ArchLinux RU](https://t.me/archlinux_ru) — ArchLinux (рус.)
 * [freebsd_ru](https://t.me/freebsd_ru) — Чат про FreeBSD
+* [Linux Mint Russia🇷🇺](https://t.me/LMRus) — Чат про Linux Mint (Русский)
+* [Linux Mint International](https://t.me/LMInter) — Linux Mint Chat (International)
 * [Manjaro ru](https://t.me/manjarolinux) — Чат про Manjaro Linux
 * [Свидетели ReactOS](https://t.me/reactos_ru) — Чат про ReactOS
 * [smartos_ru](https://t.me/smartos_ru) — Чат про SmartOS

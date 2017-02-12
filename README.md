@@ -187,6 +187,7 @@
 * [ООП](https://t.me/oop_ru) — Объектно-Ориентированное Программирование
 * [Fire-Monkey](https://t.me/fire_monkey) — Независимое сообщество разработчиков использующих Fire-Monkey
 * [Vue](https://t.me/vuejs_ru) — Чат про фреймворк Vue.js
+* [pro.net](https://telegram.me/joinchat/BYlFbD6uHawWMCImmbPIDw) — Сообщество разработчиков .Net
 
 ##### Системное и сетевое администрирование, телефония и телекоммуникации.
 * [RU.SYSADMIN](https://t.me/ru_sysadmin) — Чат сисадминов

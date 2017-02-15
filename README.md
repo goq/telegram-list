@@ -274,7 +274,6 @@
 * [Freelancers & Remote workers](https://t.me/ru_freelancers) — Чат практикующих и интересующихся удаленной работой и самозанятостью
 * [P2P, Mesh, Cryptocurrency, etc.](https://t.me/distributed) — Криптовалюты, p2p, mesh и другие средства личной свободы
 * [Политика](https://t.me/ru_politics) — Политические обсуждения
-* [Философия](https://t.me/ru_philosophy) — Философское кафе
 * [Инвесторы и трейдеры](https://t.me/ru_traders) — Инвестирование и торговля на бирже
 * [Borodutch](https://t.me/borodutcher) — Собрались программисты-фрилансеры-предприниматели-стартаперы и замутили свою ламповую конфу.
 * [Сообщество UX / UI - дизайнеров](https://t.me/uxchat) — uxchat.live
@@ -317,6 +316,12 @@
 * [That's Linux - общение](https://t.me/that_is_linux) — Чат про Linux
 * [ROSA Linux / Роса ОС - Российская операционная система](https://t.me/rosa_linux) — Общение и помощь пользователям ОС ROSA Linux.
 
+##### Книги, философия
+* [/bookz](https://t.me/bookz) - Читаем и обмениваемся, рецензируем и советуем, выбираем произведение недели и просто беззаботно проводим время в библиотеке. По пятницам - вечер поэзии.
+* [#Bookcrossing_spb](https://t.me/bookcrossing_spb) — Обмен книгами в Санкт-Петербурге, буккроссинг.
+* [Философия](https://t.me/ru_philosophy) — Философское кафе
+* [EducationChat](https://t.me/EducationChat) - Чат паблика [education](https://vk.com/educationgo)
+
 ##### Разное и интересное
 * [DTP :: @DTPublish](https://t.me/DTPublish) — Всё о паблишинге, полиграфии, препресс, вёрстка, дизайн
 * [radio](https://t.me/proradio) — Про радио и радиовещание. Djin
@@ -327,7 +332,6 @@
 * [Telegram Bot Developers](https://t.me/botoid) — Чат про разработку ботов в телеграме
 * [linkmeup_chat](https://t.me/linkmeup_chat) — Эфирный чат подкаста linkmeup.ru
 * [Программисты](https://t.me/coding_ru) — Чат программистов на Delphi, Lua, Python, php, C, С++, C#, Kotlin, Ruby, Golang, JavaScript и др. Флуд.
-* [#Bookcrossing_spb](https://t.me/bookcrossing_spb) — Обмен книгами в Санкт-Петербурге, буккроссинг.
 * [Web Programming](https://t.me/WebProgrammingRu) — Чат про Frontend и Backend программирование
 * [annode frontend](https://t.me/annode_frontend) — Чат по Frontend. Дизайн, верстка, фреймворки для фронтенда и много другое.
 * [annode backend](https://t.me/annode_backend) — Чат по Backend. CMS/CMF и компоненты для них, фреймворки для бекенда, базы данных и все остальное по данной тематике.

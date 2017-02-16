@@ -254,7 +254,7 @@
 
 ##### Математика и другие точные науки
 * [Мехмат МГУ](https://t.me/mechmath) — Внутренний чат Мехмата МГУ
-* [Листочки с глубинным](https://t.me/joinchat/CLH3zUAVsl_s3pMqbwvm2g) — Математический чат
+* [Листочки с глубинным](https://t.me/foreachepsilon) — Математический чат
 
 ##### Мобильная разработка
 * [Android Developers](https://t.me/android_ru) — Чат про разработку под Android. (>950)

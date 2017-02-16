@@ -271,6 +271,13 @@
 * [Битрикс работа](https://t.me/bitrix_work) — Чат про вакансии и работу в сфере Битрикса и IT
 * [Devall — Upwork](https://t.me/upworkcom) — Чат про Upwork для разработчиков
 * [QA](https://t.me/qa_jobs) — Чат про вакансии и работу в сфере тестирования
+* [Products Jobs](https://t.me/products_jobs) - Публикуем вакансии и запросы на поиск работы - управление продуктами, Growth Hacking, Cust Dev, Design Thinking, UX.
+* [Agile Jobs](https://t.me/agile_jobs) - Вакансии, связанные с Agile.
+
+##### Управление проектами, продакт-менеджмент, Agile, Kanban, SCRUM
+* [Products_ru](https://t.me/products_ru) - Общаемся на темы, посвященные управлению продуктами, Growth Hacking, Cust Dev, Design Thinking, UX, метрикам и т.д. Комьюнити более 1000 человек, доступ по инвайтам.
+* [Agile_ru](https://t.me/agile_ru) - Общаемся на темы, посвященные Agile, Scrum, Lean, XP, Kanban, инструментам повышения эффективности.
+* [Agile Games](https://t.me/agilegames) - Оффлайн игры, помогающие понять суть гибких методологий. Регулярные митапы в Москве и Питере.
 
 ##### Разные сообщества
 * [IT PPL](https://t.me/spbitpeople) – IT People: общение айтишников и про айти, и не про айти ;-)

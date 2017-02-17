@@ -45,6 +45,7 @@
 * [javaswag](https://t.me/javaswag) — дайджест интересных и полезных статей из мира Java.
 * [code_news](https://t.me/code_news) — Канал о Программировании, технологиях и алгоритмах. Только O(log n), только хардкор.
 * [ES.next News](https://t.me/esnextnews) — еженедельная рассылка новостей про Javascript от [Акселя Рошмаера](http://www.2ality.com/)
+* [Школа Веб 2.0](https://t.me/webschool_rus) — Авторский канал о веб-разработке (Ruby on Rails, UI/UX, HTML5, CSS3)
 
 ##### Каналы информации по Информационной безопасности
 * [ИБач](https://t.me/ibach) — Канал об Информационной Безопасности

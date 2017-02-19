@@ -46,6 +46,7 @@
 * [code_news](https://t.me/code_news) — Канал о Программировании, технологиях и алгоритмах. Только O(log n), только хардкор.
 * [ES.next News](https://t.me/esnextnews) — еженедельная рассылка новостей про Javascript от [Акселя Рошмаера](http://www.2ality.com/)
 * [Школа Веб 2.0](https://t.me/webschool_rus) — Авторский канал о веб-разработке (Ruby on Rails, UI/UX, HTML5, CSS3)
+* [Fsharp](https://t.me/F_Sharp) — Новости про F#. 
 
 ##### Каналы информации по Информационной безопасности
 * [ИБач](https://t.me/ibach) — Канал об Информационной Безопасности
@@ -173,6 +174,7 @@
 * [Ruby School .us](https://t.me/rubyschool) — Чат-болталка для учеников руби-школы
 * [pro.rust](https://t.me/proRust) — Чат про Rust
 * [TypeScript + Flow = ❤](https://t.me/typescript_ru) — Чат про TypeScript и Flow
+* [Fsharp Chat](https://t.me/Fsharp_chat) — Чат про F#. 
 
 ##### Фреймворки, среды разработок, библиотеки
 * [Angular.js](https://t.me/angular_js) — Чат про AngularJS 1.x

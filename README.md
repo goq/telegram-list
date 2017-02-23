@@ -47,6 +47,7 @@
 * [ES.next News](https://t.me/esnextnews) — еженедельная рассылка новостей про Javascript от [Акселя Рошмаера](http://www.2ality.com/)
 * [Школа Веб 2.0](https://t.me/webschool_rus) — Авторский канал о веб-разработке (Ruby on Rails, UI/UX, HTML5, CSS3)
 * [Fsharp](https://t.me/F_Sharp) — Новости про F#. 
+* [Потрясающий Go](https://t.me/awesomego) - Ежедневный дайджест новостей языка Go (Golang) и всего вокруг него.
 
 ##### Каналы информации по Информационной безопасности
 * [ИБач](https://t.me/ibach) — Канал об Информационной Безопасности

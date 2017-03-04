@@ -238,6 +238,7 @@
 * [glpi_ru](https://t.me/glpi_ru) — Чат о системе helpdesk и инвентаризации GLPI
 * [pro.enterprise](https://t.me/pro_enterprise) — Чат про корп.сектор: серверы, СХД, CDN, сетевое оборудование и облака.
 * [annode serv](https://t.me/annode_serv) — Чат для сисадминов. Выбор и обсуждение серверов, настройка, выбор ПО для сервера, настройка ПК, установка и настройка ОС.
+* [pro.hardware](https://t.me/joinchat/AAAAAAu5B0RAGvWGUwo5jA) — Чат про железо и аппаратную часть компьютеров :-)
 
 ##### Управление конфигурациями, development & operations engineers
 * [Ansible](https://t.me/pro_ansible) — Чат про Ansible

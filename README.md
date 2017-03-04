@@ -257,12 +257,13 @@
 * [pgsql](https://t.me/pgsql) — Чат про PostgreSQL
 * [PostgreSQL + 1C + Linux](https://t.me/PostgreSQL_1C_Linux) — Чат про особенности работы PostgreSQL и 1С на Linux
 * [Pony ORM](https://t.me/ponyorm) — Чат про Pony ORM
-* [ClickHouse](https://t.me/clickhouse_ru) — Чат про СУБД ClickHouse
+* [ClickHouse](https://t.me/clickhouse_ru) — Чат про СУБД от Яндекс ClickHouse
 
 ##### Big Data, Машинное обучение, deep learning и data science
 * [Big Data & Machine Learning](https://t.me/bigdata_ru) — Чат по большим данным, обработке и машинному обучению
 * [Data Science Chat](https://t.me/datasciencechat) — Чат по теме Data Science
 * [Apache Hadoop stack](https://t.me/hadoopusers) — Чат по всему, что связано с Apache Hadoop стеком
+* [Нейронные сети](https://t.me/joinchat/ABI4pz6rz2iVzWUzaVqpmA) — Чат по нейронным сетям
 
 ##### Математика и другие точные науки
 * [Мехмат МГУ](https://t.me/mechmath) — Внутренний чат Мехмата МГУ
@@ -370,7 +371,6 @@
 * [radio](https://t.me/proradio) — Про радио и радиовещание. Djin
 * [NOC Project](https://t.me/nocproject) — NOC Project
 * [DC7499](https://t.me/DC7499) — Чат DefCon Москва (+7 499)
-* [Нейронные сети](https://t.me/joinchat/ABI4pz6rz2iVzWUzaVqpmA) — Чат по нейронным сетям
 * [linkmeup_chat](https://t.me/linkmeup_chat) — Эфирный чат подкаста linkmeup.ru
 * [gik.me](https://t.me/gikmechat) — Чат подкаста gik.me
 * [RCmodels](https://t.me/RCmodels) — Хоббийный чат про летающие радиоуправляемые модели.
@@ -431,4 +431,3 @@
 * [@EinfoBot](https://t.me/EinfoBot) — Бот, который ищет электронные компоненты и интегрирован в поисковую систему.
 * [@parserfreelancer_bot](https://t.me/parserfreelancer_bot) — Бот, уведомляющий о появлении новой работы на разных фрилансовых сайтах
 * [@TitsBot](https://t.me/phphelperbot) [Source](https://github.com/kefzce/titsbot) — Адалт бот,фото,видео,гиф,подборки и голосовалки за лучшие фотки
-

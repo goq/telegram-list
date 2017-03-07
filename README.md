@@ -286,6 +286,7 @@
 * [Products Jobs](https://t.me/products_jobs) — Вакансии и запросы на поиск работы - управление продуктами, Growth Hacking, Cust Dev, Design Thinking, UX.
 * [Agile Jobs](https://t.me/agile_jobs) — Вакансии, связанные с Agile.
 * [FreeLance](https://t.me/getFreelance) — Чат для поиска фриланс заработка
+* [Microsoft Stack Jobs](https://t.me/microsoftstackjobs) — Чат для поиска работы в сфере Microsoft и других Enterprise технологии.
 
 ##### Управление проектами, продакт-менеджмент, Agile, Kanban, SCRUM
 * [Products_ru](https://t.me/products_ru) — Общаемся на темы, посвященные управлению продуктами, Growth Hacking, Cust Dev, Design Thinking, UX, метрикам и т.д. Комьюнити более 1000 человек, доступ по инвайтам.

@@ -94,7 +94,7 @@
 * [Трактор на Джинне](https://t.me/djinni_relocate) — Предложения на релокейт для программистов в Европу и США
 * [Devaller](https://t.me/devaller) — Вакансии от сообщества Devall
 * [php_jobs](https://t.me/php_jobs) — Вакансии и запросы на поиск работы по направлению PHP, Laravel, Symfony, Yii и т.д.
-* [sysadmin_jobs](https://t.me/sysadmin_jobs) - Вакансии для системных администраторов
+* [sysadmin_jobs](https://t.me/sysadmin_jobs) — Вакансии для системных администраторов
 
 ##### Погода
 * [Погода СПБ](https://t.me/weatherSPB) — Погода в Санкт-Петербурге
@@ -240,6 +240,7 @@
 * [pro.enterprise](https://t.me/pro_enterprise) — Чат про корп.сектор: серверы, СХД, CDN, сетевое оборудование и облака.
 * [annode serv](https://t.me/annode_serv) — Чат для сисадминов. Выбор и обсуждение серверов, настройка, выбор ПО для сервера, настройка ПК, установка и настройка ОС.
 * [pro.hardware](https://t.me/joinchat/AAAAAAu5B0RAGvWGUwo5jA) — Чат про железо и аппаратную часть компьютеров :-)
+* [AWS ru](https://t.me/aws_ru) — Чат про Amazon Web Services
 
 ##### Управление конфигурациями, development & operations engineers
 * [Ansible](https://t.me/pro_ansible) — Чат про Ansible

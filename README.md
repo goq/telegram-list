@@ -94,6 +94,7 @@
 * [Трактор на Джинне](https://t.me/djinni_relocate) — Предложения на релокейт для программистов в Европу и США
 * [Devaller](https://t.me/devaller) — Вакансии от сообщества Devall
 * [php_jobs](https://t.me/php_jobs) — Вакансии и запросы на поиск работы по направлению PHP, Laravel, Symfony, Yii и т.д.
+* [sysadmin_jobs](https://t.me/sysadmin_jobs) - Вакансии для системных администраторов
 
 ##### Погода
 * [Погода СПБ](https://t.me/weatherSPB) — Погода в Санкт-Петербурге

@@ -187,8 +187,8 @@
 * [Angular 2](https://t.me/angular2) — Чат про AngularJS 2.x
 * [Django](https://t.me/pydjango) — Чат про Django
 * [Joomla! по-русски](https://t.me/joomlaru) — Чат про Joomla!
-* [Laravel](https://t.me/laravel_pro) — Чат про Laravel (~450 человек)
-* [Laravel Russia](https://t.me/ru_laravel) — Чат про Laravel (~120 человек)
+* [Laravel Oficial](https://t.me/laravel_pro) — Чат про Laravel (~480 человек)
+* [Laravel Russia](https://t.me/laravelrus) — Чат про Laravel (~230 человек)
 * [Yii Framework](https://t.me/yii2ru) — Чат про любимый Yii :-D
 * [React Native](https://t.me/reactnative_ru) — Чат про React Native
 * [Node.js](https://t.me/nodejs_ru) — Чат по NodeJS

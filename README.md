@@ -323,6 +323,7 @@
 * [IT Security Talk](https://t.me/itsectalk) – IT Security Talk (english)
 * [IT Lobby Irkutsk](https://t.me/joinchat/CD0D_D31vVD8L1FO4UutnQ) — чат ITишников города Иркутск
 * [Hacker May Cry](https://t.me/mrl_hack) — Чат для взаимопомощи в сфере информационной безопасности, хакинга и программирования.
+* [Блудливая Калифорния](https://t.me/bludcaliforni) — Чат для общения, знакомств и совместных встреч в Москве и области.
 
 ##### Электроника, микроконтроллеры и встраиваемые системы
 * [Catethysis](https://t.me/telecatethysis) — Чат про электронику, программирование микроконтроллеров, stm32

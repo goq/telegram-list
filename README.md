@@ -1,6 +1,6 @@
 # telegram-list
 
-Список интересных групп, каналов и ботов телеграма.
+Список интересных групп, каналов и ботов телеграма. Чаты Telegram для программистов, гиков, айтишников, и прочих неравнодушных к компьютерам и программированию.
 
 Уважаемые коллеги, если у вас есть интересные каналы, группы, чаты, или боты, пожалуйста присылайте свои предложения и пулреквесты. Мы с большим удовольствием расширим наш полезный для всех список.
 
@@ -341,8 +341,11 @@
 * [YouTube.Чат](https://t.me/youtube_chat) — Видеоблоггинг, продвижение, контент и реклама на ютуб.
 
 ##### Операционные системы
-* [ArchLinux RU](https://t.me/archlinux_ru) — ArchLinux (рус.)
+* [ArchLinux RU](https://t.me/archlinux_ru) — ArchLinux (рус.)\
+* [Antegros](https://t.me/joinchat/AAAAAEKGOtHIG4VB15M18A) — Чат про Antegros (Arch based)
 * [Calculate Linux](https://t.me/calculate_linux) — Чат про Calculate Linux (Gentoo based)
+* [CentOS](https://t.me/CentOSRu) — Чат про CentOS
+* [Debian](https://t.me/DebianRu) — Чат про Debian
 * [Fedora](https://t.me/fedora) — Чат про Fedora (англ.)
 * [Russian Fedora](https://t.me/russianfedora) — Чат про Fedora (рус.)
 * [freebsd_ru](https://t.me/freebsd_ru) — Чат про FreeBSD
@@ -351,6 +354,7 @@
 * [Linux Mint Russia 🇷🇺](https://t.me/LMRus) — Чат про Linux Mint (Русский)
 * [Linux Mint International](https://t.me/LMInter) — Linux Mint Chat (International)
 * [Manjaro ru](https://t.me/manjarolinux) — Чат про Manjaro Linux
+* [openSuse](https://t.me/OpenSuseRu) — Чат про openSuse
 * [Свидетели ReactOS](https://t.me/reactos_ru) — Чат про ReactOS
 * [ROSA Linux / Роса ОС - Российская операционная система](https://t.me/rosa_linux) — Общение и помощь пользователям ОС ROSA Linux.
 * [smartos_ru](https://t.me/smartos_ru) — Чат про SmartOS

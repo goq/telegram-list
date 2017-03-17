@@ -35,6 +35,7 @@
 * [For Web](https://t.me/forwebdev) — Канал новостей для веб-разработчиков
 * [pro.elixir_news](https://t.me/proelixir_news) — Новости из мира Elixir
 * [Frontend Raccoon](https://t.me/frontendraccoon) — Новости сообщества Frontend Raccoon
+* [Мобайл: дизайн и разработка](https://t.me/aboutmobile) — Канал для всех, кто создает мобильные приложения
 * [Android Дичь](https://t.me/shitty_android) — Тщательно отобранные статьи и доклады по Android-разработке и смежным темам
 * [Annode News](https://t.me/annode_news) — Подборка самых интересных статей/новостей/уроков
 * [TM Feed](https://t.me/tmfeed) — Лента публикаций с Хабра и Гиктаймс

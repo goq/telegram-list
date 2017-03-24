@@ -206,6 +206,7 @@
 * [pro.net](https://telegram.me/joinchat/BYlFbD6uHawWMCImmbPIDw) — Сообщество разработчиков .Net
 * [WordPress – русскоговорящее сообщество](https://t.me/wordpress1) — Чат про WordPress (~160)
 * [Wordpress for developers](https://t.me/wp4dev) — Группа для разработчиков на WordPress
+* [Netbeans](https://t.me/netbeans_ru) — Группа для тех, кто использует среду разработки Netbeans
 
 ##### Сообщества разработчиков и программистов
 * [Microsoft Developer Chat](https://t.me/msdevchat) – Сообщество разработчиков под платформу Microsoft

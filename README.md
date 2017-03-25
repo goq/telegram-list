@@ -351,6 +351,7 @@
 * [Russian Fedora](https://t.me/russianfedora) — Чат про Fedora (рус.)
 * [freebsd_ru](https://t.me/freebsd_ru) — Чат про FreeBSD
 * [Gentoo](https://t.me/russian_gentoo) — Чат про Gentoo
+* [KDE neon users](https://t.me/kdeneon) - English speaking community of KDE neon
 * [LineageOS RU](https://t.me/Lineageos_ru) — Групповой чат русскоязычного сообщества LineageOS.
 * [Linux Mint Russia 🇷🇺](https://t.me/LMRus) — Чат про Linux Mint (Русский)
 * [Linux Mint International](https://t.me/LMInter) — Linux Mint Chat (International)

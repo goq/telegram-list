@@ -51,6 +51,7 @@
 * [Fsharp](https://t.me/F_Sharp) — Новости про F#. 
 * [Потрясающий Go](https://t.me/awesomego) — Ежедневный дайджест новостей языка Go (Golang) и всего вокруг него.
 * [FrontEnd Development](https://t.me/fedevelopment) — Канал ежедневно публикует полезные ссылки, новости из мира фронтент разработки.
+* [Internet of things Community](https://t.me/IoT_community) — Канал IoT сообщества. Новости Интернета вещей и анонсы встреч сообщества.
 
 ##### Каналы информации по Информационной безопасности
 * [ИБач](https://t.me/ibach) — Канал об Информационной Безопасности
@@ -221,6 +222,9 @@
 * [Разработка для чайников](https://t.me/ru_devchat) — Чат для разработчиков. Флуд.
 * [Telegram Bot Developers](https://t.me/botoid) — Чат про разработку ботов в телеграме
 * [R0 Crew](https://t.me/R0_Crew) — Ъ Сообщество реверс-инженеров. 
+* [IoT Community chat](https://t.me/Iot_chat) — Чат Internet fo Things сообщества. 
+
+
 
 ##### Системное и сетевое администрирование, телефония и телекоммуникации.
 * [RU.SYSADMIN](https://t.me/ru_sysadmin) — Чат Сисадминов

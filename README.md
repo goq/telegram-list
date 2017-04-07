@@ -300,7 +300,7 @@
 
 ##### Разные сообщества
 * [IT PPL](https://t.me/spbitpeople) – IT People: общение айтишников и про айти, и не про айти ;-)
-* [SPbLUG](https://t.me/spblug) — Чат Saint-Petersburg Linux User Group
+* [SPbLUG](https://t.me/newspblug) — Чат Saint-Petersburg Linux User Group
 * [קהילה יהודית](https://t.me/ru_jews) — Еврейская община / Виртуальная синагога
 * [Piter Py Conference](https://t.me/PiterPy) — Ежегодная Python конференция Piter Py
 * [DC7499](https://t.me/DEFCON) — DefCon Russia

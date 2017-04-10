@@ -186,6 +186,7 @@
 * [Fsharp Chat](https://t.me/Fsharp_chat) — Чат про F#. 
 
 ##### Фреймворки, среды разработок, библиотеки
+* [1C](https://t.me/ru_1c) - Чат про "1С:Предприятие"
 * [Angular.js](https://t.me/angular_js) — Чат про AngularJS 1.x
 * [Angular 2](https://t.me/angular2) — Чат про AngularJS 2.x
 * [Django](https://t.me/pydjango) — Чат про Django

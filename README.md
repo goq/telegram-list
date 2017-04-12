@@ -314,7 +314,6 @@
 * [Нейронные сети](https://t.me/joinchat/ABI4pz6rz2iVzWUzaVqpmA) — Чат про нейронные сети сообщества Chatbots
 * [spb_auto](https://t.me/spb_auto) — Чат сообщества spb_auto
 * [Погромисты-трактористы](https://t.me/pogromisty) — Опыт миграции в другие страны, вакансии
-* [ITишники в Бангкоке](https://t.me/usr_local_bkk) — Чат ITшников, мигрировавших в Bangkok (Thailand)
 * [ru-board group](https://t.me/ru_board) — Группа популярного форума Ru-Board
 * [QA](https://t.me/qa_ru) — Чат русскоязычного сообщества тестировщиков
 * [Freelancers & Remote workers](https://t.me/ru_freelancers) — Чат практикующих и интересующихся удаленной работой и самозанятостью

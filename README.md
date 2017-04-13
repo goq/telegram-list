@@ -375,7 +375,7 @@
 * [iHack - Hackintosh & Jailbreak](https://t.me/macosx86) — Чат про Хакинтош и MacOS
 * [That's Linux - общение](https://t.me/that_is_linux) — Чат про Linux
 * [Xubuntu-ru.net](https://t.me/xubuntu_runet) — Русскоязычное сообщество Xubuntu
-* [pro.MacOS](https://t.me/proMacOS) — Чат про macOS и BSD-софт
+* [macOS ru](https://t.me/macOS_ru) — Русскоязычное сообщество macOS
 
 ##### Книги, философия
 * [/bookz](https://t.me/bookz) — Читаем и обмениваемся, рецензируем и советуем, выбираем произведение недели и просто беззаботно проводим время в библиотеке. По пятницам - вечер поэзии.

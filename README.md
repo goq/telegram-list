@@ -170,7 +170,7 @@
 * [pro.python](https://t.me/propython) — Чат про Python. (~320 человек)
 * [javascript_ru](https://t.me/javascript_ru) — Чат про JavaScript.
 * [css_ru](https://t.me/css_ru) — Чат про CSS и немного HTML
-* [Python_beginners](https://t.me/python_beginners) — Чат про Python для новичков (~500)
+* [Python_beginners](https://t.me/ru_python_beginners) — Чат про Python для новичков
 * [Rude Python](https://t.me/rudepython) — Грубый чат про Python (для мужиков)
 * [phpGeeks](https://t.me/phpgeeks) — Чат про PHP. (~1300)
 * [phpclub](https://t.me/phpclubru) — Чат про PHP

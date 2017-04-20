@@ -251,6 +251,7 @@
 * [pro.hardware](https://t.me/joinchat/AAAAAAu5B0RAGvWGUwo5jA) — Чат про железо и аппаратную часть компьютеров :-)
 * [AWS ru](https://t.me/aws_ru) — Чат про Amazon Web Services
 * [Network Attached Storage](https://t.me/ru_nas) — Чат про NAS
+* [SpecialistOff.NET](https://t.me/specialistoffnet) - Чат для сетевых и системных администраторов, и программистов
 
 ##### Управление конфигурациями, development & operations engineers
 * [Ansible](https://t.me/pro_ansible) — Чат про Ansible

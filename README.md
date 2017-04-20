@@ -14,7 +14,7 @@
 * [L'homme qui pleure](https://t.me/lhommequipleure) — Персональный канал Александра Чистякова ([@demeliorator](https://t.me/))
 * [Веб-стандарты](https://t.me/webstandards_ru) — Новости фронтенда от "Веб-стандартов"
 * [opennet news](https://t.me/opennews) — Новости opennet
-* [SPbLUG news](https://t.me/spblug_news) — Канал новостей SPbLUG
+* [SPbLUG news](https://t.me/spblug) — Канал новостей Санкт-Петербургской группы пользователей Linux (SPbLUG)
 * [DevOps news](https://t.me/devops_news) — Новости DevOps
 * [DevOps Deflope News](https://t.me/devops_deflope) — Новостной канал DevOps
 * [Geeks](https://t.me/g33ks) — Статьи и новости. Для гиков и от гиков.

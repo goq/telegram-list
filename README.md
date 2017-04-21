@@ -1,6 +1,6 @@
 # telegram-list
 
-Список интересных групп, каналов и ботов телеграма. Чаты Telegram для программистов, гиков, айтишников, и прочих неравнодушных к компьютерам и программированию.
+Список интересных групп, каналов и ботов телеграма. Чаты Telegram для программистов и разработчиков, гиков, айтишников, сисадминов и девопсов, а также прочих неравнодушных к компьютерам и программированию.
 
 Уважаемые коллеги, если у вас есть интересные каналы, группы, чаты, или боты, пожалуйста присылайте свои предложения и пулреквесты. Мы с большим удовольствием расширим наш полезный для всех список.
 
@@ -124,10 +124,10 @@
 * [Лайфхаки.Тревел](https://t.me/travelhacks) — Тревелхаки для путешественников. Что смотреть, что пропустить, как не потеряться в любой точке мира.
 
 ##### Разные и интересные каналы
+* [The After Times](https://t.me/theaftertimes) — Паста, мысли, критика.
 * [#All-im-One Person](https://t.me/themarfa) — канал о технологиях, стартапах, автоматизации, лайфхаках и продуктивности. Экспертные советы по Evernote, Google и многому другому.
 * [#Тыжпрограммист /dev/null](https://t.me/yourProger) — развлекательные IT-паблики в одном месте.
 * [Edimhorosho](https://t.me/edimhorosho) — Новости и статьи из мира кулинарии. Едим хорошо!
-* [The After Times](https://t.me/theaftertimes) — Паста, мысли, критика.
 * [Robotics](https://t.me/robotics_channel) — Робототехника, нейросети, киборги (свежие новости, обзоры разработок и интересные статьи).
 * [Product-Shmoduct](https://t.me/productshmoduct) — Диджитал продукты и продакт менеджмент
 * [#LifeStories](https://t.me/LifeStoriesRU) — жизненные истории из VK-пабликов в одном месте.
@@ -176,11 +176,10 @@
 * [css_ru](https://t.me/css_ru) — Чат про CSS и немного HTML
 * [Python_beginners](https://t.me/ru_python_beginners) — Чат про Python для новичков
 * [Rude Python](https://t.me/rudepython) — Грубый чат про Python (для мужиков)
-* [phpGeeks](https://t.me/phpgeeks) — Чат про PHP. (~1300)
-* [phpclub](https://t.me/phpclubru) — Чат про PHP
-* [prophp](https://t.me/prophp7) — Чат про современный PHP (~330 человек)
-* [php.ru](https://t.me/ru_php) — php.ru (~50 человек)
-* [Devall — PHP](https://t.me/joinchat/AAtJOjx9l5F9IhkHIIVP9Q) — Чат про PHP. Флуд
+* [phpGeeks](https://t.me/phpgeeks) — Чат про PHP. (~1400)
+* [phpclub](https://t.me/phpclubru) — Чат про PHP (~450)
+* [prophp](https://t.me/prophp7) — Чат про современный PHP (~430 человек)
+* [Devall — PHP](https://t.me/joinchat/AAtJOjx9l5F9IhkHIIVP9Q) — Чат про PHP. Флуд (~200)
 * [pro.ruby](https://t.me/proRuby) — Чат про Ruby
 * [Ruby & RoR](https://t.me/rubylang) — Чат про Ruby и Ruby on Rails
 * [Ruby School .us](https://t.me/rubyschool) — Чат-болталка для учеников руби-школы
@@ -228,8 +227,6 @@
 * [Telegram Bot Developers](https://t.me/botoid) — Чат про разработку ботов в телеграме
 * [R0 Crew](https://t.me/R0_Crew) — Ъ Сообщество реверс-инженеров. 
 * [IoT Community chat](https://t.me/Iot_chat) — Чат Internet fo Things сообщества. 
-
-
 
 ##### Системное и сетевое администрирование, телефония и телекоммуникации.
 * [RU.SYSADMIN](https://t.me/ru_sysadmin) — Чат Сисадминов

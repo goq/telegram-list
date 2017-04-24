@@ -221,9 +221,8 @@
 * [SPb Python](https://t.me/spbpython) — Saint-Petersburg Python Interest Group
 * [Программисты](https://t.me/coding_ru) — Чат программистов на Delphi, Lua, Python, php, C, С++, C#, Kotlin, Ruby, Golang, JavaScript и др. Флуд.
 * [codingteam](https://t.me/codingteam) — Кроссплатформенное сообщество инженеров и программистов.
-* [Web Programming](https://t.me/WebProgrammingRu) — Чат про Frontend и Backend программирование
-* [annode frontend](https://t.me/annode_frontend) — Чат по Frontend. Дизайн, верстка, фреймворки для фронтенда и много другое.
-* [annode backend](https://t.me/annode_backend) — Чат по Backend. CMS/CMF и компоненты для них, фреймворки для бекенда, базы данных и все остальное по данной тематике.
+* [annode chat](https://t.me/annode) — Сообщество ресурса annode для веб программистов. Frontend, Backend, CMS, БД и дрогое связанное с миром веба
+* [annode design](https://t.me/annode_design) — Чат ресурса annode по UX/UI дизайну
 * [Разработка для чайников](https://t.me/ru_devchat) — Чат для разработчиков. Флуд.
 * [Telegram Bot Developers](https://t.me/botoid) — Чат про разработку ботов в телеграме
 * [R0 Crew](https://t.me/R0_Crew) — Ъ Сообщество реверс-инженеров. 

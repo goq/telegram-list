@@ -339,6 +339,7 @@
 * [ru_CAD](https://t.me/ru_CAD) — САПР.
 * [Английский язык](https://t.me/eng_for_rus) — Изучаем английский язык вместе.
 * [LinuxCoders](https://t.me/linuxcoders) — Флудилка для кодеров, использующих Linux
+* [Be Tux [Unix, Linux, OpenSource]](https://t.me/Be_Tux) — Чат обитателей мира Unix, Linux, OpenSource
 
 ##### Электроника, микроконтроллеры и встраиваемые системы
 * [Catethysis](https://t.me/telecatethysis) — Чат про электронику, программирование микроконтроллеров, stm32

@@ -6,8 +6,12 @@
 
 Быстрый доступ:
 [Список каналов](https://github.com/goq/telegram-list#Каналы)
+
 [Список групп и чатов](https://github.com/goq/telegram-list#Группы-и-чаты)
+
 [Список ботов](https://github.com/goq/telegram-list#Боты)
+
+-----
 
 * [Telegram Group List](https://t.me/listnews) — Официальный канал новостей этого списка групп
 * [Telegram Group List Chat](https://t.me/grouplst) — Чат списка: обсуждения, предложения и идеи.

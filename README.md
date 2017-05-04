@@ -7,6 +7,7 @@
 * [Telegram Group List](https://t.me/listnews) — Официальный канал новостей этого списка групп
 * [Telegram Group List Chat](https://t.me/grouplst) — Чат списка: обсуждения, предложения и идеи.
 
+Канал недели:
 * [Котики Кодят](https://t.me/ccoder) — Официальный канал нашего дайджеста-подкаста "Котики Кодят". Актуальные новости про разработку, программистов, и сопутствующие темы.
 
 -----
@@ -73,6 +74,7 @@
 * [Apache Hadoop stack](https://t.me/hadoopusers) — Новости сообщества Apache Hadoop
 * [Tehnojam.pro](https://t.me/tehnojam) — Лента публикаций сайта ТехноДжем.
 * [QUANTUM QUINTUM](https://t.me/quantumquintum) — Канал Константина Кичинского (Technical Evangelism Lead в Microsoft), короткие заметки про Microsoft и технологии
+
 [(Назад к меню)](#Меню)
 
 ##### Каналы по программированию и разработке ПО
@@ -101,6 +103,7 @@
 * [Internet of things Community](https://t.me/IoT_community) — Канал IoT сообщества. Новости Интернета вещей и анонсы встреч сообщества.
 * [Удивительный Python](https://t.me/awesomepython) — Ежедневный дайджест новостей языка Python.
 * [Экстраполяция IT](https://t.me/itextrapolation) — Авторский канал об IT, аутсорсе, продуктах и программировании.
+
 [(Назад к меню)](#Меню)
 
 ##### Каналы информации по Информационной безопасности
@@ -109,6 +112,7 @@
 * [Hacker News En](https://t.me/hacker_news_feed) — Hacker News (english)
 * [IT Security Alerts](https://t.me/itsecalert) — Оповещение о крупных уязвимостях в софте и сервисах
 * [Информация опасносте](https://t.me/alexmakus) — New! Информация опасносте
+
 [(Назад к меню)](#Меню)
 
 ##### Информационные и новостные каналы по Data science, Big Data, Машинному обучению и deep learning.
@@ -116,10 +120,12 @@
 * [Data Science](https://t.me/opendatascience) — Первый новостной канал про data science
 * [Deep Learning Russia](https://t.me/deeplearning_ru) — Канал сообщества vk.com/deeplearning_ru
 * [Чаты и группы телеграма по теме](#big-data-Машинное-обучение-deep-learning-и-data-science)
+
 [(Назад к меню)](#Меню)
 
 ##### Музыка
 * [DFF Радио](https://t.me/dffradio) — DFF Радио. Выпускают миксы в канал два раза в неделю.
+
 [(Назад к меню)](#Меню)
 
 ##### Каналы по бизнесу и стартапам
@@ -127,6 +133,7 @@
 * [Тёмная сторона](https://t.me/temno) — Канал по бизнесу "Темная сторона"
 * [Мини-бизнес по-русски](https://t.me/piznes) — Мини-бизнес по-русски
 * [PRO Стартапы и бизнес](https://t.me/startupnews) — Новости про стартапы и бизнес
+
 [(Назад к меню)](#Меню)
 
 ##### Каталоги каналов, групп, чатов, ботов
@@ -135,6 +142,7 @@
 * [Телеграм-маркетинг](https://t.me/tgmarketing) — Канал о продвижении каналов, ботов, чатов в мессенжерах
 * [Коллекция групп pro](https://t.me/proDOT) — Канал коллекции групп pro.
 * [Каталог чатов, каналов и ботов в Telegram](https://t.me/CatalogTelegram) – Структуризированный каталог.
+
 [(Назад к меню)](#Меню)
 
 ##### Библиотеки и базы данных
@@ -143,6 +151,7 @@
 * [Библиотека Python](https://t.me/ru_python_books) — Канал-библиотека с книгами, журналами и статьями по языку программирования Python (активный)
 * [Библиотека Golang](https://t.me/joinchat/Be4rsT2X7QRJmDbFbnAcnQ) — Канал-библиотека по языку программирования Golang (пустующий)
 * [справочник "Единой России"](https://t.me/joinchat/ACqUWT8mxfwM8vgXxxFqQQ) — Телефонный справочник "Единой России" в Госдуме РФ :-D
+
 [(Назад к меню)](#Меню)
 
 ##### Вакансии
@@ -154,6 +163,7 @@
 * [Devaller](https://t.me/devaller) — Вакансии от сообщества Devall
 * [php_jobs](https://t.me/php_jobs) — Вакансии и запросы на поиск работы по направлению PHP, Laravel, Symfony, Yii и т.д.
 * [sysadmin_jobs](https://t.me/sysadmin_jobs) — Вакансии для системных администраторов
+
 [(Назад к меню)](#Меню)
 
 ##### Погода
@@ -161,6 +171,7 @@
 * [Метеорадар Санкт-Петербург](https://t.me/piterweathergif) — Метеорадар Санкт-Петербург
 * [Метеорадар Москва](http://telegram.me/mskweathergif) — Метеорадар Москва
 * [Метеорадар Сочи](http://telegram.me/sochiweathergif) — Метеорадар Сочи
+
 [(Назад к меню)](#Меню)
 
 ##### SEO, SMM и Копирайтинг
@@ -168,6 +179,7 @@
 * [SMM в Telegram](https://t.me/aboutSMM) — Канал про SMM
 * [Главред](https://t.me/glvrdru) — Канал Максима Ильяхова про текст. Советы и статьи о тексте, редактуре, информационном стиле и рекламе.
 * [Паша и его прокрастинация](https://t.me/abbsol) — Как писать текст, проблемы пишущих, правила русского языка, советы писателей, книги о ремесле.
+
 [(Назад к меню)](#Меню)
 
 ##### Медицина
@@ -176,11 +188,13 @@
 * [Dental Jedi](https://t.me/dentaljedi) — Канал о буднях стоматолога
 * [Юный техно-врач](https://t.me/ibrablogs) — Два раза в неделю «медистории» — интересные случаи из практики врачей. Раз в неделю «медссылки» — открытия и технологии в медицине за последнюю неделю. А ещё, «медгаджеты» и интересные «пометки».
 * [Медицина](https://telegram.me/medkanal) — Самые актуальные новости медицины. Медицинская информация из первых рук. Советы и рекомендации от врачей и подписчиков.
+
 [(Назад к меню)](#Меню)
 
 ##### Путешествия
 * [TravelCheap](https://t.me/TravelCheap) — Горящие билеты и туры, промоакции, лайфхаки для путешественников - все в одном месте.
 * [Лайфхаки.Тревел](https://t.me/travelhacks) — Тревелхаки для путешественников. Что смотреть, что пропустить, как не потеряться в любой точке мира.
+
 [(Назад к меню)](#Меню)
 
 ##### Разные и интересные каналы
@@ -199,7 +213,9 @@
 * [about #Moscow](https://t.me/aboutmoscow) — Интересные ссылки, события, новости, фото и видео о Москве и не только. Делимся тем, что интересно нам самим.
 * [Кинопаблик](https://t.me/anonhownow) — Канал про кино. Кинопаблик.
 * [MobiDevices](https://t.me/mobidevices) — Красивый журнал о технологиях.
+
 [(Назад к меню)](#Меню)
+
 ##### Санкт-Петербург. Новости, полезная информация
 * [Вице-губернатор Санкт-Петербурга](https://t.me/IgorAlbin) — Вице-губернатор Санкт-Петербурга. Для официальных обращений: albin@vg.gov.spb.ru
 * [Новости районов Санкт-Петербурга](https://t.me/petrolenspb) — Новости районов Санкт-Петербурга
@@ -249,6 +265,7 @@
 * [Moscow.rb](https://t.me/moscowrb) — Московское сообщество Ruby
 * [pro.rust](https://t.me/proRust) — Чат про Rust
 * [TypeScript + Flow = ❤](https://t.me/typescript_ru) — Чат про TypeScript и Flow
+
 [(Назад к меню)](#Меню)
 
 ##### Фреймворки, среды разработок, библиотеки
@@ -276,6 +293,7 @@
 * [WordPress – русскоговорящее сообщество](https://t.me/wordpress1) — Чат про WordPress (~160)
 * [Wordpress for developers](https://t.me/wp4dev) — Группа для разработчиков на WordPress
 * [Netbeans](https://t.me/netbeans_ru) — Группа для тех, кто использует среду разработки Netbeans
+
 [(Назад к меню)](#Меню)
 
 ##### Сообщества разработчиков и программистов
@@ -292,6 +310,7 @@
 * [R0 Crew](https://t.me/R0_Crew) — Ъ Сообщество реверс-инженеров. 
 * [IoT Community chat](https://t.me/Iot_chat) — Чат Internet fo Things сообщества.
 * [pro.algorithms](https://t.me/proalgorithms) — Группа по обсуждению алгоритмов, разных архитектурных решений, паттернов проектирования и прикладной математики.
+
 [(Назад к меню)](#Меню)
 
 ##### Системное и сетевое администрирование, телефония и телекоммуникации.
@@ -318,6 +337,7 @@
 * [AWS ru](https://t.me/aws_ru) — Чат про Amazon Web Services
 * [Network Attached Storage](https://t.me/ru_nas) — Чат про NAS
 * [SpecialistOff.NET](https://t.me/specialistoffnet) — Официальная группа (чат) [SpecialistOff.NET](http://specialistoff.net/) администраторов и программистов
+
 [(Назад к меню)](#Меню)
 
 ##### Управление конфигурациями, development & operations engineers
@@ -330,6 +350,7 @@
 * [Puppet](https://t.me/puppet_ru) — Чат про Puppet и управление конфигурациями
 * [Kubernetes](https://t.me/kubernetes_ru) — Чат про Kubernetes
 * [Метрики](https://t.me/metrics_ru) — Чат про метрики, мониторинг и анализ данных
+
 [(Назад к меню)](#Меню)
 
 ##### Базы Данных
@@ -340,6 +361,7 @@
 * [PostgreSQL + 1C + Linux](https://t.me/PostgreSQL_1C_Linux) — Чат про особенности работы PostgreSQL и 1С на Linux
 * [Pony ORM](https://t.me/ponyorm) — Чат про Pony ORM
 * [ClickHouse](https://t.me/clickhouse_ru) — Чат про СУБД от Яндекс ClickHouse
+
 [(Назад к меню)](#Меню)
 
 ##### Big Data, Машинное обучение, deep learning и data science
@@ -347,17 +369,20 @@
 * [Data Science Chat](https://t.me/datasciencechat) — Чат по теме Data Science
 * [Apache Hadoop stack](https://t.me/hadoopusers) — Чат по всему, что связано с Apache Hadoop стеком
 * [Нейронные сети](https://t.me/joinchat/ABI4pz6rz2iVzWUzaVqpmA) — Чат про нейронные сети
+
 [(Назад к меню)](#Меню)
 
 ##### Математика и другие точные науки
 * [Мехмат МГУ](https://t.me/mechmath) — Внутренний чат Мехмата МГУ
 * [Листочки с глубинным](https://t.me/foreachepsilon) — Математический чат
+
 [(Назад к меню)](#Меню)
 
 ##### Мобильная разработка
 * [Android Developers](https://t.me/android_ru) — Чат про разработку под Android. (>950)
 * [iOS Developers](https://t.me/ios_ru) — Чат про разработку под iOS
 * [Xamarin Developers](https://t.me/xamarin_russia) — Чат про разработку на платформе Xamarin под Android, IOS, Windows, MacOs
+
 [(Назад к меню)](#Меню)
 
 ##### Вакансии и работа
@@ -372,12 +397,14 @@
 * [Agile Jobs](https://t.me/agile_jobs) — Вакансии, связанные с Agile.
 * [FreeLance](https://t.me/getFreelance) — Чат для поиска фриланс заработка
 * [Microsoft Stack Jobs](https://t.me/microsoftstackjobs) — Чат для поиска работы в сфере Microsoft и других Enterprise технологии.
+
 [(Назад к меню)](#Меню)
 
 ##### Управление проектами, продакт-менеджмент, Agile, Kanban, SCRUM
 * [Products_ru](https://t.me/products_ru) — Общаемся на темы, посвященные управлению продуктами, Growth Hacking, Cust Dev, Design Thinking, UX, метрикам и т.д. Комьюнити более 1000 человек, доступ по инвайтам.
 * [Agile_ru](https://t.me/agile_ru) — Общаемся на темы, посвященные Agile, Scrum, Lean, XP, Kanban, инструментам повышения эффективности.
 * [Agile Games](https://t.me/agilegames) — Оффлайн игры, помогающие понять суть гибких методологий. Регулярные митапы в Москве и Питере.
+
 [(Назад к меню)](#Меню)
 
 ##### Разные IT-сообщества
@@ -401,6 +428,7 @@
 * [ru_CAD](https://t.me/ru_CAD) — САПР.
 * [LinuxCoders](https://t.me/linuxcoders) — Флудилка для кодеров, использующих Linux
 * [Be Tux [Unix, Linux, OpenSource]](https://t.me/Be_Tux) — Чат обитателей мира Unix, Linux, OpenSource
+
 [(Назад к меню)](#Меню)
 
 ##### Разные не IT-сообщества
@@ -415,6 +443,7 @@
 * [Яндекс Народная Карта](https://t.me/YandexPeopleMap) – неофициальная группа НЯК.
 * [Блудливая Калифорния](https://t.me/bludcaliforni) — Чат для общения, знакомств и совместных встреч в Москве и области.
 * [Английский язык](https://t.me/eng_for_rus) — Изучаем английский язык вместе.
+
 [(Назад к меню)](#Меню)
 
 ##### Электроника, микроконтроллеры и встраиваемые системы
@@ -422,6 +451,7 @@
 * [pro.embedded](https://t.me/proembedded) — Чат про встраиваемые системы
 * [Про электронику](https://t.me/ru_electronics) — QA чат для решения вопросов, связанных с электроникой. На линии работает контроль. 
 * [Анархическая электроника](https://t.me/ru_arduino) — Сателлит [@ru_electronics](https://t.me/ru_electronics) с [около]электронными темами.
+
 [(Назад к меню)](#Меню)
 
 ##### SMM, SEO, Стартапы, Бизнес в интернете
@@ -432,6 +462,7 @@
 * [PRO Стартапы и бизнес](https://t.me/startupchat) — Чат про стартапы и бизнес
 * [Мини-бизнес чат](https://t.me/pizneschat) — Чат про мини-бизнес
 * [YouTube.Чат](https://t.me/youtube_chat) — Видеоблоггинг, продвижение, контент и реклама на ютуб.
+
 [(Назад к меню)](#Меню)
 
 ##### Операционные системы
@@ -459,6 +490,7 @@
 * [pro.windows](https://t.me/joinchat/Be4rsT5IrA8x69FnrpMMvw) — Чат про Windows
 * [That's Linux - общение](https://t.me/that_is_linux) — Чат про Linux
 * [Xubuntu-ru.net](https://t.me/xubuntu_runet) — Русскоязычное сообщество Xubuntu
+
 [(Назад к меню)](#Меню)
 
 ##### Книги, философия
@@ -466,6 +498,7 @@
 * [#Bookcrossing_spb](https://t.me/bookcrossing_spb) — Обмен книгами в Санкт-Петербурге, буккроссинг.
 * [Философия](https://t.me/ru_philosophy) — Философское кафе
 * [EducationChat](https://t.me/EducationChat) — Чат паблика [education](https://vk.com/educationgo)
+
 [(Назад к меню)](#Меню)
 
 ##### Медицина
@@ -473,6 +506,7 @@
 * [Кардиология](https://t.me/cardiologlove) — Чат для кардиологов, пациентов, и просто интересующихся.
 * [Септопластика](https://t.me/septoplastic) — Чат о септопластике (исправление перегородки носа)
 * [Эндокринология](https://t.me/endocrinologlove) — Чат для интересующихся эндокринологией в том или ином виде.
+
 [(Назад к меню)](#Меню)
 
 ##### Разное и интересное
@@ -496,6 +530,7 @@
 * [Новосибирский чат](https://t.me/nskchat) — Чат для общения в Новосибирске и области.
 * [Саратов (публичный чат)](https://t.me/saratov_public) — Публичный чат города Саратов
 * [Киночат](https://t.me/chatanonhownow) — Киночат
+
 [(Назад к меню)](#Меню)
 
 -------------

@@ -429,6 +429,7 @@
 * [ru_CAD](https://t.me/ru_CAD) — САПР.
 * [LinuxCoders](https://t.me/linuxcoders) — Флудилка для кодеров, использующих Linux
 * [Be Tux [Unix, Linux, OpenSource]](https://t.me/Be_Tux) — Чат обитателей мира Unix, Linux, OpenSource
+* [IT Holywars](https://t.me/it_holywars) — Холивары на тему ИТ
 
 [(Назад к меню)](#Меню)
 

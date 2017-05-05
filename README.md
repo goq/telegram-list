@@ -294,6 +294,7 @@
 * [WordPress – русскоговорящее сообщество](https://t.me/wordpress1) — Чат про WordPress (~160)
 * [Wordpress for developers](https://t.me/wp4dev) — Группа для разработчиков на WordPress
 * [Netbeans](https://t.me/netbeans_ru) — Группа для тех, кто использует среду разработки Netbeans
+* [Vim](https://t.me/vimedit_ru) — Русскоязычные вимеры
 
 [(Назад к меню)](#Меню)
 

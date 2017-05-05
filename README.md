@@ -311,6 +311,7 @@
 * [R0 Crew](https://t.me/R0_Crew) — Ъ Сообщество реверс-инженеров. 
 * [IoT Community chat](https://t.me/Iot_chat) — Чат Internet fo Things сообщества.
 * [pro.algorithms](https://t.me/proalgorithms) — Группа по обсуждению алгоритмов, разных архитектурных решений, паттернов проектирования и прикладной математики.
+* [AtomicDesign](https://t.me/atomicdesign) — Обсуждение идеи и реализации Atomic Design в React.js
 
 [(Назад к меню)](#Меню)
 

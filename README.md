@@ -265,6 +265,7 @@
 * [Moscow.rb](https://t.me/moscowrb) — Московское сообщество Ruby
 * [pro.rust](https://t.me/proRust) — Чат про Rust
 * [TypeScript + Flow = ❤](https://t.me/typescript_ru) — Чат про TypeScript и Flow
+* [RustLang](https://t.me/rustlang_ru) — Чат по Rust от сообщества rustycrate.ru
 
 [(Назад к меню)](#Меню)
 

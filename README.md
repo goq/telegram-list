@@ -266,6 +266,7 @@
 * [pro.rust](https://t.me/proRust) — Чат про Rust
 * [TypeScript + Flow = ❤](https://t.me/typescript_ru) — Чат про TypeScript и Flow
 * [RustLang](https://t.me/rustlang_ru) — Чат по Rust от сообщества rustycrate.ru
+* [Functional Programming](https://t.me/fp_ru) — Чат любителей функциональных языков программирования
 
 [(Назад к меню)](#Меню)
 

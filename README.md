@@ -301,7 +301,6 @@
 [(Назад к меню)](#Меню)
 
 ##### Сообщества разработчиков и программистов
-* [Microsoft Developer Chat](https://t.me/msdevchat) – Сообщество разработчиков под платформу Microsoft
 * [noobrank](https://t.me/noobrank) — Решаем вместе задачки по программированию для начинающих (hackerrank и аналогичные)
 * [frontend_ru](https://t.me/frontend_ru) — Русскоговорящее сообщество веб-фронтенд разработчиков
 * [SPb Python](https://t.me/spbpython) — Saint-Petersburg Python Interest Group

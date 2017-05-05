@@ -432,6 +432,7 @@
 * [LinuxCoders](https://t.me/linuxcoders) — Флудилка для кодеров, использующих Linux
 * [Be Tux [Unix, Linux, OpenSource]](https://t.me/Be_Tux) — Чат обитателей мира Unix, Linux, OpenSource
 * [IT Holywars](https://t.me/it_holywars) — Холивары на тему ИТ
+* [Dev Seagulls](https://t.me/dev_seagulls) — Чат сообщества программистов Махачкалы
 
 [(Назад к меню)](#Меню)
 

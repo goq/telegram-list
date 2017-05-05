@@ -264,8 +264,10 @@
 * [Ruby — русскоговорящее сообщество](https://t.me/ruby_ru) — Русскоговорящее сообщество Ruby
 * [Moscow.rb](https://t.me/moscowrb) — Московское сообщество Ruby
 * [pro.rust](https://t.me/proRust) — Чат про Rust
-* [TypeScript + Flow = ❤](https://t.me/typescript_ru) — Чат про TypeScript и Flow
 * [RustLang](https://t.me/rustlang_ru) — Амбициозный чат по Rust
+* [TypeScript + Flow = ❤](https://t.me/typescript_ru) — Чат про TypeScript и Flow
+* [(F|R|FR)P](https://t.me/frp_ru) — Функциональное Реактивное Программирование
+* [Functional Programming](https://t.me/fp_ru) — Чат любителей функциональных языков программирования
 
 [(Назад к меню)](#Меню)
 
@@ -294,6 +296,7 @@
 * [WordPress – русскоговорящее сообщество](https://t.me/wordpress1) — Чат про WordPress (~160)
 * [Wordpress for developers](https://t.me/wp4dev) — Группа для разработчиков на WordPress
 * [Netbeans](https://t.me/netbeans_ru) — Группа для тех, кто использует среду разработки Netbeans
+* [Vim](https://t.me/vimedit_ru) — Русскоязычные вимеры
 
 [(Назад к меню)](#Меню)
 
@@ -432,6 +435,7 @@
 * [LinuxCoders](https://t.me/linuxcoders) — Флудилка для кодеров, использующих Linux
 * [Be Tux [Unix, Linux, OpenSource]](https://t.me/Be_Tux) — Чат обитателей мира Unix, Linux, OpenSource
 * [IT Holywars](https://t.me/it_holywars) — Холивары на тему ИТ
+* [Dev Seagulls](https://t.me/dev_seagulls) — Чат сообщества программистов Махачкалы
 
 [(Назад к меню)](#Меню)
 

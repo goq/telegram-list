@@ -338,6 +338,7 @@
 * [AWS ru](https://t.me/aws_ru) — Чат про Amazon Web Services
 * [Network Attached Storage](https://t.me/ru_nas) — Чат про NAS
 * [SpecialistOff.NET](https://t.me/specialistoffnet) — Официальная группа (чат) [SpecialistOff.NET](http://specialistoff.net/) администраторов и программистов
+* [Git](https://t.me/git_ru) — Чат по GIT
 
 [(Назад к меню)](#Меню)
 

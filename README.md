@@ -267,6 +267,7 @@
 * [TypeScript + Flow = ❤](https://t.me/typescript_ru) — Чат про TypeScript и Flow
 * [RustLang](https://t.me/rustlang_ru) — Чат по Rust от сообщества rustycrate.ru
 * [(F|R|FR)P](https://t.me/frp_ru) — Функциональное Реактивное Программирование
+* [Functional Programming](https://t.me/fp_ru) — Чат любителей функциональных языков программирования
 
 [(Назад к меню)](#Меню)
 
@@ -433,6 +434,7 @@
 * [LinuxCoders](https://t.me/linuxcoders) — Флудилка для кодеров, использующих Linux
 * [Be Tux [Unix, Linux, OpenSource]](https://t.me/Be_Tux) — Чат обитателей мира Unix, Linux, OpenSource
 * [IT Holywars](https://t.me/it_holywars) — Холивары на тему ИТ
+* [Dev Seagulls](https://t.me/dev_seagulls) — Чат сообщества программистов Махачкалы
 
 [(Назад к меню)](#Меню)
 

@@ -74,6 +74,7 @@
 * [Apache Hadoop stack](https://t.me/hadoopusers) — Новости сообщества Apache Hadoop
 * [Tehnojam.pro](https://t.me/tehnojam) — Лента публикаций сайта ТехноДжем.
 * [QUANTUM QUINTUM](https://t.me/quantumquintum) — Канал Константина Кичинского (Technical Evangelism Lead в Microsoft), короткие заметки про Microsoft и технологии
+* [Новосибирск](https://t.me/novosibirsktg) — сводка новостей, погода, происшествия
 
 [(Назад к меню)](#Меню)
 

@@ -437,6 +437,7 @@
 * [Be Tux [Unix, Linux, OpenSource]](https://t.me/Be_Tux) — Чат обитателей мира Unix, Linux, OpenSource
 * [IT Holywars](https://t.me/it_holywars) — Холивары на тему ИТ
 * [Dev Seagulls](https://t.me/dev_seagulls) — Чат сообщества программистов Махачкалы
+* [Секта кнопкопоклонников](https://t.me/ru_mechcult) — Чат странных людей, которые любят ~~механические~~ клавиатуры
 
 [(Назад к меню)](#Меню)
 

@@ -104,6 +104,7 @@
 * [Internet of things Community](https://t.me/IoT_community) — Канал IoT сообщества. Новости Интернета вещей и анонсы встреч сообщества.
 * [Удивительный Python](https://t.me/awesomepython) — Ежедневный дайджест новостей языка Python.
 * [Экстраполяция IT](https://t.me/itextrapolation) — Авторский канал об IT, аутсорсе, продуктах и программировании.
+* [Breakfast.js](https://t.me/breakfastjs) — Ежедневная подборка новостей из мира фронтенд разработки
 
 [(Назад к меню)](#Меню)
 

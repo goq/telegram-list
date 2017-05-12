@@ -344,6 +344,7 @@
 * [Network Attached Storage](https://t.me/ru_nas) — Чат про NAS
 * [SpecialistOff.NET](https://t.me/specialistoffnet) — Официальная группа (чат) [SpecialistOff.NET](http://specialistoff.net/) администраторов и программистов
 * [Git](https://t.me/git_ru) — Чат по GIT
+* [e-mail](https://t.me/ru_email) — Чат по администрирование почтовой инфраструктуры и борьбу со спамом
 
 [(Назад к меню)](#Меню)
 

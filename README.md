@@ -76,6 +76,7 @@
 * [Tehnojam.pro](https://t.me/tehnojam) — Лента публикаций сайта ТехноДжем.
 * [QUANTUM QUINTUM](https://t.me/quantumquintum) — Канал Константина Кичинского (Technical Evangelism Lead в Microsoft), короткие заметки про Microsoft и технологии
 * [Новосибирск](https://t.me/novosibirsktg) — сводка новостей, погода, происшествия
+* [Microsoft News](https://t.me/MicrosoftRus) - Заметки о Microsoft, Windows Server, System Center, Azure, Office 365, OMS и прочее
 
 [(Назад к меню)](#Меню)
 
@@ -354,6 +355,8 @@
 * [SpecialistOff.NET](https://t.me/specialistoffnet) — Официальная группа (чат) [SpecialistOff.NET](http://specialistoff.net/) администраторов и программистов
 * [Git](https://t.me/git_ru) — Чат по GIT
 * [e-mail](https://t.me/ru_email) — Чат по администрирование почтовой инфраструктуры и борьбу со спамом
+* [SCCM](https://t.me/configmgr) - Microsoft System Center Configuration Manager User Group Russia
+* [SCOM](https://t.me/OpsMgr) - Microsoft System Center Operations Manager User Group Russia
 
 [(Назад к меню)](#Меню)
 
@@ -449,6 +452,7 @@
 * [Dev Seagulls](https://t.me/dev_seagulls) — Чат сообщества программистов Махачкалы
 * [Секта кнопкопоклонников](https://t.me/ru_mechcult) — Чат странных людей, которые любят ~~механические~~ клавиатуры
 * [Emacs — русскоговорящее сообщество](https://t.me/emacs_ru) — Русскоговорящее сообщество пользователей редактора Emacs.
+* [IT Talks](https://t.me/ittalks) - Разговоры об IT
 
 [(Назад к меню)](#Меню)
 
@@ -599,3 +603,4 @@
 * [@EinfoBot](https://t.me/EinfoBot) — Бот, который ищет электронные компоненты и интегрирован в поисковую систему.
 * [@parserfreelancer_bot](https://t.me/parserfreelancer_bot) — Бот, уведомляющий о появлении новой работы на разных фрилансовых сайтах
 * [@TitsBot](https://t.me/phphelperbot) [Source](https://github.com/kefzce/titsbot) — Адалт бот,фото,видео,гиф,подборки и голосовалки за лучшие фотки
+* [@SystemCenter_Bot](https://t.me/SystemCenter_Bot) - Inline Bot - Поиск по документации docs.microsoft.com

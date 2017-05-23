@@ -6,6 +6,7 @@
 
 * [Telegram Group List](https://t.me/listnews) — Официальный канал новостей этого списка групп
 * [Telegram Group List Chat](https://t.me/grouplst) — Чат списка: обсуждения, предложения и идеи.
+* [Awesome Programmer List](https://t.me/awesomeprogrammer) — A curated list programming channels and groups in English.
 
 Канал недели:
 * [Котики Кодят](https://t.me/ccoder) — Официальный канал нашего дайджеста-подкаста "Котики Кодят". Актуальные новости про разработку, программистов, и сопутствующие темы.

@@ -76,6 +76,7 @@
 * [Tehnojam.pro](https://t.me/tehnojam) — Лента публикаций сайта ТехноДжем.
 * [QUANTUM QUINTUM](https://t.me/quantumquintum) — Канал Константина Кичинского (Technical Evangelism Lead в Microsoft), короткие заметки про Microsoft и технологии
 * [Новосибирск](https://t.me/novosibirsktg) — сводка новостей, погода, происшествия
+* [ITpro News & Reviews](https://t.me/MicrosoftRus) — Заметки о Microsoft, Windows Server, System Center, Azure, Office 365, OMS и прочее.
 
 [(Назад к меню)](#Меню)
 
@@ -355,6 +356,8 @@
 * [SpecialistOff.NET](https://t.me/specialistoffnet) — Официальная группа (чат) [SpecialistOff.NET](http://specialistoff.net/) администраторов и программистов
 * [Git](https://t.me/git_ru) — Чат по GIT
 * [e-mail](https://t.me/ru_email) — Чат по администрирование почтовой инфраструктуры и борьбу со спамом
+* [Configuration Manager](https://t.me/configmgr) — Microsoft System Center Configuration Manager & Intune & EMS
+* [Operations Manager](https://t.me/OpsMgr) — System Center Operations Manager & Orchestrator = Automation
 
 [(Назад к меню)](#Меню)
 

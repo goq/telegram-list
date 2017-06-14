@@ -100,7 +100,7 @@
 * [code_news](https://t.me/code_news) — Канал о Программировании, технологиях и алгоритмах. Только O(log n), только хардкор.
 * [ES.next News](https://t.me/esnextnews) — еженедельная рассылка новостей про Javascript от [Акселя Рошмаера](http://www.2ality.com/)
 * [Школа Веб 2.0](https://t.me/webschool_rus) — Авторский канал о веб-разработке (Ruby on Rails, UI/UX, HTML5, CSS3)
-* [Fsharp](https://t.me/F_Sharp) — Новости про F#. 
+* [Fsharp](https://t.me/F_Sharp) — Новости про F#.
 * [Потрясающий Go](https://t.me/awesomego) — Ежедневный дайджест новостей языка Go (Golang) и всего вокруг него.
 * [FrontEnd Development](https://t.me/fedevelopment) — Канал ежедневно публикует полезные ссылки, новости из мира фронтент разработки.
 * [Internet of things Community](https://t.me/IoT_community) — Канал IoT сообщества. Новости Интернета вещей и анонсы встреч сообщества.
@@ -109,6 +109,7 @@
 * [Breakfast.js](https://t.me/breakfastjs) — Ежедневная подборка новостей из мира фронтенд разработки
 * [iOS Good Reads](https://t.me/iosgr) — Ежедневная порция материалов по iOS разработке
 * [Android Good Reads](https://t.me/droidgr) — Ежедневная порция материалов по Android разработке
+
 
 [(Назад к меню)](#Меню)
 
@@ -212,9 +213,9 @@
 * [Robotics](https://t.me/robotics_channel) — Робототехника, нейросети, киборги (свежие новости, обзоры разработок и интересные статьи).
 * [Product-Shmoduct](https://t.me/productshmoduct) — Диджитал продукты и продакт менеджмент
 * [#LifeStories](https://t.me/LifeStoriesRU) — жизненные истории из VK-пабликов в одном месте.
-* [#CoolAdmin](https://t.me/cooladmin) — канал про системное администрирование, сети, сервера и системы хранения. С новостями и историями. 
-* [Linkmeup](https://t.me/linkmeup_podcast) — Официальный канал подкаста для связистов Linkmeup (новости подкаста и сетевых технологий). 
-* [Gik.me](https://t.me/gikme) — Канал подкаста gik.me - веселый подкаст о IT (на канале размещаются выпуски подкаста). 
+* [#CoolAdmin](https://t.me/cooladmin) — канал про системное администрирование, сети, сервера и системы хранения. С новостями и историями.
+* [Linkmeup](https://t.me/linkmeup_podcast) — Официальный канал подкаста для связистов Linkmeup (новости подкаста и сетевых технологий).
+* [Gik.me](https://t.me/gikme) — Канал подкаста gik.me - веселый подкаст о IT (на канале размещаются выпуски подкаста).
 * [Drone News](https://t.me/dronenews) — Новости мира беспилотных летательных аппаратов.
 * [Авиафан: Летач](https://t.me/letach) — Информационный авиационный канал. Авиа фотографии, авиа новости.
 * [about #Moscow](https://t.me/aboutmoscow) — Интересные ссылки, события, новости, фото и видео о Москве и не только. Делимся тем, что интересно нам самим.
@@ -235,8 +236,9 @@
 ##### Персональные блоги
 * [От Ромы из сидирома](https://t.me/cdroma) — Записки о линуксе, веб-разработке, управлении проектами и прочих премудростях жизни
 * [Gambala.live](https://t.me/gambala_live) — Канал Виталия Емельянцева - веб-разработчика и IT-шника. Знания и советы по CSS, JS, BEM, Ruby on Rails, бизнесу и жизни. Как войти в айти и жить в удовольствие.
-* [Архитектор_говорит](https://t.me/architect_says) — Про архитектуру IT-решений и всё, что рядом. 
+* [Архитектор_говорит](https://t.me/architect_says) — Про архитектуру IT-решений и всё, что рядом.
 * [Tolstoy Live](https://t.me/tolstoylive) — Прямые трансляции с WWDC и других IT конференций.
+
 
 [(Назад к меню)](#Меню)
 
@@ -252,7 +254,7 @@
 * [pro.crystal](https://t.me/proCrystal) — Чат про Crystal. Ruby-подобный статически типизированный объектно-ориентированный язык общего назначения.
 * [pro.elixir](https://t.me/proelixir) — Чат про Elixir
 * [Elm Lang](https://t.me/elm_ru) — Чат про язык программирования Elm
-* [Fsharp Chat](https://t.me/Fsharp_chat) — Чат про F#. 
+* [Fsharp Chat](https://t.me/Fsharp_chat) — Чат про F#.
 * [pro.go](https://t.me/proGO) — Чат про Golang
 * [Golang RU](https://t.me/gogolang) — Чат про Golang
 * [Haskell](https://t.me/haskellru) — Чат про Haskell
@@ -284,6 +286,7 @@
 * [TypeScript + Flow = ❤](https://t.me/typescript_ru) — Чат про TypeScript и Flow
 * [(F|R|FR)P](https://t.me/frp_ru) — Функциональное Реактивное Программирование
 * [Functional Programming](https://t.me/fp_ru) — Чат любителей функциональных языков программирования
+* [Ethereum Developers](https://t.me/eth_ru) — Ethereum Developers, Smart Contracts, Эфириум
 
 [(Назад к меню)](#Меню)
 
@@ -328,7 +331,7 @@
 * [annode design](https://t.me/annode_design) — Чат ресурса annode по UX/UI дизайну
 * [Разработка для чайников](https://t.me/ru_devchat) — Чат для разработчиков. Флуд.
 * [Telegram Bot Developers](https://t.me/botoid) — Чат про разработку ботов в телеграме
-* [R0 Crew](https://t.me/R0_Crew) — Ъ Сообщество реверс-инженеров. 
+* [R0 Crew](https://t.me/R0_Crew) — Ъ Сообщество реверс-инженеров.
 * [IoT Community chat](https://t.me/Iot_chat) — Чат Internet fo Things сообщества.
 * [pro.algorithms](https://t.me/proalgorithms) — Группа по обсуждению алгоритмов, разных архитектурных решений, паттернов проектирования и прикладной математики.
 * [AtomicDesign](https://t.me/atomicdesign) — Обсуждение идеи и реализации Atomic Design в React.js
@@ -425,6 +428,7 @@
 * [Agile Jobs](https://t.me/agile_jobs) — Вакансии, связанные с Agile.
 * [FreeLance](https://t.me/getFreelance) — Чат для поиска фриланс заработка
 * [Microsoft Stack Jobs](https://t.me/microsoftstackjobs) — Чат для поиска работы в сфере Microsoft и других Enterprise технологии.
+* [ethereum_jobs](https://t.me/eth_jobs) — Вакансии по Ethereum - Эфириум
 
 [(Назад к меню)](#Меню)
 
@@ -480,7 +484,7 @@
 ##### Электроника, микроконтроллеры и встраиваемые системы
 * [Catethysis](https://t.me/telecatethysis) — Чат про электронику, программирование микроконтроллеров, stm32
 * [pro.embedded](https://t.me/proembedded) — Чат про встраиваемые системы
-* [Про электронику](https://t.me/ru_electronics) — QA чат для решения вопросов, связанных с электроникой. На линии работает контроль. 
+* [Про электронику](https://t.me/ru_electronics) — QA чат для решения вопросов, связанных с электроникой. На линии работает контроль.
 * [Анархическая электроника](https://t.me/ru_arduino) — Сателлит [@ru_electronics](https://t.me/ru_electronics) с [около]электронными темами.
 
 [(Назад к меню)](#Меню)

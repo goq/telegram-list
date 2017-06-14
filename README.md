@@ -169,6 +169,7 @@
 * [php_jobs](https://t.me/php_jobs) — Вакансии и запросы на поиск работы по направлению PHP, Laravel, Symfony, Yii и т.д.
 * [sysadmin_jobs](https://t.me/sysadmin_jobs) — Вакансии для системных администраторов
 * [ethereum_jobs](https://t.me/eth_jobs) — Вакансии по Ethereum - Эфириум
+
 [(Назад к меню)](#Меню)
 
 ##### Погода

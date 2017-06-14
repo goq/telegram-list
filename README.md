@@ -107,7 +107,7 @@
 * [Удивительный Python](https://t.me/awesomepython) — Ежедневный дайджест новостей языка Python.
 * [Экстраполяция IT](https://t.me/itextrapolation) — Авторский канал об IT, аутсорсе, продуктах и программировании.
 * [Breakfast.js](https://t.me/breakfastjs) — Ежедневная подборка новостей из мира фронтенд разработки
-* [Ethereum Developers](https://t.me/eth_ru) — Ethereum Developers, Smart Contracts, Эфириум
+
 
 [(Назад к меню)](#Меню)
 
@@ -168,7 +168,6 @@
 * [Devaller](https://t.me/devaller) — Вакансии от сообщества Devall
 * [php_jobs](https://t.me/php_jobs) — Вакансии и запросы на поиск работы по направлению PHP, Laravel, Symfony, Yii и т.д.
 * [sysadmin_jobs](https://t.me/sysadmin_jobs) — Вакансии для системных администраторов
-* [ethereum_jobs](https://t.me/eth_jobs) — Вакансии по Ethereum - Эфириум
 
 [(Назад к меню)](#Меню)
 
@@ -282,6 +281,7 @@
 * [TypeScript + Flow = ❤](https://t.me/typescript_ru) — Чат про TypeScript и Flow
 * [(F|R|FR)P](https://t.me/frp_ru) — Функциональное Реактивное Программирование
 * [Functional Programming](https://t.me/fp_ru) — Чат любителей функциональных языков программирования
+* [Ethereum Developers](https://t.me/eth_ru) — Ethereum Developers, Smart Contracts, Эфириум
 
 [(Назад к меню)](#Меню)
 
@@ -421,6 +421,7 @@
 * [Agile Jobs](https://t.me/agile_jobs) — Вакансии, связанные с Agile.
 * [FreeLance](https://t.me/getFreelance) — Чат для поиска фриланс заработка
 * [Microsoft Stack Jobs](https://t.me/microsoftstackjobs) — Чат для поиска работы в сфере Microsoft и других Enterprise технологии.
+* [ethereum_jobs](https://t.me/eth_jobs) — Вакансии по Ethereum - Эфириум
 
 [(Назад к меню)](#Меню)
 

@@ -280,6 +280,7 @@
 * [Ruby & RoR](https://t.me/rubylang) — Чат про Ruby и Ruby on Rails
 * [Ruby School .us](https://t.me/rubyschool) — Чат-болталка для учеников руби-школы
 * [Ruby — русскоговорящее сообщество](https://t.me/ruby_ru) — Русскоговорящее сообщество Ruby
+* [Ruby.Ata](https://t.me/rubyata) — Бишкекское сообщество Ruby и Ruby on Rails
 * [Moscow.rb](https://t.me/moscowrb) — Московское сообщество Ruby
 * [pro.rust](https://t.me/proRust) — Чат про Rust
 * [RustLang](https://t.me/rustlang_ru) — Амбициозный чат по Rust

@@ -430,6 +430,7 @@
 * [FreeLance](https://t.me/getFreelance) — Чат для поиска фриланс заработка
 * [Microsoft Stack Jobs](https://t.me/microsoftstackjobs) — Чат для поиска работы в сфере Microsoft и других Enterprise технологии.
 * [ethereum_jobs](https://t.me/eth_jobs) — Вакансии по Ethereum - Эфириум
+* [Big Data jobs](https://t.me/bigdata_jobs) — Вакансии в Big Data области
 
 [(Назад к меню)](#Меню)
 

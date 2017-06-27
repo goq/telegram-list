@@ -399,6 +399,7 @@
 * [Data Science Chat](https://t.me/datasciencechat) — Чат по теме Data Science
 * [Apache Hadoop stack](https://t.me/hadoopusers) — Чат по всему, что связано с Apache Hadoop стеком
 * [Нейронные сети](https://t.me/joinchat/ABI4pz6rz2iVzWUzaVqpmA) — Чат про нейронные сети
+* [Нейронные сети (Microsoft Developer)](https://t.me/neuroworkshop) — Чат про нейронные сети от Microsoft Developer
 
 [(Назад к меню)](#Меню)
 

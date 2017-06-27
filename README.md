@@ -109,7 +109,7 @@
 * [Breakfast.js](https://t.me/breakfastjs) — Ежедневная подборка новостей из мира фронтенд разработки
 * [iOS Good Reads](https://t.me/iosgr) — Ежедневная порция материалов по iOS разработке
 * [Android Good Reads](https://t.me/droidgr) — Ежедневная порция материалов по Android разработке
-
+* [Сообщество phpland](https://t.me/phpland) — Официальный канал сообщества phpland (PHP, MySQL, CSS, HTML, Ubuntu-Linux).
 
 [(Назад к меню)](#Меню)
 

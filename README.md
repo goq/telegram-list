@@ -77,8 +77,7 @@
 * [QUANTUM QUINTUM](https://t.me/quantumquintum) — Канал Константина Кичинского (Technical Evangelism Lead в Microsoft), короткие заметки про Microsoft и технологии
 * [Новосибирск](https://t.me/novosibirsktg) — сводка новостей, погода, происшествия
 * [ITpro News & Reviews](https://t.me/MicrosoftRus) — Заметки о Microsoft, Windows Server, System Center, Azure, Office 365, OMS и прочее.
-
-[(Назад к меню)](#Меню)
+* [Software architecture musings](https://t.me/samusings) — Канал Александра Белоцерковского (Technical Evangelist в Microsoft) c материалами об архитектуре программных систем. От самых основ до новых подходов. Только архитектура, не разработка.
 
 ##### Каналы по программированию и разработке ПО
 * [Котики Кодят](https://t.me/ccoder) — Официальный канал нашего дайджеста-подкаста "Котики Кодят". Актуальные новости про разработку, программистов, и сопутствующие темы.
@@ -109,7 +108,6 @@
 * [Breakfast.js](https://t.me/breakfastjs) — Ежедневная подборка новостей из мира фронтенд разработки
 * [iOS Good Reads](https://t.me/iosgr) — Ежедневная порция материалов по iOS разработке
 * [Android Good Reads](https://t.me/droidgr) — Ежедневная порция материалов по Android разработке
-
 
 [(Назад к меню)](#Меню)
 
@@ -336,6 +334,7 @@
 * [IoT Community chat](https://t.me/Iot_chat) — Чат Internet fo Things сообщества.
 * [pro.algorithms](https://t.me/proalgorithms) — Группа по обсуждению алгоритмов, разных архитектурных решений, паттернов проектирования и прикладной математики.
 * [AtomicDesign](https://t.me/atomicdesign) — Обсуждение идеи и реализации Atomic Design в React.js
+* [Microsoft Developer Chat](https://t.me/microsoftschool) — Официальный чат для разработчиков и системных администраторов от сообщества Microsoft Developer
 
 [(Назад к меню)](#Меню)
 
@@ -619,3 +618,4 @@
 * [@TitsBot](https://t.me/phphelperbot) [Source](https://github.com/kefzce/titsbot) — Адалт бот,фото,видео,гиф,подборки и голосовалки за лучшие фотки
 * [@LFTVbot](https://t.me/LFTVbot) [Source](https://github.com/Lord-Protector/LostFilmBot) — Бот для сайта LostFilm.TV. Личные уведомления, загрузка нужных серий и многое другое.
 * [@OverStatsBot](https://t.me/OverStatsBot) [Source](https://github.com/Lord-Protector/OverStatsBot) — Бот для игры Overwatch. Генерирует личные профили в виде изображений.
+* [@msdev_bot](https://t.me/msdev_bot) — Новостной бот от сообщества Microsoft Developer.

@@ -345,9 +345,9 @@
 * [Hosting and so on](https://t.me/pro_hosting) — Про хостинг
 * [pro.telecom](https://t.me/protelecom) — Чат про телекоммуникации.
 * [xmpp_ru](https://t.me/xmpp_ru) — Чат про XMPP, ejabberd, openfire
-* [pro_openstack](https://t.me/pro_openstack) — Чат про OpenStack, Ceph
+* [Ceph — русскоговорящее сообщество](https://t.me/ceph_ru) — Чат про Ceph
+* [OpenStack — русскоговорящее сообщество](https://t.me/openstack_ru) — Чат про OpenStack
 * [Hyper-V](https://t.me/ru_hyper) — Чат про Hyper-V
-* [openstack_russia](https://t.me/openstack_russia) — Чат про OpenStack (альтернативный)
 * [ru_freeswitch](https://t.me/ru_freeswitch) — Чат про Freeswitch
 * [Трактор over IP](https://t.me/ntwrk) — Чат сетевых инженеров
 * [Nag.Ru](https://t.me/nag_public) — Чат Nag.ru
@@ -466,6 +466,8 @@
 * [IT Holywars](https://t.me/it_holywars) — Холивары на тему ИТ
 * [Dev Seagulls](https://t.me/dev_seagulls) — Чат сообщества программистов Махачкалы
 * [Секта кнопкопоклонников](https://t.me/ru_mechcult) — Чат странных людей, которые любят ~~механические~~ клавиатуры
+* [cloud_ru](https://t.me/cloud_ru) — Обсуждения облачных технологий
+* [cloud_flood](https://t.me/cloud_flood) — Флудильня облачных технологий
 
 [(Назад к меню)](#Меню)
 

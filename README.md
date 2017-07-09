@@ -110,6 +110,7 @@
 * [iOS Good Reads](https://t.me/iosgr) — Ежедневная порция материалов по iOS разработке
 * [Android Good Reads](https://t.me/droidgr) — Ежедневная порция материалов по Android разработке
 * [Сообщество phpland](https://t.me/phpland) — Официальный канал сообщества phpland (PHP, MySQL, CSS, HTML, Ubuntu-Linux).
+* [Software architecture musings](https://t.me/samusings) — Канал про архитектуру программных систем от Александра Белоцерковского (Microsoft Technical Evangelist).
 
 [(Назад к меню)](#Меню)
 
@@ -239,7 +240,6 @@
 * [Архитектор_говорит](https://t.me/architect_says) — Про архитектуру IT-решений и всё, что рядом.
 * [Tolstoy Live](https://t.me/tolstoylive) — Прямые трансляции с WWDC и других IT конференций.
 
-
 [(Назад к меню)](#Меню)
 
 -------------
@@ -337,6 +337,7 @@
 * [IoT Community chat](https://t.me/Iot_chat) — Чат Internet fo Things сообщества.
 * [pro.algorithms](https://t.me/proalgorithms) — Группа по обсуждению алгоритмов, разных архитектурных решений, паттернов проектирования и прикладной математики.
 * [AtomicDesign](https://t.me/atomicdesign) — Обсуждение идеи и реализации Atomic Design в React.js
+* [Microsoft Developer Chat](https://t.me/microsoftschool) — Чат разработчиков и системных администраторов сообщества Microsoft Developer
 
 [(Назад к меню)](#Меню)
 

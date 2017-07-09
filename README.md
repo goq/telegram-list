@@ -268,6 +268,7 @@
 * [use Perl or die;](https://t.me/usePerlOrDie) — Группа о языке Perl и обо всём что с ним связано.
 * [Python](https://t.me/ru_python) — Чат про Python. (~2250 человек)
 * [pro.python](https://t.me/propython) — Чат про Python. (~320 человек)
+* [js_ru](https://t.me/js_ru) — JavaScript — русскоговорящее сообщество. (Второй по величине js чат ~930 человек)
 * [javascript_ru](https://t.me/javascript_ru) — Чат про JavaScript.
 * [css_ru](https://t.me/css_ru) — Чат про CSS и немного HTML
 * [Python_beginners](https://t.me/ru_python_beginners) — Чат про Python для новичков

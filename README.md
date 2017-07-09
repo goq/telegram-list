@@ -258,8 +258,10 @@
 * [pro.go](https://t.me/proGO) — Чат про Golang
 * [Golang RU](https://t.me/gogolang) — Чат про Golang
 * [Haskell](https://t.me/haskellru) — Чат про Haskell
-* [pro.js](https://t.me/JSlang) — Чат про JavaScript
-* [pro.js.noobs](https://t.me/joinchat/Be4rsT3Uyr1TjmSlrRc77g) — Чат про JavaScript (для новичков)
+* [pro.js](https://t.me/JSlang) — Чат про JavaScript (~2630 человек)
+* [pro.js.noobs](https://t.me/joinchat/Be4rsT3Uyr1TjmSlrRc77g) — Чат про JavaScript (для новичков ~1760 человек)
+* [js_ru](https://t.me/js_ru) — JavaScript — русскоговорящее сообщество. (~930 человек)
+* [javascript_ru](https://t.me/javascript_ru) — Чат про JavaScript. (~285 человек)
 * [pro.jvm](https://t.me/jvmchat) — Чат про JVM
 * [learn.java](https://t.me/javastart) — Изучаем java вместе. Чат для начинающих и не только!
 * [Scala](https://t.me/scala_ru) — Чат про Scala
@@ -268,7 +270,6 @@
 * [use Perl or die;](https://t.me/usePerlOrDie) — Группа о языке Perl и обо всём что с ним связано.
 * [Python](https://t.me/ru_python) — Чат про Python. (~2250 человек)
 * [pro.python](https://t.me/propython) — Чат про Python. (~320 человек)
-* [javascript_ru](https://t.me/javascript_ru) — Чат про JavaScript.
 * [css_ru](https://t.me/css_ru) — Чат про CSS и немного HTML
 * [Python_beginners](https://t.me/ru_python_beginners) — Чат про Python для новичков
 * [Rude Python](https://t.me/rudepython) — Грубый чат про Python (для мужиков)

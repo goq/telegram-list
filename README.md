@@ -375,7 +375,7 @@
 ##### Управление конфигурациями, development & operations engineers
 * [Ansible](https://t.me/pro_ansible) — Чат про Ansible
 * [ChatOps RU](https://t.me/chatops_ru) — Те, кто управляют серверами через чат ботов
-* [DevOps](https://t.me/devops_ru) — Чат про DevOps (>1480 человек)
+* [DevOps](https://t.me/devops_ru) — Чат про DevOps (>2200 человек)
 * [ru_devops](https://t.me/ru_devops) — Чат про DevOps
 * [Moby & Docker CE - Официальное Русское Сообщество](https://t.me/ru_docker) — Moby & Docker CE - Официальное Русское Сообщество
 * [Брутальный Docker](https://t.me/brutal_docker) — Чат для тех, кому есть что сказать про докер
@@ -386,9 +386,9 @@
 [(Назад к меню)](#Меню)
 
 ##### Базы Данных
+* [DBA](https://t.me/dba_ru) — Чат про базы данных и их администрирование
 * [MongoDBRussian](https://t.me/MongoDBRussian) — Чат про MongoDB
 * [mysql_ru](https://t.me/mysql_ru) — Чат про MySQL
-* [DBA](https://t.me/dba_ru) — Чат про базы данных и их администрирование
 * [pgsql](https://t.me/pgsql) — Чат про PostgreSQL
 * [PostgreSQL + 1C + Linux](https://t.me/PostgreSQL_1C_Linux) — Чат про особенности работы PostgreSQL и 1С на Linux
 * [Pony ORM](https://t.me/ponyorm) — Чат про Pony ORM
@@ -509,7 +509,7 @@
 [(Назад к меню)](#Меню)
 
 ##### Операционные системы
-* [ArchLinux RU](https://t.me/archlinux_ru) — ArchLinux (рус.)\
+* [ArchLinux RU](https://t.me/archlinux_ru) — ArchLinux
 * [Antegros](https://t.me/joinchat/AAAAAEKGOtHIG4VB15M18A) — Чат про Antegros (Arch based)
 * [Calculate Linux](https://t.me/calculate_linux) — Чат про Calculate Linux (Gentoo based)
 * [CentOS](https://t.me/CentOSRu) — Чат про CentOS
@@ -519,7 +519,6 @@
 * [freebsd_ru](https://t.me/freebsd_ru) — Чат про FreeBSD
 * [Gentoo](https://t.me/russian_gentoo) — Чат про Gentoo
 * [KDE neon users](https://t.me/kdeneon) — English speaking community of KDE neon
-* [LineageOS RU](https://t.me/Lineageos_ru) — Групповой чат русскоязычного сообщества LineageOS.
 * [Linux Mint Russia 🇷🇺](https://t.me/LMRus) — Чат про Linux Mint (Русский)
 * [Linux Mint International](https://t.me/LMInter) — Linux Mint Chat (International)
 * [macOS ru](https://t.me/macOS_ru) — Русскоязычное сообщество macOS

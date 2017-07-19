@@ -112,7 +112,7 @@
 * [Сообщество phpland](https://t.me/phpland) — Официальный канал сообщества phpland (PHP, MySQL, CSS, HTML, Ubuntu-Linux).
 * [Software architecture musings](https://t.me/samusings) — Канал про архитектуру программных систем от Александра Белоцерковского (Microsoft Technical Evangelist).
 * [Dev Useful Stuff](https://t.me/dev_useful_stuff) — здесь публикуются ссылки на разные полезняшки из мира программирования, такие как библиотеки, фреймворки, инструменты и прочее.
-
+* [.NET Core Ukrainian User Group](https://t.me/dncuug) — официальный канал украинской группы .NET Core разработчиков. Актуальные новости и анонсы. 
 [(Назад к меню)](#Меню)
 
 ##### Каналы информации по Информационной безопасности

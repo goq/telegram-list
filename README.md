@@ -130,6 +130,7 @@
 * [Data Science](https://t.me/opendatascience) — Первый новостной канал про data science
 * [Deep Learning Russia](https://t.me/deeplearning_ru) — Канал сообщества vk.com/deeplearning_ru
 * [Чаты и группы телеграма по теме](#big-data-Машинное-обучение-deep-learning-и-data-science)
+* [В мире Linux и IT](https://t.me/chmanjabuntu) - Канал сайта https://manjabuntu.com/ про Linux и IT
 
 [(Назад к меню)](#Меню)
 

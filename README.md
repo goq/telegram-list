@@ -113,6 +113,7 @@
 * [Software architecture musings](https://t.me/samusings) — Канал про архитектуру программных систем от Александра Белоцерковского (Microsoft Technical Evangelist).
 * [Dev Useful Stuff](https://t.me/dev_useful_stuff) — здесь публикуются ссылки на разные полезняшки из мира программирования, такие как библиотеки, фреймворки, инструменты и прочее.
 * [.NET Core Ukrainian User Group](https://t.me/dncuug) — официальный канал украинской группы .NET Core разработчиков. Актуальные новости и анонсы.
+* [#CoolAdmin](https://t.me/cooladmin) — канал про системное администрирование, сети, сервера и системы хранения. С новостями и историями.
 
 [(Назад к меню)](#Меню)
 
@@ -212,11 +213,9 @@
 * [The After Times](https://t.me/theaftertimes) — Паста, мысли, критика.
 * [#All-im-One Person](https://t.me/themarfa) — канал о технологиях, стартапах, автоматизации, лайфхаках и продуктивности. Экспертные советы по Evernote, Google и многому другому.
 * [#Тыжпрограммист /dev/null](https://t.me/yourProger) — развлекательные IT-паблики в одном месте.
-* [Edimhorosho](https://t.me/edimhorosho) — Новости и статьи из мира кулинарии. Едим хорошо!
 * [Robotics](https://t.me/robotics_channel) — Робототехника, нейросети, киборги (свежие новости, обзоры разработок и интересные статьи).
 * [Product-Shmoduct](https://t.me/productshmoduct) — Диджитал продукты и продакт менеджмент
 * [#LifeStories](https://t.me/LifeStoriesRU) — жизненные истории из VK-пабликов в одном месте.
-* [#CoolAdmin](https://t.me/cooladmin) — канал про системное администрирование, сети, сервера и системы хранения. С новостями и историями.
 * [Linkmeup](https://t.me/linkmeup_podcast) — Официальный канал подкаста для связистов Linkmeup (новости подкаста и сетевых технологий).
 * [Gik.me](https://t.me/gikme) — Канал подкаста gik.me - веселый подкаст о IT (на канале размещаются выпуски подкаста).
 * [Drone News](https://t.me/dronenews) — Новости мира беспилотных летательных аппаратов.
@@ -225,6 +224,7 @@
 * [Кинопаблик](https://t.me/anonhownow) — Канал про кино. Кинопаблик.
 * [MobiDevices](https://t.me/mobidevices) — Красивый журнал о технологиях.
 * [Just Links](https://t.me/j_links) — Ссылки на научные статьи и новости, с упором на Deep Learning и физику.
+* [Perfect Pixel](https://t.me/pppixel) — Продуктоводство, дизайн интерфейсов, анимация и прототипирование.
 
 [(Назад к меню)](#Меню)
 
@@ -471,6 +471,7 @@
 * [Секта кнопкопоклонников](https://t.me/ru_mechcult) — Чат странных людей, которые любят ~~механические~~ клавиатуры
 * [cloud_ru](https://t.me/cloud_ru) — Обсуждения облачных технологий
 * [cloud_flood](https://t.me/cloud_flood) — Флудильня облачных технологий
+* [Perfect Pixel Chat](https://t.me/pppixel_chat) — Чат канала Perfect Pixel о проектировании, интерфейсах и дизайне.
 
 [(Назад к меню)](#Меню)
 

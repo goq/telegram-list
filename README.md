@@ -114,6 +114,7 @@
 * [Dev Useful Stuff](https://t.me/dev_useful_stuff) — здесь публикуются ссылки на разные полезняшки из мира программирования, такие как библиотеки, фреймворки, инструменты и прочее.
 * [.NET Core Ukrainian User Group](https://t.me/dncuug) — официальный канал украинской группы .NET Core разработчиков. Актуальные новости и анонсы.
 * [#CoolAdmin](https://t.me/cooladmin) — канал про системное администрирование, сети, сервера и системы хранения. С новостями и историями.
+* [R0 Crew](https://t.me/R0_Crew) — Ъ Сообщество реверс-инженеров.
 
 [(Назад к меню)](#Меню)
 
@@ -181,8 +182,8 @@
 ##### Погода
 * [Погода СПБ](https://t.me/weatherSPB) — Погода в Санкт-Петербурге
 * [Метеорадар Санкт-Петербург](https://t.me/piterweathergif) — Метеорадар Санкт-Петербург
-* [Метеорадар Москва](http://telegram.me/mskweathergif) — Метеорадар Москва
-* [Метеорадар Сочи](http://telegram.me/sochiweathergif) — Метеорадар Сочи
+* [Метеорадар Москва](http://t.me/mskweathergif) — Метеорадар Москва
+* [Метеорадар Сочи](http://t.me/sochiweathergif) — Метеорадар Сочи
 
 [(Назад к меню)](#Меню)
 
@@ -199,7 +200,7 @@
 * [Гонзо - записки юного врача](https://t.me/a_young_doctors_notebook) — Канал с медлайфхаками и простыми рассказами про сложные медицинские штуки.
 * [Dental Jedi](https://t.me/dentaljedi) — Канал о буднях стоматолога
 * [Юный техно-врач](https://t.me/ibrablogs) — Два раза в неделю «медистории» — интересные случаи из практики врачей. Раз в неделю «медссылки» — открытия и технологии в медицине за последнюю неделю. А ещё, «медгаджеты» и интересные «пометки».
-* [Медицина](https://telegram.me/medkanal) — Самые актуальные новости медицины. Медицинская информация из первых рук. Советы и рекомендации от врачей и подписчиков.
+* [Медицина](https://t.me/medkanal) — Самые актуальные новости медицины. Медицинская информация из первых рук. Советы и рекомендации от врачей и подписчиков.
 
 [(Назад к меню)](#Меню)
 
@@ -225,6 +226,9 @@
 * [MobiDevices](https://t.me/mobidevices) — Красивый журнал о технологиях.
 * [Just Links](https://t.me/j_links) — Ссылки на научные статьи и новости, с упором на Deep Learning и физику.
 * [Perfect Pixel](https://t.me/pppixel) — Продуктоводство, дизайн интерфейсов, анимация и прототипирование.
+* [ThinkTanker](https://t.me/ThinkTanker) — Интересные статьи
+* [Порошок, уходи!](https://t.me/poroshok_uhodi) — Ежедневные стишки-порошки.
+* [BA/SA Аналитики](https://t.me/spbcoachanel) — Канал сообщества бизнес аналитиков Санкт-Петербурга и не только.
 
 [(Назад к меню)](#Меню)
 
@@ -282,7 +286,6 @@
 * [pro.ruby](https://t.me/proRuby) — Чат про Ruby
 * [Ruby & RoR](https://t.me/rubylang) — Чат про Ruby и Ruby on Rails
 * [Ruby School .us](https://t.me/rubyschool) — Чат-болталка для учеников руби-школы
-* [Ruby — русскоговорящее сообщество](https://t.me/ruby_ru) — Русскоговорящее сообщество Ruby
 * [Ruby.Ata](https://t.me/rubyata) — Бишкекское сообщество Ruby и Ruby on Rails
 * [Moscow.rb](https://t.me/moscowrb) — Московское сообщество Ruby
 * [pro.rust](https://t.me/proRust) — Чат про Rust
@@ -314,7 +317,7 @@
 * [ООП](https://t.me/oop_ru) — Объектно-Ориентированное Программирование
 * [Fire-Monkey](https://t.me/fire_monkey) — Независимое сообщество разработчиков использующих Fire-Monkey
 * [Vue](https://t.me/vuejs_ru) — Чат про фреймворк Vue.js
-* [pro.net](https://telegram.me/joinchat/BYlFbD6uHawWMCImmbPIDw) — Сообщество разработчиков .Net
+* [pro.net](https://t.me/joinchat/BYlFbD6uHawWMCImmbPIDw) — Сообщество разработчиков .Net
 * [WordPress – русскоговорящее сообщество](https://t.me/wordpress1) — Чат про WordPress (~160)
 * [Wordpress for developers](https://t.me/wp4dev) — Группа для разработчиков на WordPress
 * [Netbeans](https://t.me/netbeans_ru) — Группа для тех, кто использует среду разработки Netbeans
@@ -333,13 +336,14 @@
 * [annode design](https://t.me/annode_design) — Чат ресурса annode по UX/UI дизайну
 * [Разработка для чайников](https://t.me/ru_devchat) — Чат для разработчиков. Флуд.
 * [Telegram Bot Developers](https://t.me/botoid) — Чат про разработку ботов в телеграме
-* [R0 Crew](https://t.me/R0_Crew) — Ъ Сообщество реверс-инженеров.
 * [IoT Community chat](https://t.me/Iot_chat) — Чат Internet fo Things сообщества.
 * [pro.algorithms](https://t.me/proalgorithms) — Группа по обсуждению алгоритмов, разных архитектурных решений, паттернов проектирования и прикладной математики.
 * [AtomicDesign](https://t.me/atomicdesign) — Обсуждение идеи и реализации Atomic Design в React.js
 * [Microsoft Developer Chat](https://t.me/microsoftschool) — Чат разработчиков и системных администраторов сообщества Microsoft Developer
 * [Ethereum Developers](https://t.me/eth_ru) — Ethereum Developers, Smart Contracts, Эфириум
 * [Чат по продуктам hashicorp](https://t.me/ru_hashicorp) — Русскоговорящее сообщество пользователей продуктов hashicorp. Consul, Nomad, Terraform...
+* [Tilda Developers](https://t.me/tilda_dev) — Чат разработчиков на платформе Tilda
+* [EOS dev](https://t.me/eoscode) — Чат о разработке под EOS
 
 [(Назад к меню)](#Меню)
 
@@ -487,6 +491,7 @@
 * [Яндекс Народная Карта](https://t.me/YandexPeopleMap) – неофициальная группа НЯК.
 * [Блудливая Калифорния](https://t.me/bludcaliforni) — Чат для общения, знакомств и совместных встреч в Москве и области.
 * [Английский язык](https://t.me/eng_for_rus) — Изучаем английский язык вместе.
+* [SPb CoA](https://t.me/spbcoa) — Чат Санкт-Петербургского сообщества системных и бизнес-аналитиков
 
 [(Назад к меню)](#Меню)
 

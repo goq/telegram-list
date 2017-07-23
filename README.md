@@ -115,6 +115,7 @@
 * [.NET Core Ukrainian User Group](https://t.me/dncuug) — официальный канал украинской группы .NET Core разработчиков. Актуальные новости и анонсы.
 * [#CoolAdmin](https://t.me/cooladmin) — канал про системное администрирование, сети, сервера и системы хранения. С новостями и историями.
 * [R0 Crew](https://t.me/R0_Crew) — Ъ Сообщество реверс-инженеров.
+* [R.R. GameDev](https://t.me/RRGameDev) — Welcome to GameDev. Here is only free games.
 
 [(Назад к меню)](#Меню)
 
@@ -229,6 +230,7 @@
 * [ThinkTanker](https://t.me/ThinkTanker) — Интересные статьи
 * [Порошок, уходи!](https://t.me/poroshok_uhodi) — Ежедневные стишки-порошки.
 * [BA/SA Аналитики](https://t.me/spbcoachanel) — Канал сообщества бизнес аналитиков Санкт-Петербурга и не только.
+* [StartAndroid](https://t.me/startandroid) — Канал про Android для начинающих и продвинутых
 
 [(Назад к меню)](#Меню)
 
@@ -492,6 +494,7 @@
 * [Блудливая Калифорния](https://t.me/bludcaliforni) — Чат для общения, знакомств и совместных встреч в Москве и области.
 * [Английский язык](https://t.me/eng_for_rus) — Изучаем английский язык вместе.
 * [SPb CoA](https://t.me/spbcoa) — Чат Санкт-Петербургского сообщества системных и бизнес-аналитиков
+* [ForGeeks Chat](https://t.me/forgeekschat) — Чат про гиков и для гиков
 
 [(Назад к меню)](#Меню)
 
@@ -530,6 +533,7 @@
 * [macOS ru](https://t.me/macOS_ru) — Русскоязычное сообщество macOS
 * [iHack - Hackintosh & Jailbreak](https://t.me/macosx86) — Чат про Хакинтош и MacOS
 * [Manjaro ru](https://t.me/manjarolinux) — Чат про Manjaro Linux
+* [Manjabuntu](https://t.me/manjabuntu) — Чат за популяризацию GNU/Linux дистрибутивов и помощь новичкам в их освоении. 
 * [openSuse](https://t.me/OpenSuseRu) — Чат про openSuse
 * [Свидетели ReactOS](https://t.me/reactos_ru) — Чат про ReactOS
 * [ROSA Linux / Роса ОС - Российская операционная система](https://t.me/rosa_linux) — Общение и помощь пользователям ОС ROSA Linux.

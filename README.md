@@ -254,31 +254,31 @@
 * [CSharp chat RU](https://t.me/CSharpChat) — Чат про C#
 * [ExtremeCodeTV](https://t.me/extremecode) — Чат C# разработчиков (есть свой бот компилирующий C# код)
 * [pro.crystal](https://t.me/proCrystal) — Чат про Crystal. Ruby-подобный статически типизированный объектно-ориентированный язык общего назначения.
+* [css_ru](https://t.me/css_ru) — Чат про CSS и немного HTML
 * [pro.elixir](https://t.me/proelixir) — Чат про Elixir
 * [Elm Lang](https://t.me/elm_ru) — Чат про язык программирования Elm
 * [Fsharp Chat](https://t.me/Fsharp_chat) — Чат про F#.
 * [pro.go](https://t.me/proGO) — Чат про Golang
 * [Golang RU](https://t.me/gogolang) — Чат про Golang
 * [Haskell](https://t.me/haskellru) — Чат про Haskell
-* [pro.js](https://t.me/JSlang) — Чат про JavaScript (~2630 человек)
-* [pro.js.noobs](https://t.me/joinchat/Be4rsT3Uyr1TjmSlrRc77g) — Чат про JavaScript (для новичков ~1760 человек)
-* [js_ru](https://t.me/js_ru) — JavaScript — русскоговорящее сообщество. (~930 человек)
-* [javascript_ru](https://t.me/javascript_ru) — Чат про JavaScript. (~285 человек)
+* [pro.js](https://t.me/JSlang) — Чат про JavaScript
+* [pro.js.noobs](https://t.me/joinchat/Be4rsT3Uyr1TjmSlrRc77g) — Чат про JavaScript для новичков
+* [js_ru](https://t.me/js_ru) — JavaScript — русскоговорящее сообщество
+* [javascript_ru](https://t.me/javascript_ru) — Чат про JavaScript
 * [pro.jvm](https://t.me/jvmchat) — Чат про JVM
 * [learn.java](https://t.me/javastart) — Изучаем java вместе. Чат для начинающих и не только!
 * [Scala](https://t.me/scala_ru) — Чат про Scala
 * [Kotlin](https://t.me/kotlin_lang) — Чат про Kotlin
 * [Modern::Perl](https://t.me/modernperl) — Чат про Perl. Современный::Perl
 * [use Perl or die;](https://t.me/usePerlOrDie) — Группа о языке Perl и обо всём что с ним связано.
-* [Python](https://t.me/ru_python) — Чат про Python. (~2250 человек)
-* [pro.python](https://t.me/propython) — Чат про Python. (~320 человек)
-* [css_ru](https://t.me/css_ru) — Чат про CSS и немного HTML
+* [Python](https://t.me/ru_python) — Чат про Python
+* [pro.python](https://t.me/propython) — Чат про Python
 * [Python_beginners](https://t.me/ru_python_beginners) — Чат про Python для новичков
 * [Rude Python](https://t.me/rudepython) — Грубый чат про Python (для мужиков)
-* [phpGeeks](https://t.me/phpgeeks) — Чат про PHP. (~1400)
-* [phpclub](https://t.me/phpclubru) — Чат про PHP (~450)
-* [prophp](https://t.me/prophp7) — Чат про современный PHP (~430 человек)
-* [Devall — PHP](https://t.me/joinchat/AAtJOjx9l5F9IhkHIIVP9Q) — Чат про PHP. Флуд (~200)
+* [phpGeeks](https://t.me/phpgeeks) — Чат про PHP
+* [phpclub](https://t.me/phpclubru) — Чат про PHP
+* [prophp](https://t.me/prophp7) — Чат про современный PHP
+* [Devall — PHP](https://t.me/joinchat/AAtJOjx9l5F9IhkHIIVP9Q) — Чат про PHP. Флуд
 * [pro.ruby](https://t.me/proRuby) — Чат про Ruby
 * [Ruby & RoR](https://t.me/rubylang) — Чат про Ruby и Ruby on Rails
 * [Ruby School .us](https://t.me/rubyschool) — Чат-болталка для учеников руби-школы
@@ -290,7 +290,6 @@
 * [TypeScript + Flow = ❤](https://t.me/typescript_ru) — Чат про TypeScript и Flow
 * [(F|R|FR)P](https://t.me/frp_ru) — Функциональное Реактивное Программирование
 * [Functional Programming](https://t.me/fp_ru) — Чат любителей функциональных языков программирования
-* [Ethereum Developers](https://t.me/eth_ru) — Ethereum Developers, Smart Contracts, Эфириум
 
 [(Назад к меню)](#Меню)
 
@@ -321,7 +320,6 @@
 * [Netbeans](https://t.me/netbeans_ru) — Группа для тех, кто использует среду разработки Netbeans
 * [Vim](https://t.me/vimedit_ru) — Русскоязычные вимеры
 * [Emacs — русскоговорящее сообщество](https://t.me/emacs_ru) — Русскоговорящее сообщество пользователей редактора Emacs.
-* [Чат по продуктам hashicorp](https://t.me/ru_hashicorp) — Русскоговорящее сообщество пользователей продуктов hashicorp. Consul, Nomad, Terraform...
 
 [(Назад к меню)](#Меню)
 
@@ -340,6 +338,8 @@
 * [pro.algorithms](https://t.me/proalgorithms) — Группа по обсуждению алгоритмов, разных архитектурных решений, паттернов проектирования и прикладной математики.
 * [AtomicDesign](https://t.me/atomicdesign) — Обсуждение идеи и реализации Atomic Design в React.js
 * [Microsoft Developer Chat](https://t.me/microsoftschool) — Чат разработчиков и системных администраторов сообщества Microsoft Developer
+* [Ethereum Developers](https://t.me/eth_ru) — Ethereum Developers, Smart Contracts, Эфириум
+* [Чат по продуктам hashicorp](https://t.me/ru_hashicorp) — Русскоговорящее сообщество пользователей продуктов hashicorp. Consul, Nomad, Terraform...
 
 [(Назад к меню)](#Меню)
 
@@ -357,8 +357,8 @@
 * [Nag.Ru](https://t.me/nag_public) — Чат Nag.ru
 * [Mikrotik.Ru](https://t.me/MikrotikRu) — Чат про Микротики
 * [Asterisk Russian Community](https://t.me/asterisk_ru) — Чат про Asterisk
-* [Zabbix Talks](https://t.me/ZabbixPro) — Чат про Zabbix (>220)
-* [pro.zabbix](https://t.me/prozabbix) — Чат про Zabbix (альтернативный) (~130)
+* [Zabbix Talks](https://t.me/ZabbixPro) — Чат про Zabbix
+* [pro.zabbix](https://t.me/prozabbix) — Чат про Zabbix (альтернативный)
 * [KVM (PVE/oVirt etc)](https://t.me/pro_kvm) — Чат о виртуализации и Proxmox
 * [glpi_ru](https://t.me/glpi_ru) — Чат о системе helpdesk и инвентаризации GLPI
 * [pro.enterprise](https://t.me/pro_enterprise) — Чат про корп.сектор: серверы, СХД, CDN, сетевое оборудование и облака.
@@ -375,7 +375,7 @@
 ##### Управление конфигурациями, development & operations engineers
 * [Ansible](https://t.me/pro_ansible) — Чат про Ansible
 * [ChatOps RU](https://t.me/chatops_ru) — Те, кто управляют серверами через чат ботов
-* [DevOps](https://t.me/devops_ru) — Чат про DevOps (>2200 человек)
+* [DevOps](https://t.me/devops_ru) — Чат про DevOps
 * [ru_devops](https://t.me/ru_devops) — Чат про DevOps
 * [Moby & Docker CE - Официальное Русское Сообщество](https://t.me/ru_docker) — Moby & Docker CE - Официальное Русское Сообщество
 * [Брутальный Docker](https://t.me/brutal_docker) — Чат для тех, кому есть что сказать про докер
@@ -413,7 +413,7 @@
 [(Назад к меню)](#Меню)
 
 ##### Мобильная разработка
-* [Android Developers](https://t.me/android_ru) — Чат про разработку под Android. (>950)
+* [Android Developers](https://t.me/android_ru) — Чат про разработку под Android.
 * [iOS Developers](https://t.me/ios_ru) — Чат про разработку под iOS
 * [Xamarin Developers](https://t.me/xamarin_russia) — Чат про разработку на платформе Xamarin под Android, IOS, Windows, MacOs
 * [iOS Good Talks](https://t.me/iosgt) — Чат подписчиков канала iOS Good Reads: обсуждение публикуемых материалов и холивары
@@ -448,6 +448,7 @@
 ##### Разные IT-сообщества
 * [IT PPL](https://t.me/spbitpeople) – IT People: общение айтишников и про айти, и не про айти ;-)
 * [SPbLUG](https://t.me/newspblug) — Saint Petersburg Linux talks (неофициальный чат SPbLUG)
+* [Chaos Construction](https://t.me/chaosconstructions) – Chaos Construction Санкт-Петербург
 * [Piter Py Conference](https://t.me/PiterPy) — Ежегодная Python конференция Piter Py
 * [DC7499](https://t.me/DEFCON) — DefCon Russia
 * [#ctfchat](https://t.me/ctfchat) — Чат CTF
@@ -457,7 +458,6 @@
 * [QA](https://t.me/qa_ru) — Чат русскоязычного сообщества тестировщиков
 * [Freelancers & Remote workers](https://t.me/ru_freelancers) — Чат практикующих и интересующихся удаленной работой и самозанятостью
 * [Borodutch](https://t.me/borodutcher) — Собрались программисты-фрилансеры-предприниматели-стартаперы и замутили свою ламповую конфу.
-* [Chaos Construction](https://t.me/chaosconstructions) – Chaos Construction Санкт-Петербург
 * [IT Security Talk](https://t.me/itsectalk) – IT Security Talk (english)
 * [IT Lobby Irkutsk](https://t.me/joinchat/CD0D_D31vVD8L1FO4UutnQ) — чат ITишников города Иркутск
 * [Hacker May Cry](https://t.me/mrl_hack) — Чат для взаимопомощи в сфере информационной безопасности, хакинга и программирования.

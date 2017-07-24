@@ -320,7 +320,7 @@
 * [Fire-Monkey](https://t.me/fire_monkey) — Независимое сообщество разработчиков использующих Fire-Monkey
 * [Vue](https://t.me/vuejs_ru) — Чат про фреймворк Vue.js
 * [pro.net](https://t.me/joinchat/BYlFbD6uHawWMCImmbPIDw) — Сообщество разработчиков .Net
-* [WordPress – русскоговорящее сообщество](https://t.me/wordpress1) — Чат про WordPress (~160)
+* [WordPress – русскоговорящее сообщество](https://t.me/wordpress1) — Чат про WordPress (~430)
 * [Wordpress for developers](https://t.me/wp4dev) — Группа для разработчиков на WordPress
 * [Netbeans](https://t.me/netbeans_ru) — Группа для тех, кто использует среду разработки Netbeans
 * [Vim](https://t.me/vimedit_ru) — Русскоязычные вимеры
@@ -535,7 +535,7 @@
 * [macOS ru](https://t.me/macOS_ru) — Русскоязычное сообщество macOS
 * [iHack - Hackintosh & Jailbreak](https://t.me/macosx86) — Чат про Хакинтош и MacOS
 * [Manjaro ru](https://t.me/manjarolinux) — Чат про Manjaro Linux
-* [Manjabuntu](https://t.me/manjabuntu) — Чат за популяризацию GNU/Linux дистрибутивов и помощь новичкам в их освоении. 
+* [Manjabuntu](https://t.me/manjabuntu) — Чат за популяризацию GNU/Linux дистрибутивов и помощь новичкам в их освоении.
 * [openSuse](https://t.me/OpenSuseRu) — Чат про openSuse
 * [Свидетели ReactOS](https://t.me/reactos_ru) — Чат про ReactOS
 * [ROSA Linux / Роса ОС - Российская операционная система](https://t.me/rosa_linux) — Общение и помощь пользователям ОС ROSA Linux.

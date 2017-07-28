@@ -223,6 +223,7 @@
 * [Drone News](https://t.me/dronenews) — Новости мира беспилотных летательных аппаратов.
 * [Авиафан: Летач](https://t.me/letach) — Информационный авиационный канал. Авиа фотографии, авиа новости.
 * [about #Moscow](https://t.me/aboutmoscow) — Интересные ссылки, события, новости, фото и видео о Москве и не только. Делимся тем, что интересно нам самим.
+* [bash.im](https://t.me/bash_im) — развлекательный канал Башорг / bash.im ( BASH.org ). Цитатник Рунета.
 * [Кинопаблик](https://t.me/anonhownow) — Канал про кино. Кинопаблик.
 * [MobiDevices](https://t.me/mobidevices) — Красивый журнал о технологиях.
 * [Just Links](https://t.me/j_links) — Ссылки на научные статьи и новости, с упором на Deep Learning и физику.
@@ -259,7 +260,6 @@
 * [pro.cxx](https://t.me/ProCxx) — Чат про Си++
 * [CSharp chat RU](https://t.me/CSharpChat) — Чат про C#
 * [ExtremeCodeTV](https://t.me/extremecode) — Чат C# разработчиков (есть свой бот компилирующий C# код)
-* [.NET Talks](https://t.me/dotnet_chat) — Свободный чат .NET разработчиков
 * [pro.crystal](https://t.me/proCrystal) — Чат про Crystal. Ruby-подобный статически типизированный объектно-ориентированный язык общего назначения.
 * [css_ru](https://t.me/css_ru) — Чат про CSS и немного HTML
 * [pro.elixir](https://t.me/proelixir) — Чат про Elixir

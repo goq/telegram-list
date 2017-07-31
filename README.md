@@ -493,6 +493,7 @@
 * [pro.embedded](https://t.me/proembedded) — Чат про встраиваемые системы
 * [Про электронику](https://t.me/ru_electronics) — QA чат для решения вопросов, связанных с электроникой. На линии работает контроль.
 * [Анархическая электроника](https://t.me/ru_arduino) — Сателлит [@ru_electronics](https://t.me/ru_electronics) с [около]электронными темами.
+* [Mathematics.Physics.Algorithms](https://t.me/physicistsays) - Решение задач по физике, математике и информатике. Подойдет даже школьникам. (ENG)
 
 [(Назад к меню)](#Меню)
 

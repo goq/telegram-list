@@ -264,7 +264,7 @@
 * [css_ru](https://t.me/css_ru) — Чат про CSS и немного HTML
 * [pro.elixir](https://t.me/proelixir) — Чат про Elixir
 * [Elm Lang](https://t.me/elm_ru) — Чат про язык программирования Elm
-* [Fsharp Chat](https://t.me/Fsharp_chat) — Чат про F#.
+* [Fsharp Chat](https://t.me/Fsharp_chat) — Чат про F#
 * [pro.go](https://t.me/proGO) — Чат про Golang
 * [Golang RU](https://t.me/gogolang) — Чат про Golang
 * [Haskell](https://t.me/haskellru) — Чат про Haskell
@@ -296,6 +296,7 @@
 * [TypeScript + Flow = ❤](https://t.me/typescript_ru) — Чат про TypeScript и Flow
 * [(F|R|FR)P](https://t.me/frp_ru) — Функциональное Реактивное Программирование
 * [Functional Programming](https://t.me/fp_ru) — Чат любителей функциональных языков программирования
+* [CIL](https://t.me/cilchat) — Чат про CIL/IL/MSIL
 
 [(Назад к меню)](#Меню)
 

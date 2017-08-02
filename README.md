@@ -38,6 +38,7 @@
     - [Управление конфигурациями, development & operations engineers](#Управление-конфигурациями-development--operations-engineers)
     - [Базы данных](#Базы-Данных)
     - [Big Data, Машинное обучение, deep learning и data science](#big-data-Машинное-обучение-deep-learning-и-data-science)
+    - [Операционные системы](#Операционные-системы)
     - [Математика и другие точные науки](#Математика-и-другие-точные-науки)
     - [Мобильная разработка](#Мобильная-разработка)
     - [Вакансии и работа](#Вакансии-и-работа)
@@ -46,7 +47,6 @@
     - [Разные не IT-сообщества](#Разные-не-it-сообщества)
     - [Электроника, микроконтроллеры и встраиваемые системы](#Электроника-микроконтроллеры-и-встраиваемые-системы)
     - [SMM, SEO, стартапы, бизнес](#smm-seo-Стартапы-Бизнес-в-интернете)
-    - [Операционные системы](#Операционные-системы)
     - [Книги, философия](#Книги-философия)
     - [Медицина](#Медицина-1)
     - [Разное и интересное](#Разное-и-интересное)
@@ -282,8 +282,8 @@
 * [pro.python](https://t.me/propython) — Чат про Python
 * [Python_beginners](https://t.me/ru_python_beginners) — Чат про Python для новичков
 * [Rude Python](https://t.me/rudepython) — Грубый чат про Python (для мужиков)
-* [phpGeeks](https://t.me/phpgeeks) — Чат про PHP
-* [phpclub](https://t.me/phpclubru) — Чат про PHP
+* [phpGeeks](https://t.me/phpgeeks) — Чат про PHP / php Geeks
+* [phpclub](https://t.me/phpclubru) — Чат про PHP / php Club
 * [prophp](https://t.me/prophp7) — Чат про современный PHP
 * [Devall — PHP](https://t.me/joinchat/AAtJOjx9l5F9IhkHIIVP9Q) — Чат про PHP. Флуд
 * [pro.ruby](https://t.me/proRuby) — Чат про Ruby
@@ -417,6 +417,34 @@
 
 [(Назад к меню)](#Меню)
 
+##### Операционные системы
+* [ArchLinux RU](https://t.me/archlinux_ru) — ArchLinux
+* [Calculate Linux](https://t.me/calculate_linux) — Чат про Calculate Linux (Gentoo based)
+* [CentOS](https://t.me/CentOSRu) — Чат про CentOS
+* [Debian](https://t.me/DebianRu) — Чат про Debian
+* [Fedora](https://t.me/fedora) — Чат про Fedora (англ.)
+* [Russian Fedora](https://t.me/russianfedora) — Чат про Fedora (рус.)
+* [freebsd_ru](https://t.me/freebsd_ru) — Чат про FreeBSD
+* [Gentoo](https://t.me/russian_gentoo) — Чат про Gentoo
+* [KDE neon users](https://t.me/kdeneon) — English speaking community of KDE neon
+* [Linux Mint Russia 🇷🇺](https://t.me/LMRus) — Чат про Linux Mint (Русский)
+* [Linux Mint International](https://t.me/LMInter) — Linux Mint Chat (International)
+* [macOS ru](https://t.me/macOS_ru) — Русскоязычное сообщество macOS
+* [iHack - Hackintosh & Jailbreak](https://t.me/macosx86) — Чат про Хакинтош и MacOS
+* [Manjaro ru](https://t.me/manjarolinux) — Чат про Manjaro Linux
+* [Manjabuntu](https://t.me/manjabuntu) — Чат за популяризацию GNU/Linux дистрибутивов и помощь новичкам в их освоении.
+* [openSuse](https://t.me/OpenSuseRu) — Чат про openSuse
+* [Свидетели ReactOS](https://t.me/reactos_ru) — Чат про ReactOS
+* [ROSA Linux / Роса ОС - Российская операционная система](https://t.me/rosa_linux) — Общение и помощь пользователям ОС ROSA Linux.
+* [smartos_ru](https://t.me/smartos_ru) — Чат про SmartOS
+* [Ubuntu](https://t.me/ru_ubuntu) — Чат про Ubuntu (Kubuntu, Lubuntu, Xubuntu, и прочую *buntu)
+* [pro.windows](https://t.me/joinchat/Be4rsT5IrA8x69FnrpMMvw) — Чат про Windows
+* [That's Linux - общение](https://t.me/that_is_linux) — Чат про Linux
+* [Xubuntu-ru.net](https://t.me/xubuntu_runet) — Русскоязычное сообщество Xubuntu
+* [Linux Security](https://t.me/safelinux) — Чат про безопасность в Линуксе и про Линукс для безопасников
+
+[(Назад к меню)](#Меню)
+
 ##### Математика и другие точные науки
 * [Мехмат МГУ](https://t.me/mechmath) — Внутренний чат Мехмата МГУ
 * [Листочки с глубинным](https://t.me/foreachepsilon) — Математический чат
@@ -520,34 +548,6 @@
 * [PRO Стартапы и бизнес](https://t.me/startupchat) — Чат про стартапы и бизнес
 * [Мини-бизнес чат](https://t.me/pizneschat) — Чат про мини-бизнес
 * [YouTube.Чат](https://t.me/youtube_chat) — Видеоблоггинг, продвижение, контент и реклама на ютуб.
-
-[(Назад к меню)](#Меню)
-
-##### Операционные системы
-* [ArchLinux RU](https://t.me/archlinux_ru) — ArchLinux
-* [Antegros](https://t.me/joinchat/AAAAAEKGOtHIG4VB15M18A) — Чат про Antegros (Arch based)
-* [Calculate Linux](https://t.me/calculate_linux) — Чат про Calculate Linux (Gentoo based)
-* [CentOS](https://t.me/CentOSRu) — Чат про CentOS
-* [Debian](https://t.me/DebianRu) — Чат про Debian
-* [Fedora](https://t.me/fedora) — Чат про Fedora (англ.)
-* [Russian Fedora](https://t.me/russianfedora) — Чат про Fedora (рус.)
-* [freebsd_ru](https://t.me/freebsd_ru) — Чат про FreeBSD
-* [Gentoo](https://t.me/russian_gentoo) — Чат про Gentoo
-* [KDE neon users](https://t.me/kdeneon) — English speaking community of KDE neon
-* [Linux Mint Russia 🇷🇺](https://t.me/LMRus) — Чат про Linux Mint (Русский)
-* [Linux Mint International](https://t.me/LMInter) — Linux Mint Chat (International)
-* [macOS ru](https://t.me/macOS_ru) — Русскоязычное сообщество macOS
-* [iHack - Hackintosh & Jailbreak](https://t.me/macosx86) — Чат про Хакинтош и MacOS
-* [Manjaro ru](https://t.me/manjarolinux) — Чат про Manjaro Linux
-* [Manjabuntu](https://t.me/manjabuntu) — Чат за популяризацию GNU/Linux дистрибутивов и помощь новичкам в их освоении.
-* [openSuse](https://t.me/OpenSuseRu) — Чат про openSuse
-* [Свидетели ReactOS](https://t.me/reactos_ru) — Чат про ReactOS
-* [ROSA Linux / Роса ОС - Российская операционная система](https://t.me/rosa_linux) — Общение и помощь пользователям ОС ROSA Linux.
-* [smartos_ru](https://t.me/smartos_ru) — Чат про SmartOS
-* [Ubuntu](https://t.me/ru_ubuntu) — Чат про Ubuntu (Kubuntu, Lubuntu, Xubuntu, и прочую *buntu)
-* [pro.windows](https://t.me/joinchat/Be4rsT5IrA8x69FnrpMMvw) — Чат про Windows
-* [That's Linux - общение](https://t.me/that_is_linux) — Чат про Linux
-* [Xubuntu-ru.net](https://t.me/xubuntu_runet) — Русскоязычное сообщество Xubuntu
 
 [(Назад к меню)](#Меню)
 

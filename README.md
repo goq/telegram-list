@@ -355,6 +355,7 @@
 
 ##### Системное и сетевое администрирование, телефония и телекоммуникации.
 * [RU.SYSADMIN](https://t.me/ru_sysadmin) — Чат Сисадминов
+* [pro.mikrotik](https://t.me/pro_mikrotik) - Чат про сетевые технологии, WiFi и администрирование
 * [ru.VoIP](https://t.me/ru_voip) — Чат про телефонию, VoIP, Asterisk
 * [Hosting and so on](https://t.me/pro_hosting) — Про хостинг
 * [pro.telecom](https://t.me/protelecom) — Чат про телекоммуникации.

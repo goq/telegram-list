@@ -379,6 +379,7 @@
 * [e-mail](https://t.me/ru_email) — Чат по администрирование почтовой инфраструктуры и борьбу со спамом
 * [Configuration Manager](https://t.me/configmgr) — Microsoft System Center Configuration Manager & Intune & EMS
 * [Operations Manager](https://t.me/OpsMgr) — System Center Operations Manager & Orchestrator = Automation
+* [pro.mikrotik](https://t.me/pro_mikrotik) — Чат про сетевые технологии, WiFi и администрирование
 
 [(Назад к меню)](#Меню)
 

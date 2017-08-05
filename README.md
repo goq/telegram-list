@@ -315,7 +315,7 @@
 * [CodenameCRUD](https://t.me/codenamecrud) — Чат про Ruby on Rails (~320 человек)
 * [React.js](https://t.me/react_js) — Чат про React.JS
 * [Битрикс для разработчиков](https://t.me/bitrixfordevelopers) — Чат про Битрикс
-* [Spring Framework and more](https://t.me/springframeworkio) — Русскоязычный Чат о Spring Framework - самый успешный и востребованный фрейворк на Java Enterprise (JEE) платформе, без которого не было бы современной Java. Если вы действительно хотите стать Java Senior Developer, Team Leader или CTO, найти ответ на непростой технический вопрос - вам сюда. Минимум левого флуда! 8 админов! 
+* [Spring Framework and more](https://t.me/springframeworkio) — Русскоязычный Чат о Spring Framework
 * [Symfony](https://t.me/symfony_php) — Чат про Symfony Framework. Атмосферный! Без цензуры :-D
 * [Symfony Ru](https://t.me/symfony_ru) — Чат про Symfony Framework. Со строгими правилами и без мата.
 * [Electron Ru](https://t.me/electron_ru) — Чат по Electron (Atom)

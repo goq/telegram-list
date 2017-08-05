@@ -282,8 +282,8 @@
 * [pro.js.noobs](https://t.me/joinchat/Be4rsT3Uyr1TjmSlrRc77g) — Чат про JavaScript для новичков
 * [js_ru](https://t.me/js_ru) — JavaScript — русскоговорящее сообщество
 * [javascript_ru](https://t.me/javascript_ru) — Чат про JavaScript
-* [pro.jvm](https://t.me/jvmchat) — Чат про JVM
 * [learn.java](https://t.me/javastart) — Изучаем java вместе. Чат для начинающих и не только!
+* [pro.jvm](https://t.me/jvmchat) — Чат про JVM
 * [Scala](https://t.me/scala_ru) — Чат про Scala
 * [Kotlin](https://t.me/kotlin_lang) — Чат про Kotlin
 * [Modern::Perl](https://t.me/modernperl) — Чат про Perl. Современный::Perl
@@ -324,6 +324,7 @@
 * [CodenameCRUD](https://t.me/codenamecrud) — Чат про Ruby on Rails (~320 человек)
 * [React.js](https://t.me/react_js) — Чат про React.JS
 * [Битрикс для разработчиков](https://t.me/bitrixfordevelopers) — Чат про Битрикс
+* [Spring Framework and more](https://t.me/springframeworkio) — Русскоязычный Чат о Spring Framework
 * [Symfony](https://t.me/symfony_php) — Чат про Symfony Framework. Атмосферный! Без цензуры :-D
 * [Symfony Ru](https://t.me/symfony_ru) — Чат про Symfony Framework. Со строгими правилами и без мата.
 * [Electron Ru](https://t.me/electron_ru) — Чат по Electron (Atom)

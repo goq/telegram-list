@@ -118,6 +118,7 @@
 * [R0 Crew](https://t.me/R0_Crew) — Ъ Сообщество реверс-инженеров.
 * [R.R. GameDev](https://t.me/RRGameDev) — Welcome to GameDev. Here is only free games.
 * [PhpFlow](https://t.me/PhpFlow) — Всё о PHP: новости, статьи, интересные фишки и много всего интересного!
+* [Разработка игр](https://t.me/progamedev) — Материалы о разработке, экспертные статьи и скромные мнения обо всём, что касается игр. 
 
 [(Назад к меню)](#Меню)
 
@@ -359,6 +360,7 @@
 * [Tilda Developers](https://t.me/tilda_dev) — Чат разработчиков на платформе Tilda
 * [EOS dev](https://t.me/eoscode) — Чат о разработке под EOS
 * [Москоу progers](https://t.me/moscowProgers) — Сообщество для общения/знакомств/коворкинга программистов и прочих IT специалистов из белокаменной
+* [Разработка игр](https://t.me/gamedevtalk) — Сообщество программистов и разработчиков игр
 
 [(Назад к меню)](#Меню)
 

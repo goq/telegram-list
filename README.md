@@ -358,6 +358,7 @@
 * [Чат по продуктам hashicorp](https://t.me/ru_hashicorp) — Русскоговорящее сообщество пользователей продуктов hashicorp. Consul, Nomad, Terraform...
 * [Tilda Developers](https://t.me/tilda_dev) — Чат разработчиков на платформе Tilda
 * [EOS dev](https://t.me/eoscode) — Чат о разработке под EOS
+* [Москоу progers](https://t.me/moscowProgers) — Сообщество для общения/знакомств/коворкинга программистов и прочих IT специалистов из белокаменной
 
 [(Назад к меню)](#Меню)
 

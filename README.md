@@ -309,6 +309,7 @@
 * [Moscow.rb](https://t.me/moscowrb) — Московское сообщество Ruby
 * [pro.rust](https://t.me/proRust) — Чат про Rust
 * [RustLang](https://t.me/rustlang_ru) — Амбициозный чат по Rust
+* [embedded.rs](https://t.me/embedded_rs) — Чат про Embedded на Rust
 * [TypeScript + Flow = ❤](https://t.me/typescript_ru) — Чат про TypeScript и Flow
 * [(F|R|FR)P](https://t.me/frp_ru) — Функциональное Реактивное Программирование
 * [Functional Programming](https://t.me/fp_ru) — Чат любителей функциональных языков программирования

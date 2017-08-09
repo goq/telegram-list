@@ -384,6 +384,7 @@
 * [Трактор over IP](https://t.me/ntwrk) — Чат сетевых инженеров
 * [Nag.Ru](https://t.me/nag_public) — Чат Nag.ru
 * [Mikrotik.Ru](https://t.me/MikrotikRu) — Чат про Микротики
+* [pro.mikrotik](https://t.me/pro_mikrotik) — Чат про Микротики (альтернативный)
 * [Asterisk Russian Community](https://t.me/asterisk_ru) — Чат про Asterisk
 * [Zabbix Talks](https://t.me/ZabbixPro) — Чат про Zabbix
 * [pro.zabbix](https://t.me/prozabbix) — Чат про Zabbix (альтернативный)
@@ -397,7 +398,7 @@
 * [e-mail](https://t.me/ru_email) — Чат по администрирование почтовой инфраструктуры и борьбу со спамом
 * [Configuration Manager](https://t.me/configmgr) — Microsoft System Center Configuration Manager & Intune & EMS
 * [Operations Manager](https://t.me/OpsMgr) — System Center Operations Manager & Orchestrator = Automation
-* [pro.mikrotik](https://t.me/pro_mikrotik) — Чат про сетевые технологии, WiFi и администрирование
+
 
 [(Назад к меню)](#Меню)
 
@@ -529,6 +530,7 @@
 * [cloud_ru](https://t.me/cloud_ru) — Обсуждения облачных технологий
 * [cloud_flood](https://t.me/cloud_flood) — Флудильня облачных технологий
 * [Perfect Pixel Chat](https://t.me/pppixel_chat) — Чат канала Perfect Pixel о проектировании, интерфейсах и дизайне.
+* [free_raspberry](https://t.me/free_raspberry) — Чат канала о Raspberry Pi.
 
 [(Назад к меню)](#Меню)
 

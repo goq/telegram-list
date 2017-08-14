@@ -277,6 +277,7 @@
 * [CSharp chat RU](https://t.me/CSharpChat) — Чат про C#
 * [ExtremeCodeTV](https://t.me/extremecode) — Чат C# разработчиков (есть свой бот компилирующий C# код)
 * [.NET Talks](https://t.me/dotnet_chat) — Свободный чат .NET разработчиков
+* [.NET Group](https://t.me/dotnetgroup) — Чат разработчиков .NET. Минимум флуда, максимум полезных обсуждений
 * [pro.crystal](https://t.me/proCrystal) — Чат про Crystal. Ruby-подобный статически типизированный объектно-ориентированный язык общего назначения.
 * [css_ru](https://t.me/css_ru) — Чат про CSS и немного HTML
 * [pro.elixir](https://t.me/proelixir) — Чат про Elixir

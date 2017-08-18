@@ -229,10 +229,8 @@
 ##### Разные и интересные каналы
 * [The After Times](https://t.me/theaftertimes) — Паста, мысли, критика.
 * [#All-im-One Person](https://t.me/themarfa) — канал о технологиях, стартапах, автоматизации, лайфхаках и продуктивности. Экспертные советы по Evernote, Google и многому другому.
-* [#Тыжпрограммист /dev/null](https://t.me/yourProger) — развлекательные IT-паблики в одном месте.
 * [Robotics](https://t.me/robotics_channel) — Робототехника, нейросети, киборги (свежие новости, обзоры разработок и интересные статьи).
 * [Product-Shmoduct](https://t.me/productshmoduct) — Диджитал продукты и продакт менеджмент
-* [#LifeStories](https://t.me/LifeStoriesRU) — жизненные истории из VK-пабликов в одном месте.
 * [Linkmeup](https://t.me/linkmeup_podcast) — Официальный канал подкаста для связистов Linkmeup (новости подкаста и сетевых технологий).
 * [Gik.me](https://t.me/gikme) — Канал подкаста gik.me - веселый подкаст о IT (на канале размещаются выпуски подкаста).
 * [Drone News](https://t.me/dronenews) — Новости мира беспилотных летательных аппаратов.

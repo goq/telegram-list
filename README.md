@@ -100,6 +100,7 @@
 * [Fsharp](https://t.me/F_Sharp) — Новости про F#.
 * [Потрясающий Go](https://t.me/awesomego) — Ежедневный дайджест новостей языка Go (Golang) и всего вокруг него.
 * [FrontEnd Development](https://t.me/fedevelopment) — Канал ежедневно публикует полезные ссылки, новости из мира фронтент разработки.
+* [Spb-Frontend](https://t.me/spb_frontend) - Новости фронтенда и питерского сообщества Spb-Frontend, дайджест новостей за неделю в виде рассылки
 * [Internet of things Community](https://t.me/IoT_community) — Канал IoT сообщества. Новости Интернета вещей и анонсы встреч сообщества.
 * [Удивительный Python](https://t.me/awesomepython) — Ежедневный дайджест новостей языка Python.
 * [Экстраполяция IT](https://t.me/itextrapolation) — Авторский канал об IT, аутсорсе, продуктах и программировании.

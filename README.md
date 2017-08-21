@@ -8,8 +8,9 @@
 * [Telegram Group List Chat](https://t.me/grouplst) — Чат списка: обсуждения, предложения и идеи.
 
 Чат недели:
-Внимание! Крупнейший компьютерный фестиваль Chaos Constructions 2017 уже в эти выходные в Санкт-Петербурге! 26 и 27 августа! https://pro.chaosconstructions.ru/
 * [Chaos Construction](https://t.me/chaosconstructions) – Chaos Construction Санкт-Петербург.
+Внимание! Крупнейший компьютерный фестиваль Chaos Constructions 2017 уже в эти выходные в Санкт-Петербурге! 26 и 27 августа! https://pro.chaosconstructions.ru/
+
 
 -----
 

@@ -114,6 +114,7 @@
 * [R.R. GameDev](https://t.me/RRGameDev) — Welcome to GameDev. Here is only free games.
 * [PhpFlow](https://t.me/PhpFlow) — Всё о PHP: новости, статьи, интересные фишки и много всего интересного!
 * [Разработка игр](https://t.me/progamedev) — Материалы о разработке, экспертные статьи и скромные мнения обо всём, что касается игр. 
+* [Non-trivial Ruby](https://t.me/rubynontrivial) — Ruby-наркомания: микробиблиотеки, альтернативные фреймворки, security, IoT, system programming
 
 [(Назад к меню)](#Меню)
 

@@ -298,7 +298,6 @@
 * [Ruby School .us](https://t.me/rubyschool) — Чат-болталка для учеников руби-школы
 * [Ruby.Ata](https://t.me/rubyata) — Бишкекское сообщество Ruby и Ruby on Rails
 * [Moscow.rb](https://t.me/moscowrb) — Московское сообщество Ruby
-* [pro.rust](https://t.me/proRust) — Чат про Rust
 * [RustLang](https://t.me/rustlang_ru) — Амбициозный чат по Rust
 * [embedded.rs](https://t.me/embedded_rs) — Чат про Embedded на Rust
 * [TypeScript + Flow = ❤](https://t.me/typescript_ru) — Чат про TypeScript и Flow

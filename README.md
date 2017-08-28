@@ -305,6 +305,7 @@
 * [(F|R|FR)P](https://t.me/frp_ru) — Функциональное Реактивное Программирование
 * [Functional Programming](https://t.me/fp_ru) — Чат любителей функциональных языков программирования
 * [CIL](https://t.me/cilchat) — Чат про CIL/IL/MSIL
+* [ITForge](https://t.me/itforge) - Чат про python, парсинг сайтов и просто про IT
 
 [(Назад к меню)](#Меню)
 

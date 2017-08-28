@@ -361,6 +361,7 @@
 * [Разработка игр](https://t.me/gamedevtalk) — Сообщество программистов и разработчиков игр
 * [Saint P Ruby User Group](https://t.me/saintprug) — Сообщество разработчиков Ruby в Санкт-Петербурге
 * [HighLoadCup Official](https://t.me/highloadcup) — Официальная группа для участников чемпионата highloadcup от mail.ru
+* [ITForge](https://t.me/itforge) - Чат про python, парсинг сайтов и просто про IT
 
 [(Назад к меню)](#Меню)
 

@@ -525,6 +525,7 @@
 * [cloud_flood](https://t.me/cloud_flood) — Флудильня облачных технологий
 * [Perfect Pixel Chat](https://t.me/pppixel_chat) — Чат канала Perfect Pixel о проектировании, интерфейсах и дизайне.
 * [free_raspberry](https://t.me/free_raspberry) — Чат канала о Raspberry Pi.
+* [meshnet](https://t.me/meshnet) — Mesh-сети, криптосвобода, cjdns/hyperboria
 
 [(Назад к меню)](#Меню)
 

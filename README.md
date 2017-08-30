@@ -390,6 +390,7 @@
 * [e-mail](https://t.me/ru_email) — Чат по администрирование почтовой инфраструктуры и борьбу со спамом
 * [Configuration Manager](https://t.me/configmgr) — Microsoft System Center Configuration Manager & Intune & EMS
 * [Operations Manager](https://t.me/OpsMgr) — System Center Operations Manager & Orchestrator = Automation
+* [SourceBasedOS](https://t.me/SourceBasedOS) - Чат про source based ОС
 
 [(Назад к меню)](#Меню)
 

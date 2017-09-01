@@ -112,8 +112,8 @@
 * [PhpFlow](https://t.me/PhpFlow) — Всё о PHP: новости, статьи, интересные фишки и много всего интересного!
 * [Разработка игр](https://t.me/progamedev) — Материалы о разработке, экспертные статьи и скромные мнения обо всём, что касается игр. 
 * [Non-trivial Ruby](https://t.me/rubynontrivial) — Ruby-наркомания: микробиблиотеки, альтернативные фреймворки, security, IoT, system programming
-* [В мире Linux и IT](https://t.me/chmanjabuntu) — Канал сайта https://manjabuntu.com/ про Linux и IT
-* [DevBrain](https://t.me/devbrain) — Новости, статьи, книги и видео из мира разработки софта от автора блога https://khashtamov.com/
+* [В мире Linux и IT](https://t.me/chmanjabuntu) — Канал новостей про Linux и IT
+* [DevBrain](https://t.me/devbrain) — Новости, статьи, книги и видео из мира разработки софта
 
 [(Назад к меню)](#Меню)
 
@@ -127,7 +127,7 @@
 * [Dev Useful Stuff](https://t.me/dev_useful_stuff) — Библиотеки, фреймворки, инструменты
 * [FrontEnd Development](https://t.me/fedevelopment) — Канал ежедневно публикует полезные ссылки, новости из мира фронтент разработки.
 * [Spb-Frontend](https://t.me/spb_frontend) — Новости фронтенда и питерского сообщества Spb-Frontend, дайджест новостей за неделю в виде рассылки
-* [РОДИОНОВ И ФРОНТЭНД](https://t.me/rodionovrodionovrodionov) — Авторский канал про Frontend от [@evgenyrodionov](https://t.me/evgenyrodionov)
+* [РОДИОНОВ И ФРОНТЭНД](https://t.me/rodionovrodionovrodionov) — Авторский канал про Frontend
 
 [(Назад к меню)](#Меню)
 

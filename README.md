@@ -487,6 +487,7 @@
 * [Microsoft Stack Jobs](https://t.me/microsoftstackjobs) — Чат для поиска работы в сфере Microsoft и других Enterprise технологии.
 * [ethereum_jobs](https://t.me/eth_jobs) — Вакансии по Ethereum - Эфириум
 * [Big Data jobs](https://t.me/bigdata_jobs) — Вакансии в Big Data области
+* [Django Jobs](https://t.me/django_jobs) — Поиск и предложения работы в области Python/Django
 
 [(Назад к меню)](#Меню)
 

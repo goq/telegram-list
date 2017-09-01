@@ -113,6 +113,7 @@
 * [Разработка игр](https://t.me/progamedev) — Материалы о разработке, экспертные статьи и скромные мнения обо всём, что касается игр. 
 * [Non-trivial Ruby](https://t.me/rubynontrivial) — Ruby-наркомания: микробиблиотеки, альтернативные фреймворки, security, IoT, system programming
 * [В мире Linux и IT](https://t.me/chmanjabuntu) — Канал сайта https://manjabuntu.com/ про Linux и IT
+* [DevBrain](https://t.me/devbrain) — Новости, статьи, книги и видео из мира разработки софта от автора блога https://khashtamov.com/
 
 [(Назад к меню)](#Меню)
 

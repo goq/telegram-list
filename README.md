@@ -304,6 +304,7 @@
 * [(F|R|FR)P](https://t.me/frp_ru) — Функциональное Реактивное Программирование
 * [Functional Programming](https://t.me/fp_ru) — Чат любителей функциональных языков программирования
 * [CIL](https://t.me/cilchat) — Чат про CIL/IL/MSIL
+* [ReasonML и OCaml](https://t.me/reasonml_ru) — Чат про ReasonML и OCaml
 
 [(Назад к меню)](#Меню)
 

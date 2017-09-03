@@ -114,6 +114,7 @@
 * [Non-trivial Ruby](https://t.me/rubynontrivial) — Ruby-наркомания: микробиблиотеки, альтернативные фреймворки, security, IoT, system programming
 * [В мире Linux и IT](https://t.me/chmanjabuntu) — Канал новостей про Linux и IT
 * [DevBrain](https://t.me/devbrain) — Новости, статьи, книги и видео из мира разработки софта
+* [VR Journal](https://t.me/VR_Journal) — Уютненько о VR/AR технологиях
 
 [(Назад к меню)](#Меню)
 
@@ -361,7 +362,8 @@
 * [Разработка игр](https://t.me/gamedevtalk) — Сообщество программистов и разработчиков игр
 * [Saint P Ruby User Group](https://t.me/saintprug) — Сообщество разработчиков Ruby в Санкт-Петербурге
 * [HighLoadCup Official](https://t.me/highloadcup) — Официальная группа для участников чемпионата highloadcup от mail.ru
-* [ITForge](https://t.me/itforge) - Чат про python, парсинг сайтов и просто про IT
+* [ITForge](https://t.me/itforge) — Чат про python, парсинг сайтов и просто про IT
+* [AVRA community](https://t.me/avrahackathon) — Чат для создающих и интересующихся AR/VR технологиями
 
 [(Назад к меню)](#Меню)
 

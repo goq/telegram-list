@@ -280,7 +280,7 @@
 * [javascript_ru](https://t.me/javascript_ru) — Чат про JavaScript
 * [learn.java](https://t.me/javastart) — Изучаем java вместе. Чат для начинающих и не только!
 * [pro.jvm](https://t.me/jvmchat) — Чат про JVM
-* [.NET Talks](https://t.me/dotnet_chat) — Свободный чат .NET разработчиков
+* [.NET Talks](https://t.me/dotnettalks) — Свободный чат .NET разработчиков
 * [.NET Group](https://t.me/dotnetgroup) — Чат разработчиков .NET. Минимум флуда, максимум полезных обсуждений
 * [DotNetChat](https://t.me/DotNetChat) — Чат про .NET под эгидой MSK/SPB .NET Community Group
 * [Scala](https://t.me/scala_ru) — Чат про Scala

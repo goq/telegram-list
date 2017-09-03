@@ -173,7 +173,6 @@
 * [Библиотека программиста](https://t.me/proglibrary) — Библиотека программиста. (для новичков)
 * [Библиотека Python](https://t.me/ru_python_books) — Канал-библиотека с книгами, журналами и статьями по языку программирования Python (активный)
 * [Библиотека Golang](https://t.me/joinchat/Be4rsT2X7QRJmDbFbnAcnQ) — Канал-библиотека по языку программирования Golang (пустующий)
-* [справочник "Единой России"](https://t.me/joinchat/ACqUWT8mxfwM8vgXxxFqQQ) — Телефонный справочник "Единой России" в Госдуме РФ :-D
 
 [(Назад к меню)](#Меню)
 
@@ -422,6 +421,7 @@
 * [Pony ORM](https://t.me/ponyorm) — Чат про Pony ORM
 * [ClickHouse](https://t.me/clickhouse_ru) — Чат про СУБД от Яндекс ClickHouse
 * [SqlCom - Стиль жизни SQL](https://t.me/sqlcom) — Чат про Microsoft SQL Server
+* [DB Tarantool](https://t.me/tarantoolru) — Русский чат Tarantool
 
 [(Назад к меню)](#Меню)
 

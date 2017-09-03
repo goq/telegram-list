@@ -266,7 +266,7 @@
 * [pro.cxx](https://t.me/ProCxx) — Чат про Си++
 * [CSharp chat RU](https://t.me/CSharpChat) — Чат про C#
 * [ExtremeCodeTV](https://t.me/extremecode) — Чат C# разработчиков (есть свой бот компилирующий C# код)
-* [pro.crystal](https://t.me/proCrystal) — Чат про Crystal. Ruby-подобный статически типизированный объектно-ориентированный язык общего назначения.
+* [pro.crystal](https://t.me/proCrystal) — Чат про Crystal.
 * [css_ru](https://t.me/css_ru) — Чат про CSS и немного HTML
 * [pro.elixir](https://t.me/proelixir) — Чат про Elixir
 * [Elm Lang](https://t.me/elm_ru) — Чат про язык программирования Elm
@@ -276,13 +276,10 @@
 * [Haskell](https://t.me/haskellru) — Чат про Haskell
 * [pro.js](https://t.me/JSlang) — Чат про JavaScript
 * [pro.js.noobs](https://t.me/joinchat/Be4rsT3Uyr1TjmSlrRc77g) — Чат про JavaScript для новичков
-* [js_ru](https://t.me/js_ru) — JavaScript — русскоговорящее сообщество
+* [js_ru](https://t.me/js_ru) — Чат про JavaScript
 * [javascript_ru](https://t.me/javascript_ru) — Чат про JavaScript
 * [learn.java](https://t.me/javastart) — Изучаем java вместе. Чат для начинающих и не только!
 * [pro.jvm](https://t.me/jvmchat) — Чат про JVM
-* [.NET Talks](https://t.me/dotnettalks) — Свободный чат .NET разработчиков
-* [.NET Group](https://t.me/dotnetgroup) — Чат разработчиков .NET. Минимум флуда, максимум полезных обсуждений
-* [DotNetChat](https://t.me/DotNetChat) — Чат про .NET под эгидой MSK/SPB .NET Community Group
 * [Scala](https://t.me/scala_ru) — Чат про Scala
 * [Kotlin](https://t.me/kotlin_lang) — Чат про Kotlin
 * [Modern::Perl](https://t.me/modernperl) — Чат про Perl. Современный::Perl
@@ -295,19 +292,19 @@
 * [phpclub](https://t.me/phpclubru) — Чат про PHP / php Club
 * [prophp](https://t.me/prophp7) — Чат про современный PHP
 * [Devall — PHP](https://t.me/joinchat/AAtJOjx9l5F9IhkHIIVP9Q) — Чат про PHP. Флуд
+* [ReasonML и OCaml](https://t.me/reasonml_ru) — Чат про ReasonML и OCaml
 * [pro.ruby](https://t.me/proRuby) — Чат про Ruby
 * [Ruby & RoR](https://t.me/rubylang) — Чат про Ruby и Ruby on Rails
-* [Ruby School .us](https://t.me/rubyschool) — Чат-болталка для учеников руби-школы
+* [Ruby School .us](https://t.me/rubyschool) — Чат для учеников руби-школы
 * [Ruby.Ata](https://t.me/rubyata) — Бишкекское сообщество Ruby и Ruby on Rails
 * [Moscow.rb](https://t.me/moscowrb) — Московское сообщество Ruby
 * [pro.rust](https://t.me/proRust) — Чат про Rust
-* [RustLang](https://t.me/rustlang_ru) — Амбициозный чат по Rust
+* [RustLang](https://t.me/rustlang_ru) — Чат про Rust
 * [embedded.rs](https://t.me/embedded_rs) — Чат про Embedded на Rust
 * [TypeScript + Flow = ❤](https://t.me/typescript_ru) — Чат про TypeScript и Flow
 * [(F|R|FR)P](https://t.me/frp_ru) — Функциональное Реактивное Программирование
 * [Functional Programming](https://t.me/fp_ru) — Чат любителей функциональных языков программирования
 * [CIL](https://t.me/cilchat) — Чат про CIL/IL/MSIL
-* [ReasonML и OCaml](https://t.me/reasonml_ru) — Чат про ReasonML и OCaml
 
 [(Назад к меню)](#Меню)
 
@@ -316,37 +313,39 @@
 * [Angular.js](https://t.me/angular_js) — Чат про AngularJS 1.x
 * [Angular 2](https://t.me/angular2) — Чат про AngularJS 2.x
 * [Django](https://t.me/pydjango) — Чат про Django
+* [Emacs](https://t.me/emacs_ru) — Чат про Emacs
 * [Joomla! по-русски](https://t.me/joomlaru) — Чат про Joomla!
-* [Laravel Oficial](https://t.me/laravel_pro) — Чат про Laravel (~480 человек)
-* [Laravel Russia](https://t.me/laravelrus) — Чат про Laravel (~230 человек)
-* [Yii Framework](https://t.me/yii2ru) — Чат про любимый Yii :-D
+* [Laravel Oficial](https://t.me/laravel_pro) — Чат про Laravel (официальный?)
+* [Laravel Russia](https://t.me/laravelrus) — Чат про Laravel
+* [Yii Framework](https://t.me/yii2ru) — Чат про Yii
 * [React Native](https://t.me/reactnative_ru) — Чат про React Native
-* [Node.js](https://t.me/nodejs_ru) — Чат по NodeJS
-* [CodenameCRUD](https://t.me/codenamecrud) — Чат про Ruby on Rails (~320 человек)
+* [.NET Talks](https://t.me/dotnettalks) — Свободный чат .NET разработчиков, оффтоп разрешен.
+* [.NET Group](https://t.me/dotnetgroup) — Чат разработчиков .NET. Минимум флуда, максимум полезных обсуждений
+* [DotNetChat](https://t.me/DotNetChat) — Чат про .NET под эгидой MSK/SPB .NET Community Group
+* [pro.net](https://t.me/pro_net) — Обсуждение .NET Framework и всего, что с ним связано.
+* [Node.js](https://t.me/nodejs_ru) — Чат про NodeJS
+* [CodenameCRUD](https://t.me/codenamecrud) — Чат про Ruby on Rails
 * [React.js](https://t.me/react_js) — Чат про React.JS
 * [Битрикс для разработчиков](https://t.me/bitrixfordevelopers) — Чат про Битрикс
 * [Spring Framework and more](https://t.me/springframeworkio) — Русскоязычный Чат о Spring Framework
 * [Symfony](https://t.me/symfony_php) — Чат про Symfony Framework. Атмосферный! Без цензуры :-D
 * [Symfony Ru](https://t.me/symfony_ru) — Чат про Symfony Framework. Со строгими правилами и без мата.
-* [Electron Ru](https://t.me/electron_ru) — Чат по Electron (Atom)
+* [Electron Ru](https://t.me/electron_ru) — Чат про Electron (Atom)
 * [HTML5 GameDev](https://t.me/joinchat/Cm9nK0CbDzghfTHd4hipYQ) — разработка игр на html5 платформе, pixi.js, cocos2d-js, phaser.js и т.п.
 * [ООП](https://t.me/oop_ru) — Объектно-Ориентированное Программирование
 * [Fire-Monkey](https://t.me/fire_monkey) — Независимое сообщество разработчиков использующих Fire-Monkey
 * [Vue](https://t.me/vuejs_ru) — Чат про фреймворк Vue.js
-* [pro.net](https://t.me/joinchat/BYlFbD6uHawWMCImmbPIDw) — Сообщество разработчиков .Net
-* [WordPress – русскоговорящее сообщество](https://t.me/wordpress1) — Чат про WordPress (~430)
+* [WordPress](https://t.me/wordpress1) — Чат про WordPress
 * [Wordpress for developers](https://t.me/wp4dev) — Группа для разработчиков на WordPress
 * [Netbeans](https://t.me/netbeans_ru) — Группа для тех, кто использует среду разработки Netbeans
 * [Vim](https://t.me/vimedit_ru) — Русскоязычные вимеры
-* [Emacs — русскоговорящее сообщество](https://t.me/emacs_ru) — Русскоговорящее сообщество пользователей редактора Emacs.
 
 [(Назад к меню)](#Меню)
 
 ##### Сообщества разработчиков и программистов
-* [Веб-дизайн и Вёрстка](https://t.me/webdesign_ru) — Чат по веб-дизайну и вёрстке, HTML, CSS, флекс и бутстрапам, шаблонизаторам, препроцессорам, методологиям и всему сопутствующему.
-Обсуждаем темы юзабилити, устраиваем А/В тесты лендингов, и проводим аудит.
+* [Веб-дизайн и Вёрстка](https://t.me/webdesign_ru) — Чат веб-технологов. Веб-дизайн, вёрстка, HTML, CSS, флекс и бутстрапы, шаблонизаторы, препроцессоры, методологии и прочее.
 * [noobrank](https://t.me/noobrank) — Решаем вместе задачки по программированию для начинающих (hackerrank и аналогичные)
-* [frontend_ru](https://t.me/frontend_ru) — Русскоговорящее сообщество веб-фронтенд разработчиков
+* [frontend_ru](https://t.me/frontend_ru) — Сообщество фронтенд разработчиков
 * [SPb Python](https://t.me/spbpython) — Saint-Petersburg Python Interest Group
 * [Программисты](https://t.me/coding_ru) — Чат программистов. Флуд.
 * [codingteam](https://t.me/codingteam) — Кроссплатформенное сообщество инженеров и программистов.
@@ -398,13 +397,13 @@
 * [pro.enterprise](https://t.me/pro_enterprise) — Чат про корп.сектор: серверы, СХД, CDN, сетевое оборудование и облака.
 * [AWS ru](https://t.me/aws_ru) — Чат про Amazon Web Services
 * [Network Attached Storage](https://t.me/ru_nas) — Чат про NAS
-* [SpecialistOff.NET](https://t.me/specialistoffnet) — Официальная группа (чат) [SpecialistOff.NET](http://specialistoff.net/) администраторов и программистов
-* [Git](https://t.me/git_ru) — Чат по GIT
-* [e-mail](https://t.me/ru_email) — Чат по администрирование почтовой инфраструктуры и борьбу со спамом
+* [SpecialistOff.NET](https://t.me/specialistoffnet) — Чат для администраторов и программистов
+* [Git](https://t.me/git_ru) — Чат про GIT
+* [e-mail](https://t.me/ru_email) — Чат про администрирование почтовой инфраструктуры и борьбу со спамом
 * [Configuration Manager](https://t.me/configmgr) — Microsoft System Center Configuration Manager & Intune & EMS
 * [Operations Manager](https://t.me/OpsMgr) — System Center Operations Manager & Orchestrator = Automation
 * [SourceBasedOS](https://t.me/SourceBasedOS) — Чат про source based ОС
-* [Asterisk Community](https://t.me/proasterisk) — All about Asterisk VoIP Software Ru/En
+* [Asterisk Community](https://t.me/proasterisk) — Всё про Asterisk VoIP Software Ru/En
 
 [(Назад к меню)](#Меню)
 
@@ -456,7 +455,7 @@
 * [KDE neon users](https://t.me/kdeneon) — English speaking community of KDE neon
 * [Linux Mint Russia 🇷🇺](https://t.me/LMRus) — Чат про Linux Mint (Русский)
 * [Linux Mint International](https://t.me/LMInter) — Linux Mint Chat (International)
-* [macOS ru](https://t.me/macOS_ru) — Русскоязычное сообщество macOS
+* [macOS ru](https://t.me/macOS_ru) — Чат про macOS
 * [iHack - Hackintosh & Jailbreak](https://t.me/macosx86) — Чат про Хакинтош и MacOS
 * [Manjaro ru](https://t.me/manjarolinux) — Чат про Manjaro Linux
 * [Manjabuntu](https://t.me/manjabuntu) — Чат за популяризацию GNU/Linux дистрибутивов и помощь новичкам в их освоении.
@@ -467,7 +466,7 @@
 * [Ubuntu](https://t.me/ru_ubuntu) — Чат про Ubuntu (Kubuntu, Lubuntu, Xubuntu, и прочую *buntu)
 * [pro.windows](https://t.me/joinchat/Be4rsT5IrA8x69FnrpMMvw) — Чат про Windows
 * [That's Linux - общение](https://t.me/that_is_linux) — Чат про Linux
-* [Xubuntu-ru.net](https://t.me/xubuntu_runet) — Русскоязычное сообщество Xubuntu
+* [Xubuntu-ru.net](https://t.me/xubuntu_runet) — Чат про Xubuntu
 * [Linux Security](https://t.me/safelinux) — Чат про безопасность в Линуксе и про Линукс для безопасников
 
 [(Назад к меню)](#Меню)
@@ -506,7 +505,7 @@
 [(Назад к меню)](#Меню)
 
 ##### Управление проектами, продакт-менеджмент, Agile, Kanban, SCRUM
-* [Products_ru](https://t.me/products_ru) — Общаемся на темы, посвященные управлению продуктами, Growth Hacking, Cust Dev, Design Thinking, UX, метрикам и т.д. Комьюнити более 1000 человек, доступ по инвайтам.
+* [Products_ru](https://t.me/products_ru) — Чат про управление продуктами, Growth Hacking, Cust Dev, Design Thinking, UX, метрикам и т.д.
 * [Agile_ru](https://t.me/agile_ru) — Общаемся на темы, посвященные Agile, Scrum, Lean, XP, Kanban, инструментам повышения эффективности.
 * [Agile Games](https://t.me/agilegames) — Оффлайн игры, помогающие понять суть гибких методологий. Регулярные митапы в Москве и Питере.
 * [Про руководство разработчиками](https://t.me/teamleading) — Канал руководителя службы разработки интерфейсов в Яндексе про тим лидерство.

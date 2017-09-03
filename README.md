@@ -34,6 +34,7 @@
     - [Языки программирования](#Языки-программирования)
     - [Фреймворки, среды разработок, библиотеки](#Фреймворки-среды-разработок-библиотеки)
     - [Сообщества разработчиков и программистов](#Сообщества-разработчиков-и-программистов)
+    - [Сообщества разработчиков игр](#Сообщества-разработчиков-игр)
     - [Системное и сетевое администрирование, телефония и телекоммуникации.](#Системное-и-сетевое-администрирование-телефония-и-телекоммуникации)
     - [Управление конфигурациями, development & operations engineers](#Управление-конфигурациями-development--operations-engineers)
     - [Базы данных](#Базы-Данных)
@@ -347,24 +348,31 @@
 * [noobrank](https://t.me/noobrank) — Решаем вместе задачки по программированию для начинающих (hackerrank и аналогичные)
 * [frontend_ru](https://t.me/frontend_ru) — Русскоговорящее сообщество веб-фронтенд разработчиков
 * [SPb Python](https://t.me/spbpython) — Saint-Petersburg Python Interest Group
-* [Программисты](https://t.me/coding_ru) — Чат программистов на Delphi, Lua, Python, php, C, С++, C#, Kotlin, Ruby, Golang, JavaScript и др. Флуд.
+* [Программисты](https://t.me/coding_ru) — Чат программистов. Флуд.
 * [codingteam](https://t.me/codingteam) — Кроссплатформенное сообщество инженеров и программистов.
-* [annode chat](https://t.me/annode) — Сообщество ресурса annode для веб программистов. Frontend, Backend, CMS, БД и дрогое связанное с миром веба
+* [annode chat](https://t.me/annode) — Чат веб программистов. Frontend, Backend, CMS, БД и прочее.
 * [Telegram Bot Developers](https://t.me/botoid) — Чат про разработку ботов в телеграме
 * [IoT Community chat](https://t.me/Iot_chat) — Чат Internet fo Things сообщества.
-* [pro.algorithms](https://t.me/proalgorithms) — Группа по обсуждению алгоритмов, разных архитектурных решений, паттернов проектирования и прикладной математики.
-* [AtomicDesign](https://t.me/atomicdesign) — Обсуждение идеи и реализации Atomic Design в React.js
+* [pro.algorithms](https://t.me/proalgorithms) — Группа по обсуждению алгоритмов, архитектурных решений, паттернов проектирования и прикладной математики.
+* [AtomicDesign](https://t.me/atomicdesign) — Обсуждение Atomic Design в React.js
 * [Microsoft Developer Chat](https://t.me/microsoftschool) — Чат разработчиков и системных администраторов сообщества Microsoft Developer
 * [Ethereum Developers](https://t.me/eth_ru) — Ethereum Developers, Smart Contracts, Эфириум
-* [Чат по продуктам hashicorp](https://t.me/ru_hashicorp) — Русскоговорящее сообщество пользователей продуктов hashicorp. Consul, Nomad, Terraform...
+* [Чат по продуктам hashicorp](https://t.me/ru_hashicorp) — Чат пользователей Hashicorp: Consul, Nomad, Terraform...
 * [Tilda Developers](https://t.me/tilda_dev) — Чат разработчиков на платформе Tilda
 * [EOS dev](https://t.me/eoscode) — Чат о разработке под EOS
-* [Москоу progers](https://t.me/moscowProgers) — Сообщество для общения/знакомств/коворкинга программистов и прочих IT специалистов из белокаменной
-* [Разработка игр](https://t.me/gamedevtalk) — Сообщество программистов и разработчиков игр
+* [Москоу progers](https://t.me/moscowProgers) — Чат программистов и прочих IT специалистов Москвы
 * [Saint P Ruby User Group](https://t.me/saintprug) — Сообщество разработчиков Ruby в Санкт-Петербурге
 * [HighLoadCup Official](https://t.me/highloadcup) — Официальная группа для участников чемпионата highloadcup от mail.ru
 * [ITForge](https://t.me/itforge) — Чат про python, парсинг сайтов и просто про IT
 * [AVRA community](https://t.me/avrahackathon) — Чат для создающих и интересующихся AR/VR технологиями
+
+[(Назад к меню)](#Меню)
+
+##### Сообщества разработчиков игр
+* [Unreal Engine](https://t.me/UnrealEngine4) — Чат разработчиков игр на Unreal Engine 4
+* [Говорим о разработке игр](https://t.me/gamedevtalk) — Обсуждение всех возможных аспектов разработки игр
+* [Чатик игровых аналитиков](https://t.me/gameanalysts) — Ламповый чатик про аналитику в игровой индустрии
+* [Source Engine & Games](https://t.me/sourceengine) — Разработка и обсуждение игр и модов на Source Engine 1,2
 
 [(Назад к меню)](#Меню)
 

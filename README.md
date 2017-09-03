@@ -280,9 +280,10 @@
 * [javascript_ru](https://t.me/javascript_ru) — Чат про JavaScript
 * [learn.java](https://t.me/javastart) — Изучаем java вместе. Чат для начинающих и не только!
 * [pro.jvm](https://t.me/jvmchat) — Чат про JVM
-* [.NET Talks](https://t.me/dotnettalks) — Свободный чат .NET разработчиков
+* [.NET Chat](https://t.me/DotNetChat) — Чат про .NET под эгидой MSK/SPB .NET Community Group
+* [.NET Talks](https://t.me/dotnettalks) — Свободный чат .NET разработчиков. Для любых разговоров
 * [.NET Group](https://t.me/dotnetgroup) — Чат разработчиков .NET. Минимум флуда, максимум полезных обсуждений
-* [DotNetChat](https://t.me/DotNetChat) — Чат про .NET под эгидой MSK/SPB .NET Community Group
+* [pro.net](https://t.me/pro_net) — Сообщество разработчиков .NET. Без оффтопа и флуда
 * [Scala](https://t.me/scala_ru) — Чат про Scala
 * [Kotlin](https://t.me/kotlin_lang) — Чат про Kotlin
 * [Modern::Perl](https://t.me/modernperl) — Чат про Perl. Современный::Perl
@@ -333,7 +334,6 @@
 * [ООП](https://t.me/oop_ru) — Объектно-Ориентированное Программирование
 * [Fire-Monkey](https://t.me/fire_monkey) — Независимое сообщество разработчиков использующих Fire-Monkey
 * [Vue](https://t.me/vuejs_ru) — Чат про фреймворк Vue.js
-* [pro.net](https://t.me/joinchat/BYlFbD6uHawWMCImmbPIDw) — Сообщество разработчиков .Net
 * [WordPress – русскоговорящее сообщество](https://t.me/wordpress1) — Чат про WordPress (~430)
 * [Wordpress for developers](https://t.me/wp4dev) — Группа для разработчиков на WordPress
 * [Netbeans](https://t.me/netbeans_ru) — Группа для тех, кто использует среду разработки Netbeans

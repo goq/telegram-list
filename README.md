@@ -422,6 +422,7 @@
 * [Pony ORM](https://t.me/ponyorm) — Чат про Pony ORM
 * [ClickHouse](https://t.me/clickhouse_ru) — Чат про СУБД от Яндекс ClickHouse
 * [SqlCom - Стиль жизни SQL](https://t.me/sqlcom) — Чат про Microsoft SQL Server
+* [DB Tarantool](https://t.me/tarantoolru) — Русский чат про Tarantool
 
 [(Назад к меню)](#Меню)
 

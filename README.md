@@ -263,10 +263,7 @@
 * [pro.asm](https://t.me/proasm) — Чат про Assembler
 * [pro.cxx](https://t.me/ProCxx) — Чат про Си++
 * [CSharp chat RU](https://t.me/CSharpChat) — Чат про C#
-* [DotNetChat](https://t.me/DotNetChat) — Чат про .NET под эгидой MSK/SPB .NET Community Group
 * [ExtremeCodeTV](https://t.me/extremecode) — Чат C# разработчиков (есть свой бот компилирующий C# код)
-* [.NET Talks](https://t.me/dotnet_chat) — Свободный чат .NET разработчиков
-* [.NET Group](https://t.me/dotnetgroup) — Чат разработчиков .NET. Минимум флуда, максимум полезных обсуждений
 * [pro.crystal](https://t.me/proCrystal) — Чат про Crystal. Ruby-подобный статически типизированный объектно-ориентированный язык общего назначения.
 * [css_ru](https://t.me/css_ru) — Чат про CSS и немного HTML
 * [pro.elixir](https://t.me/proelixir) — Чат про Elixir
@@ -281,13 +278,16 @@
 * [javascript_ru](https://t.me/javascript_ru) — Чат про JavaScript
 * [learn.java](https://t.me/javastart) — Изучаем java вместе. Чат для начинающих и не только!
 * [pro.jvm](https://t.me/jvmchat) — Чат про JVM
+* [.NET Talks](https://t.me/dotnet_chat) — Свободный чат .NET разработчиков
+* [.NET Group](https://t.me/dotnetgroup) — Чат разработчиков .NET. Минимум флуда, максимум полезных обсуждений
+* [DotNetChat](https://t.me/DotNetChat) — Чат про .NET под эгидой MSK/SPB .NET Community Group
 * [Scala](https://t.me/scala_ru) — Чат про Scala
 * [Kotlin](https://t.me/kotlin_lang) — Чат про Kotlin
 * [Modern::Perl](https://t.me/modernperl) — Чат про Perl. Современный::Perl
 * [use Perl or die;](https://t.me/usePerlOrDie) — Группа о языке Perl и обо всём что с ним связано.
 * [Python](https://t.me/ru_python) — Чат про Python
 * [pro.python](https://t.me/propython) — Чат про Python
-* [Python_beginners](https://t.me/ru_python_beginners) — Чат про Python для новичков
+* [Python_beginners](https://t.me/ru_python_beginners) — Чат про Python (для новичков)
 * [Rude Python](https://t.me/rudepython) — Грубый чат про Python (для мужиков)
 * [phpGeeks](https://t.me/phpgeeks) — Чат про PHP / php Geeks
 * [phpclub](https://t.me/phpclubru) — Чат про PHP / php Club

@@ -104,8 +104,7 @@
 * [Удивительный Python](https://t.me/awesomepython) — Ежедневный дайджест новостей языка Python.
 * [Экстраполяция IT](https://t.me/itextrapolation) — Авторский канал об IT, аутсорсе, продуктах и программировании.
 * [iOS Good Reads](https://t.me/iosgr) — Ежедневная порция материалов по iOS разработке
-* [Android Good Reads](https://t.me/droidgr) — Ежедневная порция материалов по Android разработке
-* [Сообщество phpland](https://t.me/phpland) — Официальный канал сообщества phpland (PHP, MySQL, CSS, HTML, Ubuntu-Linux).
+* [Android Good Reads](https://t.me/droidgr) — Ежедневная порция материалов по Android разработке* [Сообщество phpland](https://t.me/phpland) — Официальный канал сообщества phpland (PHP, MySQL, CSS, HTML, Ubuntu-Linux).
 * [Software architecture musings](https://t.me/samusings) — Канал про архитектуру программных систем от Александра Белоцерковского (Microsoft Technical Evangelist).
 * [.NET Core Ukrainian User Group](https://t.me/dncuug) — официальный канал украинской группы .NET Core разработчиков. Актуальные новости и анонсы.
 * [#CoolAdmin](https://t.me/cooladmin) — канал про системное администрирование, сети, сервера и системы хранения. С новостями и историями.
@@ -153,8 +152,7 @@
 ##### Информационные и новостные каналы по Data science, Big Data, Машинному обучению и deep learning.
 * [ModelOverfit](https://t.me/modeloverfit) — Канал сообщества modeloverfit
 * [Data Science](https://t.me/opendatascience) — Первый новостной канал про data science
-* [Deep Learning Russia](https://t.me/deeplearning_ru) — Канал сообщества vk.com/deeplearning_ru
-* [Чаты и группы телеграма по теме](#big-data-Машинное-обучение-deep-learning-и-data-science)
+* [Deep Learning Russia](https://t.me/deeplearning_ru) — Канал сообщества vk.com/deeplearning_ru* [Чаты и группы телеграма по теме](#big-data-Машинное-обучение-deep-learning-и-data-science)
 
 [(Назад к меню)](#Меню)
 
@@ -189,6 +187,7 @@
 * [Devaller](https://t.me/devaller) — Вакансии от сообщества Devall
 * [php_jobs](https://t.me/php_jobs) — Вакансии и запросы на поиск работы по направлению PHP, Laravel, Symfony, Yii и т.д.
 * [sysadmin_jobs](https://t.me/sysadmin_jobs) — Вакансии для системных администраторов
+* [Работа за рубежом](https://t.me/jobs_abroad) — Вакансии с релокацией
 
 [(Назад к меню)](#Меню)
 
@@ -240,6 +239,7 @@
 * [Design & Productivity](https://t.me/desprod) — канал Кости @gorskiy, Design Lead в Intercom, экс-дизайн-директор Яндекса, про дизайн и продуктивность.
 * [Network Warrior](https://t.me/ntwrkchnnl) — Канал про сетевые технологии для сетевых инженеров.
 * [Mathematics.Physics.Algorithms](https://t.me/physicistsays) — Решение задач по физике, математике и информатике. Подойдет даже школьникам. (ENG)
+* [Эмигранты :: как, куда, почему](https://t.me/emigrantschannel) — Канал об эмиграции.
 
 [(Назад к меню)](#Меню)
 

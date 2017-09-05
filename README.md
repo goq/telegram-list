@@ -321,7 +321,7 @@
 * [React Native](https://t.me/reactnative_ru) — Чат про React Native
 * [.NET Talks](https://t.me/dotnettalks) — Свободный чат .NET разработчиков, оффтоп разрешен.
 * [.NET Group](https://t.me/dotnetgroup) — Чат разработчиков .NET. Минимум флуда, максимум полезных обсуждений
-* [DotNetChat](https://t.me/DotNetChat) — Чат про .NET под эгидой MSK/SPB .NET Community Group
+* [.NET Chat](https://t.me/DotNetChat) — Чат про .NET под эгидой MSK/SPB .NET Community Group
 * [pro.net](https://t.me/pro_net) — Обсуждение .NET Framework и всего, что с ним связано.
 * [Node.js](https://t.me/nodejs_ru) — Чат про NodeJS
 * [CodenameCRUD](https://t.me/codenamecrud) — Чат про Ruby on Rails

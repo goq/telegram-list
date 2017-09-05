@@ -67,6 +67,7 @@
 * [Geeks](https://t.me/g33ks) — Статьи и новости. Для гиков и от гиков.
 * [40Pk](https://t.me/fortypk) — Новости и статьи про кодинг, технологии и науку.
 * [Fedora Project News](https://t.me/fedoranews) — Официальные новости Fedora. English
+* [Russian Fedora news](https://t.me/rfrnews) — Новости проектов Fedora и Russian Fedora
 * [pro.JVM](https://t.me/proJVM) — Новости сообщества JVM
 * [nag.ru news](https://t.me/NagNews) — Новости от nag.ru
 * [DTP](https://t.me/DTPublishing) — Канал новостей о паблишинге, полиграфии, препресс, вёрстка, дизайн

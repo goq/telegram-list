@@ -118,6 +118,7 @@
 * [DevBrain](https://t.me/devbrain) — Новости, статьи, книги и видео из мира разработки софта
 * [VR Journal](https://t.me/VR_Journal) — Уютненько о VR/AR технологиях
 * [EasyCoding Team](https://t.me/easycoding) — Канал EasyCoding Team: новости, статьи о разработке и администрировании, HOWTO
+* [anykeynotes](https://t.me/anykeynotes) — Записки старого эникейщика.
 
 [(Назад к меню)](#Меню)
 
@@ -240,6 +241,7 @@
 * [Design & Productivity](https://t.me/desprod) — канал Кости @gorskiy, Design Lead в Intercom, экс-дизайн-директор Яндекса, про дизайн и продуктивность.
 * [Network Warrior](https://t.me/ntwrkchnnl) — Канал про сетевые технологии для сетевых инженеров.
 * [Mathematics.Physics.Algorithms](https://t.me/physicistsays) — Решение задач по физике, математике и информатике. Подойдет даже школьникам. (ENG)
+* [Tasks for interviews](https://t.me/tasksforinterview) — Задачки с собеседований. Нетривиальные.
 
 [(Назад к меню)](#Меню)
 
@@ -284,6 +286,7 @@
 * [pro.jvm](https://t.me/jvmchat) — Чат про JVM
 * [Scala](https://t.me/scala_ru) — Чат про Scala
 * [Kotlin](https://t.me/kotlin_lang) — Чат про Kotlin
+* [ru.nim.talks](https://t.me/ru_nim_talks) — Чат про nim (ex-nimrod)
 * [Modern::Perl](https://t.me/modernperl) — Чат про Perl. Современный::Perl
 * [use Perl or die;](https://t.me/usePerlOrDie) — Группа о языке Perl и обо всём что с ним связано.
 * [Python](https://t.me/ru_python) — Чат про Python

@@ -309,7 +309,6 @@
 * [(F|R|FR)P](https://t.me/frp_ru) — Функциональное Реактивное Программирование
 * [Functional Programming](https://t.me/fp_ru) — Чат любителей функциональных языков программирования
 * [CIL](https://t.me/cilchat) — Чат про CIL/IL/MSIL
-* [pro.pony](https://t.me/propony) — Чат про Pony
 * [Clojure](https://t.me/clojure_ru) — Русскоговорящее сообщество Clojure
 
 [(Назад к меню)](#Меню)

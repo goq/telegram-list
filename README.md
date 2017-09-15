@@ -310,6 +310,7 @@
 * [Functional Programming](https://t.me/fp_ru) — Чат любителей функциональных языков программирования
 * [CIL](https://t.me/cilchat) — Чат про CIL/IL/MSIL
 * [Clojure](https://t.me/clojure_ru) — Русскоговорящее сообщество Clojure
+* [PowerShell Pro](https://t.me/powershell_pro) — Язык программирования PowerShell
 
 [(Назад к меню)](#Меню)
 

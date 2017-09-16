@@ -85,7 +85,6 @@
 ##### Каналы по программированию и разработке ПО
 * [Котики Кодят](https://t.me/ccoder) — Официальный канал дайджеста-подкаста "Котики Кодят". Актуальные новости из мира кодинга.
 * [Microsoft Developer](https://t.me/msdnru) — Официальный канал сообщества Microsoft Developer
-* [Evil Martians](https://t.me/evilmartians) — Новости от Злых Марсиан
 * [pro.elixir_news](https://t.me/proelixir_news) — Новости из мира Elixir
 * [Мобайл: дизайн и разработка](https://t.me/aboutmobile) — Канал для всех, кто создает мобильные приложения
 * [Android Дичь](https://t.me/shitty_android) — Тщательно отобранные статьи и доклады по Android-разработке и смежным темам
@@ -121,12 +120,21 @@
 [(Назад к меню)](#Меню)
 
 ##### Frontend каналы
-* [Веб-стандарты](https://t.me/webstandards_ru) — Новости фронтенда от "Веб-стандартов"
 * [For Web](https://t.me/forwebdev) — Канал новостей для веб-разработчиков
+* [Веб-стандарты](https://t.me/webstandards_ru) — Новости фронтенда от "Веб-стандартов"
+* [Breakfast.js](https://t.me/breakfastjs) — Ежедневная подборка новостей из мира фронтенд разработки
+* [devSchachtChannel](https://t.me/devSchachtChannel) — Подкаст. Переводы. Веб-разработка. Анонсы новых статей и подкастов от devSchacht
+* [Иван Акулов про фронтенд](https://t.me/iamakulov_channel) — Заметки про фронтенд, UX и смежные темы.
+* [webo_ru](https://t.me/webo_ru) — Виталий Харисов из Яндекса про оптимизацию сайтов.
+* [webo_en](https://t.me/webo_en) — Web sites optimization (by @vithar)
+* [Code Hipsters](https://t.me/codehipsters) — Мода, стиль и образ жизни в кодинге. Хипстота!
+* [Всё о программировании (с Козулей)](https://t.me/PROprgmr) — Владислав Козуля о карьере, стартапах и своём опыте разработки.
+* [isqualog](https://t.me/isqualog) — Софья Ильинова о фронтенде, дизайне, работе и жизни. Задачки по JS.
+* [INTERNET 9000](https://t.me/internet9000) — Сергей Сурганов о дизайне и технологиях.
+* [Evil Martians](https://t.me/evilmartians) — Злые марсиане о стартапах, веб-разработке, интернет-бизнесе, бэкенде, фронтенде, мобильной разработке, devops и data science.
 * [Frontend Raccoon](https://t.me/frontendraccoon) — Новости сообщества Frontend Raccoon
 * [Annode News](https://t.me/annode_news) — Подборка самых интересных статей/новостей/уроков
 * [Школа Веб 2.0](https://t.me/webschool_rus) — Авторский канал о веб-разработке (Ruby on Rails, UI/UX, HTML5, CSS3)
-* [Breakfast.js](https://t.me/breakfastjs) — Ежедневная подборка новостей из мира фронтенд разработки
 * [Dev Useful Stuff](https://t.me/dev_useful_stuff) — Библиотеки, фреймворки, инструменты
 * [FrontEnd Development](https://t.me/fedevelopment) — Канал ежедневно публикует полезные ссылки, новости из мира фронтент разработки.
 * [Spb-Frontend](https://t.me/spb_frontend) — Новости фронтенда и питерского сообщества Spb-Frontend, дайджест новостей за неделю в виде рассылки
@@ -256,7 +264,13 @@
 * [Gambala.live](https://t.me/gambala_live) — Канал Виталия Емельянцева - веб-разработчика и IT-шника. Знания и советы по CSS, JS, BEM, Ruby on Rails, бизнесу и жизни. Как войти в айти и жить в удовольствие.
 * [Архитектор_говорит](https://t.me/architect_says) — Про архитектуру IT-решений и всё, что рядом.
 * [Tolstoy Live](https://t.me/tolstoylive) — Прямые трансляции с WWDC и других IT конференций.
-* [AskDevops](https://t.me/ithangouts) - Авторский канал DevOps Engineer'a. Гайды, мануалы, вредные советы от студента, за два года выросшего до DevOps в зарубежном стартапе. 
+* [AskDevops](https://t.me/ithangouts) - Авторский канал DevOps Engineer'a. Гайды, мануалы, вредные советы от студента, за два года выросшего до DevOps в зарубежном стартапе.
+* [Про руководство разработчиками](https://t.me/teamleading) — Канал руководителя службы разработки интерфейсов Олега Мохова из Екатеринбургского Яндекса про тимлидерство.
+* [HR отвечает](https://t.me/ask_catwomenko) — Вероника Ильина о поиске работы, хороших резюме, собеседованиях и специфике работы эйчаров.
+* [TechSparks](https://t.me/techsparks) — Андрей Себрант с новостями хайтека. Аннотированные ссылки на интересные, полезные и удивительные новости хайтека.
+* [Записки Коха](https://t.me/emaildev) — Артур Кох о email-разработке и смежных темах.
+* [запуск завтра](https://t.me/ctodaily) — Технический директор «Медузы» Самат Галимов о своих буднях и технологиях.
+* [Про Сидней / Atlassian](https://t.me/dmitriisorin) — Дмитрий Сорин об опыте переезда в Австралию и работе в Atlassian.
 
 [(Назад к меню)](#Меню)
 
@@ -515,7 +529,6 @@
 * [Products_ru](https://t.me/products_ru) — Чат про управление продуктами, Growth Hacking, Cust Dev, Design Thinking, UX, метрикам и т.д.
 * [Agile_ru](https://t.me/agile_ru) — Общаемся на темы, посвященные Agile, Scrum, Lean, XP, Kanban, инструментам повышения эффективности.
 * [Agile Games](https://t.me/agilegames) — Оффлайн игры, помогающие понять суть гибких методологий. Регулярные митапы в Москве и Питере.
-* [Про руководство разработчиками](https://t.me/teamleading) — Канал руководителя службы разработки интерфейсов в Яндексе про тим лидерство.
 
 [(Назад к меню)](#Меню)
 

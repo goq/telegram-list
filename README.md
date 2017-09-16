@@ -352,7 +352,7 @@
 ##### Фреймворки, среды разработок, библиотеки
 * [1C](https://t.me/ru_1c) — Чат про "1С:Предприятие"
 * [Angular.js](https://t.me/angular_js) — Чат про AngularJS 1.x
-* [Angular 2](https://t.me/angular2) — Чат про AngularJS 2.x
+* [Angular](https://t.me/angular_ru) - Чат про Angular (4.x+)
 * [Django](https://t.me/pydjango) — Чат про Django
 * [Emacs](https://t.me/emacs_ru) — Чат про Emacs
 * [Joomla! по-русски](https://t.me/joomlaru) — Чат про Joomla!

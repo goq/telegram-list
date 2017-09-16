@@ -479,6 +479,7 @@
 
 ##### Математика и другие точные науки
 * [Мехмат МГУ](https://t.me/mechmath) — Внутренний чат Мехмата МГУ
+* [higher.math](https://t.me/higher_math) — Математика
 * [comput.math](https://t.me/comput_math) — Вычислительная математика и численные методы. MATLAB, Octave, Scilab, Python, Julia, F#, C++.
 
 [(Назад к меню)](#Меню)

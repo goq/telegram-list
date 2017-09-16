@@ -479,7 +479,7 @@
 
 ##### Математика и другие точные науки
 * [Мехмат МГУ](https://t.me/mechmath) — Внутренний чат Мехмата МГУ
-* [higher.math](https://t.me/higher_math) — Математика
+* [higher.math](https://t.me/higher_math) — Чат про математику
 * [comput.math](https://t.me/comput_math) — Вычислительная математика и численные методы. MATLAB, Octave, Scilab, Python, Julia, F#, C++.
 
 [(Назад к меню)](#Меню)
@@ -676,4 +676,3 @@
 * [@LFTVbot](https://t.me/LFTVbot) [Source](https://github.com/Lord-Protector/LostFilmBot) — Бот для сайта LostFilm.TV. Личные уведомления, загрузка нужных серий и многое другое.
 * [@OverStatsBot](https://t.me/OverStatsBot) [Source](https://github.com/Lord-Protector/OverStatsBot) — Бот для игры Overwatch. Генерирует личные профили в виде изображений.
 * [@nosticker_bot](https://t.me/nosticker_bot) - Бот автоматически удаляет любой стикер, отправленный в чат.
-* [@TheLairBot](https://t.me/TheLairBot) - Подробный прогноз погоды на 5 дней. Хранит до трёх включительно местоположений.

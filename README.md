@@ -116,6 +116,7 @@
 * [VR Journal](https://t.me/VR_Journal) — Уютненько о VR/AR технологиях
 * [EasyCoding Team](https://t.me/easycoding) — Канал EasyCoding Team: новости, статьи о разработке и администрировании, HOWTO
 * [anykeynotes](https://t.me/anykeynotes) — Записки старого эникейщика.
+* [Angular 2](https://t.me/angular2) — Новости из мира Angular (js framework)
 
 [(Назад к меню)](#Меню)
 

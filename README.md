@@ -198,6 +198,7 @@
 * [Devaller](https://t.me/devaller) — Вакансии от сообщества Devall
 * [php_jobs](https://t.me/php_jobs) — Вакансии и запросы на поиск работы по направлению PHP, Laravel, Symfony, Yii и т.д.
 * [sysadmin_jobs](https://t.me/sysadmin_jobs) — Вакансии для системных администраторов
+* [Работа за рубежом](https://t.me/jobs_abroad) — Вакансии с релокацией 
 
 [(Назад к меню)](#Меню)
 
@@ -250,6 +251,7 @@
 * [Mathematics.Physics.Algorithms](https://t.me/physicistsays) — Решение задач по физике, математике и информатике. Подойдет даже школьникам. (ENG)
 * [Tasks for interviews](https://t.me/tasksforinterview) — Задачки с собеседований. Нетривиальные.
 * [ГЗОМ](https://t.me/gzombify) — Канал о тексте, тонкостях и пунктирностях русского языка, грамматике и стилистике, работе редактора, работе мозга — затейливо и с внятной аргументацией.
+* [Эмигранты :: как, куда, почему](https://t.me/emigrantschannel) — Канал об эмиграции.
 
 [(Назад к меню)](#Меню)
 

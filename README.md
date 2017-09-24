@@ -79,6 +79,7 @@
 * [ITpro News & Reviews](https://t.me/MicrosoftRus) — Заметки о Microsoft, Windows Server, System Center, Azure, Office 365, OMS и прочее.
 * [Hackspace Saint-Petersburg](https://t.me/hackspb) — News from hackspace spb
 
+
 [(Назад к меню)](#Меню)
 
 ##### Каналы по программированию и разработке ПО
@@ -103,7 +104,8 @@
 * [Удивительный Python](https://t.me/awesomepython) — Ежедневный дайджест новостей языка Python.
 * [Экстраполяция IT](https://t.me/itextrapolation) — Авторский канал об IT, аутсорсе, продуктах и программировании.
 * [iOS Good Reads](https://t.me/iosgr) — Ежедневная порция материалов по iOS разработке
-* [Android Good Reads](https://t.me/droidgr) — Ежедневная порция материалов по Android разработке* [Сообщество phpland](https://t.me/phpland) — Официальный канал сообщества phpland (PHP, MySQL, CSS, HTML, Ubuntu-Linux).
+* [Android Good Reads](https://t.me/droidgr) — Ежедневная порция материалов по Android разработке
+* [Сообщество phpland](https://t.me/phpland) — Официальный канал сообщества phpland (PHP, MySQL, CSS, HTML, Ubuntu-Linux).
 * [Software architecture musings](https://t.me/samusings) — Канал про архитектуру программных систем от Александра Белоцерковского (Microsoft Technical Evangelist).
 * [.NET Core Ukrainian User Group](https://t.me/dncuug) — официальный канал украинской группы .NET Core разработчиков. Актуальные новости и анонсы.
 * [#CoolAdmin](https://t.me/cooladmin) — канал про системное администрирование, сети, сервера и системы хранения. С новостями и историями.
@@ -150,7 +152,8 @@
 ##### Информационные и новостные каналы по Data science, Big Data, Машинному обучению и deep learning.
 * [ModelOverfit](https://t.me/modeloverfit) — Канал сообщества modeloverfit
 * [Data Science](https://t.me/opendatascience) — Первый новостной канал про data science
-* [Deep Learning Russia](https://t.me/deeplearning_ru) — Канал сообщества vk.com/deeplearning_ru* [Чаты и группы телеграма по теме](#big-data-Машинное-обучение-deep-learning-и-data-science)
+* [Deep Learning Russia](https://t.me/deeplearning_ru) — Канал сообщества vk.com/deeplearning_ru
+* [Чаты и группы телеграма по теме](#big-data-Машинное-обучение-deep-learning-и-data-science)
 
 [(Назад к меню)](#Меню)
 

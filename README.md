@@ -83,7 +83,6 @@
 [(Назад к меню)](#Меню)
 
 ##### Каналы по программированию и разработке ПО
-* [weex — русскоговорящее сообщество](https://t.me/weex_ru) — Общаемся на темы, посвященные weex и опыту его использования. Проблемы. Новости. Решения.
 * [Котики Кодят](https://t.me/ccoder) — Официальный канал дайджеста-подкаста "Котики Кодят". Актуальные новости из мира кодинга.
 * [Microsoft Developer](https://t.me/msdnru) — Официальный канал сообщества Microsoft Developer
 * [pro.elixir_news](https://t.me/proelixir_news) — Новости из мира Elixir
@@ -383,6 +382,7 @@
 * [Wordpress for developers](https://t.me/wp4dev) — Группа для разработчиков на WordPress
 * [Netbeans](https://t.me/netbeans_ru) — Группа для тех, кто использует среду разработки Netbeans
 * [Vim](https://t.me/vimedit_ru) — Русскоязычные вимеры
+* [weex](https://t.me/weex_ru) — Чат про Weex
 
 [(Назад к меню)](#Меню)
 

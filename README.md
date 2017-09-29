@@ -384,6 +384,7 @@
 * [Wordpress for developers](https://t.me/wp4dev) — Группа для разработчиков на WordPress
 * [Netbeans](https://t.me/netbeans_ru) — Группа для тех, кто использует среду разработки Netbeans
 * [Vim](https://t.me/vimedit_ru) — Русскоязычные вимеры
+* [weex](https://t.me/weex_ru) — Чат про Weex
 
 [(Назад к меню)](#Меню)
 

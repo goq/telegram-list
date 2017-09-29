@@ -109,7 +109,7 @@
 * [R0 Crew](https://t.me/R0_Crew) — Ъ Сообщество реверс-инженеров.
 * [R.R. GameDev](https://t.me/RRGameDev) — Welcome to GameDev. Here is only free games.
 * [PhpFlow](https://t.me/PhpFlow) — Всё о PHP: новости, статьи, интересные фишки и много всего интересного!
-* [Разработка игр](https://t.me/progamedev) — Материалы о разработке, экспертные статьи и скромные мнения обо всём, что касается игр. 
+* [Разработка игр](https://t.me/progamedev) — Материалы о разработке, экспертные статьи и скромные мнения обо всём, что касается игр.
 * [Non-trivial Ruby](https://t.me/rubynontrivial) — Ruby-наркомания: микробиблиотеки, альтернативные фреймворки, security, IoT, system programming
 * [В мире Linux и IT](https://t.me/chmanjabuntu) — Канал новостей про Linux и IT
 * [DevBrain](https://t.me/devbrain) — Новости, статьи, книги и видео из мира разработки софта
@@ -252,6 +252,7 @@
 * [Mathematics.Physics.Algorithms](https://t.me/physicistsays) — Решение задач по физике, математике и информатике. Подойдет даже школьникам. (ENG)
 * [Tasks for interviews](https://t.me/tasksforinterview) — Задачки с собеседований. Нетривиальные.
 * [ГЗОМ](https://t.me/gzombify) — Канал о тексте, тонкостях и пунктирностях русского языка, грамматике и стилистике, работе редактора, работе мозга — затейливо и с внятной аргументацией.
+* [По правилам](https://t.me/popravilam) — О тонкостях орфографии, пунктуации, грамматики русского языка с примерами из реальной практики.
 
 [(Назад к меню)](#Меню)
 

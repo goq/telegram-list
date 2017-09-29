@@ -117,7 +117,7 @@
 * [EasyCoding Team](https://t.me/easycoding) — Канал EasyCoding Team: новости, статьи о разработке и администрировании, HOWTO
 * [anykeynotes](https://t.me/anykeynotes) — Записки старого эникейщика.
 * [Angular 2](https://t.me/angular2) — Новости из мира Angular (js framework)
-* [HotCheatSheet](https://t.me/hotcheatsheet) — Шпаргалки по ЯП, ПО, утилитам и прочему.
+* [HotCheatShеet](https://t.me/hotcheatsheet) — Шпаргалки по ЯП, ПО, утилитам и прочему.
 
 [(Назад к меню)](#Меню)
 
@@ -182,6 +182,7 @@
 [(Назад к меню)](#Меню)
 
 ##### Библиотеки и базы данных
+* [Бздынь.Архив](https://t.me/bzd_channel) — Большой архив книг для программистов.
 * [Бизнес-книги](https://t.me/marketologmanager) — Канал с подборками литературы по бизнесу
 * [Библиотека программиста](https://t.me/proglibrary) — Библиотека программиста. (для новичков)
 * [Библиотека Python](https://t.me/ru_python_books) — Канал-библиотека с книгами, журналами и статьями по языку программирования Python (активный)

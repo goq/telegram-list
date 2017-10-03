@@ -201,7 +201,7 @@
 * [Devaller](https://t.me/devaller) — Вакансии от сообщества Devall
 * [php_jobs](https://t.me/php_jobs) — Вакансии и запросы на поиск работы по направлению PHP, Laravel, Symfony, Yii и т.д.
 * [sysadmin_jobs](https://t.me/sysadmin_jobs) — Вакансии для системных администраторов
-* [Работа за рубежом](https://t.me/jobs_abroad) — Вакансии с релокацией 
+* [Работа за рубежом](https://t.me/jobs_abroad) — Вакансии с релокацией
 
 [(Назад к меню)](#Меню)
 
@@ -343,7 +343,7 @@
 * [pro.ruby](https://t.me/proRuby) — Чат про Ruby
 * [Ruby & RoR](https://t.me/rubylang) — Чат про Ruby и Ruby on Rails
 * [Ruby School .us](https://t.me/rubyschool) — Чат для учеников руби-школы
-* [Ruby.Ata](https://t.me/rubyata) — Бишкекское сообщество Ruby и Ruby on Rails
+* [Rubyata](https://t.me/rubyata) — Ruby and Ruby On Rails community in Kyrgyzstan
 * [Moscow.rb](https://t.me/moscowrb) — Московское сообщество Ruby
 * [pro.rust](https://t.me/proRust) — Чат про Rust
 * [RustLang](https://t.me/rustlang_ru) — Чат про Rust

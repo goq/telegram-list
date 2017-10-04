@@ -312,7 +312,6 @@
 * [pro.cxx](https://t.me/ProCxx) — Чат про Си++
 * [CSharp chat RU](https://t.me/CSharpChat) — Чат про C#
 * [ExtremeCodeTV](https://t.me/extremecode) — Чат C# разработчиков (есть свой бот компилирующий C# код)
-* [pro.crystal](https://t.me/proCrystal) — Чат про Crystal.
 * [css_ru](https://t.me/css_ru) — Чат про CSS и немного HTML
 * [pro.elixir](https://t.me/proelixir) — Чат про Elixir
 * [Elm Lang](https://t.me/elm_ru) — Чат про язык программирования Elm

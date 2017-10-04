@@ -353,6 +353,7 @@
 * [CIL](https://t.me/cilchat) — Чат про CIL/IL/MSIL
 * [Clojure](https://t.me/clojure_ru) — Русскоговорящее сообщество Clojure
 * [PowerShell Pro](https://t.me/powershell_pro) — Язык программирования PowerShell
+* [PowerShellRus](https://t.me/powershellrus) — О Powershell на русском
 * [NativeScript](https://t.me/nativescript_ru) — Чат про NativeScript
 
 [(Назад к меню)](#Меню)

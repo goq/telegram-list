@@ -536,6 +536,7 @@
 * [Xamarin Developers](https://t.me/xamarin_russia) — Чат про разработку на платформе Xamarin под Android, IOS, Windows, MacOs
 * [iOS Good Talks](https://t.me/iosgt) — Чат подписчиков канала iOS Good Reads: обсуждение публикуемых материалов и холивары
 * [Android Good Talks](https://t.me/idroidt) — Чат подписчиков канала Android Good Reads: обсуждение публикуемых материалов и холивары
+* [Android Questions](https://t.me/android_questions) — Общение в форме вопрос-ответ
 
 [(Назад к меню)](#Меню)
 

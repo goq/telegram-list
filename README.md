@@ -179,6 +179,7 @@
 * [Тёмная сторона](https://t.me/temno) — Канал по бизнесу "Темная сторона"
 * [Мини-бизнес по-русски](https://t.me/piznes) — Мини-бизнес по-русски
 * [PRO Стартапы и бизнес](https://t.me/startupnews) — Новости про стартапы и бизнес
+* [ain.ua](https://t.me/aindotua) - Новости интернет-бизнеса, электронной коммерции, интернет-маркетинга, стартапов, социальных сетей и блогов
 
 [(Назад к меню)](#Меню)
 
@@ -506,6 +507,7 @@
 * [KDE neon users](https://t.me/kdeneon) — English speaking community of KDE neon
 * [Linux Mint Russia 🇷🇺](https://t.me/LMRus) — Чат про Linux Mint (Русский)
 * [Linux Mint International](https://t.me/LMInter) — Linux Mint Chat (International)
+* [Linux Mint](https://t.me/joinchat/AAAAAEKFkug29pgcFYXvJA) - Закрытый чат. Строгие правила.
 * [macOS ru](https://t.me/macOS_ru) — Чат про macOS
 * [iHack - Hackintosh & Jailbreak](https://t.me/macosx86) — Чат про Хакинтош и MacOS
 * [Manjaro ru](https://t.me/manjarolinux) — Чат про Manjaro Linux
@@ -722,3 +724,4 @@
 * [@LFTVbot](https://t.me/LFTVbot) [Source](https://github.com/Lord-Protector/LostFilmBot) — Бот для сайта LostFilm.TV. Личные уведомления, загрузка нужных серий и многое другое.
 * [@OverStatsBot](https://t.me/OverStatsBot) [Source](https://github.com/Lord-Protector/OverStatsBot) — Бот для игры Overwatch. Генерирует личные профили в виде изображений.
 * [@nosticker_bot](https://t.me/nosticker_bot) - Бот автоматически удаляет любой стикер, отправленный в чат.
+* [@KDERuBot](https://t.me/KDERuBot) - Новости сообщества KDE Россия

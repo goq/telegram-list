@@ -91,6 +91,7 @@
 * [Android Дичь](https://t.me/shitty_android) — Тщательно отобранные статьи и доклады по Android-разработке и смежным темам
 * [TM Feed](https://t.me/tmfeed) — Лента публикаций с Хабра и Гиктаймс
 * [Tproger Channel](https://t.me/tproger_official) — Лента новостей от сообщества "Типичный программист"
+* [Mad Devs Channel](https://t.me/maddevsio) - русскоязычный канал ребят из компании Mad Devs, информация о разработке, тулзах, методах.
 * [Spalmalo Tech Talk](https://t.me/spalmalo_tt) — Спалмало (spalmalo.com) находит и шарит с вами всякие полезности
 * [Technologique](https://t.me/technologique) — Канал о тенденциях в концепциях языков программирования и технологиях разработки ПО
 * [∏ρØƒuñçτØρ Øπτµç∑](https://t.me/libmustdie) — Авторский канал о программировании (Пэйперы, видео, интересные репозитории)

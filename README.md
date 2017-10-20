@@ -122,6 +122,7 @@
 * [anykeynotes](https://t.me/anykeynotes) — Записки старого эникейщика.
 * [Angular 2](https://t.me/angular2) — Новости из мира Angular (js framework)
 * [HotCheatShеet](https://t.me/hotcheatsheet) — Шпаргалки по ЯП, ПО, утилитам и прочему.
+* [UniLecs](https://t.me/unilecs) —  Задачки по алгоритмизации и программированию, а также интересные курсы и лекции из мира Computer Science.
 
 [(Назад к меню)](#Меню)
 

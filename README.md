@@ -79,6 +79,7 @@
 * [Новосибирск](https://t.me/novosibirsktg) — сводка новостей, погода, происшествия
 * [ITpro News & Reviews](https://t.me/MicrosoftRus) — Заметки о Microsoft, Windows Server, System Center, Azure, Office 365, OMS и прочее.
 * [Hackspace Saint-Petersburg](https://t.me/hackspb) — News from hackspace spb
+* [GNU/Linux • Instant View](https://t.me/GNULinuxRU) — Новости мира GNU/Linux в Instant View.
 
 [(Назад к меню)](#Меню)
 

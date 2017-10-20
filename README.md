@@ -313,7 +313,7 @@
 ##### Языки программирования
 * [pro.asm](https://t.me/proasm) — Чат про Assembler
 * [pro.cxx](https://t.me/ProCxx) — Чат про Си++
-* [CSharp chat RU](https://t.me/CSharpChat) — Чат про C#
+* [.NET chat RU](https://t.me/DotNetRuChat) — Чат про C# и .NET
 * [ExtremeCodeTV](https://t.me/extremecode) — Чат C# разработчиков (есть свой бот компилирующий C# код)
 * [css_ru](https://t.me/css_ru) — Чат про CSS и немного HTML
 * [pro.elixir](https://t.me/proelixir) — Чат про Elixir

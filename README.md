@@ -198,6 +198,7 @@
 [(Назад к меню)](#Меню)
 
 ##### Вакансии
+* [Хабра.Вакансии](https://t.me/habravacancy) - Вакансии "Хабрахабр"
 * [Мой круг](https://t.me/moikrug) — Вакансии "Мой круг"
 * [Вакансии и резюме из Digital](https://t.me/seohr) — Вакансии и резюме из Digital
 * [Digital Job](https://t.me/digitaljob_ch) — Вакансии в индустрии Digital

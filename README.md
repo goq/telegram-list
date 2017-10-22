@@ -601,6 +601,7 @@
 * [free_raspberry](https://t.me/free_raspberry) — Чат канала о Raspberry Pi.
 * [meshnet](https://t.me/meshnet) — Mesh-сети, криптосвобода, cjdns/hyperboria
 * [Decentralized social and file systems](https://t.me/decentralized_social) — распределённые социальные сети, обмен сообщениями, файловый обмен и т.п.
+* [Atlassian User Froup](https://t.me/augspb) — Чат сообщества Atlassian, все про Atlassian продукты и интеграции с ними
 
 [(Назад к меню)](#Меню)
 

@@ -420,6 +420,7 @@
 * [HighLoadCup Official](https://t.me/highloadcup) — Официальная группа для участников чемпионата highloadcup от mail.ru
 * [ITForge](https://t.me/itforge) — Чат про python, парсинг сайтов и просто про IT
 * [AVRA community](https://t.me/avrahackathon) — Чат для создающих и интересующихся AR/VR технологиями
+* [Python Community Chelyabinsk](https://t.me/pychel) - Чат челябинского сообщества Python-разработчиков
 
 [(Назад к меню)](#Меню)
 

@@ -699,6 +699,7 @@
 * [@bitbucket_bot](https://t.me/bitbucket_bot) — Интеграция bitbucket в телеграм
 * [@integram_bot](https://t.me/integram_bot) — Интеграция разных сервисов по разработке ПО в телеграм
 * [@ChatbroBot](https://t.me/chatbrobot) — Позволяет встроить Telegram чат на сайт
+* [@dotobot](https://t.me/dotobot) — Мини wunderlist/trello прямо в чате
 
 ##### Прочие боты
 * [@ImageSearchBot](https://t.me/ImageSearchBot) — Бот поиска картинок от Яндекса

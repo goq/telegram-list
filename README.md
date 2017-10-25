@@ -492,6 +492,7 @@
 
 ##### Big Data, Машинное обучение, deep learning и data science
 * [Big Data & Machine Learning](https://t.me/bigdata_ru) — Чат по большим данным, обработке и машинному обучению
+* [Data Science / AI / ML / Big Data](https://t.me/bigdata_en) — All about Data Science: AI, Big Data, Machine Learning, and how to cook it right. English.
 * [Data Science Chat](https://t.me/datasciencechat) — Чат по теме Data Science
 * [Apache Hadoop stack](https://t.me/hadoopusers) — Чат по всему, что связано с Apache Hadoop стеком
 * [Нейронные сети](https://t.me/joinchat/ABI4pz6rz2iVzWUzaVqpmA) — Чат про нейронные сети
@@ -691,6 +692,7 @@
 * [@vkmusic_bot](https://t.me/vkmusic_bot) — Музыкальный бот ВК
 * [@radiotgbot](https://t.me/radiotgbot) — Бот - Лучшее радио!
 * [@MelodyRobot](https://t.me/MelodyRobot) — Угадай мелодию бот
+* [@mcduckmusicbot](https://t.me/mcduckmusicbot) — McDuck MusicBot. Много хорошей музыки.
 
 ##### Полезные боты для разработки
 * [@trello_bot](https://t.me/trello_bot) — Интеграция всемирно известной Канбан доски в телеграм

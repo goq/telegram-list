@@ -716,7 +716,7 @@
 * [@AIPrismaBot](https://t.me/AIPrismaBot) — Призма Бот
 * [@BotFather](https://t.me/BotFather) — Крёстный бото-отец :-)
 * [@MyTeleCloudBot](https://t.me/MyTeleCloudBot) — облачный бот ?
-* [@mybookbot](https://t.me/mybookbot) — Бот-поисковик/скачиатель книг.
+* [@mybookbot](https://t.me/mybookbot) — Бот-поисковик/скачиватель книг.
 * [@ru_tracker_bot](https://t.me/ru_tracker_bot) — Бот рутрекера
 * [@WallpaperRobot](https://t.me/WallpaperRobot) — Бот с обоями на рабочий стол
 * [@pikabubestbot](https://t.me/pikabubestbot) — Бот пикабу

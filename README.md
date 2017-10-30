@@ -59,7 +59,7 @@
 
 ##### Новости
 * [Газета.Ру](https://t.me/gazetaru) — Официальный канал "Газеты.Ru"
-* [L'homme qui pleure](https://t.me/lhommequipleure) — Персональный канал Александра Чистякова ([@demeliorator](https://t.me/))
+* [L'homme qui pleure](https://t.me/lhommequipleure) — Персональный канал Александра Чистякова ([@demeliorator](https://t.me/demeliorator))
 * [opennet news](https://t.me/opennews) — Новости opennet
 * [SPbLUG news](https://t.me/spblug) — Канал новостей Санкт-Петербургской группы пользователей Linux (SPbLUG)
 * [DevOps news](https://t.me/devops_news) — Новости DevOps

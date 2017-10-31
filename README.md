@@ -140,7 +140,6 @@
 * [INTERNET 9000](https://t.me/internet9000) — Сергей Сурганов о дизайне и технологиях.
 * [Evil Martians](https://t.me/evilmartians) — Злые марсиане о стартапах, веб-разработке, интернет-бизнесе, бэкенде, фронтенде, мобильной разработке, devops и data science.
 * [Frontend Raccoon](https://t.me/frontendraccoon) — Новости сообщества Frontend Raccoon
-* [Annode News](https://t.me/annode_news) — Подборка самых интересных статей/новостей/уроков
 * [Школа Веб 2.0](https://t.me/webschool_rus) — Авторский канал о веб-разработке (Ruby on Rails, UI/UX, HTML5, CSS3)
 * [Dev Useful Stuff](https://t.me/dev_useful_stuff) — Библиотеки, фреймворки, инструменты
 * [FrontEnd Development](https://t.me/fedevelopment) — Канал ежедневно публикует полезные ссылки, новости из мира фронтент разработки.
@@ -407,7 +406,6 @@
 * [SPb Python](https://t.me/spbpython) — Saint-Petersburg Python Interest Group
 * [Программисты](https://t.me/coding_ru) — Чат программистов. Флуд.
 * [codingteam](https://t.me/codingteam) — Кроссплатформенное сообщество инженеров и программистов.
-* [annode chat](https://t.me/annode) — Чат веб программистов. Frontend, Backend, CMS, БД и прочее.
 * [Telegram Bot Developers](https://t.me/botoid) — Чат про разработку ботов в телеграме
 * [IoT Community chat](https://t.me/Iot_chat) — Чат Internet fo Things сообщества.
 * [pro.algorithms](https://t.me/proalgorithms) — Группа по обсуждению алгоритмов, архитектурных решений, паттернов проектирования и прикладной математики.

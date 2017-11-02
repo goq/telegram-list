@@ -370,6 +370,7 @@
 * [Angular](https://t.me/angular_ru) - Чат про Angular (4.x+)
 * [Django](https://t.me/pydjango) — Чат про Django
 * [Emacs](https://t.me/emacs_ru) — Чат про Emacs
+* [Ionic Framework](https://t.me/joinchat/D7Z68hJJbrBFMPTQulrw2w) — Чат про Ionic Framework и все что связано с разработкой гибридных приложений на нем и Сordova
 * [Joomla! по-русски](https://t.me/joomlaru) — Чат про Joomla!
 * [Laravel Oficial](https://t.me/laravel_pro) — Чат про Laravel (официальный?)
 * [Laravel Russia](https://t.me/laravelrus) — Чат про Laravel

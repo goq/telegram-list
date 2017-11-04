@@ -318,6 +318,7 @@
 * [.NET chat RU](https://t.me/DotNetRuChat) — Чат про C# и .NET
 * [ExtremeCodeTV](https://t.me/extremecode) — Чат C# разработчиков (есть свой бот компилирующий C# код)
 * [css_ru](https://t.me/css_ru) — Чат про CSS и немного HTML
+* [ErlangRus](https://t.me/erlangrus) — Толки о Erlang, IT и работе
 * [pro.elixir](https://t.me/proelixir) — Чат про Elixir
 * [Elm Lang](https://t.me/elm_ru) — Чат про язык программирования Elm
 * [Fsharp Chat](https://t.me/Fsharp_chat) — Чат про F#

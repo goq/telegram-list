@@ -116,7 +116,6 @@
 * [PhpFlow](https://t.me/PhpFlow) — Всё о PHP: новости, статьи, интересные фишки и много всего интересного!
 * [Разработка игр](https://t.me/progamedev) — Материалы о разработке, экспертные статьи и скромные мнения обо всём, что касается игр.
 * [Non-trivial Ruby](https://t.me/rubynontrivial) — Ruby-наркомания: микробиблиотеки, альтернативные фреймворки, security, IoT, system programming
-* [В мире Linux и IT](https://t.me/chmanjabuntu) — Канал новостей про Linux и IT
 * [DevBrain](https://t.me/devbrain) — Новости, статьи, книги и видео из мира разработки софта
 * [VR Journal](https://t.me/VR_Journal) — Уютненько о VR/AR технологиях
 * [EasyCoding Team](https://t.me/easycoding) — Канал EasyCoding Team: новости, статьи о разработке и администрировании, HOWTO

@@ -80,6 +80,7 @@
 * [ITpro News & Reviews](https://t.me/MicrosoftRus) — Заметки о Microsoft, Windows Server, System Center, Azure, Office 365, OMS и прочее.
 * [Hackspace Saint-Petersburg](https://t.me/hackspb) — News from hackspace spb
 * [GNU/Linux • Instant View](https://t.me/GNULinuxRU) — Новости мира GNU/Linux в Instant View.
+* [Linux News](https://t.me/linux_news_ru) — Новости из мира GNU и Linux.
 
 [(Назад к меню)](#Меню)
 

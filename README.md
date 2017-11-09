@@ -130,7 +130,6 @@
 * [For Web](https://t.me/forwebdev) — Канал новостей для веб-разработчиков
 * [Веб-стандарты](https://t.me/webstandards_ru) — Новости фронтенда от "Веб-стандартов"
 * [Breakfast.js](https://t.me/breakfastjs) — Ежедневная подборка новостей из мира фронтенд разработки
-* [Annode News](https://t.me/annode_news) — Канал сообщества Annode про мир веб-разработки
 * [devSchachtChannel](https://t.me/devSchachtChannel) — Подкаст. Переводы. Веб-разработка. Анонсы новых статей и подкастов от devSchacht
 * [Иван Акулов про фронтенд](https://t.me/iamakulov_channel) — Заметки про фронтенд, UX и смежные темы.
 * [webo_ru](https://t.me/webo_ru) — Виталий Харисов из Яндекса про оптимизацию сайтов.
@@ -147,6 +146,7 @@
 * [Spb-Frontend](https://t.me/spb_frontend) — Новости фронтенда и питерского сообщества Spb-Frontend, дайджест новостей за неделю в виде рассылки
 * [РОДИОНОВ И ФРОНТЭНД](https://t.me/rodionovrodionovrodionov) — Авторский канал про Frontend
 * [GOV](https://t.me/govdesign) — Все о государстве и дизайне государства
+* [Annode News](https://t.me/annode_news) — Канал сообщества Annode про мир веб-разработки
 
 [(Назад к меню)](#Меню)
 
@@ -403,7 +403,6 @@
 [(Назад к меню)](#Меню)
 
 ##### Сообщества разработчиков и программистов
-* [Annode webdev](https://t.me/annode) — Чат для веб-разработчиков. Frontend, Backend, CMS, БД и другое. Мы всегда помогаем новичкам!
 * [Веб-дизайн и Вёрстка](https://t.me/webdesign_ru) — Чат веб-технологов. Веб-дизайн, вёрстка, HTML, CSS, флекс и бутстрапы, шаблонизаторы, препроцессоры, методологии и прочее.
 * [noobrank](https://t.me/noobrank) — Решаем вместе задачки по программированию для начинающих (hackerrank и аналогичные)
 * [frontend_ru](https://t.me/frontend_ru) — Сообщество фронтенд разработчиков
@@ -425,6 +424,7 @@
 * [ITForge](https://t.me/itforge) — Чат про python, парсинг сайтов и просто про IT
 * [AVRA community](https://t.me/avrahackathon) — Чат для создающих и интересующихся AR/VR технологиями
 * [Python Community Chelyabinsk](https://t.me/pychel) - Чат челябинского сообщества Python-разработчиков
+* [Annode webdev](https://t.me/annode) — Чат веб-разработчиков. Frontend, Backend, CMS, БД и другое.
 
 [(Назад к меню)](#Меню)
 

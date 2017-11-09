@@ -677,6 +677,7 @@
 * [Radioma public](https://t.me/radioma) — Чат подкаста Радиома
 * [bikechat](https://t.me/bikechat) — Велосипеды и всё что с ними связано
 * [DTP :: @DTPublish](https://t.me/DTPublish) — Всё о паблишинге, полиграфии, препресс, вёрстка, дизайн
+* [pro.latex](https://t.me/pro_latex) — Система компьютерной вёрстки LaTeX
 * [Новосибирский чат](https://t.me/nskchat) — Чат для общения в Новосибирске и области.
 * [Саратов (публичный чат)](https://t.me/saratov_public) — Публичный чат города Саратов
 * [Киночат](https://t.me/chatanonhownow) — Киночат

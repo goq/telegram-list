@@ -566,7 +566,7 @@
 
 ##### Разные IT-сообщества
 * [IT PPL](https://t.me/spbitpeople) – IT People: общение айтишников и про айти, и не про айти ;-)
-* [SPbLUG](https://t.me/newspblug) — Saint Petersburg Linux talks (неофициальный чат SPbLUG)
+* [SPbLUG chat](https://t.me/spblug_chat) — Saint Petersburg Linux talks (неофициальный чат SPbLUG)
 * [Chaos Construction](https://t.me/chaosconstructions) – Chaos Construction Санкт-Петербург
 * [Piter Py Conference](https://t.me/PiterPy) — Ежегодная Python конференция Piter Py
 * [DC7499](https://t.me/DEFCON) — DefCon Russia

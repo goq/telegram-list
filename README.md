@@ -515,7 +515,7 @@
 * [ROSA Linux / Роса ОС - Российская операционная система](https://t.me/rosa_linux) — Общение и помощь пользователям ОС ROSA Linux.
 * [smartos_ru](https://t.me/smartos_ru) — Чат про SmartOS
 * [Ubuntu](https://t.me/ru_ubuntu) — Чат про Ubuntu (Kubuntu, Lubuntu, Xubuntu, и прочую *buntu)
-* [pro.windows](https://t.me/joinchat/Be4rsT5IrA8x69FnrpMMvw) — Чат про Windows
+* [pro.windows](https://t.me/pro_windows) — Чат про Microsoft Windows и всё, что с этим связано
 * [That's Linux - общение](https://t.me/that_is_linux) — Чат про Linux
 * [Xubuntu-ru.net](https://t.me/xubuntu_runet) — Чат про Xubuntu
 * [Linux Security](https://t.me/safelinux) — Чат про безопасность в Линуксе и про Линукс для безопасников

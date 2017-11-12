@@ -348,6 +348,7 @@
 * [Functional Programming](https://t.me/fp_ru) — Чат любителей функциональных языков программирования
 * [CIL](https://t.me/cilchat) — Чат про CIL/IL/MSIL
 * [Clojure](https://t.me/clojure_ru) — Русскоговорящее сообщество Clojure
+* [pro.lisp](https://telegram.me/joinchat/Be4rsTvFzQ4yIktHsNNYrA) — Common Lisp, Scheme/Racket, Clojure, Picolisp. S-expr
 * [PowerShell Pro](https://t.me/powershell_pro) — Язык программирования PowerShell
 * [PowerShellRus](https://t.me/powershellrus) — О Powershell на русском
 * [NativeScript](https://t.me/nativescript_ru) — Чат про NativeScript

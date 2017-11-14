@@ -413,6 +413,7 @@
 * [ITForge](https://t.me/itforge) — Чат про python, парсинг сайтов и просто про IT
 * [AVRA community](https://t.me/avrahackathon) — Чат для создающих и интересующихся AR/VR технологиями
 * [Python Community Chelyabinsk](https://t.me/pychel) - Чат челябинского сообщества Python-разработчиков
+* [Разработка браузерных расширений](https://t.me/extensions_ru)  - Чат разработчиков браузерных расширений
 
 [(Назад к меню)](#Меню)
 

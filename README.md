@@ -352,6 +352,7 @@
 * [PowerShell Pro](https://t.me/powershell_pro) — Язык программирования PowerShell
 * [PowerShellRus](https://t.me/powershellrus) — О Powershell на русском
 * [NativeScript](https://t.me/nativescript_ru) — Чат про NativeScript
+* [JuliaLanguage](https://t.me/JuliaLanguage) — Все о языке Julia
 
 [(Назад к меню)](#Меню)
 

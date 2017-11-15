@@ -354,6 +354,7 @@
 * [PowerShellRus](https://t.me/powershellrus) — О Powershell на русском
 * [NativeScript](https://t.me/nativescript_ru) — Чат про NativeScript
 * [JuliaLanguage](https://t.me/JuliaLanguage) — Все о языке Julia
+* [R language](https://t.me/rlang_ru) — Язык программирования R, статистика и машинное обучение/data mining
 
 [(Назад к меню)](#Меню)
 

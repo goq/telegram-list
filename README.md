@@ -76,6 +76,7 @@
 * [Hackspace Saint-Petersburg](https://t.me/hackspb) — News from hackspace spb
 * [GNU/Linux • Instant View](https://t.me/GNULinuxRU) — Новости мира GNU/Linux в Instant View.
 * [Linux News](https://t.me/linux_news_ru) — Новости из мира GNU и Linux.
+* [Каледарь событий игровой индустрии](https://t.me/gamedev_calendar) - Канал информирующий о проходящих событиях игровой индустрии и крупных конференций на территории СНГ.
 
 [(Назад к меню)](#Меню)
 

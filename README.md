@@ -601,6 +601,7 @@
 * [meshnet](https://t.me/meshnet) — Mesh-сети, криптосвобода, cjdns/hyperboria
 * [Decentralized social and file systems](https://t.me/decentralized_social) — распределённые социальные сети, обмен сообщениями, файловый обмен и т.п.
 * [Atlassian User Froup](https://t.me/augspb) — Чат сообщества Atlassian, все про Atlassian продукты и интеграции с ними
+* [Visual Studio Code)[https://t.me/vscode_ru] — Чат настройки и создания плагинов VS Code
 
 [(Назад к меню)](#Меню)
 

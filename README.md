@@ -391,6 +391,7 @@
 * [Netbeans](https://t.me/netbeans_ru) — Группа для тех, кто использует среду разработки Netbeans
 * [Vim](https://t.me/vimedit_ru) — Русскоязычные вимеры
 * [weex](https://t.me/weex_ru) — Чат про Weex
+* [rollup](https://t.me/rollup_ru) — Русскоговорящее сообщество Rollup.js
 
 [(Назад к меню)](#Меню)
 

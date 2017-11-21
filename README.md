@@ -687,6 +687,7 @@
 
 ##### Полезные боты для разработки
 * [@trello_bot](https://t.me/trello_bot) — Интеграция всемирно известной Канбан доски в телеграм
+* [@GitHubBot](https://t.me/GitHubBot) — Интеграция GitHub в телеграм
 * [@bitbucket_bot](https://t.me/bitbucket_bot) — Интеграция bitbucket в телеграм
 * [@integram_bot](https://t.me/integram_bot) — Интеграция разных сервисов по разработке ПО в телеграм
 * [@ChatbroBot](https://t.me/chatbrobot) — Позволяет встроить Telegram чат на сайт

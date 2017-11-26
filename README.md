@@ -538,7 +538,8 @@
 ##### Мобильная разработка
 * [Android Developers](https://t.me/android_ru) — Чат про разработку под Android.
 * [iOS Developers](https://t.me/ios_ru) — Чат про разработку под iOS
-* [Xamarin Developers](https://t.me/xamarin_russia) — Чат про разработку на платформе Xamarin под Android, IOS, Windows, MacOs
+* [Xamarin Developers Russia](https://t.me/xamarin_russia) — Чат про разработку на платформе Xamarin под Android, IOS, Windows, MacOs
+* [Xamarin Developers Ukraine](https://t.me/xamarin_ukraine) — Чат и meetup-сообщество о разработке на платформе Xamarin под Android, IOS, Windows, MacOs в Украине
 * [iOS Good Talks](https://t.me/iosgt) — Чат подписчиков канала iOS Good Reads: обсуждение публикуемых материалов и холивары
 * [Android Good Talks](https://t.me/idroidt) — Чат подписчиков канала Android Good Reads: обсуждение публикуемых материалов и холивары
 

@@ -315,6 +315,7 @@
 * [pro.go](https://t.me/proGO) — Чат про Golang
 * [Golang RU](https://t.me/gogolang) — Чат про Golang
 * [Haskell](https://t.me/haskellru) — Чат про Haskell
+* [Haskell Learn](https://t.me/haskell_learn) — Чат для вопросов по основам Haskell
 * [pro.js](https://t.me/JSlang) — Чат про JavaScript
 * [pro.js.noobs](https://t.me/joinchat/Be4rsT3Uyr1TjmSlrRc77g) — Чат про JavaScript для новичков
 * [js_ru](https://t.me/js_ru) — Чат про JavaScript

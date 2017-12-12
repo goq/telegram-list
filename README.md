@@ -697,6 +697,7 @@
 * [@integram_bot](https://t.me/integram_bot) — Интеграция разных сервисов по разработке ПО в телеграм
 * [@ChatbroBot](https://t.me/chatbrobot) — Позволяет встроить Telegram чат на сайт
 * [@dotobot](https://t.me/dotobot) — Мини wunderlist/trello прямо в чате
+* [@GitHubBot](https://t.me/GitHubBot) — Интеграция GitHub в телеграм
 
 ##### Прочие боты
 * [@ImageSearchBot](https://t.me/ImageSearchBot) — Бот поиска картинок от Яндекса

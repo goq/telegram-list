@@ -548,7 +548,6 @@
 ##### Вакансии и работа
 * [Jobs and Project Chat](https://t.me/joinchat/ABI4pz7v7KfJhb12XIkIUA) — Чат по вакансиям и проектам от сообщества Chatbots
 * [Mobile Dev Jobs](https://t.me/mobile_jobs) — Чат по вакансиям разработчиков мобильных приложений
-* [Ukraine Android Jobs](https://t.me/joinchat/HMeR-xJoq6LkltufhEPK_g) — Чат по вакансиям и проектам Android разработчиков Украины
 * [JavaScript Jobs](https://t.me/javascript_jobs) — Чат про вакансии и работу в сфере JavaScript
 * [DevOps Jobs](https://t.me/devops_jobs) — Чат про вакансии и работу в сфере DevOps
 * [Битрикс работа](https://t.me/bitrix_work) — Чат про вакансии и работу в сфере Битрикса и IT
@@ -562,6 +561,7 @@
 * [Big Data jobs](https://t.me/bigdata_jobs) — Вакансии в Big Data области
 * [Django Jobs](https://t.me/django_jobs) — Поиск и предложения работы в области Python/Django
 * [Telegram Job](https://t.me/myjobit) — Вакансии и резюме
+* [Ukraine Android Jobs](https://t.me/joinchat/HMeR-xJoq6LkltufhEPK_g) — Чат по вакансиям и проектам Android разработчиков Украины
 
 [(Назад к меню)](#Меню)
 

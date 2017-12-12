@@ -77,6 +77,7 @@
 * [GNU/Linux • Instant View](https://t.me/GNULinuxRU) — Новости мира GNU/Linux в Instant View.
 * [Linux News](https://t.me/linux_news_ru) — Новости из мира GNU и Linux.
 * [Каледарь событий игровой индустрии](https://t.me/gamedev_calendar) - Канал информирующий о проходящих событиях игровой индустрии и крупных конференций на территории СНГ.
+* [Наука от Funscience](https://t.me/funscience) — Популярная наука, технологии,  гаджеты, космос.
 
 [(Назад к меню)](#Меню)
 
@@ -504,6 +505,7 @@
 
 ##### Операционные системы
 * [ArchLinux RU](https://t.me/archlinux_ru) — ArchLinux
+* [Arch Linux RU & UA](https://t.me/ArchLinuxChatRU) — Анархия!
 * [Calculate Linux](https://t.me/calculate_linux) — Чат про Calculate Linux (Gentoo based)
 * [CentOS](https://t.me/CentOSRu) — Чат про CentOS
 * [Debian](https://t.me/DebianRu) — Чат про Debian
@@ -528,6 +530,7 @@
 * [That's Linux - общение](https://t.me/that_is_linux) — Чат про Linux
 * [Xubuntu-ru.net](https://t.me/xubuntu_runet) — Чат про Xubuntu
 * [Linux Security](https://t.me/safelinux) — Чат про безопасность в Линуксе и про Линукс для безопасников
+* [ProDot Linux](https://telegram.me/joinchat/Be4rsT7VI1LxrHaMR3pezQ) — Взамен старой-доброй группы pro.linux.
 
 [(Назад к меню)](#Меню)
 
@@ -605,9 +608,10 @@
 * [Perfect Pixel Chat](https://t.me/pppixel_chat) — Чат канала Perfect Pixel о проектировании, интерфейсах и дизайне.
 * [free_raspberry](https://t.me/free_raspberry) — Чат канала о Raspberry Pi.
 * [meshnet](https://t.me/meshnet) — Mesh-сети, криптосвобода, cjdns/hyperboria
-* [Decentralized social and file systems](https://t.me/decentralized_social) — распределённые социальные сети, обмен сообщениями, файловый обмен и т.п.
+* [Decentralized social and file systems](https://t.me/decentralized_social) — распределённые социальные сети, обмен сообщениями, файловый обмен и т.п. (EN)
 * [Atlassian User Froup](https://t.me/augspb) — Чат сообщества Atlassian, все про Atlassian продукты и интеграции с ними
-* [Visual Studio Code)[https://t.me/vscode_ru] — Чат настройки и создания плагинов VS Code
+* [Visual Studio Code](https://t.me/vscode_ru) — Чат настройки и создания плагинов VS Code
+* [Kittens Meowing](https://t.me/PrivacyGroup) — Первое правила клуба: «Никому и никогда не рассказывать о клубе».
 
 [(Назад к меню)](#Меню)
 
@@ -626,6 +630,7 @@
 * [SPb CoA](https://t.me/spbcoa) — Чат Санкт-Петербургского сообщества системных и бизнес-аналитиков
 * [ForGeeks Chat](https://t.me/forgeekschat) — Чат про гиков и для гиков
 * [Airbase](https://t.me/airbase_ru) — чат форумов Авиабазы. Военная техника (в основном авиация и флот), политика, компьютеры, литература, кино и многое другое.
+* [Funscience](https://t.me/funscience_chat) — группа канала [@Funscience](https://t.me/funscience)
 
 [(Назад к меню)](#Меню)
 
@@ -732,3 +737,5 @@
 * [@OverStatsBot](https://t.me/OverStatsBot) [Source](https://github.com/Lord-Protector/OverStatsBot) — Бот для игры Overwatch. Генерирует личные профили в виде изображений.
 * [@nosticker_bot](https://t.me/nosticker_bot) - Бот автоматически удаляет любой стикер, отправленный в чат.
 * [@KDERuBot](https://t.me/KDERuBot) - Новости сообщества KDE Россия.
+* [@myShowsMeBot](https://t.me/myShowsMeBot) — Помогает следить за выходом новых эпизодов просматриваемых сериалов.
+* [@GBReborn_bot](https://t.me/GBReborn_bot) [Source](https://github.com/RememberTheAir/GroupButler) — Бот для администрирования, использующий официальный API для ботов.

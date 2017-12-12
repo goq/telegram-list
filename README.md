@@ -564,6 +564,7 @@
 * [Big Data jobs](https://t.me/bigdata_jobs) — Вакансии в Big Data области
 * [Django Jobs](https://t.me/django_jobs) — Поиск и предложения работы в области Python/Django
 * [Telegram Job](https://t.me/myjobit) — Вакансии и резюме
+* [Ukraine Android Jobs](https://t.me/joinchat/HMeR-xJoq6LkltufhEPK_g) — Чат по вакансиям и проектам Android разработчиков Украины
 
 [(Назад к меню)](#Меню)
 

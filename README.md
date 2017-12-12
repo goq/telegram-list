@@ -119,6 +119,7 @@
 * [Angular 2](https://t.me/angular2) — Новости из мира Angular (js framework)
 * [HotCheatShеet](https://t.me/hotcheatsheet) — Шпаргалки по ЯП, ПО, утилитам и прочему.
 * [UniLecs](https://t.me/unilecs) —  Задачки по алгоритмизации и программированию, а также интересные курсы и лекции из мира Computer Science.
+* [Deep Digital](https://t.me/deepdigital) — Канал команды разработки группы Chulakov Digital. Советы по Frontend- и Backend-разработке web-сервисов, статьи, презентации и многое другое.
 
 [(Назад к меню)](#Меню)
 

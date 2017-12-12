@@ -309,6 +309,7 @@
 * [pro.cxx](https://t.me/ProCxx) — Чат про Си++
 * [.NET chat RU](https://t.me/DotNetRuChat) — Чат про C# и .NET
 * [ExtremeCodeTV](https://t.me/extremecode) — Чат C# разработчиков (есть свой бот компилирующий C# код)
+* [Clojure](https://t.me/clojure_ru) — Русскоговорящее сообщество Clojure
 * [css_ru](https://t.me/css_ru) — Чат про CSS и немного HTML
 * [ErlangRus](https://t.me/erlangrus) — Толки о Erlang, IT и работе
 * [pro.elixir](https://t.me/proelixir) — Чат про Elixir
@@ -325,8 +326,10 @@
 * [learn.java](https://t.me/javastart) — Изучаем java вместе. Чат для начинающих и не только!
 * [pro.jvm](https://t.me/jvmchat) — Чат про JVM
 * [Javanese Questions](https://t.me/javanese_questions) — общение в формате вопрос-ответ о Java, Kotlin и Android.
-* [Scala](https://t.me/scala_ru) — Чат про Scala
+* [JuliaLanguage](https://t.me/JuliaLanguage) — Все о языке Julia
 * [Kotlin](https://t.me/kotlin_lang) — Чат про Kotlin
+* [pro.lisp](https://telegram.me/joinchat/Be4rsTvFzQ4yIktHsNNYrA) — Common Lisp, Scheme/Racket, Clojure, Picolisp. S-expr
+* [NativeScript](https://t.me/nativescript_ru) — Чат про NativeScript
 * [ru.nim.talks](https://t.me/ru_nim_talks) — Чат про nim (ex-nimrod)
 * [Modern::Perl](https://t.me/modernperl) — Чат про Perl. Современный::Perl
 * [use Perl or die;](https://t.me/usePerlOrDie) — Группа о языке Perl и обо всём что с ним связано.
@@ -338,6 +341,9 @@
 * [phpclub](https://t.me/phpclubru) — Чат про PHP / php Club
 * [prophp](https://t.me/prophp7) — Чат про современный PHP
 * [Devall — PHP](https://t.me/joinchat/AAtJOjx9l5F9IhkHIIVP9Q) — Чат про PHP. Флуд
+* [PowerShell Pro](https://t.me/powershell_pro) — Язык программирования PowerShell
+* [PowerShellRus](https://t.me/powershellrus) — О Powershell на русском
+* [R language](https://t.me/rlang_ru) — Язык программирования R, статистика и машинное обучение/data mining
 * [ReasonML и OCaml](https://t.me/reasonml_ru) — Чат про ReasonML и OCaml
 * [pro.ruby](https://t.me/proRuby) — Чат про Ruby
 * [Ruby & RoR](https://t.me/rubylang) — Чат про Ruby и Ruby on Rails
@@ -347,17 +353,11 @@
 * [pro.rust](https://t.me/proRust) — Чат про Rust
 * [RustLang](https://t.me/rustlang_ru) — Чат про Rust
 * [embedded.rs](https://t.me/embedded_rs) — Чат про Embedded на Rust
+* [Scala](https://t.me/scala_ru) — Чат про Scala
 * [TypeScript + Flow = ❤](https://t.me/typescript_ru) — Чат про TypeScript и Flow
 * [(F|R|FR)P](https://t.me/frp_ru) — Функциональное Реактивное Программирование
 * [Functional Programming](https://t.me/fp_ru) — Чат любителей функциональных языков программирования
 * [CIL](https://t.me/cilchat) — Чат про CIL/IL/MSIL
-* [Clojure](https://t.me/clojure_ru) — Русскоговорящее сообщество Clojure
-* [pro.lisp](https://telegram.me/joinchat/Be4rsTvFzQ4yIktHsNNYrA) — Common Lisp, Scheme/Racket, Clojure, Picolisp. S-expr
-* [PowerShell Pro](https://t.me/powershell_pro) — Язык программирования PowerShell
-* [PowerShellRus](https://t.me/powershellrus) — О Powershell на русском
-* [NativeScript](https://t.me/nativescript_ru) — Чат про NativeScript
-* [JuliaLanguage](https://t.me/JuliaLanguage) — Все о языке Julia
-* [R language](https://t.me/rlang_ru) — Язык программирования R, статистика и машинное обучение/data mining
 
 [(Назад к меню)](#Меню)
 
@@ -423,6 +423,7 @@
 * [Python Community Chelyabinsk](https://t.me/pychel) - Чат челябинского сообщества Python-разработчиков
 * [Разработка браузерных расширений](https://t.me/extensions_ru)  - Чат разработчиков браузерных расширений
 * [fprog_spb](https://t.me/fprog_spb) — Митап функциональных программистов в СПб
+* [Annode webdev](https://t.me/annode) — Чат веб-разработчиков. Frontend, Backend, CMS, БД и другое.
 
 [(Назад к меню)](#Меню)
 

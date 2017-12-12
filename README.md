@@ -118,7 +118,7 @@
 * [anykeynotes](https://t.me/anykeynotes) — Записки старого эникейщика.
 * [Angular 2](https://t.me/angular2) — Новости из мира Angular (js framework)
 * [HotCheatShеet](https://t.me/hotcheatsheet) — Шпаргалки по ЯП, ПО, утилитам и прочему.
-* [mkdev](https://t.me/mkdev_me) — Канал mkdev.me - интересные статеечки, шутеечки из-за кулис и новости проекта mkdev.me. Бакенд, фронтенд, DevOps и в целом вокруг IT, образования в сфере IT, вот это всё.
+* [mkdev](https://t.me/mkdev_me) — Канал mkdev.me - интересные статеечки, шутеечки из-за кулис и новости проекта mkdev.me.
 * [UniLecs](https://t.me/unilecs) —  Задачки по алгоритмизации и программированию, а также интересные курсы и лекции из мира Computer Science.
 
 [(Назад к меню)](#Меню)

@@ -146,7 +146,6 @@
 * [Spb-Frontend](https://t.me/spb_frontend) — Новости фронтенда и питерского сообщества Spb-Frontend, дайджест новостей за неделю в виде рассылки
 * [РОДИОНОВ И ФРОНТЭНД](https://t.me/rodionovrodionovrodionov) — Авторский канал про Frontend
 * [GOV](https://t.me/govdesign) — Все о государстве и дизайне государства
-* [Annode News](https://t.me/annode_news) — Канал сообщества Annode про мир веб-разработки
 
 [(Назад к меню)](#Меню)
 
@@ -318,6 +317,7 @@
 * [pro.cxx](https://t.me/ProCxx) — Чат про Си++
 * [.NET chat RU](https://t.me/DotNetRuChat) — Чат про C# и .NET
 * [ExtremeCodeTV](https://t.me/extremecode) — Чат C# разработчиков (есть свой бот компилирующий C# код)
+* [Clojure](https://t.me/clojure_ru) — Русскоговорящее сообщество Clojure
 * [css_ru](https://t.me/css_ru) — Чат про CSS и немного HTML
 * [ErlangRus](https://t.me/erlangrus) — Толки о Erlang, IT и работе
 * [pro.elixir](https://t.me/proelixir) — Чат про Elixir
@@ -335,6 +335,7 @@
 * [Javanese Questions](https://t.me/javanese_questions) — общение в формате вопрос-ответ о Java, Kotlin и Android.
 * [Scala](https://t.me/scala_ru) — Чат про Scala
 * [Kotlin](https://t.me/kotlin_lang) — Чат про Kotlin
+* [NativeScript](https://t.me/nativescript_ru) — Чат про NativeScript
 * [ru.nim.talks](https://t.me/ru_nim_talks) — Чат про nim (ex-nimrod)
 * [Modern::Perl](https://t.me/modernperl) — Чат про Perl. Современный::Perl
 * [use Perl or die;](https://t.me/usePerlOrDie) — Группа о языке Perl и обо всём что с ним связано.
@@ -346,6 +347,8 @@
 * [phpclub](https://t.me/phpclubru) — Чат про PHP / php Club
 * [prophp](https://t.me/prophp7) — Чат про современный PHP
 * [Devall — PHP](https://t.me/joinchat/AAtJOjx9l5F9IhkHIIVP9Q) — Чат про PHP. Флуд
+* [PowerShell Pro](https://t.me/powershell_pro) — Язык программирования PowerShell
+* [PowerShellRus](https://t.me/powershellrus) — О Powershell на русском
 * [ReasonML и OCaml](https://t.me/reasonml_ru) — Чат про ReasonML и OCaml
 * [pro.ruby](https://t.me/proRuby) — Чат про Ruby
 * [Ruby & RoR](https://t.me/rubylang) — Чат про Ruby и Ruby on Rails
@@ -359,10 +362,6 @@
 * [(F|R|FR)P](https://t.me/frp_ru) — Функциональное Реактивное Программирование
 * [Functional Programming](https://t.me/fp_ru) — Чат любителей функциональных языков программирования
 * [CIL](https://t.me/cilchat) — Чат про CIL/IL/MSIL
-* [Clojure](https://t.me/clojure_ru) — Русскоговорящее сообщество Clojure
-* [PowerShell Pro](https://t.me/powershell_pro) — Язык программирования PowerShell
-* [PowerShellRus](https://t.me/powershellrus) — О Powershell на русском
-* [NativeScript](https://t.me/nativescript_ru) — Чат про NativeScript
 
 [(Назад к меню)](#Меню)
 
@@ -527,7 +526,7 @@
 * [ROSA Linux / Роса ОС - Российская операционная система](https://t.me/rosa_linux) — Общение и помощь пользователям ОС ROSA Linux.
 * [smartos_ru](https://t.me/smartos_ru) — Чат про SmartOS
 * [Ubuntu](https://t.me/ru_ubuntu) — Чат про Ubuntu (Kubuntu, Lubuntu, Xubuntu, и прочую *buntu)
-* [pro.windows](https://t.me/joinchat/Be4rsT5IrA8x69FnrpMMvw) — Чат про Windows
+* [pro.windows](https://t.me/pro_windows) — Чат про Windows
 * [That's Linux - общение](https://t.me/that_is_linux) — Чат про Linux
 * [Xubuntu-ru.net](https://t.me/xubuntu_runet) — Чат про Xubuntu
 * [Linux Security](https://t.me/safelinux) — Чат про безопасность в Линуксе и про Линукс для безопасников

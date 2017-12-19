@@ -144,6 +144,7 @@
 * [Spb-Frontend](https://t.me/spb_frontend) — Новости фронтенда и питерского сообщества Spb-Frontend, дайджест новостей за неделю в виде рассылки
 * [РОДИОНОВ И ФРОНТЭНД](https://t.me/rodionovrodionovrodionov) — Авторский канал про Frontend
 * [GOV](https://t.me/govdesign) — Все о государстве и дизайне государства
+* [Frontend Things](https://t.me/frontendthings) — Канал, в котором ежедневно публикуют ссылки на материалы по последним технологиями из мира фронтэнда
 
 [(Назад к меню)](#Меню)
 
@@ -322,6 +323,7 @@
 * [pro.js](https://t.me/JSlang) — Чат про JavaScript
 * [pro.js.noobs](https://t.me/joinchat/Be4rsT3Uyr1TjmSlrRc77g) — Чат про JavaScript для новичков
 * [js_ru](https://t.me/js_ru) — Чат про JavaScript
+* [Javascript Maps](https://t.me/javascript_maps) — Работа с картами в Javascript: Leaflet, d3, Mapbox, PigeonMaps и др.
 * [javascript_ru](https://t.me/javascript_ru) — Чат про JavaScript
 * [learn.java](https://t.me/javastart) — Изучаем java вместе. Чат для начинающих и не только!
 * [pro.jvm](https://t.me/jvmchat) — Чат про JVM

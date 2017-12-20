@@ -425,7 +425,7 @@
 * [Разработка браузерных расширений](https://t.me/extensions_ru)  - Чат разработчиков браузерных расширений
 * [fprog_spb](https://t.me/fprog_spb) — Митап функциональных программистов в СПб
 * [Annode webdev](https://t.me/annode) — Чат веб-разработчиков. Frontend, Backend, CMS, БД и другое.
-* [Чат IT-Страны](https://t.me/itbelarustalk) — Чат Белорусского IT-сообщества.
+* [Чат IT-Страны](https://t.me/itbelarustalk) — Чат белорусского IT-сообщества.
 
 [(Назад к меню)](#Меню)
 

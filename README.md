@@ -163,6 +163,7 @@
 * [Hacker News En](https://t.me/hacker_news_feed) — Hacker News (english)
 * [IT Security Alerts](https://t.me/itsecalert) — Оповещение о крупных уязвимостях в софте и сервисах
 * [Информация опасносте](https://t.me/alexmakus) — New! Информация опасносте
+* [Codeby.net - канал](https://t.me/webware) — Канал портала codeby.net о программировании и кибербезопасности.
 
 [(Назад к меню)](#Меню)
 
@@ -619,7 +620,8 @@
 * [Atlassian User Froup](https://t.me/augspb) — Чат сообщества Atlassian, все про Atlassian продукты и интеграции с ними
 * [Visual Studio Code](https://t.me/vscode_ru) — Чат настройки и создания плагинов VS Code
 * [Kittens Meowing](https://t.me/PrivacyGroup) — Первое правила клуба: «Никому и никогда не рассказывать о клубе».
-* [Hackathons and Travel](https://t.me/HackathonsAndTravel) - Уникальный чат про путешествия и хакатоны. Здесь ищут и создают команды на хакатоны, путешествуют в Европу, обсуждают хакатоны и IT.
+* [Hackathons and Travel](https://t.me/HackathonsAndTravel) — Чат про путешествия и хакатоны. Поиск и создание команд на хакатоны по всему миру.
+* [Codeby.net - чат](https://t.me/joinchat/CUpsCD9ocXL_3JA2hB9k7w) — Чат портала codeby.net о программировании и кибербезопасности.
 
 [(Назад к меню)](#Меню)
 

@@ -22,7 +22,6 @@
   * [Каналы с котиками](#Каналы-с-котиками)
   * [Информационная безопасность](#Каналы-информации-по-Информационной-безопасности)
   * [Машинное обучение, big data, deep learning, data science](#Информационные-и-новостные-каналы-по-data-science-big-data-Машинному-обучению-и-deep-learning)
-  * [Музыка](#Музыка)
   * [Бизнес и стартапы](#Каналы-по-бизнесу-и-стартапам)
   * [Библиотеки и базы знаний](#Библиотеки-и-базы-данных)
   * [Вакансии](#Вакансии)
@@ -159,7 +158,7 @@
 
 ##### Каналы информации по Информационной безопасности
 * [ИБач](https://t.me/ibach) — Канал об Информационной Безопасности
-* [Hacker news Ru](https://t.me/HakerNews) — Новости информационной безопасности
+* [Hacker News на русском](https://t.me/HNews) — Новости информационной безопасности
 * [Hacker News En](https://t.me/hacker_news_feed) — Hacker News (english)
 * [IT Security Alerts](https://t.me/itsecalert) — Оповещение о крупных уязвимостях в софте и сервисах
 * [Информация опасносте](https://t.me/alexmakus) — New! Информация опасносте
@@ -168,15 +167,9 @@
 [(Назад к меню)](#Меню)
 
 ##### Информационные и новостные каналы по Data science, Big Data, Машинному обучению и deep learning.
-* [ModelOverfit](https://t.me/modeloverfit) — Канал сообщества modeloverfit
 * [Data Science](https://t.me/opendatascience) — Первый новостной канал про data science
 * [Deep Learning Russia](https://t.me/deeplearning_ru) — Канал сообщества vk.com/deeplearning_ru
 * [Чаты и группы телеграма по теме](#big-data-Машинное-обучение-deep-learning-и-data-science)
-
-[(Назад к меню)](#Меню)
-
-##### Музыка
-* [DFF Радио](https://t.me/dffradio) — DFF Радио. Выпускают миксы в канал два раза в неделю.
 
 [(Назад к меню)](#Меню)
 
@@ -185,7 +178,6 @@
 * [Тёмная сторона](https://t.me/temno) — Канал по бизнесу "Темная сторона"
 * [Мини-бизнес по-русски](https://t.me/piznes) — Мини-бизнес по-русски
 * [PRO Стартапы и бизнес](https://t.me/startupnews) — Новости про стартапы и бизнес
-* [ain.ua](https://t.me/aindotua) - Новости интернет-бизнеса, электронной коммерции, интернет-маркетинга, стартапов, социальных сетей и блогов.
 * [The Real Talk](https://t.me/therealtalkme) - Разработка и продвижение чатботов в мессенджерах. Канал для предпринимателей, маркетологов и разработчиков. 
 
 [(Назад к меню)](#Меню)
@@ -193,7 +185,11 @@
 ##### Библиотеки и базы данных
 * [Бздынь.Архив](https://t.me/bzd_channel) — Большой архив книг для программистов.
 * [Библиотека программиста](https://t.me/proglibrary) — Библиотека программиста. (для новичков)
-* [Библиотека Python](https://t.me/ru_python_books) — Канал-библиотека с книгами, журналами и статьями по языку программирования Python (активный)
+* [Python Textbooks](https://t.me/python_textbooks) — Книги по Python.
+* [Math Textbooks](https://t.me/math_textbooks) — Книги по математике.
+* [Physics Textbooks](https://t.me/physics_textbooks) — Книги по физике.
+* [Frontend Textbooks](https://t.me/frontend_textbooks) — Книги по фронтенду.
+* [Библиотека Python](https://t.me/ru_python_books) — Канал-библиотека с книгами, журналами и статьями по языку программирования Python (старый)
 * [Библиотека Golang](https://t.me/joinchat/Be4rsT2X7QRJmDbFbnAcnQ) — Канал-библиотека по языку программирования Golang (пустующий)
 * [Бизнес-книги](https://t.me/marketologmanager) — Канал с подборками литературы по бизнесу
 * [справочник "Единой России"](https://t.me/joinchat/ACqUWT8mxfwM8vgXxxFqQQ) — Телефонный справочник "Единой России" в Госдуме РФ :-D
@@ -204,10 +200,9 @@
 * [Мой круг](https://t.me/moikrug) — Вакансии "Мой круг"
 * [Вакансии и резюме из Digital](https://t.me/seohr) — Вакансии и резюме из Digital
 * [Digital Job](https://t.me/digitaljob_ch) — Вакансии в индустрии Digital
-* [Web Freelance](https://t.me/webfl) — Предложения по фрилансу для веб-разработчиков
+* [Web Freelance](https://t.me/webfrl) — Предложения по фрилансу для веб-разработчиков
 * [Трактор на Джинне](https://t.me/djinni_relocate) — Предложения на релокейт для программистов в Европу и США
 * [Devaller](https://t.me/devaller) — Вакансии от сообщества Devall
-* [php_jobs](https://t.me/php_jobs) — Вакансии и запросы на поиск работы по направлению PHP, Laravel, Symfony, Yii и т.д.
 * [sysadmin_jobs](https://t.me/sysadmin_jobs) — Вакансии для системных администраторов
 * [Работа за рубежом](https://t.me/jobs_abroad) — Вакансии с релокацией
 
@@ -577,6 +572,7 @@
 * [Telegram Job](https://t.me/myjobit) — Вакансии и резюме
 * [Ukraine Android Jobs](https://t.me/joinchat/HMeR-xJoq6LkltufhEPK_g) — Чат по вакансиям и проектам Android разработчиков Украины
 * [Golang Jobs and Freelance](https://t.me/golangjob) — Jobs and freelance for golang developers
+* [php_jobs](https://t.me/php_jobs) — Вакансии и запросы на поиск работы по направлению PHP, Laravel, Symfony, Yii и т.д.
 
 [(Назад к меню)](#Меню)
 

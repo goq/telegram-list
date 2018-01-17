@@ -399,6 +399,7 @@
 * [weex](https://t.me/weex_ru) — Чат про Weex
 * [rollup](https://t.me/rollup_ru) — Русскоговорящее сообщество Rollup.js
 * [Ember.js](https://t.me/ember_js) — Cообщество Ember.js
+* [Discourse](https://t.me/joinchat/A8oWNg2L0txJw6_BygaZtg) - Русскоговорящее сообщество Discourse 
 
 [(Назад к меню)](#Меню)
 

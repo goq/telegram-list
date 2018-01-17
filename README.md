@@ -359,6 +359,7 @@
 * [(F|R|FR)P](https://t.me/frp_ru) — Функциональное Реактивное Программирование
 * [Functional Programming](https://t.me/fp_ru) — Чат любителей функциональных языков программирования
 * [CIL](https://t.me/cilchat) — Чат про CIL/IL/MSIL
+* [WebAssembly](https://t.me/WebAssembly_ru) — Чат про Webassembly
 
 [(Назад к меню)](#Меню)
 

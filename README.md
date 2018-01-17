@@ -619,6 +619,7 @@
 * [Kittens Meowing](https://t.me/PrivacyGroup) — Первое правила клуба: «Никому и никогда не рассказывать о клубе».
 * [Hackathons and Travel](https://t.me/HackathonsAndTravel) — Чат про путешествия и хакатоны. Поиск и создание команд на хакатоны по всему миру.
 * [Codeby.net - чат](https://t.me/joinchat/CUpsCD9ocXL_3JA2hB9k7w) — Чат портала codeby.net о программировании и кибербезопасности.
+* [Random — дикий запад](https://t.me/random_ru) — Абсолютно ненормальное общение, выяснение отношений, холивары, грязный юмор и всё то, что можно назвать Random. Из /dev/null
 
 [(Назад к меню)](#Меню)
 
@@ -637,6 +638,7 @@
 * [ForGeeks Chat](https://t.me/forgeekschat) — Чат про гиков и для гиков
 * [Airbase](https://t.me/airbase_ru) — чат форумов Авиабазы. Военная техника (в основном авиация и флот), политика, компьютеры, литература, кино и многое другое.
 * [Funscience](https://t.me/funscience_chat) — группа канала [@Funscience](https://t.me/funscience)
+* [Aurora Borealis Hunters](https://t.me/aurora_ru) — Чат фото- и видео-охотников за Северным Сиянием!
 
 [(Назад к меню)](#Меню)
 

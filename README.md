@@ -459,7 +459,6 @@
 * [pro.zabbix](https://t.me/prozabbix) — Чат про Zabbix (альтернативный)
 * [KVM (PVE/oVirt etc)](https://t.me/pro_kvm) — Чат о виртуализации и Proxmox
 * [glpi_ru](https://t.me/glpi_ru) — Чат о системе helpdesk и инвентаризации GLPI
-* [pro.enterprise](https://t.me/pro_enterprise) — Чат про корп.сектор: серверы, СХД, CDN, сетевое оборудование и облака.
 * [AWS ru](https://t.me/aws_ru) — Чат про Amazon Web Services
 * [Network Attached Storage](https://t.me/ru_nas) — Чат про NAS
 * [SpecialistOff.NET](https://t.me/specialistoffnet) — Чат для администраторов и программистов
@@ -506,7 +505,6 @@
 * [Apache Hadoop stack](https://t.me/hadoopusers) — Чат по всему, что связано с Apache Hadoop стеком
 * [Нейронные сети](https://t.me/joinchat/ABI4pz6rz2iVzWUzaVqpmA) — Чат про нейронные сети
 * [Нейронные сети (Microsoft Developer)](https://t.me/neuroworkshop) — Чат про нейронные сети от Microsoft Developer
-* [ML BootCamp official](https://t.me/mailrucontests) — Официальная телеграмм группа для сообщества участников ML чемпионатов Mail.Ru Group
 
 [(Назад к меню)](#Меню)
 
@@ -530,11 +528,9 @@
 * [Manjabuntu](https://t.me/manjabuntu) — Чат за популяризацию GNU/Linux дистрибутивов и помощь новичкам в их освоении.
 * [openSuse](https://t.me/OpenSuseRu) — Чат про openSuse
 * [Свидетели ReactOS](https://t.me/reactos_ru) — Чат про ReactOS
-* [ROSA Linux / Роса ОС - Российская операционная система](https://t.me/rosa_linux) — Общение и помощь пользователям ОС ROSA Linux.
 * [smartos_ru](https://t.me/smartos_ru) — Чат про SmartOS
 * [Ubuntu](https://t.me/ru_ubuntu) — Чат про Ubuntu (Kubuntu, Lubuntu, Xubuntu, и прочую *buntu)
 * [pro.windows](https://t.me/pro_windows) — Чат про Microsoft Windows и всё, что с этим связано
-* [That's Linux - общение](https://t.me/that_is_linux) — Чат про Linux
 * [Xubuntu-ru.net](https://t.me/xubuntu_runet) — Чат про Xubuntu
 * [Linux Security](https://t.me/safelinux) — Чат про безопасность в Линуксе и про Линукс для безопасников
 * [ProDot Linux](https://telegram.me/joinchat/Be4rsT7VI1LxrHaMR3pezQ) — Взамен старой-доброй группы pro.linux.
@@ -634,7 +630,6 @@
 * [Телеграм Гики](https://t.me/tgchat) — Обсуждение новостей о Telegram
 * [Питерчат](https://t.me/piterchat) – Чат для жителей Санкт-Петербурга.
 * [МоскваChat](https://t.me/MOCKBAchat) – Чат для жителей Москвы.
-* [Яндекс Народная Карта](https://t.me/YandexPeopleMap) – неофициальная группа НЯК.
 * [Блудливая Калифорния](https://t.me/bludcaliforni) — Чат для общения, знакомств и совместных встреч в Москве и области.
 * [Английский язык](https://t.me/eng_for_rus) — Изучаем английский язык вместе.
 * [SPb CoA](https://t.me/spbcoa) — Чат Санкт-Петербургского сообщества системных и бизнес-аналитиков

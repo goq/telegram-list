@@ -357,6 +357,7 @@
 * [Scala](https://t.me/scala_ru) — Чат про Scala
 * [TypeScript + Flow = ❤](https://t.me/typescript_ru) — Чат про TypeScript и Flow
 * [(F|R|FR)P](https://t.me/frp_ru) — Функциональное Реактивное Программирование
+* [ReactiveX](https://t.me/reactivex) — Про реактивное программирование
 * [Functional Programming](https://t.me/fp_ru) — Чат любителей функциональных языков программирования
 * [CIL](https://t.me/cilchat) — Чат про CIL/IL/MSIL
 * [WebAssembly](https://t.me/WebAssembly_ru) — Чат про Webassembly

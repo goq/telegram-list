@@ -399,7 +399,7 @@
 * [weex](https://t.me/weex_ru) — Чат про Weex
 * [rollup](https://t.me/rollup_ru) — Русскоговорящее сообщество Rollup.js
 * [Ember.js](https://t.me/ember_js) — Cообщество Ember.js
-* [Discourse](https://t.me/joinchat/A8oWNg2L0txJw6_BygaZtg) - Русскоговорящее сообщество Discourse 
+* [Discourse](https://t.me/joinchat/A8oWNg2L0txJw6_BygaZtg) — Русскоговорящее сообщество Discourse.
 
 [(Назад к меню)](#Меню)
 
@@ -424,8 +424,8 @@
 * [HighLoadCup Official](https://t.me/highloadcup) — Официальная группа для участников чемпионата highloadcup от mail.ru
 * [ITForge](https://t.me/itforge) — Чат про python, парсинг сайтов и просто про IT
 * [AVRA community](https://t.me/avrahackathon) — Чат для создающих и интересующихся AR/VR технологиями
-* [Python Community Chelyabinsk](https://t.me/pychel) - Чат челябинского сообщества Python-разработчиков
-* [Разработка браузерных расширений](https://t.me/extensions_ru)  - Чат разработчиков браузерных расширений
+* [Python Community Chelyabinsk](https://t.me/pychel) — Чат челябинского сообщества Python-разработчиков
+* [Разработка браузерных расширений](https://t.me/extensions_ru) — Чат разработчиков браузерных расширений
 * [fprog_spb](https://t.me/fprog_spb) — Митап функциональных программистов в СПб
 * [Annode webdev](https://t.me/annode) — Чат веб-разработчиков. Frontend, Backend, CMS, БД и другое.
 * [Чат IT-Страны](https://t.me/itbelarustalk) — Чат белорусского IT-сообщества.
@@ -523,7 +523,7 @@
 * [KDE neon users](https://t.me/kdeneon) — English speaking community of KDE neon
 * [Linux Mint Russia 🇷🇺](https://t.me/LMRus) — Чат про Linux Mint (Русский)
 * [Linux Mint International](https://t.me/LMInter) — Linux Mint Chat (International)
-* [Linux Mint](https://t.me/joinchat/AAAAAEKFkug29pgcFYXvJA) - Закрытый чат. Строгие правила
+* [Linux Mint](https://t.me/joinchat/AAAAAEKFkug29pgcFYXvJA) — Закрытый чат. Строгие правила
 * [macOS ru](https://t.me/macOS_ru) — Чат про macOS
 * [iHack - Hackintosh & Jailbreak](https://t.me/macosx86) — Чат про Хакинтош и MacOS
 * [Manjaro ru](https://t.me/manjarolinux) — Чат про Manjaro Linux
@@ -745,7 +745,7 @@
 * [@TitsBot](https://t.me/phphelperbot) [Source](https://github.com/kefzce/titsbot) — Адалт бот,фото,видео,гиф,подборки и голосовалки за лучшие фотки
 * [@LFTVbot](https://t.me/LFTVbot) [Source](https://github.com/Lord-Protector/LostFilmBot) — Бот для сайта LostFilm.TV. Личные уведомления, загрузка нужных серий и многое другое.
 * [@OverStatsBot](https://t.me/OverStatsBot) [Source](https://github.com/Lord-Protector/OverStatsBot) — Бот для игры Overwatch. Генерирует личные профили в виде изображений.
-* [@nosticker_bot](https://t.me/nosticker_bot) - Бот автоматически удаляет любой стикер, отправленный в чат.
-* [@KDERuBot](https://t.me/KDERuBot) - Новости сообщества KDE Россия.
+* [@nosticker_bot](https://t.me/nosticker_bot) — Бот автоматически удаляет любой стикер, отправленный в чат.
+* [@KDERuBot](https://t.me/KDERuBot) — Новости сообщества KDE Россия.
 * [@myShowsMeBot](https://t.me/myShowsMeBot) — Помогает следить за выходом новых эпизодов просматриваемых сериалов.
 * [@GBReborn_bot](https://t.me/GBReborn_bot) [Source](https://github.com/RememberTheAir/GroupButler) — Бот для администрирования, использующий официальный API для ботов.

@@ -487,13 +487,14 @@
 ##### Базы Данных
 * [DBA](https://t.me/dba_ru) — Чат про базы данных и их администрирование
 * [MongoDBRussian](https://t.me/MongoDBRussian) — Чат про MongoDB
-* [mysql_ru](https://t.me/mysql_ru) — Чат про MySQL
+* [Mysql](https://t.me/mysql_ru) — Чат про MySQL
 * [pgsql](https://t.me/pgsql) — Чат про PostgreSQL
 * [PostgreSQL + 1C + Linux](https://t.me/PostgreSQL_1C_Linux) — Чат про особенности работы PostgreSQL и 1С на Linux
 * [Pony ORM](https://t.me/ponyorm) — Чат про Pony ORM
 * [ClickHouse](https://t.me/clickhouse_ru) — Чат про СУБД от Яндекс ClickHouse
 * [SqlCom - Стиль жизни SQL](https://t.me/sqlcom) — Чат про Microsoft SQL Server
 * [DB Tarantool](https://t.me/tarantoolru) — Русский чат про Tarantool
+* [SQL_Ninja](https://t.me/sql_ninja) — Флудильня SqlCom
 
 [(Назад к меню)](#Меню)
 
@@ -658,6 +659,7 @@
 * [PRO Стартапы и бизнес](https://t.me/startupchat) — Чат про стартапы и бизнес
 * [Мини-бизнес чат](https://t.me/pizneschat) — Чат про мини-бизнес
 * [YouTube.Чат](https://t.me/youtube_chat) — Видеоблоггинг, продвижение, контент и реклама на ютуб.
+* [Startup never sleeps](https://t.me/startupneversleeps) — Чат для айтишников, которые иногда думают работать в стартапах.
 
 [(Назад к меню)](#Меню)
 
@@ -665,7 +667,6 @@
 * [/bookz](https://t.me/bookz) — Читаем и обмениваемся, рецензируем и советуем, выбираем произведение недели и просто беззаботно проводим время в библиотеке. По пятницам - вечер поэзии.
 * [#Bookcrossing_spb](https://t.me/bookcrossing_spb) — Обмен книгами в Санкт-Петербурге, буккроссинг.
 * [Философия](https://t.me/ru_philosophy) — Философское кафе
-* [EducationChat](https://t.me/EducationChat) — Чат паблика [education](https://vk.com/educationgo)
 
 [(Назад к меню)](#Меню)
 

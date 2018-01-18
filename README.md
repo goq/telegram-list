@@ -622,6 +622,7 @@
 * [Hackathons and Travel](https://t.me/HackathonsAndTravel) — Чат про путешествия и хакатоны. Поиск и создание команд на хакатоны по всему миру.
 * [Codeby.net - чат](https://t.me/joinchat/CUpsCD9ocXL_3JA2hB9k7w) — Чат портала codeby.net о программировании и кибербезопасности.
 * [Random — дикий запад](https://t.me/random_ru) — Абсолютно ненормальное общение, выяснение отношений, холивары, грязный юмор и всё то, что можно назвать Random. Из /dev/null
+* [ru_ipv6](https://t.me/ru_ipv6) — IPv6 in ru
 
 [(Назад к меню)](#Меню)
 

@@ -239,7 +239,6 @@
 * [Кинопаблик](https://t.me/anonhownow) — Канал про кино. Кинопаблик.
 * [MobiDevices](https://t.me/mobidevices) — Красивый журнал о технологиях.
 * [Just Links](https://t.me/j_links) — Ссылки на научные статьи и новости, с упором на Deep Learning и физику.
-* [Perfect Pixel](https://t.me/pppixel) — Продуктоводство, дизайн интерфейсов, анимация и прототипирование.
 * [ThinkTanker](https://t.me/ThinkTanker) — Интересные статьи
 * [Порошок, уходи!](https://t.me/poroshok_uhodi) — Ежедневные стишки-порошки.
 * [BA/SA Аналитики](https://t.me/spbcoachanel) — Канал сообщества бизнес аналитиков Санкт-Петербурга и не только.
@@ -614,7 +613,6 @@
 * [Секта кнопкопоклонников](https://t.me/ru_mechcult) — Чат странных людей, которые любят ~~механические~~ клавиатуры
 * [cloud_ru](https://t.me/cloud_ru) — Обсуждения облачных технологий
 * [cloud_flood](https://t.me/cloud_flood) — Флудильня облачных технологий
-* [Perfect Pixel Chat](https://t.me/pppixel_chat) — Чат канала Perfect Pixel о проектировании, интерфейсах и дизайне.
 * [free_raspberry](https://t.me/free_raspberry) — Чат канала о Raspberry Pi.
 * [meshnet](https://t.me/meshnet) — Mesh-сети, криптосвобода, cjdns/hyperboria
 * [Decentralized social and file systems](https://t.me/decentralized_social) — распределённые социальные сети, обмен сообщениями, файловый обмен и т.п. (EN)

@@ -352,6 +352,7 @@
 * [Ruby School .us](https://t.me/rubyschool) — Чат для учеников руби-школы
 * [Rubyata](https://t.me/rubyata) — Ruby and Ruby On Rails community in Kyrgyzstan
 * [Moscow.rb](https://t.me/moscowrb) — Московское сообщество Ruby
+* [Ruby Talks](https://t.me/ruby_talks) — Про Ruby
 * [pro.rust](https://t.me/proRust) — Чат про Rust
 * [RustLang](https://t.me/rustlang_ru) — Чат про Rust
 * [embedded.rs](https://t.me/embedded_rs) — Чат про Embedded на Rust

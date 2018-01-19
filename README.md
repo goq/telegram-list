@@ -580,6 +580,7 @@
 * [Ukraine Android Jobs](https://t.me/joinchat/HMeR-xJoq6LkltufhEPK_g) — Чат по вакансиям и проектам Android разработчиков Украины
 * [Golang Jobs and Freelance](https://t.me/golangjob) — Jobs and freelance for golang developers
 * [php_jobs](https://t.me/php_jobs) — Вакансии и запросы на поиск работы по направлению PHP, Laravel, Symfony, Yii и т.д.
+* [Work Embedded](https://t.me/rabotaembedded) — Вакансии по встраиваемым системам (для программистов, инженеров, и т.п.)
 
 [(Назад к меню)](#Меню)
 

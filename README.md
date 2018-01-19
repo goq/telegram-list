@@ -124,6 +124,7 @@
 * [UniLecs](https://t.me/unilecs) —  Задачки по алгоритмизации и программированию, а также интересные курсы и лекции из мира Computer Science.
 * [Deep Digital](https://t.me/deepdigital) — Канал команды разработки группы Chulakov Digital. Советы по Frontend- и Backend-разработке web-сервисов, статьи, презентации и многое другое.
 * [Personal junior](https://t.me/vadim_junior) — Глупые вопросы от джуна (все как в реальной жизни).
+* [Go](https://t.me/golang) — Канал с новостями и интересными материалами про Golang. (преимущественно english)
 
 [(Назад к меню)](#Меню)
 

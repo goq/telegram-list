@@ -125,6 +125,7 @@
 * [Deep Digital](https://t.me/deepdigital) — Канал команды разработки группы Chulakov Digital. Советы по Frontend- и Backend-разработке web-сервисов, статьи, презентации и многое другое.
 * [Personal junior](https://t.me/vadim_junior) — Глупые вопросы от джуна (все как в реальной жизни).
 * [Go](https://t.me/golang) — Канал с новостями и интересными материалами про Golang. (преимущественно english)
+* [TechRocks](https://t.me/techrocks) — Канал про кодинг и сопутствующее. Создан инженерами для инженеров.
 
 [(Назад к меню)](#Меню)
 

@@ -478,6 +478,7 @@
 * [Operations Manager](https://t.me/OpsMgr) — System Center Operations Manager & Orchestrator = Automation
 * [SourceBasedOS](https://t.me/SourceBasedOS) — Чат про source based ОС
 * [Asterisk Community](https://t.me/proasterisk) — Всё про Asterisk VoIP Software Ru/En
+* [OpenStreetMap RU](https://t.me/ruosm) — Сообщество OpenStreetMap
 
 [(Назад к меню)](#Меню)
 

@@ -603,7 +603,6 @@
 * [#ctfchat](https://t.me/ctfchat) — Чат CTF
 * [Developers Chat](https://t.me/joinchat/ABI4pz3M7FCxoDZcdcfVUA) — Чат сообщества Chatbots
 * [Погромисты-трактористы](https://t.me/pogromisty) — Опыт миграции в другие страны, вакансии
-* [ru-board group](https://t.me/ru_board) — Группа популярного форума Ru-Board
 * [QA](https://t.me/qa_ru) — Чат русскоязычного сообщества тестировщиков
 * [Freelancers & Remote workers](https://t.me/ru_freelancers) — Чат практикующих и интересующихся удаленной работой и самозанятостью
 * [Borodutch](https://t.me/borodutcher) — Собрались программисты-фрилансеры-предприниматели-стартаперы и замутили свою ламповую конфу.
@@ -613,8 +612,6 @@
 * [IT-шники Белгорода](https://t.me/belgorod_it) — Чат айтишников Белгорода.
 * [ru_ASUTP](https://t.me/ru_ASUTP) — АСУ ТП: САУ, SCADA, ПЛК и немного умных домов.
 * [ru_CAD](https://t.me/ru_CAD) — САПР.
-* [LinuxCoders](https://t.me/linuxcoders) — Флудилка для кодеров, использующих Linux
-* [Be Tux [Unix, Linux, OpenSource]](https://t.me/Be_Tux) — Чат обитателей мира Unix, Linux, OpenSource
 * [IT Holywars](https://t.me/it_holywars) — Холивары на тему ИТ
 * [Dev Seagulls](https://t.me/dev_seagulls) — Чат сообщества программистов Махачкалы
 * [Секта кнопкопоклонников](https://t.me/ru_mechcult) — Чат странных людей, которые любят ~~механические~~ клавиатуры

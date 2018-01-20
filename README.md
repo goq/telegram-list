@@ -505,6 +505,7 @@
 * [SqlCom - Стиль жизни SQL](https://t.me/sqlcom) — Чат про Microsoft SQL Server
 * [DB Tarantool](https://t.me/tarantoolru) — Русский чат про Tarantool
 * [SQL_Ninja](https://t.me/sql_ninja) — Флудильня SqlCom
+* [PostGIS](https://t.me/postgis) — Обсуждения PostGIS (поддержка географических объектов в PostgreSQL)
 
 [(Назад к меню)](#Меню)
 

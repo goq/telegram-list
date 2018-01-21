@@ -479,7 +479,7 @@
 * [Operations Manager](https://t.me/OpsMgr) — System Center Operations Manager & Orchestrator = Automation
 * [SourceBasedOS](https://t.me/SourceBasedOS) — Чат про source based ОС
 * [Asterisk Community](https://t.me/proasterisk) — Всё про Asterisk VoIP Software Ru/En
-* [OpenStreetMap RU](https://t.me/ruosm) — Сообщество OpenStreetMap
+* [ru_kamailio](https://t.me/ru_kamailio) - Чат про Kamailio
 
 [(Назад к меню)](#Меню)
 
@@ -633,6 +633,7 @@
 * [Сайберсекьюрити и Ко.](https://t.me/alexlitreev_chat) — Чат канала @alexlitreev о безопасности в интернете, уязвимостях и прочих радостях жизни.
 * [DEVs chat](https://t.me/devschat) — Мы обсуждаем всё что связано с веб-разработкой - фронтенд, бекенд, а также сервера и DevOps.
 * [Linux Help](https://t.me/grouplinux) — Чат взаимопомощи по линуксу.
+* [OpenStreetMap RU](https://t.me/ruosm) — Сообщество OpenStreetMap
 
 [(Назад к меню)](#Меню)
 

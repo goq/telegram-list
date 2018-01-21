@@ -212,6 +212,7 @@
 * [sysadmin_jobs](https://t.me/sysadmin_jobs) — Вакансии для системных администраторов
 * [Работа за рубежом](https://t.me/jobs_abroad) — Вакансии с релокацией
 * [Work Embedded](https://t.me/rabotaembedded) — Вакансии по встраиваемым системам (для программистов, инженеров, и т.п.)
+* [Ruby Job](https://t.me/rubyjob) — Вакансии для программистов на Ruby.
 
 [(Назад к меню)](#Меню)
 

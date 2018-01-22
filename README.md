@@ -635,6 +635,7 @@
 * [DEVs chat](https://t.me/devschat) — Мы обсуждаем всё что связано с веб-разработкой - фронтенд, бекенд, а также сервера и DevOps.
 * [Linux Help](https://t.me/grouplinux) — Чат взаимопомощи по линуксу.
 * [OpenStreetMap RU](https://t.me/ruosm) — Сообщество OpenStreetMap
+* [ARKit Hack](https://t.me/arkithack) — Чат участников онлайн-конкурса fun-проектов в дополненной реальности, созданных на ARKit Hack и Unity
 
 [(Назад к меню)](#Меню)
 

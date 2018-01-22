@@ -411,6 +411,7 @@
 * [Ember.js](https://t.me/ember_js) — Cообщество Ember.js
 * [Discourse](https://t.me/joinchat/A8oWNg2L0txJw6_BygaZtg) — Русскоговорящее сообщество Discourse.
 * [Webpack](https://t.me/webpack_ru) — Обсуждения webpack 1/2, лоадеров, плагинов и сборок
+* [Meteor.js](https://t.me/meteorjs_ru) — Чат про Meteor.js
 
 [(Назад к меню)](#Меню)
 

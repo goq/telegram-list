@@ -638,6 +638,7 @@
 * [Linux Help](https://t.me/grouplinux) — Чат взаимопомощи по линуксу.
 * [OpenStreetMap RU](https://t.me/ruosm) — Сообщество OpenStreetMap
 * [ARKit Hack](https://t.me/arkithack) — Чат участников онлайн-конкурса fun-проектов в дополненной реальности, созданных на ARKit Hack и Unity
+* [Безопасность АСУ ТП / ICS / SCADA](https://t.me/RuScadaSec) — Чат по кибербезопасности АСУ ТП для интерактивного обмена информацией по теме.
 
 [(Назад к меню)](#Меню)
 

@@ -407,6 +407,7 @@
 * [Netbeans](https://t.me/netbeans_ru) — Группа для тех, кто использует среду разработки Netbeans
 * [Vim](https://t.me/vimedit_ru) — Русскоязычные вимеры
 * [weex](https://t.me/weex_ru) — Чат про Weex
+* [Qt](https://t.me/qt_chat) - Чат по Qt
 * [rollup](https://t.me/rollup_ru) — Русскоговорящее сообщество Rollup.js
 * [Ember.js](https://t.me/ember_js) — Cообщество Ember.js
 * [Discourse](https://t.me/joinchat/A8oWNg2L0txJw6_BygaZtg) — Русскоговорящее сообщество Discourse.
@@ -420,6 +421,7 @@
 * [noobrank](https://t.me/noobrank) — Решаем вместе задачки по программированию для начинающих (hackerrank и аналогичные)
 * [frontend_ru](https://t.me/frontend_ru) — Сообщество фронтенд разработчиков
 * [SPb Python](https://t.me/spbpython) — Saint-Petersburg Python Interest Group
+* [Spb Qt](https://t.me/qtspb) - Сообщество Qt программистов Санкт-Петербурга
 * [Программисты](https://t.me/coding_ru) — Чат программистов. Флуд.
 * [codingteam](https://t.me/codingteam) — Кроссплатформенное сообщество инженеров и программистов.
 * [Telegram Bot Developers](https://t.me/botoid) — Чат про разработку ботов в телеграме

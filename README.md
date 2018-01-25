@@ -126,6 +126,7 @@
 * [Personal junior](https://t.me/vadim_junior) — Глупые вопросы от джуна (все как в реальной жизни).
 * [Go](https://t.me/golang) — Канал с новостями и интересными материалами про Golang. (преимущественно english)
 * [TechRocks](https://t.me/techrocks) — Канал про кодинг и сопутствующее. Создан инженерами для инженеров.
+* [Joomla Feed](https://t.me/joomlafeed) — Новости о Joomla! и веб-разработке по-русски
 
 [(Назад к меню)](#Меню)
 

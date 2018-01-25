@@ -443,6 +443,7 @@
 * [fprog_spb](https://t.me/fprog_spb) — Митап функциональных программистов в СПб
 * [Annode webdev](https://t.me/annode) — Чат веб-разработчиков. Frontend, Backend, CMS, БД и другое.
 * [Чат IT-Страны](https://t.me/itbelarustalk) — Чат белорусского IT-сообщества.
+* [Oracle RU](https://t.me/oracle_ru) — Чат про Oracle
 
 [(Назад к меню)](#Меню)
 

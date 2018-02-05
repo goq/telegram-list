@@ -152,6 +152,7 @@
 * [GOV](https://t.me/govdesign) — Все о государстве и дизайне государства
 * [andrew-r обо всём](https://t.me/andrew_r_notes) — Андрей Романов о разработке интерфейсов, дизайне, программировании и всём остальном
 * [Javanese Online](https://t.me/javanese_online) — статьи о Java, Android и Kotlin. Критика, ковыряние во внутренностях, эксперименты.
+* [Platon on frontend](https://t.me/platononfrontend) — Заметки, мысли и новости о фронтенде.
 
 [(Назад к меню)](#Меню)
 

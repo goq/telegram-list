@@ -573,6 +573,7 @@
 * [iOS Good Talks](https://t.me/iosgt) — Чат подписчиков канала iOS Good Reads: обсуждение публикуемых материалов и холивары
 * [Android Good Talks](https://t.me/idroidt) — Чат подписчиков канала Android Good Reads: обсуждение публикуемых материалов и холивары
 * [Android Architecture](https://t.me/Android_Architecture) — Чат по архитектуре в андроид приложениях.
+* [Universal Windows Platform](https://t.me/uwp_ru) — Чат разработчиков под Windows и Windows Phone.
 
 [(Назад к меню)](#Меню)
 

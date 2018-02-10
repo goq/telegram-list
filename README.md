@@ -416,6 +416,7 @@
 * [Discourse](https://t.me/joinchat/A8oWNg2L0txJw6_BygaZtg) — Русскоговорящее сообщество Discourse.
 * [Webpack](https://t.me/webpack_ru) — Обсуждения webpack 1/2, лоадеров, плагинов и сборок
 * [Meteor.js](https://t.me/meteorjs_ru) — Чат про Meteor.js
+* [Feathers.js](https://t.me/featherjs) — Сообщество Feathers.js
 
 [(Назад к меню)](#Меню)
 
@@ -594,6 +595,7 @@
 * [Ukraine Android Jobs](https://t.me/joinchat/HMeR-xJoq6LkltufhEPK_g) — Чат по вакансиям и проектам Android разработчиков Украины
 * [Golang Jobs and Freelance](https://t.me/golangjob) — Jobs and freelance for golang developers
 * [php_jobs](https://t.me/php_jobs) — Вакансии и запросы на поиск работы по направлению PHP, Laravel, Symfony, Yii и т.д.
+* [YiiJobs](https://t.me/yiijobs) — Вакансии, проекты, фриланс - Yii
 
 [(Назад к меню)](#Меню)
 

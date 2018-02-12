@@ -179,7 +179,8 @@
 * [Тёмная сторона](https://t.me/temno) — Канал по бизнесу "Темная сторона"
 * [Мини-бизнес по-русски](https://t.me/piznes) — Мини-бизнес по-русски
 * [PRO Стартапы и бизнес](https://t.me/startupnews) — Новости про стартапы и бизнес
-* [ain.ua](https://t.me/aindotua) - Новости интернет-бизнеса, электронной коммерции, интернет-маркетинга, стартапов, социальных сетей и блогов.
+* [AIN.UA](https://t.me/ain_ua_tg) — Новости интернет-бизнеса, электронной коммерции, интернет-маркетинга, стартапов, социальных сетей и блогов.
+
 
 [(Назад к меню)](#Меню)
 
@@ -507,7 +508,7 @@
 * [KDE neon users](https://t.me/kdeneon) — English speaking community of KDE neon
 * [Linux Mint Russia 🇷🇺](https://t.me/LMRus) — Чат про Linux Mint (Русский)
 * [Linux Mint International](https://t.me/LMInter) — Linux Mint Chat (International)
-* [Linux Mint](https://t.me/joinchat/AAAAAEKFkug29pgcFYXvJA) - Закрытый чат. Строгие правила
+* [Linux Mint Україна](https://t.me/linuxmint_com) — cтрогие правила
 * [macOS ru](https://t.me/macOS_ru) — Чат про macOS
 * [iHack - Hackintosh & Jailbreak](https://t.me/macosx86) — Чат про Хакинтош и MacOS
 * [Manjaro ru](https://t.me/manjarolinux) — Чат про Manjaro Linux
@@ -516,7 +517,7 @@
 * [Свидетели ReactOS](https://t.me/reactos_ru) — Чат про ReactOS
 * [ROSA Linux / Роса ОС - Российская операционная система](https://t.me/rosa_linux) — Общение и помощь пользователям ОС ROSA Linux.
 * [smartos_ru](https://t.me/smartos_ru) — Чат про SmartOS
-* [Ubuntu](https://t.me/ru_ubuntu) — Чат про Ubuntu (Kubuntu, Lubuntu, Xubuntu, и прочую *buntu)
+* [Ubuntu](https://t.me/ru_ubuntu) — Чат про Ubuntu (Kubuntu, Lubuntu, Xubuntu, и прочую \*buntu)
 * [pro.windows](https://t.me/joinchat/Be4rsT5IrA8x69FnrpMMvw) — Чат про Windows
 * [That's Linux - общение](https://t.me/that_is_linux) — Чат про Linux
 * [Xubuntu-ru.net](https://t.me/xubuntu_runet) — Чат про Xubuntu
@@ -724,4 +725,3 @@
 * [@LFTVbot](https://t.me/LFTVbot) [Source](https://github.com/Lord-Protector/LostFilmBot) — Бот для сайта LostFilm.TV. Личные уведомления, загрузка нужных серий и многое другое.
 * [@OverStatsBot](https://t.me/OverStatsBot) [Source](https://github.com/Lord-Protector/OverStatsBot) — Бот для игры Overwatch. Генерирует личные профили в виде изображений.
 * [@nosticker_bot](https://t.me/nosticker_bot) - Бот автоматически удаляет любой стикер, отправленный в чат.
-* [@KDERuBot](https://t.me/KDERuBot) - Новости сообщества KDE Россия.

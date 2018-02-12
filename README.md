@@ -133,11 +133,13 @@
 ##### Frontend каналы
 * [For Web](https://t.me/forwebdev) — Канал новостей для веб-разработчиков
 * [Веб-стандарты](https://t.me/webstandards_ru) — Новости фронтенда от "Веб-стандартов"
+* [Front End Dev](https://t.me/front_end_dev) — Новости фронтенда, переводы статей, полезные ресурсы
 * [Breakfast.js](https://t.me/breakfastjs) — Ежедневная подборка новостей из мира фронтенд разработки
 * [devSchachtChannel](https://t.me/devSchachtChannel) — Подкаст. Переводы. Веб-разработка. Анонсы новых статей и подкастов от devSchacht
 * [Иван Акулов про фронтенд](https://t.me/iamakulov_channel) — Заметки про фронтенд, UX и смежные темы.
 * [webo_ru](https://t.me/webo_ru) — Виталий Харисов из Яндекса про оптимизацию сайтов.
 * [webo_en](https://t.me/webo_en) — Web sites optimization (by @vithar)
+* [Front End World](https://t.me/front_end_first) - Англоязычный канал с новостями и статьями про фронтэнд
 * [Code Hipsters](https://t.me/codehipsters) — Мода, стиль и образ жизни в кодинге. Хипстота!
 * [Всё о программировании (с Козулей)](https://t.me/PROprgmr) — Владислав Козуля о карьере, стартапах и своём опыте разработки.
 * [isqualog](https://t.me/isqualog) — Софья Ильинова о фронтенде, дизайне, работе и жизни. Задачки по JS.

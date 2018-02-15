@@ -679,6 +679,7 @@
 * [pro.embedded](https://t.me/proembedded) — Чат про встраиваемые системы
 * [Про электронику](https://t.me/ru_electronics) — QA чат для решения вопросов, связанных с электроникой. На линии работает контроль.
 * [Анархическая электроника](https://t.me/ru_arduino) — Сателлит [@ru_electronics](https://t.me/ru_electronics) с [около]электронными темами.
+* [Hardware & Radio](https://t.me/hwnrf) - Разговоры об электронике, микроконтроллерах, FPGA, квадрокоптерах, 3D-печати, Software Defined Radio, и всяком таком.
 
 [(Назад к меню)](#Меню)
 

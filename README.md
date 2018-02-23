@@ -456,6 +456,7 @@
 * [Annode webdev](https://t.me/annode) — Чат веб-разработчиков. Frontend, Backend, CMS, БД и другое.
 * [Чат IT-Страны](https://t.me/itbelarustalk) — Чат белорусского IT-сообщества.
 * [Oracle RU](https://t.me/oracle_ru) — Чат про Oracle
+* [Hardcore Development](https://t.me/hcdev) – Hardcore Development Team. No bullshit. FP, RP.
 
 [(Назад к меню)](#Меню)
 

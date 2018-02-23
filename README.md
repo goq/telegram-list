@@ -429,7 +429,6 @@
 [(Назад к меню)](#Меню)
 
 ##### Сообщества разработчиков и программистов
-* [Hardcore Development](https://t.me/hcdev) – Hardcore Development Team. No bullshit. FP, RP.
 * [Веб-дизайн и Вёрстка](https://t.me/webdesign_ru) — Чат веб-технологов. Веб-дизайн, вёрстка, HTML, CSS, флекс и бутстрапы, шаблонизаторы, препроцессоры, методологии и прочее.
 * [noobrank](https://t.me/noobrank) — Решаем вместе задачки по программированию для начинающих (hackerrank и аналогичные)
 * [frontend_ru](https://t.me/frontend_ru) — Сообщество фронтенд разработчиков
@@ -457,6 +456,7 @@
 * [Annode webdev](https://t.me/annode) — Чат веб-разработчиков. Frontend, Backend, CMS, БД и другое.
 * [Чат IT-Страны](https://t.me/itbelarustalk) — Чат белорусского IT-сообщества.
 * [Oracle RU](https://t.me/oracle_ru) — Чат про Oracle
+* [Hardcore Development](https://t.me/hcdev) – Hardcore Development Team. No bullshit. FP, RP.
 
 [(Назад к меню)](#Меню)
 

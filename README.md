@@ -784,3 +784,4 @@
 * [@KDERuBot](https://t.me/KDERuBot) — Новости сообщества KDE Россия.
 * [@myShowsMeBot](https://t.me/myShowsMeBot) — Помогает следить за выходом новых эпизодов просматриваемых сериалов.
 * [@GBReborn_bot](https://t.me/GBReborn_bot) [Source](https://github.com/RememberTheAir/GroupButler) — Бот для администрирования, использующий официальный API для ботов.
+* [@TGhost_bot](https://t.me/TGhost_bot) — удобный бот для обмена файлами в интернете. Файлы не удаляются и всегда доступны.

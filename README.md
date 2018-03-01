@@ -595,6 +595,7 @@
 * [Битрикс работа](https://t.me/bitrix_work) — Чат про вакансии и работу в сфере Битрикса и IT
 * [Devall — Upwork](https://t.me/upworkcom) — Чат про Upwork для разработчиков
 * [QA](https://t.me/qa_jobs) — Чат про вакансии и работу в сфере тестирования
+* [QAIndia](https://t.me/qaIndia) - Чат про вакансии и работу в сфере тестирования для India
 * [Products Jobs](https://t.me/products_jobs) — Вакансии и запросы на поиск работы - управление продуктами, Growth Hacking, Cust Dev, Design Thinking, UX.
 * [Agile Jobs](https://t.me/agile_jobs) — Вакансии, связанные с Agile.
 * [FreeLance](https://t.me/getFreelance) — Чат для поиска фриланс заработка

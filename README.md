@@ -130,6 +130,7 @@
 * [Joomla Feed](https://t.me/joomlafeed) — Новости о Joomla! и веб-разработке по-русски
 * [Android Developers](https://t.me/androiddeveu) — Статьи, туториалы, видео и новости для Андроид разработчиков. Ссылки на конференции,  трансляции интересных событий.
 * [Dart в целом](https://t.me/dart_ru) — Чат про dart, обсуждения, помощь.
+* [AR / VR / MR / XR / HCI - RU](https://t.me/arvrmr_ru) — Заметки про AR / VR / MR / XR / HCI на русском
 
 [(Назад к меню)](#Меню)
 

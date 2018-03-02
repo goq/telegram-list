@@ -129,6 +129,7 @@
 * [TechRocks](https://t.me/techrocks) — Канал про кодинг и сопутствующее. Создан инженерами для инженеров.
 * [Joomla Feed](https://t.me/joomlafeed) — Новости о Joomla! и веб-разработке по-русски
 * [Android Developers](https://t.me/androiddeveu) — Статьи, туториалы, видео и новости для Андроид разработчиков. Ссылки на конференции,  трансляции интересных событий.
+* [Dart в целом](https://t.me/dart_ru) — Чат про dart, обсуждения, помощь.
 * [AR / VR / MR / XR / HCI - RU](https://t.me/arvrmr_ru) — Заметки про AR / VR / MR / XR / HCI на русском
 
 [(Назад к меню)](#Меню)
@@ -656,6 +657,7 @@
 * [OpenStreetMap RU](https://t.me/ruosm) — Сообщество OpenStreetMap
 * [ARKit Hack](https://t.me/arkithack) — Чат участников онлайн-конкурса fun-проектов в дополненной реальности, созданных на ARKit Hack и Unity
 * [Безопасность АСУ ТП / ICS / SCADA](https://t.me/RuScadaSec) — Чат по кибербезопасности АСУ ТП для интерактивного обмена информацией по теме.
+* [speccy hardware](https://t.me/speccy_hard) — Чат про ZX Spectrum. Rus & Eng.
 
 [(Назад к меню)](#Меню)
 
@@ -785,3 +787,4 @@
 * [@KDERuBot](https://t.me/KDERuBot) — Новости сообщества KDE Россия.
 * [@myShowsMeBot](https://t.me/myShowsMeBot) — Помогает следить за выходом новых эпизодов просматриваемых сериалов.
 * [@GBReborn_bot](https://t.me/GBReborn_bot) [Source](https://github.com/RememberTheAir/GroupButler) — Бот для администрирования, использующий официальный API для ботов.
+* [@TGhost_bot](https://t.me/TGhost_bot) — удобный бот для обмена файлами в интернете. Файлы не удаляются и всегда доступны.

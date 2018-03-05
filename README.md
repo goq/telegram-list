@@ -677,6 +677,7 @@
 * [Airbase](https://t.me/airbase_ru) — чат форумов Авиабазы. Военная техника (в основном авиация и флот), политика, компьютеры, литература, кино и многое другое.
 * [Funscience](https://t.me/funscience_chat) — группа канала [@Funscience](https://t.me/funscience)
 * [Aurora Borealis Hunters](https://t.me/aurora_ru) — Чат фото- и видео-охотников за Северным Сиянием!
+* [Диплом 2018](https://t.me/diploma2018) — Чат для тех, кто пишет диплом
 
 [(Назад к меню)](#Меню)
 

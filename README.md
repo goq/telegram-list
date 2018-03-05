@@ -453,7 +453,6 @@
 * [ITForge](https://t.me/itforge) — Чат про python, парсинг сайтов и просто про IT
 * [AVRA community](https://t.me/avrahackathon) — Чат для создающих и интересующихся AR/VR технологиями
 * [Python Community Chelyabinsk](https://t.me/pychel) — Чат челябинского сообщества Python-разработчиков
-* [Разработка браузерных расширений](https://t.me/extensions_ru) — Чат разработчиков браузерных расширений
 * [fprog_spb](https://t.me/fprog_spb) — Митап функциональных программистов в СПб
 * [Annode webdev](https://t.me/annode) — Чат веб-разработчиков. Frontend, Backend, CMS, БД и другое.
 * [Чат IT-Страны](https://t.me/itbelarustalk) — Чат белорусского IT-сообщества.

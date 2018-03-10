@@ -226,6 +226,7 @@
 * [Работа за рубежом](https://t.me/jobs_abroad) — Вакансии с релокацией
 * [Work Embedded](https://t.me/rabotaembedded) — Вакансии по встраиваемым системам (для программистов, инженеров, и т.п.)
 * [Ruby Job](https://t.me/rubyjob) — Вакансии для программистов на Ruby.
+* [get_job()](https://t.me/get_job_or_die) — Вакансии с зарплатой 200K+ для программистов.
 
 [(Назад к меню)](#Меню)
 
@@ -440,6 +441,7 @@
 * [SPb Python](https://t.me/spbpython) — Saint-Petersburg Python Interest Group
 * [Spb Qt](https://t.me/qtspb) - Сообщество Qt программистов Санкт-Петербурга
 * [Программисты](https://t.me/coding_ru) — Чат программистов. Флуд.
+* [Elegant Objects OOP JAVA](https://t.me/joinchat/AAAAAEJFMRzsRTRxM3ec6A) — Чат программистов Java OOP. Elegant Objects yegor256.com.
 * [codingteam](https://t.me/codingteam) — Кроссплатформенное сообщество инженеров и программистов.
 * [Telegram Bot Developers](https://t.me/botoid) — Чат про разработку ботов в телеграме
 * [IoT Community chat](https://t.me/Iot_chat) — Чат Internet fo Things сообщества.

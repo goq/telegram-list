@@ -70,7 +70,6 @@
 * [DTP](https://t.me/DTPublishing) — Канал новостей о паблишинге, полиграфии, препресс, вёрстка, дизайн
 * [Addmeto](https://t.me/addmeto) — Канал Григория Бакунова (Bobuk), новости из мира ИТ и не только
 * [LSA](https://t.me/networklsa) — Информационный канал о сетевых технологиях и NetDevOps (новости, книги, презентации)
-* [Apache Hadoop stack](https://t.me/hadoopusers) — Новости сообщества Apache Hadoop
 * [Tehnojam.pro](https://t.me/tehnojam) — Лента публикаций сайта ТехноДжем.
 * [QUANTUM QUINTUM](https://t.me/quantumquintum) — Канал Константина Кичинского (Technical Evangelism Lead в Microsoft), короткие заметки про Microsoft и технологии
 * [ITpro News & Reviews](https://t.me/MicrosoftRus) — Заметки о Microsoft, Windows Server, System Center, Azure, Office 365, OMS и прочее.
@@ -463,6 +462,7 @@
 * [Чат IT-Страны](https://t.me/itbelarustalk) — Чат белорусского IT-сообщества.
 * [Oracle RU](https://t.me/oracle_ru) — Чат про Oracle
 * [Hardcore Development](https://t.me/hcdev) – Hardcore Development Team. No bullshit. FP, RP.
+* [Data Engineers](https://t.me/hadoopusers) — Чат про Apache Hadoop
 
 [(Назад к меню)](#Меню)
 

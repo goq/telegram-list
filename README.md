@@ -491,6 +491,7 @@
 * [Nag.Ru](https://t.me/nag_public) — Чат Nag.ru
 * [Mikrotik.Ru](https://t.me/MikrotikRu) — Чат про Микротики
 * [pro.mikrotik](https://t.me/pro_mikrotik) — Чат про Микротики (альтернативный)
+* [MikroTik](https://t.me/mikrotik_ru) — Еще один чат про Микротики.
 * [Asterisk Russian Community](https://t.me/asterisk_ru) — Чат про Asterisk
 * [Zabbix Talks](https://t.me/ZabbixPro) — Чат про Zabbix
 * [pro.zabbix](https://t.me/prozabbix) — Чат про Zabbix (альтернативный)

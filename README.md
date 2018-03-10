@@ -333,6 +333,7 @@
 * [Clojure](https://t.me/clojure_ru) — Русскоговорящее сообщество Clojure
 * [css_ru](https://t.me/css_ru) — Чат про CSS и немного HTML
 * [Dart в целом](https://t.me/dart_ru) — Чат про dart, обсуждения, помощь.
+* [Delphi & Lazarus](https://t.me/Delphi_Lazarus) — Чат про Delphi и Lazarus
 * [ErlangRus](https://t.me/erlangrus) — Толки о Erlang, IT и работе
 * [pro.elixir](https://t.me/proelixir) — Чат про Elixir
 * [Elm Lang](https://t.me/elm_ru) — Чат про язык программирования Elm

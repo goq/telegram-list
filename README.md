@@ -128,6 +128,7 @@
 * [TechRocks](https://t.me/techrocks) — Канал про кодинг и сопутствующее. Создан инженерами для инженеров.
 * [Joomla Feed](https://t.me/joomlafeed) — Новости о Joomla! и веб-разработке по-русски
 * [Android Developers](https://t.me/androiddeveu) — Статьи, туториалы, видео и новости для Андроид разработчиков. Ссылки на конференции,  трансляции интересных событий.
+* [Dart в целом](https://t.me/dart_ru) — Чат про dart, обсуждения, помощь.
 * [AR / VR / MR / XR / HCI - RU](https://t.me/arvrmr_ru) — Заметки про AR / VR / MR / XR / HCI на русском
 * [golang](https://t.me/gophernews) - Новости по языку программирования Go, ссылки на статьи и интересные проекты
 
@@ -331,7 +332,6 @@
 * [ExtremeCodeTV](https://t.me/extremecode) — Чат C# разработчиков (есть свой бот компилирующий C# код)
 * [Clojure](https://t.me/clojure_ru) — Русскоговорящее сообщество Clojure
 * [css_ru](https://t.me/css_ru) — Чат про CSS и немного HTML
-* [Dart в целом](https://t.me/dart_ru) — Чат про dart, обсуждения, помощь.
 * [ErlangRus](https://t.me/erlangrus) — Толки о Erlang, IT и работе
 * [pro.elixir](https://t.me/proelixir) — Чат про Elixir
 * [Elm Lang](https://t.me/elm_ru) — Чат про язык программирования Elm
@@ -486,6 +486,7 @@
 * [Nag.Ru](https://t.me/nag_public) — Чат Nag.ru
 * [Mikrotik.Ru](https://t.me/MikrotikRu) — Чат про Микротики
 * [pro.mikrotik](https://t.me/pro_mikrotik) — Чат про Микротики (альтернативный)
+* [MikroTik](https://t.me/mikrotik_ru) — Чат о построении сетей и сетевом администрировании MikroTik, Ubiquiti и др.
 * [Asterisk Russian Community](https://t.me/asterisk_ru) — Чат про Asterisk
 * [Zabbix Talks](https://t.me/ZabbixPro) — Чат про Zabbix
 * [pro.zabbix](https://t.me/prozabbix) — Чат про Zabbix (альтернативный)

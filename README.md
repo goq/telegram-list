@@ -439,6 +439,7 @@
 * [SPb Python](https://t.me/spbpython) — Saint-Petersburg Python Interest Group
 * [Spb Qt](https://t.me/qtspb) - Сообщество Qt программистов Санкт-Петербурга
 * [Программисты](https://t.me/coding_ru) — Чат программистов. Флуд.
+* [Elegant Objects OOP JAVA](https://t.me/joinchat/AAAAAEJFMRzsRTRxM3ec6A) — Чат программистов Java OOP. Elegant Objects yegor256.com.
 * [codingteam](https://t.me/codingteam) — Кроссплатформенное сообщество инженеров и программистов.
 * [Telegram Bot Developers](https://t.me/botoid) — Чат про разработку ботов в телеграме
 * [IoT Community chat](https://t.me/Iot_chat) — Чат Internet fo Things сообщества.

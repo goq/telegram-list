@@ -336,6 +336,7 @@
 * [ErlangRus](https://t.me/erlangrus) — Толки о Erlang, IT и работе
 * [pro.elixir](https://t.me/proelixir) — Чат про Elixir
 * [Elm Lang](https://t.me/elm_ru) — Чат про язык программирования Elm
+* [FreePascal & Lazarus](https://t.me/freepascal_en) — Чат про FreePascal и Lazarus
 * [Fsharp Chat](https://t.me/Fsharp_chat) — Чат про F#
 * [pro.go](https://t.me/proGO) — Чат про Golang
 * [Golang RU](https://t.me/gogolang) — Чат про Golang

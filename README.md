@@ -646,7 +646,8 @@
 * [Секта кнопкопоклонников](https://t.me/ru_mechcult) — Чат странных людей, которые любят ~~механические~~ клавиатуры
 * [cloud_ru](https://t.me/cloud_ru) — Обсуждения облачных технологий
 * [cloud_flood](https://t.me/cloud_flood) — Флудильня облачных технологий
-* [free_raspberry](https://t.me/free_raspberry) — Чат канала о Raspberry Pi.
+* [ru_raspberry](https://t.me/ru_raspberry) — PI: Raspberry, Orange, Banana. Asus Tinkerboard, Lattepanda, etc...
+* [free_raspberry](https://t.me/free_raspberry) — Чат про Raspberry Pi.
 * [meshnet](https://t.me/meshnet) — Mesh-сети, криптосвобода, cjdns/hyperboria
 * [Decentralized social and file systems](https://t.me/decentralized_social) — распределённые социальные сети, обмен сообщениями, файловый обмен и т.п. (EN)
 * [Atlassian User Froup](https://t.me/augspb) — Чат сообщества Atlassian, все про Atlassian продукты и интеграции с ними

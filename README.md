@@ -108,7 +108,9 @@
 * [Android Good Reads](https://t.me/droidgr) — Ежедневная порция материалов по Android разработке
 * [Сообщество phpland](https://t.me/phpland) — Официальный канал сообщества phpland (PHP, MySQL, CSS, HTML, Ubuntu-Linux).
 * [Software architecture musings](https://t.me/samusings) — Канал про архитектуру программных систем от Александра Белоцерковского (Microsoft Technical Evangelist).
-* [.NET Core Ukrainian User Group](https://t.me/dncuug) — официальный канал украинской группы .NET Core разработчиков. Актуальные новости и анонсы.
+* [devdigect // netcore](https://t.me/dncuug) — ежедневный дайджест новостей посвященных разработке на платформе .NET Core. Поддерживается сообществом .NET Core Ukrainian User Group.
+* [devdigect // xamarin](https://t.me/xamarin_ua) —  дайджест новостей посвященных мобильной разработке с использованием Xamarin.
+* [devdigect // azure](https://t.me/azure_digest) —  дайджест новостей посвященных облачной платформе Microsoft Azure.
 * [#CoolAdmin](https://t.me/cooladmin) — канал про системное администрирование, сети, сервера и системы хранения. С новостями и историями.
 * [R0 Crew](https://t.me/R0_Crew) — Ъ Сообщество реверс-инженеров.
 * [R.R. GameDev](https://t.me/RRGameDev) — Welcome to GameDev. Here is only free games.

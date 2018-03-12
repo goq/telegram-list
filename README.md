@@ -600,6 +600,7 @@
 [(Назад к меню)](#Меню)
 
 ##### Вакансии и работа
+* [For Products and Projects Managers](https://t.me/Forproducts) - Актуальные вакансии для продактов и проджектов. Инсайды рынка, реальная аналитика, тематические новости и полезные статьи
 * [New.HR Vacancy](https://t.me/newhr) - Вакансии в IT & Digital для тех, кто не ищет работу
 * [Jobs and Project Chat](https://t.me/joinchat/ABI4pz7v7KfJhb12XIkIUA) — Чат по вакансиям и проектам от сообщества Chatbots
 * [Mobile Dev Jobs](https://t.me/mobile_jobs) — Чат по вакансиям разработчиков мобильных приложений

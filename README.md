@@ -396,6 +396,7 @@
 * [1C](https://t.me/ru_1c) — Чат про "1С:Предприятие"
 * [Angular.js](https://t.me/angular_js) — Чат про AngularJS 1.x
 * [Angular](https://t.me/angular_ru) - Чат про Angular (4.x+)
+* [Flask](https://t.me/ru_flask) — Чат про Flask и SQLAlchemy (Python Flask)
 * [Django](https://t.me/pydjango) — Чат про Django
 * [Django](https://t.me/django_framework) — Чат про веб-фреймворк для перфекционистов с дедлайнами.
 * [Emacs](https://t.me/emacs_ru) — Чат про Emacs

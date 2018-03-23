@@ -508,7 +508,8 @@
 * [Operations Manager](https://t.me/OpsMgr) — System Center Operations Manager & Orchestrator = Automation
 * [SourceBasedOS](https://t.me/SourceBasedOS) — Чат про source based ОС
 * [Asterisk Community](https://t.me/proasterisk) — Всё про Asterisk VoIP Software Ru/En
-* [ru_kamailio](https://t.me/ru_kamailio) - Чат про Kamailio
+* [ru_kamailio](https://t.me/ru_kamailio) — Чат про Kamailio
+* [pro.enterprise](https://telegram.me/pro_enterprise) — Чат про корп.сектор: серверы, СХД, CDN, сетевое оборудование и облака.
 
 [(Назад к меню)](#Меню)
 

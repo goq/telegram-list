@@ -439,7 +439,6 @@
 
 ##### Сообщества разработчиков и программистов
 * [Веб-дизайн и Вёрстка](https://t.me/webdesign_ru) — Чат веб-технологов. Веб-дизайн, вёрстка, HTML, CSS, флекс и бутстрапы, шаблонизаторы, препроцессоры, методологии и прочее.
-* [noobrank](https://t.me/noobrank) — Решаем вместе задачки по программированию для начинающих (hackerrank и аналогичные)
 * [frontend_ru](https://t.me/frontend_ru) — Сообщество фронтенд разработчиков
 * [SPb Python](https://t.me/spbpython) — Saint-Petersburg Python Interest Group
 * [Spb Qt](https://t.me/qtspb) - Сообщество Qt программистов Санкт-Петербурга

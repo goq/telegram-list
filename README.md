@@ -350,6 +350,7 @@
 * [pro.js.noobs](https://t.me/joinchat/Be4rsT3Uyr1TjmSlrRc77g) — Чат про JavaScript для новичков
 * [js_ru](https://t.me/js_ru) — Чат про JavaScript
 * [javascript_ru](https://t.me/javascript_ru) — Чат про JavaScript
+* [jsthread](https://t.me/jsthread) — Чат про JavaScript и Node.js
 * [learn.java](https://t.me/javastart) — Изучаем java вместе. Чат для начинающих и не только!
 * [pro.jvm](https://t.me/jvmchat) — Чат про JVM
 * [Javanese Questions](https://t.me/javanese_questions) — общение в формате вопрос-ответ о Java, Kotlin и Android.

@@ -468,6 +468,7 @@
 * [Oracle RU](https://t.me/oracle_ru) — Чат про Oracle
 * [Hardcore Development](https://t.me/hcdev) – Hardcore Development Team. No bullshit. FP, RP.
 * [Data Engineers](https://t.me/hadoopusers) — Чат про Apache Hadoop
+* [otda4a](https://t.me/otda4a) — Чат где можно отдать или обменять ненужное железо. Никаких продаж
 
 [(Назад к меню)](#Меню)
 

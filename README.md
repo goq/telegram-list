@@ -131,6 +131,7 @@
 * [AR / VR / MR / XR / HCI - RU](https://t.me/arvrmr_ru) — Заметки про AR / VR / MR / XR / HCI на русском
 * [golang](https://t.me/gophernews) — Новости по языку программирования Go, ссылки на статьи и интересные проекты
 * [IoTing: новости&мысли](https://t.me/ioting) — Мир "Интернета вещей". Новости, слухи, проповеди.
+* [Ruby, Rails etc (╯°□°）╯︵︵︵ ┻━┻](https://t.me/ruby_ruby_ruby) — Новости, статьи и проч. про Ruby, Rails, PostgreSQL etc.
 
 [(Назад к меню)](#Меню)
 

@@ -84,8 +84,6 @@
 [(Назад к меню)](#Меню)
 
 ##### Каналы по программированию и разработке ПО
-* [Майоров про WEB и карьеру в IT](https://t.me/prowebit) - Ведущий RadioJS ведет личный канал, где пишет про IT собеседования,  WEB технологии, программирование и не только. Разбирает вопросы с собеседований и IT головоломки.
-* [IT Radio Streams](https://t.me/itradiostream) - Канал радиотрансляций IT-подкастов. Слушайте прямо в Телеграме. Больше никаких приложений. Все в одном месте. На сегодня в этом канале выкладывают свои подкасты: RadioJS, Frontend Weekend, 5min React, 5min Angular, Фронтенд Юность, Девшахта и другие.
 * [Котики Кодят](https://t.me/ccoder) — Официальный канал дайджеста-подкаста "Котики Кодят". Актуальные новости из мира кодинга.
 * [GameDev Architecture](https://t.me/gamedev_architecture) — Автор пишет о том как игровым компаниям строить правильные, эффективные и красивые решения. Качество кода, проектирование архитектуры, лучшие практики.
 * [Апатичный дотнетчик](https://t.me/dotnetter) — Агрегатор новостей и статей из мира .NET
@@ -133,6 +131,8 @@
 * [AR / VR / MR / XR / HCI - RU](https://t.me/arvrmr_ru) — Заметки про AR / VR / MR / XR / HCI на русском
 * [golang](https://t.me/gophernews) — Новости по языку программирования Go, ссылки на статьи и интересные проекты
 * [IoTing: новости&мысли](https://t.me/ioting) — Мир "Интернета вещей". Новости, слухи, проповеди.
+* [Майоров про WEB и карьеру в IT](https://t.me/prowebit) — Ведущий RadioJS Майоров про IT собеседования, WEB технологии, программирование и не только.
+* [IT Radio Streams](https://t.me/itradiostream) — Радиотрансляции IT-подкастов.
 
 [(Назад к меню)](#Меню)
 
@@ -600,8 +600,6 @@
 [(Назад к меню)](#Меню)
 
 ##### Вакансии и работа
-* [For Products and Projects Managers](https://t.me/Forproducts) - Актуальные вакансии для продактов и проджектов. Инсайды рынка, реальная аналитика, тематические новости и полезные статьи
-* [New.HR Vacancy](https://t.me/newhr) - Вакансии в IT & Digital для тех, кто не ищет работу
 * [Jobs and Project Chat](https://t.me/joinchat/ABI4pz7v7KfJhb12XIkIUA) — Чат по вакансиям и проектам от сообщества Chatbots
 * [Mobile Dev Jobs](https://t.me/mobile_jobs) — Чат по вакансиям разработчиков мобильных приложений
 * [JavaScript Jobs](https://t.me/javascript_jobs) — Чат про вакансии и работу в сфере JavaScript
@@ -621,6 +619,8 @@
 * [Golang Jobs and Freelance](https://t.me/golangjob) — Jobs and freelance for golang developers
 * [php_jobs](https://t.me/php_jobs) — Вакансии и запросы на поиск работы по направлению PHP, Laravel, Symfony, Yii и т.д.
 * [YiiJobs](https://t.me/yiijobs) — Вакансии, проекты, фриланс - Yii
+* [For Products and Projects Managers](https://t.me/Forproducts) — Вакансии для продактов и проджектов.
+* [New.HR Vacancy](https://t.me/newhr) — Вакансии в IT & Digital для тех, кто не ищет работу
 
 [(Назад к меню)](#Меню)
 

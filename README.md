@@ -134,6 +134,7 @@
 * [WEBAwesome](https://t.me/WEBAwesome) — Про библиотеки для создания сайтов. (Есть навигация по хештегам.)
 * [Стартапы и хайпы](https://t.me/startupsandhypes) — Авторский канал про разработку, стартапы и технологии.
 * [Ruby, Rails etc (╯°□°）╯︵︵︵ ┻━┻](https://t.me/ruby_ruby_ruby) — Новости, статьи и проч. про Ruby, Rails, PostgreSQL etc.
+* [Об IT без галстуков](https://t.me/noTieInIT) — Об IT без галстуков - авторский канал Дмитрия Меньшикова [@dmitry_menshikov](https://t.me/dmitry_menshikov), CTO в Aurora Technologies.
 
 [(Назад к меню)](#Меню)
 

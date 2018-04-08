@@ -135,6 +135,8 @@
 * [Стартапы и хайпы](https://t.me/startupsandhypes) — Авторский канал про разработку, стартапы и технологии.
 * [Ruby, Rails etc (╯°□°）╯︵︵︵ ┻━┻](https://t.me/ruby_ruby_ruby) — Новости, статьи и проч. про Ruby, Rails, PostgreSQL etc.
 * [Об IT без галстуков](https://t.me/noTieInIT) — Об IT без галстуков - авторский канал Дмитрия Меньшикова [@dmitry_menshikov](https://t.me/dmitry_menshikov), CTO в Aurora Technologies.
+* [Майоров про WEB и карьеру в IT](https://t.me/prowebit) — Ведущий RadioJS Майоров про IT собеседования, WEB технологии, программирование и не только.
+* [IT Radio Streams](https://t.me/itradiostream) — Радиотрансляции IT-подкастов.
 
 [(Назад к меню)](#Меню)
 
@@ -624,6 +626,8 @@
 * [Golang Jobs and Freelance](https://t.me/golangjob) — Jobs and freelance for golang developers
 * [php_jobs](https://t.me/php_jobs) — Вакансии и запросы на поиск работы по направлению PHP, Laravel, Symfony, Yii и т.д.
 * [YiiJobs](https://t.me/yiijobs) — Вакансии, проекты, фриланс - Yii
+* [For Products and Projects Managers](https://t.me/Forproducts) — Вакансии для продактов и проджектов.
+* [New.HR Vacancy](https://t.me/newhr) — Вакансии в IT & Digital для тех, кто не ищет работу
 
 [(Назад к меню)](#Меню)
 

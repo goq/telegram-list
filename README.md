@@ -380,7 +380,6 @@
 * [Rubyata](https://t.me/rubyata) — Ruby and Ruby On Rails community in Kyrgyzstan
 * [Moscow.rb](https://t.me/moscowrb) — Московское сообщество Ruby
 * [Ruby Talks](https://t.me/ruby_talks) — Про Ruby
-* [pro.rust](https://t.me/proRust) — Чат про Rust
 * [RustLang](https://t.me/rustlang_ru) — Чат про Rust
 * [embedded.rs](https://t.me/embedded_rs) — Чат про Embedded на Rust
 * [Scala](https://t.me/scala_ru) — Чат про Scala

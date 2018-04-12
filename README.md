@@ -575,7 +575,7 @@
 * [iHack - Hackintosh & Jailbreak](https://t.me/macosx86) — Чат про Хакинтош и MacOS
 * [Manjaro ru](https://t.me/manjarolinux) — Чат про Manjaro Linux
 * [Manjabuntu](https://t.me/manjabuntu) — Чат за популяризацию GNU/Linux дистрибутивов и помощь новичкам в их освоении.
-* [openSuse](https://t.me/OpenSuseRu) — Чат про openSuse
+* [openSuse](https://t.me/ru_openSUSE) — Чат про openSuse
 * [Свидетели ReactOS](https://t.me/reactos_ru) — Чат про ReactOS
 * [smartos_ru](https://t.me/smartos_ru) — Чат про SmartOS
 * [Ubuntu](https://t.me/ru_ubuntu) — Чат про Ubuntu (Kubuntu, Lubuntu, Xubuntu, и прочую *buntu)

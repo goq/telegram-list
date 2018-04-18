@@ -646,6 +646,7 @@
 * [DC7499](https://t.me/DEFCON) — DefCon Russia
 * [#ctfchat](https://t.me/ctfchat) — Чат CTF
 * [Developers Chat](https://t.me/joinchat/ABI4pz3M7FCxoDZcdcfVUA) — Чат сообщества Chatbots
+* [Facebook Developers Chat](https://t.me/joinchat/Bcr-wREj7gZxkNlTENoQew) - Чат разработчиков под платформу Facebook Messenger
 * [Погромисты-трактористы](https://t.me/pogromisty) — Опыт миграции в другие страны, вакансии
 * [QA](https://t.me/qa_ru) — Чат русскоязычного сообщества тестировщиков
 * [Freelancers & Remote workers](https://t.me/ru_freelancers) — Чат практикующих и интересующихся удаленной работой и самозанятостью

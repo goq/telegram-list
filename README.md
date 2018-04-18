@@ -679,7 +679,8 @@
 * [ARKit Hack](https://t.me/arkithack) — Чат участников онлайн-конкурса fun-проектов в дополненной реальности, созданных на ARKit Hack и Unity
 * [Безопасность АСУ ТП / ICS / SCADA](https://t.me/RuScadaSec) — Чат по кибербезопасности АСУ ТП для интерактивного обмена информацией по теме.
 * [speccy hardware](https://t.me/speccy_hard) — Чат про ZX Spectrum. Rus & Eng.
-* [Фронтенд Юность](https://t.me/frontend_u) - Чат сообщества подкаста «Фронтенд Юность»
+* [Фронтенд Юность](https://t.me/frontend_u) — Чат сообщества подкаста «Фронтенд Юность»
+* [Facebook Developers Chat](https://t.me/joinchat/Bcr-wREj7gZxkNlTENoQew) — Чат разработчиков под платформу Facebook Messenger
 
 [(Назад к меню)](#Меню)
 

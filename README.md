@@ -646,7 +646,6 @@
 * [DC7499](https://t.me/DEFCON) — DefCon Russia
 * [#ctfchat](https://t.me/ctfchat) — Чат CTF
 * [Developers Chat](https://t.me/joinchat/ABI4pz3M7FCxoDZcdcfVUA) — Чат сообщества Chatbots
-* [Facebook Developers Chat](https://t.me/joinchat/Bcr-wREj7gZxkNlTENoQew) - Чат разработчиков под платформу Facebook Messenger
 * [Погромисты-трактористы](https://t.me/pogromisty) — Опыт миграции в другие страны, вакансии
 * [QA](https://t.me/qa_ru) — Чат русскоязычного сообщества тестировщиков
 * [Freelancers & Remote workers](https://t.me/ru_freelancers) — Чат практикующих и интересующихся удаленной работой и самозанятостью
@@ -680,7 +679,8 @@
 * [ARKit Hack](https://t.me/arkithack) — Чат участников онлайн-конкурса fun-проектов в дополненной реальности, созданных на ARKit Hack и Unity
 * [Безопасность АСУ ТП / ICS / SCADA](https://t.me/RuScadaSec) — Чат по кибербезопасности АСУ ТП для интерактивного обмена информацией по теме.
 * [speccy hardware](https://t.me/speccy_hard) — Чат про ZX Spectrum. Rus & Eng.
-* [Фронтенд Юность](https://t.me/frontend_u) - Чат сообщества подкаста «Фронтенд Юность»
+* [Фронтенд Юность](https://t.me/frontend_u) — Чат сообщества подкаста «Фронтенд Юность»
+* [Facebook Developers Chat](https://t.me/joinchat/Bcr-wREj7gZxkNlTENoQew) — Чат разработчиков под платформу Facebook Messenger
 
 [(Назад к меню)](#Меню)
 

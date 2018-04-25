@@ -137,6 +137,7 @@
 * [Об IT без галстуков](https://t.me/noTieInIT) — Об IT без галстуков - авторский канал Дмитрия Меньшикова [@dmitry_menshikov](https://t.me/dmitry_menshikov), CTO в Aurora Technologies.
 * [Майоров про WEB и карьеру в IT](https://t.me/prowebit) — Ведущий RadioJS Майоров про IT собеседования, WEB технологии, программирование и не только.
 * [IT Radio Streams](https://t.me/itradiostream) — Радиотрансляции IT-подкастов.
+* [Sea++](https://t.me/sea_plus_plus) — Интересные материалы из мира C/C++, Python, Go, Linux и не только.
 
 [(Назад к меню)](#Меню)
 

@@ -446,6 +446,7 @@
 [(Назад к меню)](#Меню)
 
 ##### Сообщества разработчиков и программистов
+* [MacOS Developers](https://t.me/macdev_ru) - Чат о разработке для MacOS
 * [Веб-дизайн и Вёрстка](https://t.me/webdesign_ru) — Чат веб-технологов. Веб-дизайн, вёрстка, HTML, CSS, флекс и бутстрапы, шаблонизаторы, препроцессоры, методологии и прочее.
 * [frontend_ru](https://t.me/frontend_ru) — Сообщество фронтенд разработчиков
 * [SPb Python](https://t.me/spbpython) — Saint-Petersburg Python Interest Group
@@ -475,7 +476,6 @@
 * [Hardcore Development](https://t.me/hcdev) – Hardcore Development Team. No bullshit. FP, RP.
 * [Data Engineers](https://t.me/hadoopusers) — Чат про Apache Hadoop
 * [otda4a](https://t.me/otda4a) — Чат где можно отдать или обменять ненужное железо. Никаких продаж
-* [MacOS Developers](https://t.me/macdev_ru) - Чат о разработке для MacOS
 
 [(Назад к меню)](#Меню)
 

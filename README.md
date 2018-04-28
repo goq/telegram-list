@@ -446,7 +446,7 @@
 [(Назад к меню)](#Меню)
 
 ##### Сообщества разработчиков и программистов
-* [MacOS Developers — русскоговорящее сообщество](https://t.me/macdev_ru) - Чат о разработке для MacOS
+* [MacOS Developers — русскоговорящее сообщество](https://t.me/macdev_ru) —  Чат о разработке для MacOS
 * [Веб-дизайн и Вёрстка](https://t.me/webdesign_ru) — Чат веб-технологов. Веб-дизайн, вёрстка, HTML, CSS, флекс и бутстрапы, шаблонизаторы, препроцессоры, методологии и прочее.
 * [frontend_ru](https://t.me/frontend_ru) — Сообщество фронтенд разработчиков
 * [SPb Python](https://t.me/spbpython) — Saint-Petersburg Python Interest Group

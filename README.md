@@ -475,6 +475,7 @@
 * [Hardcore Development](https://t.me/hcdev) – Hardcore Development Team. No bullshit. FP, RP.
 * [Data Engineers](https://t.me/hadoopusers) — Чат про Apache Hadoop
 * [otda4a](https://t.me/otda4a) — Чат где можно отдать или обменять ненужное железо. Никаких продаж
+* [MacOS Developers](https://t.me/macdev_ru) —  Чат о разработке для MacOS
 
 [(Назад к меню)](#Меню)
 
@@ -492,8 +493,8 @@
 * [Hosting and so on](https://t.me/pro_hosting) — Про хостинг
 * [pro.telecom](https://t.me/protelecom) — Чат про телекоммуникации.
 * [xmpp_ru](https://t.me/xmpp_ru) — Чат про XMPP, ejabberd, openfire
-* [Ceph — русскоговорящее сообщество](https://t.me/ceph_ru) — Чат про Ceph
-* [OpenStack — русскоговорящее сообщество](https://t.me/openstack_ru) — Чат про OpenStack
+* [Ceph](https://t.me/ceph_ru) — Чат про Ceph
+* [OpenStack](https://t.me/openstack_ru) — Чат про OpenStack
 * [Hyper-V](https://t.me/ru_hyper) — Чат про Hyper-V
 * [ru_freeswitch](https://t.me/ru_freeswitch) — Чат про Freeswitch
 * [ntwrk](https://t.me/ntwrk) — Чат сетевых инженеров

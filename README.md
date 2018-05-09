@@ -138,6 +138,7 @@
 * [Майоров про WEB и карьеру в IT](https://t.me/prowebit) — Ведущий RadioJS Майоров про IT собеседования, WEB технологии, программирование и не только.
 * [IT Radio Streams](https://t.me/itradiostream) — Радиотрансляции IT-подкастов.
 * [Sea++](https://t.me/sea_plus_plus) — Интересные материалы из мира C/C++, Python, Go, Linux и не только.
+* [geeks content](https://t.me/geekscontent) — Здесь гики оставляют свои наработки из повседневщины и чтиво, которое понравилось им.  
 
 [(Назад к меню)](#Меню)
 

@@ -683,6 +683,7 @@
 * [speccy hardware](https://t.me/speccy_hard) — Чат про ZX Spectrum. Rus & Eng.
 * [Фронтенд Юность](https://t.me/frontend_u) — Чат сообщества подкаста «Фронтенд Юность»
 * [Facebook Developers Chat](https://t.me/joinchat/Bcr-wREj7gZxkNlTENoQew) — Чат разработчиков под платформу Facebook Messenger
+* [FFmpeg chat](https://t.me/ffmpeg_ru) — Группа для общения на тему работы с ffmpeg и сопутствующего.
 
 [(Назад к меню)](#Меню)
 

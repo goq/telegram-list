@@ -138,6 +138,7 @@
 * [Майоров про WEB и карьеру в IT](https://t.me/prowebit) — Ведущий RadioJS Майоров про IT собеседования, WEB технологии, программирование и не только.
 * [IT Radio Streams](https://t.me/itradiostream) — Радиотрансляции IT-подкастов.
 * [Sea++](https://t.me/sea_plus_plus) — Интересные материалы из мира C/C++, Python, Go, Linux и не только.
+* [Охотник за информацией☠️](https://t.me/info_hunter) — Полезные файлы и ссылки на ресурсы: QA & PENTESTER & PROGRAMMER
 
 [(Назад к меню)](#Меню)
 

@@ -397,6 +397,7 @@
 * [Functional Programming](https://t.me/fp_ru) — Чат любителей функциональных языков программирования
 * [CIL](https://t.me/cilchat) — Чат про CIL/IL/MSIL
 * [WebAssembly](https://t.me/WebAssembly_ru) — Чат про Webassembly
+* [ХабраХабр I.T.](https://t.me/habrachat) — Чат информационных технологий
 
 [(Назад к меню)](#Меню)
 

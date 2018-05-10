@@ -131,7 +131,6 @@
 * [AR / VR / MR / XR / HCI - RU](https://t.me/arvrmr_ru) — Заметки про AR / VR / MR / XR / HCI на русском
 * [golang](https://t.me/gophernews) — Новости по языку программирования Go, ссылки на статьи и интересные проекты
 * [IoTing: новости&мысли](https://t.me/ioting) — Мир "Интернета вещей". Новости, слухи, проповеди.
-* [Охотник за информацией☠️](https://t.me/info_hunter) — Полезные файлы и ссылки на ресурсы: QA & PENTESTER & PROGRAMMER
 
 [(Назад к меню)](#Меню)
 

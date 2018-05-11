@@ -233,6 +233,7 @@
 * [Work Embedded](https://t.me/rabotaembedded) — Вакансии по встраиваемым системам (для программистов, инженеров, и т.п.)
 * [Ruby Job](https://t.me/rubyjob) — Вакансии для программистов на Ruby.
 * [get_job()](https://t.me/get_job_or_die) — Вакансии с зарплатой 200K+ для программистов.
+* [New.HR Vacancy](https://t.me/newhr) — Вакансии в IT & Digital для тех, кто не ищет работу
 
 [(Назад к меню)](#Меню)
 
@@ -631,7 +632,6 @@
 * [php_jobs](https://t.me/php_jobs) — Вакансии и запросы на поиск работы по направлению PHP, Laravel, Symfony, Yii и т.д.
 * [YiiJobs](https://t.me/yiijobs) — Вакансии, проекты, фриланс - Yii
 * [For Products and Projects Managers](https://t.me/Forproducts) — Вакансии для продактов и проджектов.
-* [New.HR Vacancy](https://t.me/newhr) — Вакансии в IT & Digital для тех, кто не ищет работу
 * [Вакансии для аналитиков](https://t.me/analysts_hunter) — Чат для поиска работы и специалистов в области интернет-аналитики
 
 [(Назад к меню)](#Меню)

@@ -533,7 +533,7 @@
 * [Moby & Docker CE - Официальное Русское Сообщество](https://t.me/ru_docker) — Moby & Docker CE - Официальное Русское Сообщество
 * [Брутальный Docker](https://t.me/brutal_docker) — Чат для тех, кому есть что сказать про докер
 * [Puppet](https://t.me/puppet_ru) — Чат про Puppet и управление конфигурациями
-* [Kubernetes](https://t.me/kubernetes_ru) — Чат про Kubernetes
+* [Kubernetes](https://t.me/k8spb) — Чат про Kubernetes
 * [Метрики](https://t.me/metrics_ru) — Чат про метрики, мониторинг и анализ данных
 
 [(Назад к меню)](#Меню)

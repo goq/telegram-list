@@ -271,7 +271,6 @@
 * [MobiDevices](https://t.me/mobidevices) — Красивый журнал о технологиях.
 * [Just Links](https://t.me/j_links) — Ссылки на научные статьи и новости, с упором на Deep Learning и физику.
 * [ThinkTanker](https://t.me/ThinkTanker) — Интересные статьи
-* [Порошок, уходи!](https://t.me/poroshok_uhodi) — Ежедневные стишки-порошки.
 * [BA/SA Аналитики](https://t.me/spbcoachanel) — Канал сообщества бизнес аналитиков Санкт-Петербурга и не только.
 * [StartAndroid](https://t.me/startandroid) — Канал про Android для начинающих и продвинутых
 * [GitHub Repos](https://t.me/github_repos) — Крупный канал популярных репозиториев GitHub

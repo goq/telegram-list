@@ -234,6 +234,7 @@
 * [Ruby Job](https://t.me/rubyjob) — Вакансии для программистов на Ruby.
 * [get_job()](https://t.me/get_job_or_die) — Вакансии с зарплатой 200K+ для программистов.
 * [New.HR Vacancy](https://t.me/newhr) — Вакансии в IT & Digital для тех, кто не ищет работу
+* [pro.JVM Jobs](https://t.me/jvmjobs) — Вакансии Java 
 
 [(Назад к меню)](#Меню)
 

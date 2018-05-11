@@ -632,6 +632,7 @@
 * [YiiJobs](https://t.me/yiijobs) — Вакансии, проекты, фриланс - Yii
 * [For Products and Projects Managers](https://t.me/Forproducts) — Вакансии для продактов и проджектов.
 * [New.HR Vacancy](https://t.me/newhr) — Вакансии в IT & Digital для тех, кто не ищет работу
+* [Вакансии для аналитиков](https://t.me/analysts_hunter) — Чат для поиска работы и специалистов в области интернет-аналитики
 
 [(Назад к меню)](#Меню)
 

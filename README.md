@@ -769,11 +769,12 @@
 ## Боты
 
 ##### Музыка и Радио
-* [@RadioBot](https://t.me/radiobot) — Бот в котором можно переслушать эфиры 40+ популярных российских радиостанций.
-* [@vkmusic_bot](https://t.me/vkmusic_bot) — Музыкальный бот ВК
-* [@radiotgbot](https://t.me/radiotgbot) — Бот - Лучшее радио!
-* [@MelodyRobot](https://t.me/MelodyRobot) — Угадай мелодию бот
 * [@mcduckmusicbot](https://t.me/mcduckmusicbot) — McDuck MusicBot. Много хорошей музыки.
+* [@MelodyRobot](https://t.me/MelodyRobot) — Угадай мелодию бот
+* [@RadioBot](https://t.me/radiobot) — Бот в котором можно переслушать эфиры 40+ популярных российских 
+радиостанций.
+* [@radiotgbot](https://t.me/radiotgbot) — Бот - Лучшее радио!
+* [@vkmusic_bot](https://t.me/vkmusic_bot) — Музыкальный бот ВК
 
 ##### Полезные боты для разработки
 * [@trello_bot](https://t.me/trello_bot) — Интеграция всемирно известной Канбан доски в телеграм

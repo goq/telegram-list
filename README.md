@@ -194,6 +194,7 @@
 * [Data Science](https://t.me/opendatascience) — Первый новостной канал про data science
 * [Deep Learning Russia](https://t.me/deeplearning_ru) — Канал сообщества vk.com/deeplearning_ru
 * [Hey Machine Learning](https://t.me/heyml) — Канал по машинному обучению и искусственному интеллекту
+* [Data Science Boom](https://t.me/datascienceboom) — Boom! Data Science, Machine Learning, Artificial Intelligence news and learning resources.
 * [Чаты и группы телеграма по теме](#big-data-Машинное-обучение-deep-learning-и-data-science)
 
 [(Назад к меню)](#Меню)

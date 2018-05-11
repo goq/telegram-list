@@ -344,6 +344,7 @@
 ##### Языки программирования
 * [pro.asm](https://t.me/proasm) — Чат про Assembler
 * [AutoIT RU](https://t.me/AutoIT_RU) — Чат про AutoIT
+* [Autohotkey_RU](https://t.me/AutoHotkey_RU) — Чат про Autohotkey
 * [Pure C](https://t.me/pure_c) — Чат про чистый Си
 * [pro.cxx](https://t.me/ProCxx) — Чат про Си++
 * [.NET chat RU](https://t.me/DotNetRuChat) — Чат про C# и .NET

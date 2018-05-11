@@ -188,6 +188,7 @@
 * [Сайберсекьюрити и Ко.](https://t.me/alexlitreev_channel) — Канал @alexlitreev о безопасности в интернете, уязвимостях и прочих радостях жизни.
 * [Киберshit](https://t.me/cybershit) — Канал про технологии и информационную безопасность
 * [WEBSITE SECURITY](https://t.me/sitesecurity) — Все о безопасности сайтов: диагностика, лечение от вирусов и защита от взлома.
+* [HttpNotOnly](https://t.me/somesecurity) — Security techniques and researches
 
 [(Назад к меню)](#Меню)
 

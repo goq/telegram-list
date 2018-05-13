@@ -833,3 +833,4 @@
 * [@TGhost_bot](https://t.me/TGhost_bot) — удобный бот для обмена файлами в интернете. Файлы не удаляются и всегда доступны.
 * [@GDGCensorBot](https://t.me/GDGCensorBot) - Бот для удаления матов и ругательств из чата.
 * [@FavouriteStickers](https://t.me/FavouriteStickersBot) - Бот для сохранения понравившихся стикеров.
+* [@cryptographer070bot](https://t.me/cryptographer070bot) - Бот зашифрует и расшифрует ваши файлы и строки, надежным алгоритмом.

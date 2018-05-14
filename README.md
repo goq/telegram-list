@@ -489,7 +489,7 @@
 * [Hardcore Development](https://t.me/hcdev) – Hardcore Development Team. No bullshit. FP, RP.
 * [Data Engineers](https://t.me/hadoopusers) — Чат про Apache Hadoop
 * [otda4a](https://t.me/otda4a) — Чат где можно отдать или обменять ненужное железо. Никаких продаж
-* [macOS Developers](https://t.me/macdev_ru) —  Чат о разработке для macOS
+* [macOS Developers](https://t.me/macdev_ru) — Чат о разработке для macOS
 
 [(Назад к меню)](#Меню)
 
@@ -594,6 +594,7 @@
 * [Manjaro ru](https://t.me/manjarolinux) — Чат про Manjaro Linux
 * [Manjabuntu](https://t.me/manjabuntu) — Чат за популяризацию GNU/Linux дистрибутивов и помощь новичкам в их освоении.
 * [openSuse](https://t.me/ru_openSUSE) — Чат про openSuse
+* [ParrotSecRU](https://t.me/ParrotSecRU) — Чат про ParrotSec OS. Для линуксоидов, специалистов по ИБ.
 * [Свидетели ReactOS](https://t.me/reactos_ru) — Чат про ReactOS
 * [smartos_ru](https://t.me/smartos_ru) — Чат про SmartOS
 * [Ubuntu](https://t.me/ru_ubuntu) — Чат про Ubuntu (Kubuntu, Lubuntu, Xubuntu, и прочую *buntu)

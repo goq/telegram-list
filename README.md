@@ -85,7 +85,6 @@
 * [Microsoft Developer](https://t.me/msdnru) — Официальный канал сообщества Microsoft Developer
 * [Пещера Ядовитого Джона](https://t.me/poisonous_johns_lair) — Насущные проблемы разработки ПО: качество кода, проектирование архитектуры, лучшие практики, как быть хорошим разработчиком
 * [Апатичный дотнетчик](https://t.me/dotnetter) — Агрегатор новостей и статей из мира .NET
-* [pro.bash](https://t.me/pro_bash) — Изучения и работа с Bash Shell, вопросы организации nix* процессов, взаимодействие с терминалами и службами.
 * [pro.elixir_news](https://t.me/proelixir_news) — Новости из мира Elixir
 * [Мобайл: дизайн и разработка](https://t.me/aboutmobile) — Канал для всех, кто создает мобильные приложения
 * [Android Дичь](https://t.me/shitty_android) — Тщательно отобранные статьи и доклады по Android-разработке и смежным темам
@@ -304,6 +303,7 @@
 
 ##### Языки программирования
 * [pro.asm](https://t.me/proasm) — Чат про Assembler
+* [pro.bash](https://t.me/pro_bash) — Чат про Bash Shell, организация nix* процессов, взаимодействие с терминалами и службами.
 * [Pure C](https://t.me/pure_c) — Чат про чистый Си
 * [pro.cxx](https://t.me/ProCxx) — Чат про Си++
 * [.NET chat RU](https://t.me/DotNetRuChat) — Чат про C# и .NET

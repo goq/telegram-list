@@ -141,6 +141,7 @@
 * [Sea++](https://t.me/sea_plus_plus) — Интересные материалы из мира C/C++, Python, Go, Linux и не только.
 * [Охотник за информацией☠️](https://t.me/info_hunter) — Полезные файлы и ссылки на ресурсы: QA & PENTESTER & PROGRAMMER
 * [До диез](https://t.me/dodiezcsharp) — Канал для программистов C#
+* [Java Dev](https://t.me/java_developer) — Советы и статьи о Java, программировании и продуктивности
 
 [(Назад к меню)](#Меню)
 

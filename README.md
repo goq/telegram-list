@@ -166,6 +166,7 @@
 * [andrew-r обо всём](https://t.me/andrew_r_notes) — Андрей Романов о разработке интерфейсов, дизайне, программировании и всём остальном
 * [Javanese Online](https://t.me/javanese_online) — статьи о Java, Android и Kotlin. Критика, ковыряние во внутренностях, эксперименты.
 * [Front End Dev](https://t.me/front_end_dev) — Новости фронтенда, переводы статей, полезные ресурсы
+* [Web Stack](https://t.me/web_stack) — Канал со подборками статей и новостей про веб-разработку
 * [Front End World](https://t.me/front_end_first) — Англоязычный канал с новостями и статьями про фронтэнд
 * [Platon on frontend](https://t.me/platononfrontend) — Заметки, мысли и новости о фронтенде.
 * [Фронтенд Юность](https://t.me/frontend_u_news) — Канал подкаста «Фронтенд Юность» (18+).  Самый честный подкаст о фронтенде.

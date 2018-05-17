@@ -80,6 +80,7 @@
 * [Наука от Funscience](https://t.me/funscience) — Популярная наука, технологии,  гаджеты, космос.
 * [IT-Страна](https://t.me/itbelarus) — IT-новости из Беларуси.
 * [Qubit (Quantum Daily)](https://t.me/qubit_daily) — Канал технологического евангелиста Microsoft, Стаса Павлова, о последних новостях из мира квантовых вычислений.
+* [Samara IT Community news](https://t.me/Samara_IT_Community) — Канал новостей Самарского IT сообщества
 
 [(Назад к меню)](#Меню)
 

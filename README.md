@@ -601,7 +601,6 @@
 * [macOS ru](https://t.me/macOS_ru) — Чат про macOS
 * [iHack - Hackintosh & Jailbreak](https://t.me/macosx86) — Чат про Хакинтош и MacOS
 * [Manjaro ru](https://t.me/manjarolinux) — Чат про Manjaro Linux
-* [Manjabuntu](https://t.me/manjabuntu) — Чат за популяризацию GNU/Linux дистрибутивов и помощь новичкам в их освоении.
 * [openSuse](https://t.me/ru_openSUSE) — Чат про openSuse
 * [ParrotSecRU](https://t.me/ParrotSecRU) — Чат про ParrotSec OS. Для линуксоидов, специалистов по ИБ.
 * [Свидетели ReactOS](https://t.me/reactos_ru) — Чат про ReactOS

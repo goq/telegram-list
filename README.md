@@ -593,6 +593,7 @@
 * [freebsd_ru](https://t.me/freebsd_ru) — Чат про FreeBSD
 * [Gentoo](https://t.me/russian_gentoo) — Чат про Gentoo
 * [KDE neon users](https://t.me/kdeneon) — English speaking community of KDE neon
+* [Pro Linux](https://telegram.me/joinchat/Be4rsT7VI1LxrHaMR3pezQ) — Взамен старой-доброй группы pro.linux.
 * [Linux Mint Russia 🇷🇺](https://t.me/LMRus) — Чат про Linux Mint (Русский)
 * [Linux Mint International](https://t.me/LMInter) — Linux Mint Chat (International)
 * [Linux Mint Україна](https://t.me/linuxmint_com) — Linux Mint Україна. cтрогие правила
@@ -607,9 +608,7 @@
 * [smartos_ru](https://t.me/smartos_ru) — Чат про SmartOS
 * [Ubuntu](https://t.me/ru_ubuntu) — Чат про Ubuntu (Kubuntu, Lubuntu, Xubuntu, и прочую *buntu)
 * [pro.windows](https://t.me/pro_windows) — Чат про Microsoft Windows и всё, что с этим связано
-* [Xubuntu-ru.net](https://t.me/xubuntu_runet) — Чат про Xubuntu
 * [Linux Security](https://t.me/safelinux) — Чат про безопасность в Линуксе и про Линукс для безопасников
-* [ProDot Linux](https://telegram.me/joinchat/Be4rsT7VI1LxrHaMR3pezQ) — Взамен старой-доброй группы pro.linux.
 
 [(Назад к меню)](#Меню)
 

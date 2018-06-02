@@ -707,6 +707,7 @@
 * [Facebook Developers Chat](https://t.me/joinchat/Bcr-wREj7gZxkNlTENoQew) — Чат разработчиков под платформу Facebook Messenger
 * [FFmpeg chat](https://t.me/ffmpeg_ru) — Группа для общения на тему работы с ffmpeg и сопутствующего.
 * [KDE Россия](https://t.me/kde_ru) — Чат русскоязычного сообщества KDE (пользователи и разработчики)
+* [Nextcloud](https://t.me/nextcloudru) — Чат про Nextcloud
 
 [(Назад к меню)](#Меню)
 

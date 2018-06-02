@@ -203,6 +203,7 @@
 * [Data Science Boom](https://t.me/datascienceboom) — Boom! Data Science, Machine Learning, Artificial Intelligence news and learning resources.
 * [WebAnalytics](https://t.me/webanalyst) — Канал про веб-аналитику, по повышению конверсии и про анализ данных в маркетинге
 * [BigQuery Insights](https://t.me/bigquery) — Аналитика и большие данные в Google BigQuery, инсайты, data science, UX / WEB analytics, big data, digital marketing.
+* [Boring Berlin Scientist](https://t.me/boberscience) — Useful articles about Data Science, Machine Learning, Data Engineering and not only.
 * [Чаты и группы телеграма по теме](#big-data-Машинное-обучение-deep-learning-и-data-science)
 
 [(Назад к меню)](#Меню)

@@ -681,7 +681,6 @@
 * [IT-шники Белгорода](https://t.me/belgorod_it) — Чат айтишников Белгорода.
 * [ru_ASUTP](https://t.me/ru_ASUTP) — АСУ ТП: САУ, SCADA, ПЛК и немного умных домов.
 * [ru_CAD](https://t.me/ru_CAD) — САПР.
-* [IT Holywars](https://t.me/it_holywars) — Холивары на тему ИТ
 * [Dev Seagulls](https://t.me/dev_seagulls) — Чат сообщества программистов Махачкалы
 * [Секта кнопкопоклонников](https://t.me/ru_mechcult) — Чат странных людей, которые любят ~~механические~~ клавиатуры
 * [cloud_ru](https://t.me/cloud_ru) — Обсуждения облачных технологий

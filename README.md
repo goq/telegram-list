@@ -618,6 +618,7 @@
 * [higher.math](https://t.me/higher_math) — Чат про математику
 * [comput.math](https://t.me/comput_math) — Вычислительная математика и численные методы. MATLAB, Octave, Scilab, Python, Julia, F#, C++
 * [Physic Pub](https://t.me/physpub) — Чат про физику
+* [Starter Math](https://t.me/starter_math) — Чат про математику для начинающих
 
 [(Назад к меню)](#Меню)
 

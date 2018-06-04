@@ -364,7 +364,7 @@
 * [pro.cxx](https://t.me/ProCxx) — Чат про Си++
 * [.NET chat RU](https://t.me/DotNetRuChat) — Чат про C# и .NET
 * [ExtremeCodeTV](https://t.me/extremecode) — Чат C# разработчиков (есть свой бот компилирующий C# код)
-* [Clojure](https://t.me/clojure_ru) — Русскоговорящее сообщество Clojure
+* [Clojure](https://t.me/clojure_ru) — Чат про Clojure
 * [css_ru](https://t.me/css_ru) — Чат про CSS и немного HTML
 * [Dart в целом](https://t.me/dart_ru) — Чат про dart, обсуждения, помощь.
 * [Delphi & Lazarus](https://t.me/Delphi_Lazarus) — Чат про Delphi и Lazarus
@@ -387,7 +387,6 @@
 * [Javanese Questions](https://t.me/javanese_questions) — общение в формате вопрос-ответ о Java, Kotlin и Android.
 * [JuliaLanguage](https://t.me/JuliaLanguage) — Все о языке Julia
 * [Kotlin](https://t.me/kotlin_lang) — Чат про Kotlin
-* [KotlinMoscow](https://t.me/KotlinMoscow) — Сообщество Kotlin Moscow
 * [pro.lisp](https://telegram.me/joinchat/Be4rsTvFzQ4yIktHsNNYrA) — Common Lisp, Scheme/Racket, Clojure, Picolisp. S-expr
 * [NativeScript](https://t.me/nativescript_ru) — Чат про NativeScript
 * [ru.nim.talks](https://t.me/ru_nim_talks) — Чат про nim (ex-nimrod)
@@ -409,8 +408,6 @@
 * [pro.ruby](https://t.me/proRuby) — Чат про Ruby
 * [Ruby & RoR](https://t.me/rubylang) — Чат про Ruby и Ruby on Rails
 * [Ruby School .us](https://t.me/rubyschool) — Чат для учеников руби-школы
-* [Rubyata](https://t.me/rubyata) — Ruby and Ruby On Rails community in Kyrgyzstan
-* [Moscow.rb](https://t.me/moscowrb) — Московское сообщество Ruby
 * [Ruby Talks](https://t.me/ruby_talks) — Про Ruby
 * [RustLang](https://t.me/rustlang_ru) — Чат про Rust
 * [embedded.rs](https://t.me/embedded_rs) — Чат про Embedded на Rust
@@ -460,9 +457,9 @@
 * [Vim](https://t.me/vimedit_ru) — Русскоязычные вимеры
 * [weex](https://t.me/weex_ru) — Чат про Weex
 * [Qt](https://t.me/qt_chat) - Чат по Qt
-* [rollup](https://t.me/rollup_ru) — Русскоговорящее сообщество Rollup.js
+* [rollup](https://t.me/rollup_ru) — Чат про Rollup.js
 * [Ember.js](https://t.me/ember_js) — Cообщество Ember.js
-* [Discourse](https://t.me/joinchat/A8oWNg2L0txJw6_BygaZtg) — Русскоговорящее сообщество Discourse.
+* [Discourse](https://t.me/joinchat/A8oWNg2L0txJw6_BygaZtg) — Чат про Discourse.
 * [Webpack](https://t.me/webpack_ru) — Обсуждения webpack 1/2, лоадеров, плагинов и сборок
 * [Meteor.js](https://t.me/meteorjs_ru) — Чат про Meteor.js
 * [Feathers.js](https://t.me/featherjs) — Сообщество Feathers.js
@@ -472,8 +469,6 @@
 ##### Сообщества разработчиков и программистов
 * [Веб-дизайн и Вёрстка](https://t.me/webdesign_ru) — Чат веб-технологов. Веб-дизайн, вёрстка, HTML, CSS, флекс и бутстрапы, шаблонизаторы, препроцессоры, методологии и прочее.
 * [frontend_ru](https://t.me/frontend_ru) — Сообщество фронтенд разработчиков
-* [SPb Python](https://t.me/spbpython) — Saint-Petersburg Python Interest Group
-* [Spb Qt](https://t.me/qtspb) - Сообщество Qt программистов Санкт-Петербурга
 * [Программисты](https://t.me/coding_ru) — Чат программистов. Флуд.
 * [Elegant Objects OOP JAVA](https://t.me/joinchat/AAAAAEJFMRzsRTRxM3ec6A) — Чат программистов Java OOP. Elegant Objects yegor256.com.
 * [codingteam](https://t.me/codingteam) — Кроссплатформенное сообщество инженеров и программистов.
@@ -486,15 +481,10 @@
 * [Чат по продуктам hashicorp](https://t.me/ru_hashicorp) — Чат пользователей Hashicorp: Consul, Nomad, Terraform...
 * [Tilda Developers](https://t.me/tilda_dev) — Чат разработчиков на платформе Tilda
 * [EOS dev](https://t.me/eoscode) — Чат о разработке под EOS
-* [Москоу progers](https://t.me/moscowProgers) — Чат программистов и прочих IT специалистов Москвы
-* [Saint P Ruby User Group](https://t.me/saintprug) — Сообщество разработчиков Ruby в Санкт-Петербурге
 * [HighLoadCup Official](https://t.me/highloadcup) — Официальная группа для участников чемпионата highloadcup от mail.ru
 * [ITForge](https://t.me/itforge) — Чат про python, парсинг сайтов и просто про IT
 * [AVRA community](https://t.me/avrahackathon) — Чат для создающих и интересующихся AR/VR технологиями
-* [Python Community Chelyabinsk](https://t.me/pychel) — Чат челябинского сообщества Python-разработчиков
-* [fprog_spb](https://t.me/fprog_spb) — Митап функциональных программистов в СПб
 * [Annode webdev](https://t.me/annode) — Чат веб-разработчиков. Frontend, Backend, CMS, БД и другое.
-* [Чат IT-Страны](https://t.me/itbelarustalk) — Чат белорусского IT-сообщества.
 * [Oracle RU](https://t.me/oracle_ru) — Чат про Oracle
 * [Hardcore Development](https://t.me/hcdev) – Hardcore Development Team. No bullshit. FP, RP.
 * [Data Engineers](https://t.me/hadoopusers) — Чат про Apache Hadoop
@@ -680,12 +670,9 @@
 * [Freelancers & Remote workers](https://t.me/ru_freelancers) — Чат практикующих и интересующихся удаленной работой и самозанятостью
 * [Borodutch](https://t.me/borodutcher) — Собрались программисты-фрилансеры-предприниматели-стартаперы и замутили свою ламповую конфу.
 * [IT Security Talk](https://t.me/itsectalk) – IT Security Talk (english)
-* [IT Lobby Irkutsk](https://t.me/joinchat/CD0D_D31vVD8L1FO4UutnQ) — чат ITишников города Иркутск
 * [Hacker May Cry](https://t.me/mrl_hack) — Чат для взаимопомощи в сфере информационной безопасности, хакинга и программирования.
-* [IT-шники Белгорода](https://t.me/belgorod_it) — Чат айтишников Белгорода.
 * [ru_ASUTP](https://t.me/ru_ASUTP) — АСУ ТП: САУ, SCADA, ПЛК и немного умных домов.
 * [ru_CAD](https://t.me/ru_CAD) — САПР.
-* [Dev Seagulls](https://t.me/dev_seagulls) — Чат сообщества программистов Махачкалы
 * [Секта кнопкопоклонников](https://t.me/ru_mechcult) — Чат странных людей, которые любят ~~механические~~ клавиатуры
 * [cloud_ru](https://t.me/cloud_ru) — Обсуждения облачных технологий
 * [cloud_flood](https://t.me/cloud_flood) — Флудильня облачных технологий
@@ -716,6 +703,19 @@
 [(Назад к меню)](#Меню)
 
 ##### Региональные IT-сообщества
+* [SPb Python](https://t.me/spbpython) — Saint-Petersburg Python Interest Group
+* [Spb Qt](https://t.me/qtspb) - Сообщество Qt программистов Санкт-Петербурга
+* [KotlinMoscow](https://t.me/KotlinMoscow) — Сообщество Kotlin Moscow
+* [Rubyata](https://t.me/rubyata) — Ruby and Ruby On Rails community in Kyrgyzstan
+* [Moscow.rb](https://t.me/moscowrb) — Московское сообщество Ruby
+* [Saint P Ruby User Group](https://t.me/saintprug) — Сообщество разработчиков Ruby в Санкт-Петербурге
+* [Москоу progers](https://t.me/moscowProgers) — Чат программистов и прочих IT специалистов Москвы
+* [Python Community Chelyabinsk](https://t.me/pychel) — Чат челябинского сообщества Python-разработчиков
+* [fprog_spb](https://t.me/fprog_spb) — Митап функциональных программистов в СПб
+* [Чат IT-Страны](https://t.me/itbelarustalk) — Чат белорусского IT-сообщества.
+* [IT Lobby Irkutsk](https://t.me/joinchat/CD0D_D31vVD8L1FO4UutnQ) — чат ITишников города Иркутск
+* [IT-шники Белгорода](https://t.me/belgorod_it) — Чат айтишников Белгорода.
+* [Dev Seagulls](https://t.me/dev_seagulls) — Чат сообщества программистов Махачкалы
 * [IT EKB](https://t.me/IT_EKB) — Чат айтишников Екатеринбурга и окрестностей
 
 [(Назад к меню)](#Меню)

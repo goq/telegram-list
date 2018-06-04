@@ -125,7 +125,6 @@
 * [mkdev](https://t.me/mkdev_me) — Канал mkdev.me - интересные статеечки, шутеечки из-за кулис и новости проекта mkdev.me.
 * [UniLecs](https://t.me/unilecs) —  Задачки по алгоритмизации и программированию, а также интересные курсы и лекции из мира Computer Science.
 * [Deep Digital](https://t.me/deepdigital) — Канал команды разработки группы Chulakov Digital. Советы по Frontend- и Backend-разработке web-сервисов, статьи, презентации и многое другое.
-* [Personal junior](https://t.me/vadim_junior) — Глупые вопросы от джуна (все как в реальной жизни).
 * [Go](https://t.me/golang) — Канал с новостями и интересными материалами про Golang. (преимущественно english)
 * [TechRocks](https://t.me/techrocks) — Канал про кодинг и сопутствующее. Создан инженерами для инженеров.
 * [Joomla Feed](https://t.me/joomlafeed) — Новости о Joomla! и веб-разработке по-русски

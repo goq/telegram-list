@@ -686,7 +686,7 @@
 * [Visual Studio Code](https://t.me/vscode_ru) — Чат настройки и создания плагинов VS Code
 * [Kittens Meowing](https://t.me/PrivacyGroup) — Первое правила клуба: «Никому и никогда не рассказывать о клубе».
 * [Hackathons and Travel](https://t.me/HackathonsAndTravel) — Чат про путешествия и хакатоны. Поиск и создание команд на хакатоны по всему миру.
-* [Codeby.net - чат](https://t.me/joinchat/CUpsCD9ocXL_3JA2hB9k7w) — Чат портала codeby.net о программировании и кибербезопасности.
+* [The Cødeby](https://t.me/thecodeby) — Чат о взломе и защите компьтерных систем. 
 * [Random — дикий запад](https://t.me/random_ru) — Абсолютно ненормальное общение, выяснение отношений, холивары, грязный юмор и всё то, что можно назвать Random. Из /dev/null
 * [ru_ipv6](https://t.me/ru_ipv6) — IPv6 in ru
 * [Сайберсекьюрити и Ко.](https://t.me/alexlitreev_chat) — Чат канала @alexlitreev о безопасности в интернете, уязвимостях и прочих радостях жизни.

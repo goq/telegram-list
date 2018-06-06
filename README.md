@@ -561,6 +561,7 @@
 * [DB Tarantool](https://t.me/tarantoolru) — Русский чат про Tarantool
 * [SQL_Ninja](https://t.me/sql_ninja) — Флудильня SqlCom
 * [PostGIS](https://t.me/postgis) — Обсуждения PostGIS (поддержка географических объектов в PostgreSQL)
+* [PostgresChat](https://t.me/postgreschat) — Чат про PostgreSQL (english)
 
 [(Назад к меню)](#Меню)
 

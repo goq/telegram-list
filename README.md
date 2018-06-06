@@ -77,7 +77,7 @@
 * [Hackspace Saint-Petersburg](https://t.me/hackspb) — News from hackspace spb
 * [GNU/Linux • Instant View](https://t.me/GNULinuxRU) — Новости мира GNU/Linux в Instant View.
 * [Linux News](https://t.me/linux_news_ru) — Новости из мира GNU и Linux.
-* [Каледарь событий игровой индустрии](https://t.me/gamedev_calendar) - Канал информирующий о проходящих событиях игровой индустрии и крупных конференций на территории СНГ.
+* [Каледарь событий игровой индустрии](https://t.me/gamedev_calendar) — Канал информирующий о проходящих событиях игровой индустрии и крупных конференций на территории СНГ.
 * [Наука от Funscience](https://t.me/funscience) — Популярная наука, технологии,  гаджеты, космос.
 * [IT-Страна](https://t.me/itbelarus) — IT-новости из Беларуси.
 * [Qubit (Quantum Daily)](https://t.me/qubit_daily) — Канал технологического евангелиста Microsoft, Стаса Павлова, о последних новостях из мира квантовых вычислений.
@@ -94,7 +94,7 @@
 * [Android Дичь](https://t.me/shitty_android) — Тщательно отобранные статьи и доклады по Android-разработке и смежным темам
 * [TM Feed](https://t.me/tmfeed) — Лента публикаций с Хабра и Гиктаймс
 * [Tproger Channel](https://t.me/tproger_official) — Лента новостей от сообщества "Типичный программист"
-* [Mad Devs Channel](https://t.me/maddevsio) - русскоязычный канал ребят из компании Mad Devs, информация о разработке, тулзах, методах.
+* [Mad Devs Channel](https://t.me/maddevsio) — русскоязычный канал ребят из компании Mad Devs, информация о разработке, тулзах, методах.
 * [Spalmalo Tech Talk](https://t.me/spalmalo_tt) — Спалмало находит и шарит с вами всякие полезности
 * [Technologique](https://t.me/technologique) — Канал о тенденциях в концепциях языков программирования и технологиях разработки ПО
 * [∏ρØƒuñçτØρ Øπτµç∑](https://t.me/libmustdie) — Авторский канал о программировании (Пэйперы, видео, интересные репозитории)
@@ -424,7 +424,7 @@
 ##### Фреймворки, среды разработок, библиотеки
 * [1C](https://t.me/ru_1c) — Чат про "1С:Предприятие"
 * [Angular.js](https://t.me/angular_js) — Чат про AngularJS 1.x
-* [Angular](https://t.me/angular_ru) - Чат про Angular (4.x+)
+* [Angular](https://t.me/angular_ru) — Чат про Angular (4.x+)
 * [Flask](https://t.me/ru_flask) — Чат про Flask и SQLAlchemy (Python Flask)
 * [Django](https://t.me/pydjango) — Чат про Django
 * [Django](https://t.me/django_framework) — Чат про веб-фреймворк для перфекционистов с дедлайнами.
@@ -456,7 +456,7 @@
 * [Netbeans](https://t.me/netbeans_ru) — Группа для тех, кто использует среду разработки Netbeans
 * [Vim](https://t.me/vimedit_ru) — Русскоязычные вимеры
 * [weex](https://t.me/weex_ru) — Чат про Weex
-* [Qt](https://t.me/qt_chat) - Чат по Qt
+* [Qt](https://t.me/qt_chat) — Чат по Qt
 * [rollup](https://t.me/rollup_ru) — Чат про Rollup.js
 * [Ember.js](https://t.me/ember_js) — Cообщество Ember.js
 * [Discourse](https://t.me/joinchat/A8oWNg2L0txJw6_BygaZtg) — Чат про Discourse.
@@ -635,7 +635,7 @@
 * [Битрикс работа](https://t.me/bitrix_work) — Чат про вакансии и работу в сфере Битрикса и IT
 * [Devall — Upwork](https://t.me/upworkcom) — Чат про Upwork для разработчиков
 * [QA](https://t.me/qa_jobs) — Чат про вакансии и работу в сфере тестирования
-* [QAIndia](https://t.me/qaIndia) - Чат про вакансии и работу в сфере тестирования для India
+* [QAIndia](https://t.me/qaIndia) — Чат про вакансии и работу в сфере тестирования для India
 * [Products Jobs](https://t.me/products_jobs) — Вакансии и запросы на поиск работы - управление продуктами, Growth Hacking, Cust Dev, Design Thinking, UX.
 * [Agile Jobs](https://t.me/agile_jobs) — Вакансии, связанные с Agile.
 * [FreeLance](https://t.me/getFreelance) — Чат для поиска фриланс заработка
@@ -707,7 +707,7 @@
 
 ##### Региональные IT-сообщества
 * [SPb Python](https://t.me/spbpython) — Saint-Petersburg Python Interest Group
-* [Spb Qt](https://t.me/qtspb) - Сообщество Qt программистов Санкт-Петербурга
+* [Spb Qt](https://t.me/qtspb) — Сообщество Qt программистов Санкт-Петербурга
 * [KotlinMoscow](https://t.me/KotlinMoscow) — Сообщество Kotlin Moscow
 * [Rubyata](https://t.me/rubyata) — Ruby and Ruby On Rails community in Kyrgyzstan
 * [Moscow.rb](https://t.me/moscowrb) — Московское сообщество Ruby
@@ -746,7 +746,7 @@
 * [pro.embedded](https://t.me/proembedded) — Чат про встраиваемые системы
 * [Про электронику](https://t.me/ru_electronics) — QA чат для решения вопросов, связанных с электроникой. На линии работает контроль.
 * [Анархическая электроника](https://t.me/ru_arduino) — Сателлит [@ru_electronics](https://t.me/ru_electronics) с [около]электронными темами.
-* [Hardware & Radio](https://t.me/hwnrf) - Разговоры об электронике, микроконтроллерах, FPGA, квадрокоптерах, 3D-печати, Software Defined Radio, и всяком таком.
+* [Hardware & Radio](https://t.me/hwnrf) — Разговоры об электронике, микроконтроллерах, FPGA, квадрокоптерах, 3D-печати, Software Defined Radio, и всяком таком.
 
 [(Назад к меню)](#Меню)
 
@@ -850,6 +850,6 @@
 * [@myShowsMeBot](https://t.me/myShowsMeBot) — Помогает следить за выходом новых эпизодов просматриваемых сериалов.
 * [@GBReborn_bot](https://t.me/GBReborn_bot) [Source](https://github.com/RememberTheAir/GroupButler) — Бот для администрирования, использующий официальный API для ботов.
 * [@TGhost_bot](https://t.me/TGhost_bot) — удобный бот для обмена файлами в интернете. Файлы не удаляются и всегда доступны.
-* [@GDGCensorBot](https://t.me/GDGCensorBot) - Бот для удаления матов и ругательств из чата.
-* [@FavouriteStickers](https://t.me/FavouriteStickersBot) - Бот для сохранения понравившихся стикеров.
-* [@cryptographer070bot](https://t.me/cryptographer070bot) - Бот зашифрует и расшифрует ваши файлы и строки, надежным алгоритмом.
+* [@GDGCensorBot](https://t.me/GDGCensorBot) — Бот для удаления матов и ругательств из чата.
+* [@FavouriteStickers](https://t.me/FavouriteStickersBot) — Бот для сохранения понравившихся стикеров.
+* [@cryptographer070bot](https://t.me/cryptographer070bot) — Бот зашифрует и расшифрует ваши файлы и строки, надежным алгоритмом.

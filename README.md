@@ -700,6 +700,7 @@
 * [FFmpeg chat](https://t.me/ffmpeg_ru) — Группа для общения на тему работы с ffmpeg и сопутствующего.
 * [KDE Россия](https://t.me/kde_ru) — Чат русскоязычного сообщества KDE (пользователи и разработчики)
 * [Nextcloud](https://t.me/nextcloudru) — Чат про Nextcloud
+* [Gambala.chat](https://t.me/gambala_chat) — Чат о разработке, бизнесе и личной эффективности.
 
 [(Назад к меню)](#Меню)
 

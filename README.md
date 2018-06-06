@@ -364,6 +364,7 @@
 * [.NET chat RU](https://t.me/DotNetRuChat) — Чат про C# и .NET
 * [ExtremeCodeTV](https://t.me/extremecode) — Чат C# разработчиков (есть свой бот компилирующий C# код)
 * [Clojure](https://t.me/clojure_ru) — Чат про Clojure
+* [Сrystal Lang](https://t.me/crystal_ru) — Чат про Crystal Lang
 * [css_ru](https://t.me/css_ru) — Чат про CSS и немного HTML
 * [Dart в целом](https://t.me/dart_ru) — Чат про dart, обсуждения, помощь.
 * [Delphi & Lazarus](https://t.me/Delphi_Lazarus) — Чат про Delphi и Lazarus

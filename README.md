@@ -102,7 +102,7 @@
 * [javaswag](https://t.me/javaswag) — дайджест интересных и полезных статей из мира Java.
 * [code_news](https://t.me/code_news) — Канал о Программировании, технологиях и алгоритмах. Только O(log n), только хардкор.
 * [ES.next News](https://t.me/esnextnews) — Еженедельная рассылка новостей про Javascript
-* [Fsharp](https://t.me/F_Sharp) — Новости про F#.
+* [F# News](https://t.me/fsharp_news) — Новости про F#
 * [Internet of things Community](https://t.me/IoT_community) — Канал IoT сообщества. Новости Интернета вещей и анонсы встреч сообщества.
 * [Экстраполяция IT](https://t.me/itextrapolation) — Авторский канал об IT, аутсорсе, продуктах и программировании.
 * [iOS Good Reads](https://t.me/iosgr) — Ежедневная порция материалов по iOS разработке
@@ -372,7 +372,7 @@
 * [pro.elixir](https://t.me/proelixir) — Чат про Elixir
 * [Elm Lang](https://t.me/elm_ru) — Чат про язык программирования Elm
 * [FreePascal & Lazarus](https://t.me/freepascal_en) — Чат про FreePascal и Lazarus
-* [Fsharp Chat](https://t.me/Fsharp_chat) — Чат про F#
+* [F# Chat](https://t.me/fsharp_chat) — Чат про F#
 * [pro.go](https://t.me/proGO) — Чат про Golang
 * [Golang RU](https://t.me/gogolang) — Чат про Golang
 * [Haskell](https://t.me/haskellru) — Чат про Haskell

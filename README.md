@@ -492,6 +492,7 @@
 * [otda4a](https://t.me/otda4a) — Чат где можно отдать или обменять ненужное железо. Никаких продаж
 * [macOS Developers](https://t.me/macdev_ru) — Чат о разработке для macOS
 * [ХабраХабр I.T.](https://t.me/habrachat) — Чат информационных технологий.
+* [Google Cloud Platform_ru](https://t.me/goo_cloud_ru) — Чат про Google Cloud Platform
 
 [(Назад к меню)](#Меню)
 

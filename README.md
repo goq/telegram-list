@@ -448,7 +448,7 @@
 * [Symfony](https://t.me/symfony_php) — Чат про Symfony Framework. Атмосферный! Без цензуры :-D
 * [Symfony Ru](https://t.me/symfony_ru) — Чат про Symfony Framework. Со строгими правилами и без мата.
 * [Electron Ru](https://t.me/electron_ru) — Чат про Electron (Atom)
-* [HTML5 GameDev](https://t.me/html5dev) — разработка игр на html5 платформе, pixi.js, cocos2d-js, phaser.js и т.п.
+* [GameDev For Web](https://t.me/gamedevforweb) — разработка игр на html5 платформе, pixi.js, cocos2d-js, phaser.js и т.п.
 * [ООП](https://t.me/oop_ru) — Объектно-Ориентированное Программирование
 * [Fire-Monkey](https://t.me/fire_monkey) — Независимое сообщество разработчиков использующих Fire-Monkey
 * [Vue](https://t.me/vuejs_ru) — Чат про фреймворк Vue.js

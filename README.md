@@ -749,6 +749,7 @@
 ##### Электроника, микроконтроллеры и встраиваемые системы
 * [Catethysis](https://t.me/telecatethysis) — Чат про электронику, программирование микроконтроллеров, stm32
 * [pro.embedded](https://t.me/proembedded) — Чат про встраиваемые системы
+* [pro.ESP8266](https://t.me/pro_esp8266) — Чат про ESP8266
 * [Про электронику](https://t.me/ru_electronics) — QA чат для решения вопросов, связанных с электроникой. На линии работает контроль.
 * [Анархическая электроника](https://t.me/ru_arduino) — Сателлит [@ru_electronics](https://t.me/ru_electronics) с [около]электронными темами.
 * [Hardware & Radio](https://t.me/hwnrf) — Разговоры об электронике, микроконтроллерах, FPGA, квадрокоптерах, 3D-печати, Software Defined Radio, и всяком таком.

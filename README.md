@@ -496,6 +496,8 @@
 * [macOS Developers](https://t.me/macdev_ru) — Чат о разработке для macOS
 * [ХабраХабр I.T.](https://t.me/habrachat) — Чат информационных технологий.
 * [Google Cloud Platform_ru](https://t.me/goo_cloud_ru) — Чат про Google Cloud Platform
+* [FrontCoder](https://t.me/frontcoder) — Чат фронтендеров
+* [Backcoder](https://t.me/backcoderchat) — Чат бэкендеров
 
 [(Назад к меню)](#Меню)
 

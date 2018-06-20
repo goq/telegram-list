@@ -382,7 +382,7 @@
 * [Haskell](https://t.me/haskellru) — Чат про Haskell
 * [Haskell Learn](https://t.me/haskell_learn) — Чат для вопросов по основам Haskell
 * [pro.js](https://t.me/JSlang) — Чат про JavaScript
-* [pro.js.noobs](https://t.me/joinchat/Be4rsT3Uyr1TjmSlrRc77g) — Чат про JavaScript для новичков
+* [JavaScript Noobs](https://t.me/js_noobs_ru) — Чат про JavaScript для новичков
 * [js_ru](https://t.me/js_ru) — Чат про JavaScript
 * [javascript_ru](https://t.me/javascript_ru) — Чат про JavaScript
 * [jsthread](https://t.me/jsthread) — Очень неформальный чат про JavaScript и Node.js (warning! explict content)

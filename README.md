@@ -673,6 +673,7 @@
 [(Назад к меню)](#Меню)
 
 ##### Разные не IT-сообщества
+* [it_flood_ru](https://t.me/it_flood_ru) — Чат для IT флуда
 * [spb_auto](https://t.me/spb_auto) — Чат сообщества spb_auto
 * [P2P, Mesh, Cryptocurrency, etc.](https://t.me/distributed) — Криптовалюты, p2p, mesh и другие средства личной свободы
 * [Политика](https://t.me/ru_politics) — Политические обсуждения

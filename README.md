@@ -304,6 +304,7 @@
 * [Записки инженера](https://t.me/EngineersNotes) — Заметки по технологиям по ту сторону экрана. Электроника в глубоком смысле слова.
 * [ХабраХабр Pub.](https://t.me/habrapub) — Интересные публикации из 4PDA, Tproger и ХабраХабр в Telegram.
 * [HackRF One](https://t.me/hackrfnooelec) — Интересный канал про электронику и RF
+* [Arduino, electronics, soldering](https://t.me/arduino_io) — Канал про Ардуино, электронику и для любителей паять :)
 
 [(Назад к меню)](#Меню)
 

@@ -508,6 +508,7 @@
 * [Чатик игровых аналитиков](https://t.me/gameanalysts) — Ламповый чатик про аналитику в игровой индустрии
 * [Source Engine & Games](https://t.me/sourceengine) — Разработка и обсуждение игр и модов на Source Engine 1,2
 * [Urho3d](https://t.me/urho3d) — Чат разработчиков игр на Urho3D
+* [Godot](https://t.me/godot_ru) — Чат разработчиков игр на Godot Engine
 
 [(Назад к меню)](#Меню)
 

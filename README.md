@@ -560,7 +560,7 @@
 ##### Базы Данных
 * [DBA](https://t.me/dba_ru) — Чат про базы данных и их администрирование
 * [MongoDBRussian](https://t.me/MongoDBRussian) — Чат про MongoDB
-* [Mysql](https://t.me/mysql_ru) — Чат про MySQL
+* [MySQL](https://t.me/ru_mysql) — Чат про MySQL
 * [pgsql](https://t.me/pgsql) — Чат про PostgreSQL
 * [PostgreSQL + 1C + Linux](https://t.me/PostgreSQL_1C_Linux) — Чат про особенности работы PostgreSQL и 1С на Linux
 * [Pony ORM](https://t.me/ponyorm) — Чат про Pony ORM

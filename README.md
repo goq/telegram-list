@@ -411,6 +411,7 @@
 * [R language](https://t.me/rlang_ru) — Язык программирования R, статистика и машинное обучение/data mining
 * [ReasonML и OCaml](https://t.me/reasonml_ru) — Чат про ReasonML и OCaml
 * [pro.ruby](https://t.me/proRuby) — Чат про Ruby
+* [PureBasicRU](https://t.me/purebasicru) — Чат про PureBasic
 * [Ruby & RoR](https://t.me/rubylang) — Чат про Ruby и Ruby on Rails
 * [Ruby School .us](https://t.me/rubyschool) — Чат для учеников руби-школы
 * [Ruby Talks](https://t.me/ruby_talks) — Про Ruby

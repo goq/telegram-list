@@ -189,7 +189,7 @@
 [(Назад к меню)](#Меню)
 
 ##### Каналы информации по Информационной безопасности
-* [ИБач](https://t.me/ibach) — Канал об Информационной Безопасности
+* [ИБач](https://t.me/ibach2) — Канал об Информационной Безопасности
 * [Hacker News на русском](https://t.me/HNews) — Новости информационной безопасности
 * [Hacker News En](https://t.me/hacker_news_feed) — Hacker News (english)
 * [IT Security Alerts](https://t.me/itsecalert) — Оповещение о крупных уязвимостях в софте и сервисах

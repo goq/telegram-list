@@ -571,7 +571,7 @@
 * [SQL_Ninja](https://t.me/sql_ninja) — Флудильня SqlCom
 * [PostGIS](https://t.me/postgis) — Обсуждения PostGIS (поддержка географических объектов в PostgreSQL)
 * [PostgresChat](https://t.me/postgreschat) — Чат про PostgreSQL (english)
-* [dbmsdev](https://t.me/dbmsdev) - Чат о разработке СУБД
+* [dbmsdev](https://t.me/dbmsdev) — Чат о разработке СУБД
 
 [(Назад к меню)](#Меню)
 

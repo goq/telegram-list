@@ -212,7 +212,6 @@
 * [BigQuery Insights](https://t.me/bigquery) — Аналитика и большие данные в Google BigQuery, инсайты, data science, UX / WEB analytics, big data, digital marketing.
 * [Boring Berlin Scientist](https://t.me/boberscience) — Useful articles about Data Science, Machine Learning, Data Engineering and not only.
 * [Чаты и группы телеграма по теме](#big-data-Машинное-обучение-deep-learning-и-data-science)
-* [Группа Kaggle Global](https://t.me/kaggle) - чат о проблемах, идеях, ядрах и сотрудничестве в области Kaggle по проблемам
 
 [(Назад к меню)](#Меню)
 
@@ -587,6 +586,7 @@
 * [Нейронные сети (Microsoft Developer)](https://t.me/neuroworkshop) — Чат про нейронные сети от Microsoft Developer
 * [NLP_RU Natural Language Processing](https://t.me/nlp_ru) — Чат про Natural Language Processing и Text Mining
 * [NLP Chat](https://telegram.me/joinchat/ABI4p0BMRAByXDgJqo5uhQ) — Чат про Natural Language Processing
+* [Группа Kaggle Global](https://t.me/kaggle) — Чат про Kaggle, решение проблем, идеи и сотрудничество
 
 [(Назад к меню)](#Меню)
 

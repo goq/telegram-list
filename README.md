@@ -212,6 +212,7 @@
 * [BigQuery Insights](https://t.me/bigquery) — Аналитика и большие данные в Google BigQuery, инсайты, data science, UX / WEB analytics, big data, digital marketing.
 * [Boring Berlin Scientist](https://t.me/boberscience) — Useful articles about Data Science, Machine Learning, Data Engineering and not only.
 * [Чаты и группы телеграма по теме](#big-data-Машинное-обучение-deep-learning-и-data-science)
+* [Группа Kaggle Global](https://t.me/kaggle) - чат о проблемах, идеях, ядрах и сотрудничестве в области Kaggle по проблемам
 
 [(Назад к меню)](#Меню)
 

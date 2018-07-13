@@ -462,7 +462,7 @@
 * [WordPress](https://t.me/wordpress1) — Чат про WordPress
 * [Wordpress for developers](https://t.me/wp4dev) — Группа для разработчиков на WordPress
 * [Netbeans](https://t.me/netbeans_ru) — Группа для тех, кто использует среду разработки Netbeans
-* [Vim](https://t.me/vimedit_ru) — Русскоязычные вимеры
+* [pro.vim](https://t.me/vimers) — Русскоязычные вимеры
 * [weex](https://t.me/weex_ru) — Чат про Weex
 * [Qt](https://t.me/qt_chat) — Чат по Qt
 * [rollup](https://t.me/rollup_ru) — Чат про Rollup.js

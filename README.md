@@ -593,6 +593,7 @@
 * [NLP_RU Natural Language Processing](https://t.me/nlp_ru) — Чат про Natural Language Processing и Text Mining
 * [NLP Chat](https://telegram.me/joinchat/ABI4p0BMRAByXDgJqo5uhQ) — Чат про Natural Language Processing
 * [Группа Kaggle Global](https://t.me/kaggle) — Чат про Kaggle, решение проблем, идеи и сотрудничество
+* [Machine Learning World](http://t.me/ml_world) — Все по Data Science и Machine Learning
 
 [(Назад к меню)](#Меню)
 

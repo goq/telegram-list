@@ -257,6 +257,7 @@
 * [get_job()](https://t.me/get_job_or_die) — Вакансии с зарплатой 200K+ для программистов.
 * [New.HR Vacancy](https://t.me/newhr) — Вакансии в IT & Digital для тех, кто не ищет работу
 * [pro.JVM Jobs](https://t.me/jvmjobs) — Вакансии Java
+* [Scala Jobs Feed](https://t.me/scala_jobs_feed) - Вакансии Scala
 
 [(Назад к меню)](#Меню)
 
@@ -423,6 +424,7 @@
 * [RustLang](https://t.me/rustlang_ru) — Чат про Rust
 * [embedded.rs](https://t.me/embedded_rs) — Чат про Embedded на Rust
 * [Scala](https://t.me/scala_ru) — Чат про Scala
+* [Scala PONV](https://t.me/scala_ponv) - Неформальный чат про Scala, FP, и не только 
 * [TypeScript + Flow = ❤](https://t.me/typescript_ru) — Чат про TypeScript и Flow
 * [(F|R|FR)P](https://t.me/frp_ru) — Функциональное Реактивное Программирование
 * [ReactiveX](https://t.me/reactivex) — Про реактивное программирование
@@ -667,6 +669,7 @@
 * [YiiJobs](https://t.me/yiijobs) — Вакансии, проекты, фриланс - Yii
 * [For Products and Projects Managers](https://t.me/Forproducts) — Вакансии для продактов и проджектов.
 * [Вакансии для аналитиков](https://t.me/analysts_hunter) — Чат для поиска работы и специалистов в области интернет-аналитики
+* [Scala Jobs Chat](https://t.me/scala_jobs) - Чат со Scala вакансиями, можно в меру флудить.
 
 [(Назад к меню)](#Меню)
 

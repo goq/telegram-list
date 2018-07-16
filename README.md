@@ -215,6 +215,7 @@
 * [WebAnalytics](https://t.me/webanalyst) — Канал про веб-аналитику, по повышению конверсии и про анализ данных в маркетинге
 * [BigQuery Insights](https://t.me/bigquery) — Аналитика и большие данные в Google BigQuery, инсайты, data science, UX / WEB analytics, big data, digital marketing.
 * [Boring Berlin Scientist](https://t.me/boberscience) — Useful articles about Data Science, Machine Learning, Data Engineering and not only.
+* [Machine Learning World](http://t.me/ml_world) — Все по Data Science и Machine Learning
 * [Чаты и группы телеграма по теме](#big-data-Машинное-обучение-deep-learning-и-data-science)
 
 [(Назад к меню)](#Меню)
@@ -593,7 +594,6 @@
 * [NLP_RU Natural Language Processing](https://t.me/nlp_ru) — Чат про Natural Language Processing и Text Mining
 * [NLP Chat](https://telegram.me/joinchat/ABI4p0BMRAByXDgJqo5uhQ) — Чат про Natural Language Processing
 * [Группа Kaggle Global](https://t.me/kaggle) — Чат про Kaggle, решение проблем, идеи и сотрудничество
-* [Machine Learning World](http://t.me/ml_world) — Все по Data Science и Machine Learning
 
 [(Назад к меню)](#Меню)
 

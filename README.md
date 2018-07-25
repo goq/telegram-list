@@ -645,6 +645,7 @@
 * [iOS Good Talks](https://t.me/iosgt) — Чат подписчиков канала iOS Good Reads: обсуждение публикуемых материалов и холивары
 * [Android Architecture](https://t.me/Android_Architecture) — Чат по архитектуре в андроид приложениях.
 * [Android Dev Podcast](https://t.me/androiddevpodcast) — Чат для обсуждения Android Dev подкаста.
+* [Moxy](https://t.me/moxy_ru) — Чат популярного MVP фреймворка Moxy.
 * [Universal Windows Platform](https://t.me/uwp_ru) — Чат разработчиков под Windows и Windows Phone.
 * [Android NDK (C++)](https://t.me/ndk_ru) — Чат про Android NDK (C++)
 

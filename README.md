@@ -204,6 +204,7 @@
 * [Киберshit](https://t.me/cybershit) — Канал про технологии и информационную безопасность
 * [WEBSITE SECURITY](https://t.me/sitesecurity) — Все о безопасности сайтов: диагностика, лечение от вирусов и защита от взлома.
 * [HttpNotOnly](https://t.me/somesecurity) — Security techniques and researches
+* [Tailor Jerry](https://t.me/tailorjerry) – Нетворкинг и социальная инженерия.
 
 [(Назад к меню)](#Меню)
 
@@ -227,7 +228,6 @@
 * [PRO Стартапы и бизнес](https://t.me/startupnews) — Новости про стартапы и бизнес
 * [AIN.UA](https://t.me/ain_ua_tg) — Новости интернет-бизнеса, электронной коммерции, интернет-маркетинга, стартапов, социальных сетей и блогов.
 * [The Real Talk](https://t.me/therealtalkme) — Разработка и продвижение чатботов в мессенджерах. Канал для предпринимателей, маркетологов и разработчиков.
-* [Tailor Jerry](https://t.me/tailorjerry) – Нетворкинг и социальная инженерия.
 
 [(Назад к меню)](#Меню)
 

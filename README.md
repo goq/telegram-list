@@ -885,3 +885,4 @@
 * [@GDGCensorBot](https://t.me/GDGCensorBot) — Бот для удаления матов и ругательств из чата.
 * [@FavouriteStickers](https://t.me/FavouriteStickersBot) — Бот для сохранения понравившихся стикеров.
 * [@cryptographer070bot](https://t.me/cryptographer070bot) — Бот зашифрует и расшифрует ваши файлы и строки, надежным алгоритмом.
+* [@memingbot](https://t.me/memingbot) - Бот для создания мемов с вашим текстом на различных шаблонах.

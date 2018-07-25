@@ -313,6 +313,7 @@
 * [ХабраХабр Pub.](https://t.me/habrapub) — Интересные публикации из 4PDA, Tproger и ХабраХабр в Telegram.
 * [HackRF One](https://t.me/hackrfnooelec) — Интересный канал про электронику и RF
 * [Arduino, electronics, soldering](https://t.me/arduino_io) — Канал про Ардуино, электронику и для любителей паять :)
+* [Lego](https://t.me/ru_lego) — Канал посвященный конструкторам семейства Lego
 
 [(Назад к меню)](#Меню)
 

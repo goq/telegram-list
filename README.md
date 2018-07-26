@@ -648,6 +648,7 @@
 * [Moxy](https://t.me/moxy_ru) — Чат популярного MVP фреймворка Moxy.
 * [Universal Windows Platform](https://t.me/uwp_ru) — Чат разработчиков под Windows и Windows Phone.
 * [Android NDK (C++)](https://t.me/ndk_ru) — Чат про Android NDK (C++)
+* [Flutter Developers](https://t.me/flutter_rus) — Чат про Flutter
 
 [(Назад к меню)](#Меню)
 

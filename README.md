@@ -457,7 +457,7 @@
 * [pro.net](https://t.me/pro_net) — Обсуждение .NET Framework и всего, что с ним связано.
 * [Node.js](https://t.me/nodejs_ru) — Чат про NodeJS
 * [CodenameCRUD](https://t.me/codenamecrud) — Чат про Ruby on Rails
-* [React.js](https://t.me/react_js) — Чат про React.JS
+* [React](https://t.me/react_ru) — Чат про React
 * [Битрикс для разработчиков](https://t.me/bitrixfordevelopers) — Чат про Битрикс
 * [Spring Framework and more](https://t.me/springframeworkio) — Русскоязычный Чат о Spring Framework
 * [Symfony](https://t.me/symfony_php) — Чат про Symfony Framework. Атмосферный! Без цензуры :-D

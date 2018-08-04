@@ -91,6 +91,7 @@
 * [GameDev Architecture](https://t.me/gamedev_architecture) — Автор пишет о том как игровым компаниям строить правильные, эффективные и красивые решения. Качество кода, проектирование архитектуры, лучшие практики.
 * [Апатичный дотнетчик](https://t.me/dotnetter) — Агрегатор новостей и статей из мира .NET
 * [pro.elixir_news](https://t.me/proelixir_news) — Новости из мира Elixir
+* [Elixir Formula](https://t.me/elixir_formula) — Канал новостей и интересных статей в мире Эликсира.
 * [Мобайл: дизайн и разработка](https://t.me/aboutmobile) — Канал для всех, кто создает мобильные приложения
 * [Android Дичь](https://t.me/shitty_android) — Тщательно отобранные статьи и доклады по Android-разработке и смежным темам
 * [TM Feed](https://t.me/tmfeed) — Лента публикаций с Хабра и Гиктаймс

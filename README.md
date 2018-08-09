@@ -10,7 +10,7 @@
 
 Канал недели:
 
-* [The After Times](https://t.me/theaftertimes) — Несерьезный дайджест IT. Паста, мысли, критика.
+* [Apple News](https://t.me/joinchat/AAAAAFGsFzsOyordzqs_Qg) — Новости от Apple без рекламы и кликбейтов. Только проверенные вести из надёжных источников!
 
 -----
 
@@ -59,6 +59,7 @@
 ## Каналы
 
 ##### Новости
+* [Apple News](https://t.me/joinchat/AAAAAFGsFzsOyordzqs_Qg) — Новости от Apple без рекламы и кликбейтов. Только проверенные вести из надёжных источников!
 * [opennet news](https://t.me/opennews) — Новости opennet
 * [SPbLUG news](https://t.me/spblug) — Канал новостей Санкт-Петербургской группы пользователей Linux (SPbLUG)
 * [DevOps news](https://t.me/devops_news) — Новости DevOps

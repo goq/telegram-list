@@ -774,6 +774,7 @@
 * [Airbase](https://t.me/airbase_ru) — чат форумов Авиабазы. Военная техника (в основном авиация и флот), политика, компьютеры, литература, кино и многое другое.
 * [Funscience](https://t.me/funscience_chat) — группа канала [@Funscience](https://t.me/funscience)
 * [Aurora Borealis Hunters](https://t.me/aurora_ru) — Чат фото- и видео-охотников за Северным Сиянием!
+* [Sunsurfers](https://tg.telepult.pro/sunopenmeetups) — Открытый чат сообщества [@Sunsurfers.ru](https://tg.telepult.pro/joinchat/AAAAAEgLO-10ZW0pbdaSkA) Темы - путешествия, саморазвитие.
 
 [(Назад к меню)](#Меню)
 

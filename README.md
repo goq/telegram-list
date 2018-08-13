@@ -10,7 +10,7 @@
 
 Канал недели:
 
-* [The After Times](https://t.me/theaftertimes) — Несерьезный дайджест IT. Паста, мысли, критика.
+* [Apple News](https://t.me/joinchat/AAAAAFGsFzsOyordzqs_Qg) — Новости от Apple без рекламы и кликбейтов. Только проверенные вести из надёжных источников!
 
 -----
 
@@ -59,6 +59,7 @@
 ## Каналы
 
 ##### Новости
+* [Apple News](https://t.me/joinchat/AAAAAFGsFzsOyordzqs_Qg) — Новости от Apple без рекламы и кликбейтов. Только проверенные вести из надёжных источников!
 * [opennet news](https://t.me/opennews) — Новости opennet
 * [SPbLUG news](https://t.me/spblug) — Канал новостей Санкт-Петербургской группы пользователей Linux (SPbLUG)
 * [DevOps news](https://t.me/devops_news) — Новости DevOps
@@ -91,6 +92,7 @@
 * [GameDev Architecture](https://t.me/gamedev_architecture) — Автор пишет о том как игровым компаниям строить правильные, эффективные и красивые решения. Качество кода, проектирование архитектуры, лучшие практики.
 * [Апатичный дотнетчик](https://t.me/dotnetter) — Агрегатор новостей и статей из мира .NET
 * [pro.elixir_news](https://t.me/proelixir_news) — Новости из мира Elixir
+* [Elixir Formula](https://t.me/elixir_formula) — Канал новостей и интересных статей в мире Эликсира.
 * [Мобайл: дизайн и разработка](https://t.me/aboutmobile) — Канал для всех, кто создает мобильные приложения
 * [Android Дичь](https://t.me/shitty_android) — Тщательно отобранные статьи и доклады по Android-разработке и смежным темам
 * [TM Feed](https://t.me/tmfeed) — Лента публикаций с Хабра и Гиктаймс
@@ -181,7 +183,8 @@
 * [Front End World](https://t.me/front_end_first) — Англоязычный канал с новостями и статьями про фронтэнд
 * [Platon on frontend](https://t.me/platononfrontend) — Заметки, мысли и новости о фронтенде.
 * [Фронтенд Юность](https://t.me/frontend_u_news) — Канал подкаста «Фронтенд Юность» (18+).  Самый честный подкаст о фронтенде.
-* [Абрамов Позвонит](https://t.me/ReduxAnotherDay) — Канал информационно-развлекательной направленности про веб-разработку. Тренды, мемы, шутеечки и Дэн.
+* [Абрамов Позвонит](https://t.me/ReduxAnotherDay) — Канал информационно-развлекательной направленности про веб-разработку.
+* [WebDEV](https://t.me/webb_dev) — Полезные ресурсы для Backend и Frontend разработчиков, новости и статьи.
 
 [(Назад к меню)](#Меню)
 
@@ -204,6 +207,7 @@
 * [Киберshit](https://t.me/cybershit) — Канал про технологии и информационную безопасность
 * [WEBSITE SECURITY](https://t.me/sitesecurity) — Все о безопасности сайтов: диагностика, лечение от вирусов и защита от взлома.
 * [HttpNotOnly](https://t.me/somesecurity) — Security techniques and researches
+* [Tailor Jerry](https://t.me/tailorjerry) – Нетворкинг и социальная инженерия.
 
 [(Назад к меню)](#Меню)
 
@@ -358,8 +362,9 @@
 * [Airbase channel](https://t.me/airbase) — Канал Авиабазы. Военная техника, политика и просто персональный блог.
 * [Человек и машина](https://t.me/manandthemachine) — Записки о жизни и работе с технологиями, машинами и людьми.
 * [Свидетель Сингулярности](https://t.me/SingularityWitness) — Ненавязчивые размышления о технологиях и Будущем.
-* [Ушлый перекуп](https://t.me/perecup) — Канал про торговлю и продажи в целом. Рассказы про торговый бизнес без купюр.
-* [Продуктивный Игнат](https://t.me/like_ignat) — Канал про эффективность на работе и общую адекватность 
+* [SQA Underhood](https://t.me/sqaunderhood) - Канал о тестировании ПО
+* [brain_dump_etc](https://t.me/brain_dump_etc) — Канал [Алексея Пирогова](https://t.me/astynax) Дампы мыслей, свалка ссылок, программизмы.
+* [Продуктивный Игнат](https://t.me/like_ignat) — Канал про эффективность на работе и адекватность в целом
 
 [(Назад к меню)](#Меню)
 
@@ -456,7 +461,7 @@
 * [pro.net](https://t.me/pro_net) — Обсуждение .NET Framework и всего, что с ним связано.
 * [Node.js](https://t.me/nodejs_ru) — Чат про NodeJS
 * [CodenameCRUD](https://t.me/codenamecrud) — Чат про Ruby on Rails
-* [React.js](https://t.me/react_js) — Чат про React.JS
+* [React](https://t.me/react_ru) — Чат про React
 * [Битрикс для разработчиков](https://t.me/bitrixfordevelopers) — Чат про Битрикс
 * [Spring Framework and more](https://t.me/springframeworkio) — Русскоязычный Чат о Spring Framework
 * [Symfony](https://t.me/symfony_php) — Чат про Symfony Framework. Атмосферный! Без цензуры :-D
@@ -571,7 +576,7 @@
 ##### Базы Данных
 * [DBA](https://t.me/dba_ru) — Чат про базы данных и их администрирование
 * [MongoDBRussian](https://t.me/MongoDBRussian) — Чат про MongoDB
-* [Mysql](https://t.me/mysql_ru) — Чат про MySQL
+* [MySQL](https://t.me/mysql_db) — Чат про MySQL
 * [pgsql](https://t.me/pgsql) — Чат про PostgreSQL
 * [PostgreSQL + 1C + Linux](https://t.me/PostgreSQL_1C_Linux) — Чат про особенности работы PostgreSQL и 1С на Linux
 * [Pony ORM](https://t.me/ponyorm) — Чат про Pony ORM
@@ -595,6 +600,7 @@
 * [NLP_RU Natural Language Processing](https://t.me/nlp_ru) — Чат про Natural Language Processing и Text Mining
 * [NLP Chat](https://telegram.me/joinchat/ABI4p0BMRAByXDgJqo5uhQ) — Чат про Natural Language Processing
 * [Группа Kaggle Global](https://t.me/kaggle) — Чат про Kaggle, решение проблем, идеи и сотрудничество
+* [AI / Искусственный Интеллект](https://t.me/ai_life) — Чат про искусственный интеллект
 
 [(Назад к меню)](#Меню)
 
@@ -644,8 +650,10 @@
 * [iOS Good Talks](https://t.me/iosgt) — Чат подписчиков канала iOS Good Reads: обсуждение публикуемых материалов и холивары
 * [Android Architecture](https://t.me/Android_Architecture) — Чат по архитектуре в андроид приложениях.
 * [Android Dev Podcast](https://t.me/androiddevpodcast) — Чат для обсуждения Android Dev подкаста.
+* [Moxy](https://t.me/moxy_ru) — Чат популярного MVP фреймворка Moxy.
 * [Universal Windows Platform](https://t.me/uwp_ru) — Чат разработчиков под Windows и Windows Phone.
 * [Android NDK (C++)](https://t.me/ndk_ru) — Чат про Android NDK (C++)
+* [Flutter Developers](https://t.me/flutter_rus) — Чат про Flutter
 
 [(Назад к меню)](#Меню)
 
@@ -883,3 +891,4 @@
 * [@GDGCensorBot](https://t.me/GDGCensorBot) — Бот для удаления матов и ругательств из чата.
 * [@FavouriteStickers](https://t.me/FavouriteStickersBot) — Бот для сохранения понравившихся стикеров.
 * [@cryptographer070bot](https://t.me/cryptographer070bot) — Бот зашифрует и расшифрует ваши файлы и строки, надежным алгоритмом.
+* [@memingbot](https://t.me/memingbot) - Бот для создания мемов с вашим текстом на различных шаблонах.

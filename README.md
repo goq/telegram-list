@@ -10,7 +10,7 @@
 
 Канал недели:
 
-* [The After Times](https://t.me/theaftertimes) — Несерьезный дайджест IT. Паста, мысли, критика.
+* [Apple News](https://t.me/joinchat/AAAAAFGsFzsOyordzqs_Qg) — Новости от Apple без рекламы и кликбейтов. Только проверенные вести из надёжных источников!
 
 -----
 
@@ -59,6 +59,7 @@
 ## Каналы
 
 ##### Новости
+* [Apple News](https://t.me/joinchat/AAAAAFGsFzsOyordzqs_Qg) — Новости от Apple без рекламы и кликбейтов. Только проверенные вести из надёжных источников!
 * [opennet news](https://t.me/opennews) — Новости opennet
 * [SPbLUG news](https://t.me/spblug) — Канал новостей Санкт-Петербургской группы пользователей Linux (SPbLUG)
 * [DevOps news](https://t.me/devops_news) — Новости DevOps
@@ -91,6 +92,7 @@
 * [GameDev Architecture](https://t.me/gamedev_architecture) — Автор пишет о том как игровым компаниям строить правильные, эффективные и красивые решения. Качество кода, проектирование архитектуры, лучшие практики.
 * [Апатичный дотнетчик](https://t.me/dotnetter) — Агрегатор новостей и статей из мира .NET
 * [pro.elixir_news](https://t.me/proelixir_news) — Новости из мира Elixir
+* [Elixir Formula](https://t.me/elixir_formula) — Канал новостей и интересных статей в мире Эликсира.
 * [Мобайл: дизайн и разработка](https://t.me/aboutmobile) — Канал для всех, кто создает мобильные приложения
 * [Android Дичь](https://t.me/shitty_android) — Тщательно отобранные статьи и доклады по Android-разработке и смежным темам
 * [TM Feed](https://t.me/tmfeed) — Лента публикаций с Хабра и Гиктаймс
@@ -147,7 +149,11 @@
 * [geeks content](https://t.me/geekscontent) — Наработки гиков из повседневщины и понравившиеся им чтиво.
 * [Уютный IT адочек](https://t.me/lovely_it_hell) — Канал для технических менеджеров, тимлидов и техдиров об управлении командой, знаниями и soft-skills
 * [Python etc](https://t.me/pythonetc) — Авторский канал с ежедневными заметками про Python в частности и программирование в целом (English).
-* [Девелопер расскажет](https://t.me/devtipshere) - Новости + разные интересные полезняшки.
+* [Боль Тимлида](https://t.me/TeamLeadTalks) — Канал для тимлидов и им сочувствующих. Появился как артефакт Teamlead Conf, но с тех пор живёт своей полноценной жизнью.
+* [DocOps / Docs as code](https://t.me/docops) — Про документацию, подход docs-as-code и управление знаниями в командах разработки. Задача канала — строить мосты между техническими писателями, разработчиками и бизнесом.
+* [Technical Writing 101](https://t.me/technical_writing) — Личный технический блог, посвященный новым тенденциям, новостям и другим темам в области технической коммуникации и всему, где присутствуют буквы.
+* [Techwriter's Daily](https://t.me/techwriters) — Канал для технических писателей: статьи, видео, обзоры инструментов, анонсы конференций, вакансии и многое другое.
+* [Девелопер расскажет](https://t.me/devtipshere) — Новости, статьи и книги по разработке.
 
 [(Назад к меню)](#Меню)
 
@@ -178,7 +184,8 @@
 * [Front End World](https://t.me/front_end_first) — Англоязычный канал с новостями и статьями про фронтэнд
 * [Platon on frontend](https://t.me/platononfrontend) — Заметки, мысли и новости о фронтенде.
 * [Фронтенд Юность](https://t.me/frontend_u_news) — Канал подкаста «Фронтенд Юность» (18+).  Самый честный подкаст о фронтенде.
-* [Абрамов Позвонит](https://t.me/ReduxAnotherDay) — Канал информационно-развлекательной направленности про веб-разработку. Тренды, мемы, шутеечки и Дэн.
+* [Абрамов Позвонит](https://t.me/ReduxAnotherDay) — Канал информационно-развлекательной направленности про веб-разработку.
+* [WebDEV](https://t.me/webb_dev) — Полезные ресурсы для Backend и Frontend разработчиков, новости и статьи.
 
 [(Назад к меню)](#Меню)
 
@@ -191,6 +198,7 @@
 
 ##### Каналы информации по Информационной безопасности
 * [ИБач](https://t.me/ibach) — Канал об Информационной Безопасности
+* [ИБач2.0](https://t.me/ibach2) —  Форк канала выше, весь новый материал публикуется туда
 * [Hacker News на русском](https://t.me/HNews) — Новости информационной безопасности
 * [Hacker News En](https://t.me/hacker_news_feed) — Hacker News (english)
 * [IT Security Alerts](https://t.me/itsecalert) — Оповещение о крупных уязвимостях в софте и сервисах
@@ -200,6 +208,7 @@
 * [Киберshit](https://t.me/cybershit) — Канал про технологии и информационную безопасность
 * [WEBSITE SECURITY](https://t.me/sitesecurity) — Все о безопасности сайтов: диагностика, лечение от вирусов и защита от взлома.
 * [HttpNotOnly](https://t.me/somesecurity) — Security techniques and researches
+* [Tailor Jerry](https://t.me/tailorjerry) – Нетворкинг и социальная инженерия.
 
 [(Назад к меню)](#Меню)
 
@@ -211,6 +220,7 @@
 * [WebAnalytics](https://t.me/webanalyst) — Канал про веб-аналитику, по повышению конверсии и про анализ данных в маркетинге
 * [BigQuery Insights](https://t.me/bigquery) — Аналитика и большие данные в Google BigQuery, инсайты, data science, UX / WEB analytics, big data, digital marketing.
 * [Boring Berlin Scientist](https://t.me/boberscience) — Useful articles about Data Science, Machine Learning, Data Engineering and not only.
+* [Machine Learning World](http://t.me/ml_world) — Все по Data Science и Machine Learning
 * [Чаты и группы телеграма по теме](#big-data-Машинное-обучение-deep-learning-и-data-science)
 
 [(Назад к меню)](#Меню)
@@ -253,6 +263,7 @@
 * [get_job()](https://t.me/get_job_or_die) — Вакансии с зарплатой 200K+ для программистов.
 * [New.HR Vacancy](https://t.me/newhr) — Вакансии в IT & Digital для тех, кто не ищет работу
 * [pro.JVM Jobs](https://t.me/jvmjobs) — Вакансии Java
+* [Scala Jobs Feed](https://t.me/scala_jobs_feed) - Вакансии Scala
 
 [(Назад к меню)](#Меню)
 
@@ -352,7 +363,9 @@
 * [Airbase channel](https://t.me/airbase) — Канал Авиабазы. Военная техника, политика и просто персональный блог.
 * [Человек и машина](https://t.me/manandthemachine) — Записки о жизни и работе с технологиями, машинами и людьми.
 * [Свидетель Сингулярности](https://t.me/SingularityWitness) — Ненавязчивые размышления о технологиях и Будущем.
-* [Ушлый перекуп](https://t.me/perecup) — Канал про торговлю и продажи в целом. Рассказы про торговый бизнес без купюр.
+* [SQA Underhood](https://t.me/sqaunderhood) - Канал о тестировании ПО
+* [brain_dump_etc](https://t.me/brain_dump_etc) — Канал [Алексея Пирогова](https://t.me/astynax) Дампы мыслей, свалка ссылок, программизмы.
+* [Продуктивный Игнат](https://t.me/like_ignat) — Канал про эффективность на работе и адекватность в целом
 
 [(Назад к меню)](#Меню)
 
@@ -409,6 +422,7 @@
 * [Devall — PHP](https://t.me/joinchat/AAtJOjx9l5F9IhkHIIVP9Q) — Чат про PHP. Флуд
 * [PowerShell Pro](https://t.me/powershell_pro) — Язык программирования PowerShell
 * [PowerShellRus](https://t.me/powershellrus) — О Powershell на русском
+* [PureBasicRU](https://t.me/purebasicru) — Чат про PureBasic
 * [R language](https://t.me/rlang_ru) — Язык программирования R, статистика и машинное обучение/data mining
 * [ReasonML и OCaml](https://t.me/reasonml_ru) — Чат про ReasonML и OCaml
 * [pro.ruby](https://t.me/proRuby) — Чат про Ruby
@@ -418,6 +432,7 @@
 * [RustLang](https://t.me/rustlang_ru) — Чат про Rust
 * [embedded.rs](https://t.me/embedded_rs) — Чат про Embedded на Rust
 * [Scala](https://t.me/scala_ru) — Чат про Scala
+* [Scala PONV](https://t.me/scala_ponv) - Неформальный чат про Scala, FP, и не только
 * [TypeScript + Flow = ❤](https://t.me/typescript_ru) — Чат про TypeScript и Flow
 * [(F|R|FR)P](https://t.me/frp_ru) — Функциональное Реактивное Программирование
 * [ReactiveX](https://t.me/reactivex) — Про реактивное программирование
@@ -447,7 +462,7 @@
 * [pro.net](https://t.me/pro_net) — Обсуждение .NET Framework и всего, что с ним связано.
 * [Node.js](https://t.me/nodejs_ru) — Чат про NodeJS
 * [CodenameCRUD](https://t.me/codenamecrud) — Чат про Ruby on Rails
-* [React.js](https://t.me/react_js) — Чат про React.JS
+* [React](https://t.me/react_ru) — Чат про React
 * [Битрикс для разработчиков](https://t.me/bitrixfordevelopers) — Чат про Битрикс
 * [Spring Framework and more](https://t.me/springframeworkio) — Русскоязычный Чат о Spring Framework
 * [Symfony](https://t.me/symfony_php) — Чат про Symfony Framework. Атмосферный! Без цензуры :-D
@@ -460,7 +475,7 @@
 * [WordPress](https://t.me/wordpress1) — Чат про WordPress
 * [Wordpress for developers](https://t.me/wp4dev) — Группа для разработчиков на WordPress
 * [Netbeans](https://t.me/netbeans_ru) — Группа для тех, кто использует среду разработки Netbeans
-* [Vim](https://t.me/vimedit_ru) — Русскоязычные вимеры
+* [pro.vim](https://t.me/vimers) — Русскоязычные вимеры
 * [weex](https://t.me/weex_ru) — Чат про Weex
 * [Qt](https://t.me/qt_chat) — Чат по Qt
 * [rollup](https://t.me/rollup_ru) — Чат про Rollup.js
@@ -509,6 +524,7 @@
 * [Чатик игровых аналитиков](https://t.me/gameanalysts) — Ламповый чатик про аналитику в игровой индустрии
 * [Source Engine & Games](https://t.me/sourceengine) — Разработка и обсуждение игр и модов на Source Engine 1,2
 * [Urho3d](https://t.me/urho3d) — Чат разработчиков игр на Urho3D
+* [pro.graphon (and gamedev)](https://t.me/prographon) —  Чат про стандарты консорциума Khronos: OpenGL, OpenCL. Работы, туторы, интересные материалы
 
 [(Назад к меню)](#Меню)
 
@@ -561,7 +577,7 @@
 ##### Базы Данных
 * [DBA](https://t.me/dba_ru) — Чат про базы данных и их администрирование
 * [MongoDBRussian](https://t.me/MongoDBRussian) — Чат про MongoDB
-* [Mysql](https://t.me/mysql_ru) — Чат про MySQL
+* [MySQL](https://t.me/mysql_db) — Чат про MySQL
 * [pgsql](https://t.me/pgsql) — Чат про PostgreSQL
 * [PostgreSQL + 1C + Linux](https://t.me/PostgreSQL_1C_Linux) — Чат про особенности работы PostgreSQL и 1С на Linux
 * [Pony ORM](https://t.me/ponyorm) — Чат про Pony ORM
@@ -571,6 +587,7 @@
 * [SQL_Ninja](https://t.me/sql_ninja) — Флудильня SqlCom
 * [PostGIS](https://t.me/postgis) — Обсуждения PostGIS (поддержка географических объектов в PostgreSQL)
 * [PostgresChat](https://t.me/postgreschat) — Чат про PostgreSQL (english)
+* [dbmsdev](https://t.me/dbmsdev) — Чат о разработке СУБД
 
 [(Назад к меню)](#Меню)
 
@@ -583,6 +600,8 @@
 * [Нейронные сети (Microsoft Developer)](https://t.me/neuroworkshop) — Чат про нейронные сети от Microsoft Developer
 * [NLP_RU Natural Language Processing](https://t.me/nlp_ru) — Чат про Natural Language Processing и Text Mining
 * [NLP Chat](https://telegram.me/joinchat/ABI4p0BMRAByXDgJqo5uhQ) — Чат про Natural Language Processing
+* [Группа Kaggle Global](https://t.me/kaggle) — Чат про Kaggle, решение проблем, идеи и сотрудничество
+* [AI / Искусственный Интеллект](https://t.me/ai_life) — Чат про искусственный интеллект
 
 [(Назад к меню)](#Меню)
 
@@ -631,8 +650,11 @@
 * [Xamarin Developers Ukraine](https://t.me/xamarin_ukraine) — Чат и meetup-сообщество о разработке на платформе Xamarin под Android, IOS, Windows, MacOs в Украине
 * [iOS Good Talks](https://t.me/iosgt) — Чат подписчиков канала iOS Good Reads: обсуждение публикуемых материалов и холивары
 * [Android Architecture](https://t.me/Android_Architecture) — Чат по архитектуре в андроид приложениях.
+* [Android Dev Podcast](https://t.me/androiddevpodcast) — Чат для обсуждения Android Dev подкаста.
+* [Moxy](https://t.me/moxy_ru) — Чат популярного MVP фреймворка Moxy.
 * [Universal Windows Platform](https://t.me/uwp_ru) — Чат разработчиков под Windows и Windows Phone.
 * [Android NDK (C++)](https://t.me/ndk_ru) — Чат про Android NDK (C++)
+* [Flutter Developers](https://t.me/flutter_rus) — Чат про Flutter
 
 [(Назад к меню)](#Меню)
 
@@ -640,6 +662,7 @@
 * [Jobs and Project Chat](https://t.me/joinchat/ABI4pz7v7KfJhb12XIkIUA) — Чат по вакансиям и проектам от сообщества Chatbots
 * [Mobile Dev Jobs](https://t.me/mobile_jobs) — Чат по вакансиям разработчиков мобильных приложений
 * [JavaScript Jobs](https://t.me/javascript_jobs) — Чат про вакансии и работу в сфере JavaScript
+* [JS Jobs](https://t.me/javascriptjobs) — Канал с [ботом-аггрегатором](https://github.com/risentveber/js_jobs_bot) вакансий с HH и Мойкруг в сфере Javascript.
 * [DevOps Jobs](https://t.me/devops_jobs) — Чат про вакансии и работу в сфере DevOps
 * [Битрикс работа](https://t.me/bitrix_work) — Чат про вакансии и работу в сфере Битрикса и IT
 * [Devall — Upwork](https://t.me/upworkcom) — Чат про Upwork для разработчиков
@@ -658,6 +681,7 @@
 * [YiiJobs](https://t.me/yiijobs) — Вакансии, проекты, фриланс - Yii
 * [For Products and Projects Managers](https://t.me/Forproducts) — Вакансии для продактов и проджектов.
 * [Вакансии для аналитиков](https://t.me/analysts_hunter) — Чат для поиска работы и специалистов в области интернет-аналитики
+* [Scala Jobs Chat](https://t.me/scala_jobs) - Чат со Scala вакансиями, можно в меру флудить.
 
 [(Назад к меню)](#Меню)
 
@@ -711,6 +735,8 @@
 * [KDE Россия](https://t.me/kde_ru) — Чат русскоязычного сообщества KDE (пользователи и разработчики)
 * [Nextcloud](https://t.me/nextcloudru) — Чат про Nextcloud
 * [Gambala.chat](https://t.me/gambala_chat) — Чат о разработке, бизнесе и личной эффективности.
+* [Русскоязычное сообщество технических писателей](https://t.me/technicalwriters) — чат сообщества.
+* [DocOps-чат](https://t.me/docsascode) — Чат канала [DocOps](https://t.me/docops): обсуждаем посты, делимся опытом.
 
 [(Назад к меню)](#Меню)
 
@@ -729,6 +755,9 @@
 * [IT-шники Белгорода](https://t.me/belgorod_it) — Чат айтишников Белгорода.
 * [Dev Seagulls](https://t.me/dev_seagulls) — Чат сообщества программистов Махачкалы
 * [IT EKB](https://t.me/IT_EKB) — Чат айтишников Екатеринбурга и окрестностей
+* [JUGNsk](https://t.me/jugnsk) — Новосибирская группа Java User Group
+* [NSK IT events](https://t.me/NSKITevents) — Митапы и другие айтишные события в Новосибирске.
+* [QA Siberia](https://t.me/qa_siberia) — Сообщество тестировщиков Сибири.
 
 [(Назад к меню)](#Меню)
 
@@ -863,3 +892,4 @@
 * [@GDGCensorBot](https://t.me/GDGCensorBot) — Бот для удаления матов и ругательств из чата.
 * [@FavouriteStickers](https://t.me/FavouriteStickersBot) — Бот для сохранения понравившихся стикеров.
 * [@cryptographer070bot](https://t.me/cryptographer070bot) — Бот зашифрует и расшифрует ваши файлы и строки, надежным алгоритмом.
+* [@memingbot](https://t.me/memingbot) - Бот для создания мемов с вашим текстом на различных шаблонах.

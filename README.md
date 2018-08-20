@@ -10,7 +10,7 @@
 
 Канал недели:
 
-* [Apple News](https://t.me/joinchat/AAAAAFGsFzsOyordzqs_Qg) — Новости от Apple без рекламы и кликбейтов. Только проверенные вести из надёжных источников!
+* [мамкин Data Scientist](https://t.me/mommyscience) — тернистый путь в data science, личный экспирианс
 
 -----
 
@@ -223,6 +223,7 @@
 * [BigQuery Insights](https://t.me/bigquery) — Аналитика и большие данные в Google BigQuery, инсайты, data science, UX / WEB analytics, big data, digital marketing.
 * [Boring Berlin Scientist](https://t.me/boberscience) — Useful articles about Data Science, Machine Learning, Data Engineering and not only.
 * [Machine Learning World](http://t.me/ml_world) — Все по Data Science и Machine Learning
+* [мамкин Data Scientist](https://t.me/mommyscience) — тернистый путь в data science, личный экспирианс
 * [Чаты и группы телеграма по теме](#big-data-Машинное-обучение-deep-learning-и-data-science)
 
 [(Назад к меню)](#Меню)

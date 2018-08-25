@@ -700,7 +700,7 @@
 * [IT PPL](https://t.me/spbitpeople) – IT People: общение айтишников и про айти, и не про айти ;-)
 * [SPbLUG chat](https://t.me/spblug_chat) — Saint Petersburg Linux talks (неофициальный чат SPbLUG)
 * [Chaos Construction](https://t.me/chaosconstructions) – Chaos Construction Санкт-Петербург
-* [Piter Py Conference](https://t.me/PiterPy) — Ежегодная Python конференция Piter Py
+* [PiterPy Conf](https://t.me/piterpy) — Петербургская конференция для разработчиков мира Python
 * [DC7499](https://t.me/DEFCON) — DefCon Russia
 * [#ctfchat](https://t.me/ctfchat) — Чат CTF
 * [Developers Chat](https://t.me/joinchat/ABI4pz3M7FCxoDZcdcfVUA) — Чат сообщества Chatbots
@@ -745,6 +745,10 @@
 [(Назад к меню)](#Меню)
 
 ##### Региональные IT-сообщества
+* [PiterPy Meetup](https://t.me/piterpy_meetup) — Петербургские митапы про Python и мир разработки вокруг
+* [PiterPy Idle](https://t.me/piterpy_idle) — Оффтопик-чат сообщества PiterPy Meetup. Обсуждаем музыку, квартиры, железо, афтепати, налоги
+* [PyLadies SPb](https://t.me/pyladies_spb) — PyLadies SPb, петербургское сообщество разработчиц
+* [PyLadies Moscow](https://t.me/pyladies_moscow_chat) — PyLadies Moscow, московское сообщество разработчиц
 * [SPb Python](https://t.me/spbpython) — Saint-Petersburg Python Interest Group
 * [Spb Qt](https://t.me/qtspb) — Сообщество Qt программистов Санкт-Петербурга
 * [KotlinMoscow](https://t.me/KotlinMoscow) — Сообщество Kotlin Moscow

@@ -745,10 +745,6 @@
 [(Назад к меню)](#Меню)
 
 ##### Региональные IT-сообщества
-* [PiterPy Meetup](https://t.me/piterpy_meetup) — Петербургские митапы про Python и мир разработки вокруг
-* [PiterPy Idle](https://t.me/piterpy_idle) — Оффтопик-чат сообщества PiterPy Meetup. Обсуждаем музыку, квартиры, железо, афтепати, налоги
-* [PyLadies SPb](https://t.me/pyladies_spb) — PyLadies SPb, петербургское сообщество разработчиц
-* [PyLadies Moscow](https://t.me/pyladies_moscow_chat) — PyLadies Moscow, московское сообщество разработчиц
 * [SPb Python](https://t.me/spbpython) — Saint-Petersburg Python Interest Group
 * [Spb Qt](https://t.me/qtspb) — Сообщество Qt программистов Санкт-Петербурга
 * [KotlinMoscow](https://t.me/KotlinMoscow) — Сообщество Kotlin Moscow
@@ -766,6 +762,10 @@
 * [JUGNsk](https://t.me/jugnsk) — Новосибирская группа Java User Group
 * [NSK IT events](https://t.me/NSKITevents) — Митапы и другие айтишные события в Новосибирске.
 * [QA Siberia](https://t.me/qa_siberia) — Сообщество тестировщиков Сибири.
+* [PiterPy Meetup](https://t.me/piterpy_meetup) — Петербургские митапы про Python и мир разработки вокруг
+* [PiterPy Idle](https://t.me/piterpy_idle) — Оффтопик-чат сообщества PiterPy Meetup. Обсуждаем музыку, квартиры, железо, афтепати, налоги
+* [PyLadies SPb](https://t.me/pyladies_spb) — PyLadies SPb, петербургское сообщество разработчиц
+* [PyLadies Moscow](https://t.me/pyladies_moscow_chat) — PyLadies Moscow, московское сообщество разработчиц
 
 [(Назад к меню)](#Меню)
 

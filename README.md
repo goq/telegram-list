@@ -157,6 +157,7 @@
 * [C# 1001 notes](https://t.me/csharp_1001_notes) — Канал с ежедневными заметками о языке C#
 * [Nuances of programming](https://t.me/nuancesprog) — Образовательные статьи и переводы — всё для программистов.
 * [@pmdaily](https://t.me/pmdaily) — Авторский канал о производстве сложных проектов, управлении продуктом и о развитии софтскиллов у программистов
+* [Java articles](https://t.me/java_articles) — подборка интересных и полезных статей из мира Java, Kotlin, Scala и других JVM языков на английском.
 
 [(Назад к меню)](#Меню)
 
@@ -701,7 +702,7 @@
 * [IT PPL](https://t.me/spbitpeople) – IT People: общение айтишников и про айти, и не про айти ;-)
 * [SPbLUG chat](https://t.me/spblug_chat) — Saint Petersburg Linux talks (неофициальный чат SPbLUG)
 * [Chaos Construction](https://t.me/chaosconstructions) – Chaos Construction Санкт-Петербург
-* [Piter Py Conference](https://t.me/PiterPy) — Ежегодная Python конференция Piter Py
+* [PiterPy Conf](https://t.me/piterpy) — Петербургская конференция для разработчиков мира Python
 * [DC7499](https://t.me/DEFCON) — DefCon Russia
 * [#ctfchat](https://t.me/ctfchat) — Чат CTF
 * [Developers Chat](https://t.me/joinchat/ABI4pz3M7FCxoDZcdcfVUA) — Чат сообщества Chatbots
@@ -763,6 +764,10 @@
 * [JUGNsk](https://t.me/jugnsk) — Новосибирская группа Java User Group
 * [NSK IT events](https://t.me/NSKITevents) — Митапы и другие айтишные события в Новосибирске.
 * [QA Siberia](https://t.me/qa_siberia) — Сообщество тестировщиков Сибири.
+* [PiterPy Meetup](https://t.me/piterpy_meetup) — Петербургские митапы про Python и мир разработки вокруг
+* [PiterPy Idle](https://t.me/piterpy_idle) — Оффтопик-чат сообщества PiterPy Meetup. Обсуждаем музыку, квартиры, железо, афтепати, налоги
+* [PyLadies SPb](https://t.me/pyladies_spb) — PyLadies SPb, петербургское сообщество разработчиц
+* [PyLadies Moscow](https://t.me/pyladies_moscow_chat) — PyLadies Moscow, московское сообщество разработчиц
 
 [(Назад к меню)](#Меню)
 

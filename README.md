@@ -159,6 +159,7 @@
 * [Nuances of programming](https://t.me/nuancesprog) — Образовательные статьи и переводы — всё для программистов.
 * [@pmdaily](https://t.me/pmdaily) — Авторский канал о производстве сложных проектов, управлении продуктом и о развитии софтскиллов у программистов
 * [Java articles](https://t.me/java_articles) — подборка интересных и полезных статей из мира Java, Kotlin, Scala и других JVM языков на английском.
+* [Google Apps Script Russian](https://t.me/gasru) — Все, что связанно с Google Apps Script. Практические приемы разработки скриптов Гугл, обзор публичных библиотек и важных событий
 
 [(Назад к меню)](#Меню)
 
@@ -323,6 +324,7 @@
 * [ХабраХабр Pub.](https://t.me/habrapub) — Интересные публикации из 4PDA, Tproger и ХабраХабр в Telegram.
 * [HackRF One](https://t.me/hackrfnooelec) — Интересный канал про электронику и RF
 * [Arduino, electronics, soldering](https://t.me/arduino_io) — Канал про Ардуино, электронику и для любителей паять :)
+* [Google Таблицы](https://t.me/google_sheets) — Работа с данными в Гугл Таблицах. Кейсы, решения и угар, всё на Google Spreadsheets. Объясняем систематично и на гифках
 
 [(Назад к меню)](#Меню)
 
@@ -445,6 +447,7 @@
 * [Functional Programming](https://t.me/fp_ru) — Чат любителей функциональных языков программирования
 * [CIL](https://t.me/cilchat) — Чат про CIL/IL/MSIL
 * [WebAssembly](https://t.me/WebAssembly_ru) — Чат про Webassembly
+* [Google Apps Script RC](https://t.me/googleappsscriptrc) — Чат канала [Google Apps Script Russian](https://t.me/gasru)
 
 [(Назад к меню)](#Меню)
 
@@ -744,6 +747,7 @@
 * [Gambala.chat](https://t.me/gambala_chat) — Чат о разработке, бизнесе и личной эффективности.
 * [Русскоязычное сообщество технических писателей](https://t.me/technicalwriters) — чат сообщества.
 * [DocOps-чат](https://t.me/docsascode) — Чат канала [DocOps](https://t.me/docops): обсуждаем посты, делимся опытом.
+* [Google Таблицы - это чат](https://t.me/google_spreadsheets_chat) — Чат канала [Google Таблицы](https://t.me/google_sheets). Обсуждаем посты, делимся опытом, решаем задачи и проблемы.
 
 [(Назад к меню)](#Меню)
 

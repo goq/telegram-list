@@ -908,4 +908,4 @@
 * [@FavouriteStickers](https://t.me/FavouriteStickersBot) — Бот для сохранения понравившихся стикеров.
 * [@cryptographer070bot](https://t.me/cryptographer070bot) — Бот зашифрует и расшифрует ваши файлы и строки, надежным алгоритмом.
 * [@memingbot](https://t.me/memingbot) - Бот для создания мемов с вашим текстом на различных шаблонах.
-* [@m00dbot](https://t.me/m00dbot) - Бот для тестирования депрессии и тревоги.
+* [@m00dbot](https://t.me/m00dbot) [Source](https://github.com/dizballanze/m00dbot) - Бот для тестирования депрессии и тревоги.

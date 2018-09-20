@@ -692,6 +692,7 @@
 * [For Products and Projects Managers](https://t.me/Forproducts) — Вакансии для продактов и проджектов.
 * [Вакансии для аналитиков](https://t.me/analysts_hunter) — Чат для поиска работы и специалистов в области интернет-аналитики
 * [Scala Jobs Chat](https://t.me/scala_jobs) - Чат со Scala вакансиями, можно в меру флудить.
+* [iOS Jobs Ukraine](https://t.me/ios_jobs_ua) — Чат по вакансиям для iOS разработчиков
 
 [(Назад к меню)](#Меню)
 

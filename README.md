@@ -214,7 +214,9 @@
 * [Киберshit](https://t.me/cybershit) — Канал про технологии и информационную безопасность
 * [WEBSITE SECURITY](https://t.me/sitesecurity) — Все о безопасности сайтов: диагностика, лечение от вирусов и защита от взлома.
 * [HttpNotOnly](https://t.me/somesecurity) — Security techniques and researches
-* [Tailor Jerry](https://t.me/tailorjerry) – Нетворкинг и социальная инженерия.
+* [Tailor Jerry](https://t.me/tailorjerry) — Нетворкинг и социальная инженерия.
+* [}{@kep](https://t.me/it_ha) — Канал с мануалами, литературой и свежими новостями по информационной безопасности.
+* [Cyber_life](https://t.me/CyberLifes) — Канал о пентесте, социальной инженерии, методах защиты и атаки.
 
 [(Назад к меню)](#Меню)
 

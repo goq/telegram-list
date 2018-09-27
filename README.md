@@ -10,7 +10,7 @@
 
 Канал недели:
 
-* [мамкин Data Scientist](https://t.me/mommyscience) — тернистый путь в data science, личный экспирианс
+* [The After Times](https://t.me/theaftertimes) — Несерьезный дайджест IT. Паста, мысли, критика.
 
 -----
 
@@ -59,7 +59,6 @@
 ## Каналы
 
 ##### Новости
-* [Apple News](https://t.me/joinchat/AAAAAFGsFzsOyordzqs_Qg) — Новости от Apple без рекламы и кликбейтов. Только проверенные вести из надёжных источников!
 * [opennet news](https://t.me/opennews) — Новости opennet
 * [SPbLUG news](https://t.me/spblug) — Канал новостей Санкт-Петербургской группы пользователей Linux (SPbLUG)
 * [DevOps news](https://t.me/devops_news) — Новости DevOps
@@ -85,6 +84,7 @@
 * [Qubit (Quantum Daily)](https://t.me/qubit_daily) — Канал технологического евангелиста Microsoft, Стаса Павлова, о последних новостях из мира квантовых вычислений.
 * [Samara IT Community news](https://t.me/Samara_IT_Community) — Канал новостей Самарского IT сообщества
 * [Eb*@oe IT](https://t.me/ebannoeit) — Телеграм версия одноименного ресурса eb*@oe it. Голая правда о нашем АйТи
+* [Apple News](https://t.me/joinchat/AAAAAFGsFzsOyordzqs_Qg) — Новости от Apple без рекламы и кликбейтов. Только проверенные вести из надёжных источников!
 
 [(Назад к меню)](#Меню)
 

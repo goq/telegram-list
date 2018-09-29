@@ -600,6 +600,7 @@
 * [PostGIS](https://t.me/postgis) — Обсуждения PostGIS (поддержка географических объектов в PostgreSQL)
 * [PostgresChat](https://t.me/postgreschat) — Чат про PostgreSQL (english)
 * [dbmsdev](https://t.me/dbmsdev) — Чат о разработке СУБД
+* [pgCodeKeeper](https://t.me/pgcodekeeper) [Source](https://github.com/pgcodekeeper/pgcodekeeper) — Чат поддержки opensource проекта [pgCodeKeeper](http://pgcodekeeper.org)
 
 [(Назад к меню)](#Меню)
 

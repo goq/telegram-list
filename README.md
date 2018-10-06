@@ -695,6 +695,7 @@
 * [Mobile Dev Jobs](https://t.me/mobile_jobs) — Чат по вакансиям разработчиков мобильных приложений
 * [JavaScript Jobs](https://t.me/javascript_jobs) — Чат про вакансии и работу в сфере JavaScript
 * [JS Jobs](https://t.me/javascriptjobs) — Канал с [ботом-аггрегатором](https://github.com/risentveber/js_jobs_bot) вакансий с HH и Мойкруг в сфере Javascript.
+* [Python Jobs](https://t.me/python_jobs) - Вакансии и запросы на поиск работы по направлению Python, Flask и т.д.
 * [DevOps Jobs](https://t.me/devops_jobs) — Чат про вакансии и работу в сфере DevOps
 * [Битрикс работа](https://t.me/bitrix_work) — Чат про вакансии и работу в сфере Битрикса и IT
 * [Devall — Upwork](https://t.me/upworkcom) — Чат про Upwork для разработчиков

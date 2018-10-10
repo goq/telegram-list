@@ -123,7 +123,6 @@
 * [Non-trivial Ruby](https://t.me/rubynontrivial) — Ruby-наркомания: микробиблиотеки, альтернативные фреймворки, security, IoT, system programming
 * [DevBrain](https://t.me/devbrain) — Новости, статьи, книги и видео из мира разработки софта
 * [VR Journal](https://t.me/VR_Journal) — Уютненько о VR/AR технологиях
-* [EasyCoding Team](https://t.me/easycoding) — Канал EasyCoding Team: новости, статьи о разработке и администрировании, HOWTO
 * [anykeynotes](https://t.me/anykeynotes) — Записки старого эникейщика.
 * [Angular 2](https://t.me/angular2) — Новости из мира Angular (js framework)
 * [HotCheatShеet](https://t.me/hotcheatsheet) — Шпаргалки по ЯП, ПО, утилитам и прочему.
@@ -144,10 +143,8 @@
 * [Майоров про WEB и карьеру в IT](https://t.me/prowebit) — Ведущий RadioJS Майоров про IT собеседования, WEB технологии, программирование и не только.
 * [IT Radio Streams](https://t.me/itradiostream) — Радиотрансляции IT-подкастов.
 * [Sea++](https://t.me/sea_plus_plus) — Интересные материалы из мира C/C++, Python, Go, Linux и не только.
-* [Охотник за информацией☠️](https://t.me/info_hunter) — Полезные файлы и ссылки на ресурсы: QA & PENTESTER & PROGRAMMER
 * [До диез](https://t.me/dodiezcsharp) — Канал для программистов C#
 * [Java Dev](https://t.me/java_developer) — Советы и статьи о Java, программировании и продуктивности
-* [CODE BLOG / Программирование](https://t.me/aboutcode) — Авторские статьи о программировании, образовательные видеокурсы, IT юмор.
 * [geeks content](https://t.me/geekscontent) — Наработки гиков из повседневщины и понравившиеся им чтиво.
 * [Уютный IT адочек](https://t.me/lovely_it_hell) — Канал для технических менеджеров, тимлидов и техдиров об управлении командой, знаниями и soft-skills
 * [Python etc](https://t.me/pythonetc) — Авторский канал с ежедневными заметками про Python в частности и программирование в целом (English).

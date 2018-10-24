@@ -778,6 +778,7 @@
 * [Python Community Chelyabinsk](https://t.me/pychel) — Чат челябинского сообщества Python-разработчиков
 * [fprog_spb](https://t.me/fprog_spb) — Митап функциональных программистов в СПб
 * [Чат IT-Страны](https://t.me/itbelarustalk) — Чат белорусского IT-сообщества.
+* [IT Talks Benelux](https://t.me/ITBenelux) - IT-чат стран Бенелюкс
 * [IT Lobby Irkutsk](https://t.me/joinchat/CD0D_D31vVD8L1FO4UutnQ) — чат ITишников города Иркутск
 * [IT-шники Белгорода](https://t.me/belgorod_it) — Чат айтишников Белгорода.
 * [Dev Seagulls](https://t.me/dev_seagulls) — Чат сообщества программистов Махачкалы

@@ -181,7 +181,6 @@
 * [Школа Веб 2.0](https://t.me/webschool_rus) — Авторский канал о веб-разработке (Ruby on Rails, UI/UX, HTML5, CSS3)
 * [Dev Useful Stuff](https://t.me/dev_useful_stuff) — Библиотеки, фреймворки, инструменты
 * [FrontEnd Development](https://t.me/fedevelopment) — Канал ежедневно публикует полезные ссылки, новости из мира фронтент разработки.
-* [Frontend Info](https://t.me/frontend_info) - Интересные статьи о FrontEnd разработке.
 * [Spb-Frontend](https://t.me/spb_frontend) — Новости фронтенда и питерского сообщества Spb-Frontend, дайджест новостей за неделю в виде рассылки
 * [РОДИОНОВ И ФРОНТЭНД](https://t.me/rodionovrodionovrodionov) — Авторский канал про Frontend
 * [GOV](https://t.me/govdesign) — Все о государстве и дизайне государства
@@ -195,6 +194,7 @@
 * [Абрамов Позвонит](https://t.me/ReduxAnotherDay) — Канал информационно-развлекательной направленности про веб-разработку.
 * [WebDEV](https://t.me/webb_dev) — Полезные ресурсы для Backend и Frontend разработчиков, новости и статьи.
 * [Типичный Верстальщик](https://t.me/tpverstak) — Советы по созданию сайтов, книги, подборка сервисов для работы
+* [Frontend Info](https://t.me/frontend_info) — Ещё один канал про фронтенд со статьями по теме
 
 [(Назад к меню)](#Меню)
 

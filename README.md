@@ -195,6 +195,7 @@
 * [Типичный Верстальщик](https://t.me/tpverstak) — Советы по созданию сайтов, книги, подборка сервисов для работы
 * [Frontend Magazine](https://t.me/frontendmagazine) — Образовательные материалы для Frontend инженеров.
 * [Frontend Info](https://t.me/frontend_info) — Ещё один канал про фронтенд со статьями по теме
+* [Juliarderity, nerdiness, geekery, travels, punk](https://t.me/juliarderity) — JS VMs, спецификации, пропозалы, #TC39 инсайды, #Babel, #WebAssembly, нёрдство, конференции, панк.
 
 [(Назад к меню)](#Меню)
 

@@ -225,6 +225,7 @@
 * [Cyber_life](https://t.me/CyberLifes) — Канал о пентесте, социальной инженерии, методах защиты и атаки.
 * [DC7499](https://t.me/DEFCON) — DefCon Russia
 * [Camshift](https://t.me/camshift) — Канал про ИБ в сфере видеонаблюдения
+* [Вирусолог](https://t.me/it_virologist) — Канал про it-вирусологию. Новости из мира it и инфобеза
 
 [(Назад к меню)](#Меню)
 

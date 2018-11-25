@@ -432,7 +432,7 @@
 * [Javanese Questions](https://t.me/javanese_questions) — общение в формате вопрос-ответ о Java, Kotlin и Android.
 * [JuliaLanguage](https://t.me/JuliaLanguage) — Все о языке Julia
 * [Kotlin](https://t.me/kotlin_lang) — Чат про Kotlin
-* [pro.lisp](https://telegram.me/joinchat/Be4rsTvFzQ4yIktHsNNYrA) — Common Lisp, Scheme/Racket, Clojure, Picolisp. S-expr
+* [Lisp Forever](https://t.me/lisp_forever) — Common Lisp, Scheme/Racket, Clojure, Picolisp. S-expr
 * [NativeScript](https://t.me/nativescript_ru) — Чат про NativeScript
 * [ru.nim.talks](https://t.me/ru_nim_talks) — Чат про nim (ex-nimrod)
 * [Modern::Perl](https://t.me/modernperl) — Чат про Perl. Современный::Perl

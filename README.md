@@ -805,6 +805,7 @@
 * [PiterPy Idle](https://t.me/piterpy_idle) — Оффтопик-чат сообщества PiterPy Meetup. Обсуждаем музыку, квартиры, железо, афтепати, налоги
 * [PyLadies SPb](https://t.me/pyladies_spb) — PyLadies SPb, петербургское сообщество разработчиц
 * [PyLadies Moscow](https://t.me/pyladies_moscow_chat) — PyLadies Moscow, московское сообщество разработчиц
+* [Ruby Vladivostok](https://t.me/rubyvladivostok) — Группа Ruby разработчиков города Владивостока
 
 [(Назад к меню)](#Меню)
 

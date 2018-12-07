@@ -340,6 +340,7 @@
 * [Arduino, electronics, soldering](https://t.me/arduino_io) — Канал про Ардуино, электронику и для любителей паять :)
 * [Google Таблицы](https://t.me/google_sheets) — Работа с данными в Гугл Таблицах. Кейсы, решения и угар, всё на Google Spreadsheets. Объясняем систематично и на гифках
 * [Excel Everyday](https://t.me/excel_everyday) — Просто о сложном Excel. Уроки которые упростят Вашу жизнь и работу.
+* [Мягкие Sкилы](https://t.me/your_soft_skillzz) - Авторский канал с заметками о Soft Skills aka Мягких Sкилах для тружеников IT индустрии.
 
 [(Назад к меню)](#Меню)
 

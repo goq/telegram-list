@@ -677,6 +677,7 @@
 * [openSuse](https://t.me/ru_openSUSE) — Чат про openSuse
 * [ParrotSecRU](https://t.me/ParrotSecRU) — Чат про ParrotSec OS. Для линуксоидов, специалистов по ИБ.
 * [Свидетели ReactOS](https://t.me/reactos_ru) — Чат про ReactOS
+* [slackware](https://t.me/slackware_ru) — Чат про Slackware
 * [smartos_ru](https://t.me/smartos_ru) — Чат про SmartOS
 * [Ubuntu](https://t.me/ru_ubuntu) — Чат про Ubuntu (Kubuntu, Lubuntu, Xubuntu, и прочую *buntu)
 * [pro.windows](https://t.me/pro_windows) — Чат про Microsoft Windows и всё, что с этим связано

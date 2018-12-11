@@ -537,7 +537,6 @@
 * [EOS dev](https://t.me/eoscode) — Чат о разработке под EOS
 * [HighLoadCup Official](https://t.me/highloadcup) — Официальная группа для участников чемпионата highloadcup от mail.ru
 * [ITForge](https://t.me/itforge) — Чат про python, парсинг сайтов и просто про IT
-* [AVRA community](https://t.me/avrahackathon) — Чат для создающих и интересующихся AR/VR технологиями
 * [Annode webdev](https://t.me/annode) — Чат веб-разработчиков. Frontend, Backend, CMS, БД и другое.
 * [Oracle RU](https://t.me/oracle_ru) — Чат про Oracle
 * [Data Engineers](https://t.me/hadoopusers) — Чат про Apache Hadoop

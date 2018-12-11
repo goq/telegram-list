@@ -538,15 +538,11 @@
 * [HighLoadCup Official](https://t.me/highloadcup) — Официальная группа для участников чемпионата highloadcup от mail.ru
 * [ITForge](https://t.me/itforge) — Чат про python, парсинг сайтов и просто про IT
 * [Annode webdev](https://t.me/annode) — Чат веб-разработчиков. Frontend, Backend, CMS, БД и другое.
-* [Oracle RU](https://t.me/oracle_ru) — Чат про Oracle
 * [Data Engineers](https://t.me/hadoopusers) — Чат про Apache Hadoop
 * [macOS Developers](https://t.me/macdev_ru) — Чат о разработке для macOS
 * [ХабраХабр I.T.](https://t.me/habrachat) — Чат информационных технологий.
 * [Google Cloud Platform_ru](https://t.me/goo_cloud_ru) — Чат про Google Cloud Platform
-* [FrontCoder](https://t.me/frontcoder) — Чат фронтендеров
-* [Backcoder](https://t.me/backcoderchat) — Чат бэкендеров
 * [Чат — Типичный Верстальщик](https://t.me/tpverstakchat) — Чат верстальщиков
-* [Замечательный web-чат](https://t.me/webdevblog_chat) — Общение вокруг веб-сферы: по верстке, HTML, CSS, Javascript, PHP и тп. Правил, как таковых, нету. Добро пожаловать!
 
 [(Назад к меню)](#Меню)
 
@@ -623,6 +619,7 @@
 * [PostgresChat](https://t.me/postgreschat) — Чат про PostgreSQL (english)
 * [dbmsdev](https://t.me/dbmsdev) — Чат о разработке СУБД
 * [pgCodeKeeper](https://t.me/pgcodekeeper) — Чат поддержки [opensource](https://github.com/pgcodekeeper/pgcodekeeper) проекта [pgCodeKeeper](http://pgcodekeeper.org)
+* [Oracle RU](https://t.me/oracle_ru) — Чат про Oracle
 
 [(Назад к меню)](#Меню)
 

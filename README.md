@@ -583,12 +583,10 @@
 * [e-mail](https://t.me/ru_email) — Чат про администрирование почтовой инфраструктуры и борьбу со спамом
 * [Configuration Manager](https://t.me/configmgr) — Microsoft System Center Configuration Manager & Intune & EMS
 * [Operations Manager](https://t.me/OpsMgr) — System Center Operations Manager & Orchestrator = Automation
-* [SourceBasedOS](https://t.me/SourceBasedOS) — Чат про source based ОС
 * [Asterisk Community](https://t.me/proasterisk) — Всё про Asterisk VoIP Software Ru/En
 * [ru_kamailio](https://t.me/ru_kamailio) — Чат про Kamailio
 * [pro.enterprise](https://telegram.me/pro_enterprise) — Чат про корп.сектор: серверы, СХД, CDN, сетевое оборудование и облака.
 * [cloud.yandex.ru](https://t.me/cloud_ya_ru) — Группа обсуждения облака от Яндекса. Практически официальная :)
-
 
 [(Назад к меню)](#Меню)
 
@@ -674,6 +672,7 @@
 * [Свидетели ReactOS](https://t.me/reactos_ru) — Чат про ReactOS
 * [slackware](https://t.me/slackware_ru) — Чат про Slackware
 * [smartos_ru](https://t.me/smartos_ru) — Чат про SmartOS
+* [SourceBasedOS](https://t.me/SourceBasedOS) — Чат про source based ОС
 * [Ubuntu](https://t.me/ru_ubuntu) — Чат про Ubuntu (Kubuntu, Lubuntu, Xubuntu, и прочую *buntu)
 * [pro.windows](https://t.me/pro_windows) — Чат про Microsoft Windows и всё, что с этим связано
 * [Linux Security](https://t.me/safelinux) — Чат про безопасность в Линуксе и про Линукс для безопасников

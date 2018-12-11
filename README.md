@@ -540,7 +540,7 @@
 * [AVRA community](https://t.me/avrahackathon) — Чат для создающих и интересующихся AR/VR технологиями
 * [Annode webdev](https://t.me/annode) — Чат веб-разработчиков. Frontend, Backend, CMS, БД и другое.
 * [Oracle RU](https://t.me/oracle_ru) — Чат про Oracle
-* [Hardcore Development](https://t.me/hcdev) – Hardcore Development Team. No bullshit. FP, RP.
+* [Hardcore Development](http://hcdev.space) – Hardcore Development Team. No bullshit. Functional, concurrent programming for soft-relatime embedded systems. Clojure/Erlang/Haskell/Lua.
 * [Data Engineers](https://t.me/hadoopusers) — Чат про Apache Hadoop
 * [otda4a](https://t.me/otda4a) — Чат где можно отдать или обменять ненужное железо. Никаких продаж
 * [macOS Developers](https://t.me/macdev_ru) — Чат о разработке для macOS

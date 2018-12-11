@@ -540,7 +540,6 @@
 * [Annode webdev](https://t.me/annode) — Чат веб-разработчиков. Frontend, Backend, CMS, БД и другое.
 * [Oracle RU](https://t.me/oracle_ru) — Чат про Oracle
 * [Data Engineers](https://t.me/hadoopusers) — Чат про Apache Hadoop
-* [otda4a](https://t.me/otda4a) — Чат где можно отдать или обменять ненужное железо. Никаких продаж
 * [macOS Developers](https://t.me/macdev_ru) — Чат о разработке для macOS
 * [ХабраХабр I.T.](https://t.me/habrachat) — Чат информационных технологий.
 * [Google Cloud Platform_ru](https://t.me/goo_cloud_ru) — Чат про Google Cloud Platform

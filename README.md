@@ -163,7 +163,7 @@
 * [Flutter Daily](https://t.me/flutterdaily) — Канал с новостями фреймворка Flutter
 * [Dodo Pizza Mobile](https://t.me/dodoMobile) — Канал про iOS-разработку в Додо Пицце: swift, UI, книги.
 * [IT Meeting](https://t.me/ITMeeting) — Канал информирования о предстоящих митапах и конференций в области программирования.
-* [Open Source Daily](https://t.me/opensource_daily) - Канал с подборками интересных open source проектов и новостей из мира open source.
+* [Open Source Daily](https://t.me/opensource_daily) — Open source проект дня. Каждый день новый.
 
 [(Назад к меню)](#Меню)
 

@@ -836,6 +836,7 @@
 * [Hardware & Radio](https://t.me/hwnrf) — Разговоры об электронике, микроконтроллерах, FPGA, квадрокоптерах, 3D-печати, Software Defined Radio, и всяком таком.
 * [proFPGA](https://t.me/proFpga) — Чат про разработку под FPGA (англ.). Оффтоп запрещён.
 * [ProArduino](https://t.me/ProArduino) — Чат про Arduino
+* [ELECTRONIX](https://t.me/electronix) — Чат и обсуждения электроники и проектирования электронной аппаратуры.
 
 [(Назад к меню)](#Меню)
 

@@ -590,6 +590,7 @@
 * [ru_kamailio](https://t.me/ru_kamailio) — Чат про Kamailio
 * [pro.enterprise](https://telegram.me/pro_enterprise) — Чат про корп.сектор: серверы, СХД, CDN, сетевое оборудование и облака.
 * [cloud.yandex.ru](https://t.me/cloud_ya_ru) — Группа обсуждения облака от Яндекса. Практически официальная :)
+* [Keenetic_ru](https://t.me/Keenetic_ru) — Неофициальная группа обсуждения и взаимной помощи пользователей Keenetic.
 
 [(Назад к меню)](#Меню)
 

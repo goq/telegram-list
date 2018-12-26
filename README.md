@@ -579,7 +579,6 @@
 * [KVM (PVE/oVirt etc)](https://t.me/pro_kvm) — Чат о виртуализации и Proxmox
 * [glpi_ru](https://t.me/glpi_ru) — Чат о системе helpdesk и инвентаризации GLPI
 * [AWS ru](https://t.me/aws_ru) — Чат про Amazon Web Services
-* [Network Attached Storage](https://t.me/ru_nas) — Чат про NAS
 * [SpecialistOff.NET](https://t.me/specialistoffnet) — Чат для администраторов и программистов
 * [Git](https://t.me/git_ru) — Чат про GIT
 * [e-mail](https://t.me/ru_email) — Чат про администрирование почтовой инфраструктуры и борьбу со спамом

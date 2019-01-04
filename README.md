@@ -341,6 +341,7 @@
 * [Google Таблицы](https://t.me/google_sheets) — Работа с данными в Гугл Таблицах. Кейсы, решения и угар, всё на Google Spreadsheets. Объясняем систематично и на гифках
 * [Excel Everyday](https://t.me/excel_everyday) — Просто о сложном Excel. Уроки которые упростят Вашу жизнь и работу.
 * [Мягкие Sкилы](https://t.me/your_soft_skillzz) - Авторский канал с заметками о Soft Skills aka Мягких Sкилах для тружеников IT индустрии.
+* [ProductStar](https://t.me/productstar) — ProductStar полезные материалы для Менеджеров по продукту
 
 [(Назад к меню)](#Меню)
 
@@ -506,7 +507,6 @@
 * [GameDev For Web](https://t.me/gamedevforweb) — разработка игр на html5 платформе, pixi.js, cocos2d-js, phaser.js и т.п.
 * [ООП](https://t.me/oop_ru) — Объектно-Ориентированное Программирование
 * [Fire-Monkey](https://t.me/fire_monkey) — Независимое сообщество разработчиков использующих Fire-Monkey
-* [Vue](https://t.me/vuejs_ru) — Чат про фреймворк Vue.js
 * [WordPress](https://t.me/wordpress1) — Чат про WordPress
 * [Wordpress for developers](https://t.me/wp4dev) — Группа для разработчиков на WordPress
 * [Netbeans](https://t.me/netbeans_ru) — Группа для тех, кто использует среду разработки Netbeans

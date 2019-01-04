@@ -515,6 +515,7 @@
 * [Meteor.js](https://t.me/meteorjs_ru) — Чат про Meteor.js
 * [Feathers.js](https://t.me/featherjs) — Сообщество Feathers.js
 * [Google Apps Script RC](https://t.me/googleappsscriptrc) — Чат про Google Apps Script
+* [GraphQL](https://t.me/graphql_ru) — Чат про GraphQL
 
 [(Назад к меню)](#Меню)
 

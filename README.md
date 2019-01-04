@@ -259,7 +259,6 @@
 * [Библиотека программиста](https://t.me/proglibrary) — Библиотека программиста. (для новичков)
 * [Python Textbooks](https://t.me/python_textbooks) — Книги по Python.
 * [Math Textbooks](https://t.me/math_textbooks) — Книги по математике.
-* [Physics Textbooks](https://t.me/physics_textbooks) — Книги по физике.
 * [Frontend Textbooks](https://t.me/frontend_textbooks) — Книги по фронтенду.
 * [Библиотека Python](https://t.me/ru_python_books) — Канал-библиотека с книгами, журналами и статьями по языку программирования Python (старый)
 * [Библиотека Golang](https://t.me/joinchat/Be4rsT2X7QRJmDbFbnAcnQ) — Канал-библиотека по языку программирования Golang (пустующий)

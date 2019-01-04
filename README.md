@@ -414,7 +414,7 @@
 * [Clojure](https://t.me/clojure_ru) — Чат про Clojure
 * [Сrystal Lang](https://t.me/crystal_ru) — Чат про Crystal Lang
 * [css_ru](https://t.me/css_ru) — Чат про CSS и немного HTML
-* [Dart в целом](https://t.me/dart_ru) — Чат про dart, обсуждения, помощь.
+* [Dart & Flutter по-русски](https://t.me/rudart) — Чат про язык Dart (Flutter, AngularDart, и т.д.)
 * [Delphi & Lazarus](https://t.me/Delphi_Lazarus) — Чат про Delphi и Lazarus
 * [ErlangRus](https://t.me/erlangrus) — Толки о Erlang, IT и работе
 * [pro.elixir](https://t.me/proelixir) — Чат про Elixir

@@ -467,7 +467,6 @@
 * [Functional Programming](https://t.me/fp_ru) — Чат любителей функциональных языков программирования
 * [CIL](https://t.me/cilchat) — Чат про CIL/IL/MSIL
 * [WebAssembly](https://t.me/WebAssembly_ru) — Чат про Webassembly
-* [Google Apps Script RC](https://t.me/googleappsscriptrc) — Чат канала [Google Apps Script Russian](https://t.me/gasru)
 
 [(Назад к меню)](#Меню)
 
@@ -514,6 +513,7 @@
 * [Webpack](https://t.me/webpack_ru) — Обсуждения webpack 1/2, лоадеров, плагинов и сборок
 * [Meteor.js](https://t.me/meteorjs_ru) — Чат про Meteor.js
 * [Feathers.js](https://t.me/featherjs) — Сообщество Feathers.js
+* [Google Apps Script RC](https://t.me/googleappsscriptrc) — Чат про Google Apps Script
 
 [(Назад к меню)](#Меню)
 

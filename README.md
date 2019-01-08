@@ -340,6 +340,7 @@
 * [Excel Everyday](https://t.me/excel_everyday) — Просто о сложном Excel. Уроки которые упростят Вашу жизнь и работу.
 * [Мягкие Sкилы](https://t.me/your_soft_skillzz) - Авторский канал с заметками о Soft Skills aka Мягких Sкилах для тружеников IT индустрии.
 * [ProductStar](https://t.me/productstar) — ProductStar полезные материалы для Менеджеров по продукту
+* [Интерфейсы без шелухи](https://t.me/dangry) — Заметки о продуктоводстве, здравом смысле и разработке софта. Без шелухи, визуальной карамели и «полезных ссылок».
 
 [(Назад к меню)](#Меню)
 
@@ -432,7 +433,6 @@
 * [JavaScript Zombie](https://t.me/joinchat/AAMBHz3Uyr0tuZ7VaB029g) — Чат про JavaScript для настоящих зомби :)
 * [pro.js](https://t.me/JSlang) — Чат про JavaScript
 * [javascript_ru](https://t.me/javascript_ru) — Чат про JavaScript
-* [jsthread](https://t.me/jsthread) — Очень неформальный чат про JavaScript и Node.js (warning! explict content)
 * [learn.java](https://t.me/javastart) — Изучаем java вместе. Чат для начинающих и не только!
 * [pro.jvm](https://t.me/jvmchat) — Чат про JVM
 * [Javanese Questions](https://t.me/javanese_questions) — общение в формате вопрос-ответ о Java, Kotlin и Android.

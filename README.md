@@ -647,7 +647,7 @@
 * [IT Security Talk](https://t.me/itsectalk) – IT Security Talk (english)
 * [Hacker May Cry](https://t.me/mrl_hack) — Чат для взаимопомощи в сфере информационной безопасности, хакинга и программирования.
 * [The Cødeby](https://t.me/thecodeby) — Чат о взломе и защите компьтерных систем.
-* [Сайберсекьюрити и Ко.](https://t.me/alexlitreev_chat) — Чат канала @alexlitreev о безопасности в интернете, уязвимостях и прочих радостях жизни.
+* [Сайберсекьюрити и Ко.](https://t.me/joinchat/A2Cq70EuBWoiwJTafRUHTA) — Чат канала @alexlitreev о безопасности в интернете, уязвимостях и прочих радостях жизни.
 * [Chat Security / ИБач чат](https://t.me/Chat_Security) — Обсуждение всего, что касается информационной безопасности.
 
 [(Назад к меню)](#Меню)

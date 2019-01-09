@@ -649,6 +649,7 @@
 * [The Cødeby](https://t.me/thecodeby) — Чат о взломе и защите компьтерных систем.
 * [Сайберсекьюрити и Ко.](https://t.me/joinchat/A2Cq70EuBWoiwJTafRUHTA) — Чат канала @alexlitreev о безопасности в интернете, уязвимостях и прочих радостях жизни.
 * [Chat Security / ИБач чат](https://t.me/Chat_Security) — Обсуждение всего, что касается информационной безопасности.
+* [Linux Security](https://t.me/joinchat/Bzt6QkKkPL4rfMwLhe_uqw) — Чат про безопасность в Линуксе и про Линукс для безопасников
 
 [(Назад к меню)](#Меню)
 
@@ -678,7 +679,6 @@
 * [SourceBasedOS](https://t.me/SourceBasedOS) — Чат про source based ОС
 * [Ubuntu](https://t.me/ru_ubuntu) — Чат про Ubuntu (Kubuntu, Lubuntu, Xubuntu, и прочую *buntu)
 * [pro.windows](https://t.me/pro_windows) — Чат про Microsoft Windows и всё, что с этим связано
-* [Linux Security](https://t.me/safelinux) — Чат про безопасность в Линуксе и про Линукс для безопасников
 
 [(Назад к меню)](#Меню)
 

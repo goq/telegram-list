@@ -164,6 +164,7 @@
 * [IT Meeting](https://t.me/ITMeeting) — Канал информирования о предстоящих митапах и конференций в области программирования.
 * [Open Source Daily](https://t.me/opensource_daily) — Open source проект дня. Каждый день новый.
 * [Google Apps Script Russian](https://t.me/gasru) — Все, что связанно с Google Apps Script.
+* [Экстраполяция IT](https://t.me/itextrapolation) — Канал об IT в целом и о программировании в частности.
 
 [(Назад к меню)](#Меню)
 

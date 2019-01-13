@@ -84,6 +84,7 @@
 * [Qubit (Quantum Daily)](https://t.me/qubit_daily) — Канал технологического евангелиста Microsoft, Стаса Павлова, о последних новостях из мира квантовых вычислений.
 * [Samara IT Community news](https://t.me/Samara_IT_Community) — Канал новостей Самарского IT сообщества
 * [Eb*@oe IT](https://t.me/ebannoeit) — Телеграм версия одноименного ресурса eb*@oe it. Голая правда о нашем АйТи
+* [computerra.ru](https://t.me/computerra_ru) — Компьютерра - легендарный журнал о современных технологиях.
 
 [(Назад к меню)](#Меню)
 

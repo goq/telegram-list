@@ -469,6 +469,7 @@
 * [Ruby & RoR](https://t.me/rubylang) — Чат про Ruby и Ruby on Rails
 * [Ruby School .us](https://t.me/rubyschool) — Чат для учеников руби-школы
 * [Ruby Talks](https://t.me/ruby_talks) — Про Ruby
+* [RubyRush](https://t.me/rubyrush) — Чат для делающих первые шаги в Ruby и программировании
 * [RustLang](https://t.me/rustlang_ru) — Чат про Rust
 * [embedded.rs](https://t.me/embedded_rs) — Чат про Embedded на Rust
 * [Scala](https://t.me/scala_ru) — Чат про Scala

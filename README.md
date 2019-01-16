@@ -64,6 +64,7 @@
 * [SPbLUG news](https://t.me/spblug) — Канал новостей Санкт-Петербургской группы пользователей Linux (SPbLUG)
 * [DevOps news](https://t.me/devops_news) — Новости DevOps
 * [DevOps Deflope News](https://t.me/devops_deflope) — Новостной канал DevOps
+* [CatOps](https://t.me/catops) - Новости и заметки про Devops, SRE и прочее
 * [Geeks](https://t.me/g33ks) — Статьи и новости. Для гиков и от гиков.
 * [Fedora Project News](https://t.me/fedoranews) — Официальные новости Fedora. English
 * [Russian Fedora news](https://t.me/rfrnews) — Новости проектов Fedora и Russian Fedora

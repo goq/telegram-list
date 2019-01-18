@@ -613,6 +613,7 @@
 * [Puppet](https://t.me/puppet_ru) — Чат про Puppet и управление конфигурациями
 * [Kubernetes](https://t.me/k8spb) — Чат про Kubernetes
 * [Метрики](https://t.me/metrics_ru) — Чат про метрики, мониторинг и анализ данных
+* [DevOps](https://t.me/devops_ru) - Чат про DevOps
 
 [(Назад к меню)](#Меню)
 

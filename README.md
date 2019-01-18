@@ -410,7 +410,7 @@
 * [Sijeko Tech](https://t.me/sijekotech) — Публичный Сиджекотек. Ссылки по техническим, инженерным и дизайнерским темам.
 * [Капитанский журнал](https://t.me/capSheridanJournal) — Бортовой журнал капитана [Шеридана](https://t.me/Sheridan_ru)
 * [Деловая переписка](https://t.me/ya_vas_uslyshal) — Как писать по работе. Примеры, шаблоны и разборы от авторов книги «Пиши, сокращай».
-* [печенье](https://t.me/gtxtymt_xyz) — Персональный блог PHP'иста, любителя Laravel. Новости о php и конечно же айтишные мемы. Куда без них?
+* [печенье](https://t.me/gtxtymt_xyz) — Персональный блог PHP'иста, любителя Laravel. Новости о php и конечно же айтишные 7+/811мемы. Куда без них?1r4ty56
 
 [(Назад к меню)](#Меню)
 
@@ -591,7 +591,6 @@
 * [KVM (PVE/oVirt etc)](https://t.me/pro_kvm) — Чат о виртуализации и Proxmox
 * [glpi_ru](https://t.me/glpi_ru) — Чат о системе helpdesk и инвентаризации GLPI
 * [AWS ru](https://t.me/aws_ru) — Чат про Amazon Web Services
-* [SpecialistOff.NET](https://t.me/specialistoffnet) — Чат для администраторов и программистов
 * [pro.git](https://t.me/pro_git) — Чат про систему контроля версий git
 * [e-mail](https://t.me/ru_email) — Чат про администрирование почтовой инфраструктуры и борьбу со спамом
 * [Configuration Manager](https://t.me/configmgr) — Microsoft System Center Configuration Manager & Intune & EMS

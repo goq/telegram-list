@@ -562,6 +562,7 @@
 * [ХабраХабр I.T.](https://t.me/habrachat) — Чат информационных технологий.
 * [Google Cloud Platform_ru](https://t.me/goo_cloud_ru) — Чат про Google Cloud Platform
 * [Чат — Типичный Верстальщик](https://t.me/tpverstakchat) — Чат верстальщиков
+* [letsCode Chat](https://t.me/letsCodeChat) — Флудильня. Место для вопросов-ответов по разработке и ИТ в целом.
 
 [(Назад к меню)](#Меню)
 

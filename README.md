@@ -511,6 +511,7 @@
 * [.NET Group](https://t.me/dotnetgroup) — Чат разработчиков .NET. Минимум флуда, максимум полезных обсуждений
 * [.NET Chat](https://t.me/DotNetChat) — Чат про .NET под эгидой MSK/SPB .NET Community Group
 * [pro.net](https://t.me/pro_net) — Обсуждение .NET Framework и всего, что с ним связано.
+* [Node: русскоязычное сообщество](https://t.me/node_ru) — Независимое сообщество node разработчиков на русском языке.
 * [Node.js](https://t.me/nodejs_ru) — Чат про NodeJS
 * [CodenameCRUD](https://t.me/codenamecrud) — Чат про Ruby on Rails
 * [React](https://t.me/react_ru) — Чат про React

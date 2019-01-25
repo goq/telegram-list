@@ -833,6 +833,7 @@
 * [PyLadies Moscow](https://t.me/pyladies_moscow_chat) — PyLadies Moscow, московское сообщество разработчиц
 * [Ruby Vladivostok](https://t.me/rubyvladivostok) — Группа Ruby разработчиков города Владивостока
 * [1с Чат РБ](https://t.me/One1c_Blr) — Связанные одним 1С в РБ.
+* [Ruby Krasnodar](https://t.me/rubykrd) - Сообщество Ruby-программистов Краснодара.
 
 [(Назад к меню)](#Меню)
 

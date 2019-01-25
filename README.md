@@ -291,6 +291,7 @@
 * [New.HR Vacancy](https://t.me/newhr) — Вакансии в IT & Digital для тех, кто не ищет работу
 * [pro.JVM Jobs](https://t.me/jvmjobs) — Вакансии Java
 * [Scala Jobs Feed](https://t.me/scala_jobs_feed) - Вакансии Scala
+* [Работа в геймдеве](https://t.me/gamedevjob) — Вакансии в геймдеве и игровой индустрии
 
 [(Назад к меню)](#Меню)
 

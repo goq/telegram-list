@@ -356,6 +356,7 @@
 * [TRUESOFT (На Галере)](https://t.me/truesoft) — IT новости и мемасики на галерах для гребцов (программистов).
 * [DTF.ru News](https://t.me/dtfru) — Игры, разработка, монетизация, продвижение. Неофициальный канал новостной ленты DTF
 * [GamedevRussia](https://t.me/GamedevRussia) — Агрегатор новостей из мира геймдева
+* [Unreal Engine](https://t.me/unrealenginecis) — Новостной канал про Unreal Engine и геймдев.
 
 [(Назад к меню)](#Меню)
 

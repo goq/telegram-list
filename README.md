@@ -455,6 +455,7 @@
 * [pro.js](https://t.me/JSlang) — Чат про JavaScript
 * [javascript_ru](https://t.me/javascript_ru) — Чат про JavaScript
 * [learn.java](https://t.me/javastart) — Изучаем java вместе. Чат для начинающих и не только!
+* [Java & Co](https://t.me/javarush) — Чат про Java
 * [Java Underground](https://t.me/java_underground) — Чат про Java
 * [pro.jvm](https://t.me/jvmchat) — Чат про JVM
 * [Javanese Questions](https://t.me/javanese_questions) — общение в формате вопрос-ответ о Java, Kotlin и Android.

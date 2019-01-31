@@ -169,6 +169,7 @@
 * [Connection with Coding](https://t.me/cccoding) — Канал про программирование и робототехнику.
 * [DataViz](https://t.me/data_viz) — Интересные примеры визуализации данных.
 * [Game Dev Porn](https://t.me/gamedevporn) — Организованное интересное про геймдев. Киберклан. Делитесь с фаертимой.
+* [Kharkiv iOS](https://t.me/kharkiv_ios) — Новости и события iOS-комьюнити Харькова
 
 [(Назад к меню)](#Меню)
 
@@ -735,6 +736,7 @@
 ##### Вакансии и работа
 * [Jobs and Project Chat](https://t.me/joinchat/ABI4pz7v7KfJhb12XIkIUA) — Чат по вакансиям и проектам от сообщества Chatbots
 * [Mobile Dev Jobs](https://t.me/mobile_jobs) — Чат по вакансиям разработчиков мобильных приложений
+* [Mobile Dev Jobs UA](https://t.me/mobile_job_ua) — Чат по вакансиям разработчиков мобильных приложений в Украине
 * [JavaScript Jobs](https://t.me/javascript_jobs) — Чат про вакансии и работу в сфере JavaScript
 * [JS Jobs](https://t.me/javascriptjobs) — Канал с [ботом-аггрегатором](https://github.com/risentveber/js_jobs_bot) вакансий с HH и Мойкруг в сфере Javascript.
 * [DevOps Jobs](https://t.me/devops_jobs) — Чат про вакансии и работу в сфере DevOps
@@ -834,6 +836,8 @@
 * [Ruby Vladivostok](https://t.me/rubyvladivostok) — Группа Ruby разработчиков города Владивостока
 * [1с Чат РБ](https://t.me/One1c_Blr) — Связанные одним 1С в РБ.
 * [Ruby Krasnodar](https://t.me/rubykrd) - Сообщество Ruby-программистов Краснодара.
+* [iOS Community – Kharkiv](https://t.me/ios_kharkiv) – Сообщество iOS-программистов Харькова
+* [Kharkiv iOS Peerlab](https://t.me/kharkiv_ios) — Чат для связи людей, которые собираются на [iOS-пирлабы по субботам в Харькове](https://www.meetup.com/Kharkiv-iOS-Peerlab/)
 
 [(Назад к меню)](#Меню)
 

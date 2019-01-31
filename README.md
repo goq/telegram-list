@@ -614,6 +614,8 @@
 * [pro.enterprise](https://telegram.me/pro_enterprise) — Чат про корп.сектор: серверы, СХД, CDN, сетевое оборудование и облака.
 * [cloud.yandex.ru](https://t.me/cloud_ya_ru) — Группа обсуждения облака от Яндекса. Практически официальная :)
 * [Keenetic_ru](https://t.me/Keenetic_ru) — Неофициальная группа обсуждения и взаимной помощи пользователей Keenetic.
+* [Technology Stack](https://t.me/techstack_ru) - Чат про архитектуру IT инфраструктуры и применяемый стек
+* [SpecialistOff.NET](https://t.me/specialistoffnet) - Чат для сетевых и системных администраторов, и программистов
 
 [(Назад к меню)](#Меню)
 
@@ -758,6 +760,7 @@
 * [Scala Jobs Chat](https://t.me/scala_jobs) - Чат со Scala вакансиями, можно в меру флудить.
 * [iOS Jobs Ukraine](https://t.me/ios_jobs_ua) — Чат по вакансиям для iOS разработчиков
 * [Поиск команды, вкусные стажировки](https://t.me/find_and_catch) — Поиск команды и стажировки в IT
+* [Vue Jobs](https://t.me/vuejs_jobs) - Вакансии и резюме разработчиков Vue.js
 
 [(Назад к меню)](#Меню)
 

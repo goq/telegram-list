@@ -874,6 +874,7 @@
 * [proFPGA](https://t.me/proFpga) — Чат про разработку под FPGA (англ.). Оффтоп запрещён.
 * [ProArduino](https://t.me/ProArduino) — Чат про Arduino
 * [ELECTRONIX](https://t.me/electronix) — Чат и обсуждения электроники и проектирования электронной аппаратуры.
+* [Nordic Energy](https://t.me/joinchat/EMVk8kPDmkdoR_rBTp8x6w) — Чат про разработку электроники и автоматики.
 
 [(Назад к меню)](#Меню)
 

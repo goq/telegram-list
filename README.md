@@ -694,6 +694,7 @@
 * [Russian Fedora](https://t.me/russianfedora) — Чат про Fedora (рус.)
 * [freebsd_ru](https://t.me/freebsd_ru) — Чат про FreeBSD
 * [Gentoo](https://t.me/russian_gentoo) — Чат про Gentoo
+* [Gnome RU](https://t.me/gnome_ru) — Чат про Gnome
 * [Haiku](https://t.me/haiku_os) — Чат про Haiku (англ.)
 * [OS Haiku - общение](https://t.me/HaikuOS_RU_chat) — Чат про Haiku (рус.)
 * [KDE neon users](https://t.me/kdeneon) — English speaking community of KDE neon

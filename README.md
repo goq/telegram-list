@@ -686,7 +686,7 @@
 
 ##### Операционные системы
 * [ArchLinux RU](https://t.me/archlinux_ru) — ArchLinux
-* [Arch Linux RU & UA](https://t.me/ArchLinuxChatRU) — Анархия!
+* [Arch Linux RU](https://t.me/ArchLinuxChatRU) — Анархия!
 * [Calculate Linux](https://t.me/calculate_linux) — Чат про Calculate Linux (Gentoo based)
 * [CentOS](https://t.me/cent_os_ru) — Чат про CentOS
 * [Debian](https://t.me/DebianRu) — Чат про Debian

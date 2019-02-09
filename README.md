@@ -527,6 +527,7 @@
 * [CodenameCRUD](https://t.me/codenamecrud) — Чат про Ruby on Rails
 * [React](https://t.me/react_ru) — Чат про React
 * [Битрикс для разработчиков](https://t.me/bitrixfordevelopers) — Чат про Битрикс
+* [Odoo talks & fun](https://t.me/odoo_talks) — Чат про Odoo на русском и других языках
 * [Sequelize](https://t.me/sequelize) — Чат по Sequelize
 * [Spring Framework and more](https://t.me/springframeworkio) — Русскоязычный Чат о Spring Framework
 * [Symfony](https://t.me/symfony_php) — Чат про Symfony Framework. Атмосферный! Без цензуры :-D

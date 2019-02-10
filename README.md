@@ -867,6 +867,7 @@
 * [Airbase](https://t.me/airbase_ru) — чат форумов Авиабазы. Военная техника (в основном авиация и флот), политика, компьютеры, литература, кино и многое другое.
 * [Funscience](https://t.me/funscience_chat) — группа канала [@Funscience](https://t.me/funscience)
 * [Aurora Borealis Hunters](https://t.me/aurora_ru) — Чат фото- и видео-охотников за Северным Сиянием!
+* [Гонок чят](https://t.me/raacingchat) — Чятик любителей погонять. Project cars 2, Gran Turismo Sport, Assetto Corsa, etc.
 
 [(Назад к меню)](#Меню)
 

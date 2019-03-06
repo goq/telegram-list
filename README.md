@@ -578,6 +578,7 @@
 * [Google Cloud Platform_ru](https://t.me/goo_cloud_ru) — Чат про Google Cloud Platform
 * [Чат — Типичный Верстальщик](https://t.me/tpverstakchat) — Чат верстальщиков
 * [letsCode Chat](https://t.me/letsCodeChat) — Флудильня. Место для вопросов-ответов по разработке и ИТ в целом.
+* [pro.buildsystems](https://t.me/probuildsystems) — Чат про билдсистемы CMake, Meson, Waf, Scons, Bazel, и многие другие
 
 [(Назад к меню)](#Меню)
 

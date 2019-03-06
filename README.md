@@ -448,6 +448,7 @@
 * [css_ru](https://t.me/css_ru) — Чат про CSS и немного HTML
 * [Dart & Flutter по-русски](https://t.me/rudart) — Чат про язык Dart (Flutter, AngularDart, и т.д.)
 * [Delphi & Lazarus](https://t.me/Delphi_Lazarus) — Чат про Delphi и Lazarus
+* [dlang.ru](https://t.me/dlangru) — Чат про язык D
 * [ErlangRus](https://t.me/erlangrus) — Толки о Erlang, IT и работе
 * [pro.elixir](https://t.me/proelixir) — Чат про Elixir
 * [Elm Lang](https://t.me/elm_ru) — Чат про язык программирования Elm

@@ -173,6 +173,7 @@
 * [Пятничный деплой](https://t.me/count0_digest) — Подборка ссылок, статей и постов из мира DevOps\SRE\разработки.
 * [ProgHub](https://t.me/prog_hub) — Тестирования и задачи по различным языкам программирования
 * [2pegramming](https://t.me/pepegramming) — Грустно о программировании. Ruby, architecture, live codding.
+* [Zero Dereference](https://t.me/zerodereference) — Ссылки на материалы о системном программировании, разработке языков программирования, обработке сигналов и науке в целом.
 
 [(Назад к меню)](#Меню)
 

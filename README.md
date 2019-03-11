@@ -979,7 +979,6 @@
 * [@tlgurbot](https://t.me/tlgurbot) — Предоставляет доступ по http к файлам из Телеграма.
 * [@EinfoBot](https://t.me/EinfoBot) — Бот, который ищет электронные компоненты и интегрирован в поисковую систему.
 * [@parserfreelancer_bot](https://t.me/parserfreelancer_bot) — Бот, уведомляющий о появлении новой работы на разных фрилансовых сайтах
-* [@TitsBot](https://t.me/phphelperbot) [Source](https://github.com/kefzce/titsbot) — Адалт бот,фото,видео,гиф,подборки и голосовалки за лучшие фотки
 * [@LFTVbot](https://t.me/LFTVbot) [Source](https://github.com/Lord-Protector/LostFilmBot) — Бот для сайта LostFilm.TV. Личные уведомления, загрузка нужных серий и многое другое.
 * [@OverStatsBot](https://t.me/OverStatsBot) [Source](https://github.com/Lord-Protector/OverStatsBot) — Бот для игры Overwatch. Генерирует личные профили в виде изображений.
 * [@nosticker_bot](https://t.me/nosticker_bot) — Бот автоматически удаляет любой стикер, отправленный в чат.

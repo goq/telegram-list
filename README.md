@@ -174,6 +174,7 @@
 * [ProgHub](https://t.me/prog_hub) — Тестирования и задачи по различным языкам программирования
 * [2pegramming](https://t.me/pepegramming) — Грустно о программировании. Ruby, architecture, live codding.
 * [Zero Dereference](https://t.me/zerodereference) — Ссылки на материалы о системном программировании, разработке языков программирования, обработке сигналов и науке в целом.
+* [Games Production](https://t.me/GamesProduction) — Канал о производстве компьютерных игр
 
 [(Назад к меню)](#Меню)
 

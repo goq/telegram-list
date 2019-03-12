@@ -86,6 +86,7 @@
 * [Samara IT Community news](https://t.me/Samara_IT_Community) — Канал новостей Самарского IT сообщества
 * [Eb*@oe IT](https://t.me/ebannoeit) — Телеграм версия одноименного ресурса eb*@oe it. Голая правда о нашем АйТи
 * [computerra.ru](https://t.me/computerra_ru) — Компьютерра - легендарный журнал о современных технологиях.
+* [ITGM News](https://t.me/itgmnews) — Новости про [IT Global Meetup](https://piter-united.ru) - глобальный слёт IT сообществ
 
 [(Назад к меню)](#Меню)
 

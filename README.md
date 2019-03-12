@@ -10,7 +10,7 @@
 
 Канал недели:
 
-* [Записки админа](https://t.me/SysadminNotes) — Статьи, рекомендациии мысли про администрирование серверов
+* [ITGM News](https://t.me/itgmnews) — Новости про [IT Global Meetup](https://piter-united.ru) - глобальный слёт IT сообществ
 
 -----
 

@@ -554,6 +554,7 @@
 * [Google Apps Script RC](https://t.me/googleappsscriptrc) — Чат про Google Apps Script
 * [GraphQL](https://t.me/graphql_ru) — Чат про GraphQL
 * [SublimeText_RU](https://t.me/SublimeText_RU) — Чат про SublimeText
+* [OpenLayers](https://t.me/openlayers_ru) — Чат про картографическую библиотеку OpenLayers
 
 [(Назад к меню)](#Меню)
 

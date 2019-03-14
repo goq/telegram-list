@@ -177,6 +177,7 @@
 * [2pegramming](https://t.me/pepegramming) — Грустно о программировании. Ruby, architecture, live codding.
 * [Zero Dereference](https://t.me/zerodereference) — Ссылки на материалы о системном программировании, разработке языков программирования, обработке сигналов и науке в целом.
 * [Games Production](https://t.me/GamesProduction) — Канал о производстве компьютерных игр
+* [TechChannel](https://t.me/tech_channel4u) — Всё о технологиях, программировании, инженерии и вебе.
 
 [(Назад к меню)](#Меню)
 
@@ -556,6 +557,7 @@
 * [Google Apps Script RC](https://t.me/googleappsscriptrc) — Чат про Google Apps Script
 * [GraphQL](https://t.me/graphql_ru) — Чат про GraphQL
 * [SublimeText_RU](https://t.me/SublimeText_RU) — Чат про SublimeText
+* [OpenLayers](https://t.me/openlayers_ru) — Чат про картографическую библиотеку OpenLayers
 
 [(Назад к меню)](#Меню)
 

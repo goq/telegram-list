@@ -87,6 +87,7 @@
 * [Eb*@oe IT](https://t.me/ebannoeit) — Телеграм версия одноименного ресурса eb*@oe it. Голая правда о нашем АйТи
 * [computerra.ru](https://t.me/computerra_ru) — Компьютерра - легендарный журнал о современных технологиях.
 * [ITGM News](https://t.me/itgmnews) — Новости про [IT Global Meetup](https://piter-united.ru) - глобальный слёт IT сообществ
+* [SALENAMES](https://t.me/salenames) — Новости и блог про домены от первого лица - доменного регистратора.
 
 [(Назад к меню)](#Меню)
 

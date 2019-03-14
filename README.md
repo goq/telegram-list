@@ -176,6 +176,7 @@
 * [2pegramming](https://t.me/pepegramming) — Грустно о программировании. Ruby, architecture, live codding.
 * [Zero Dereference](https://t.me/zerodereference) — Ссылки на материалы о системном программировании, разработке языков программирования, обработке сигналов и науке в целом.
 * [Games Production](https://t.me/GamesProduction) — Канал о производстве компьютерных игр
+* [TechChannel](https://t.me/tech_channel4u) — Всё о технологиях, программировании, инженерии и вебе.
 
 [(Назад к меню)](#Меню)
 

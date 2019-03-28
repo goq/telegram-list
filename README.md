@@ -559,6 +559,7 @@
 * [GraphQL](https://t.me/graphql_ru) — Чат про GraphQL
 * [SublimeText_RU](https://t.me/SublimeText_RU) — Чат про SublimeText
 * [OpenLayers](https://t.me/openlayers_ru) — Чат про картографическую библиотеку OpenLayers
+* [Vapor3+, Server Side Swift](https://t.me/server_side_swift) — Чат про Vapor Swift, Server-Side-Swift, Kitura и Perfect и IBM.
 
 [(Назад к меню)](#Меню)
 

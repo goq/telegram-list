@@ -631,6 +631,7 @@
 * [cloud.yandex.ru](https://t.me/cloud_ya_ru) — Группа обсуждения облака от Яндекса. Практически официальная :)
 * [Keenetic_ru](https://t.me/Keenetic_ru) — Неофициальная группа обсуждения и взаимной помощи пользователей Keenetic.
 * [EvilWirelessChat](https://t.me/EvilWirelessChat) — Группа русскоязычных специалистов по беспроводным сетям.
+* [VMware User Group Rus](https://t.me/vmugru) — Чат про VMWare
 
 [(Назад к меню)](#Меню)
 

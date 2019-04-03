@@ -903,6 +903,7 @@
 * [ELECTRONIX](https://t.me/electronix) — Чат и обсуждения электроники и проектирования электронной аппаратуры.
 * [Nordic Energy](https://t.me/proHardware) — Чат про разработку электроники и автоматики.
 * [ARDUINO_GODs](https://t.me/ARDUINOpro) — Чат про Arduino
+* [IoT по-русски](https://t.me/ru_iot) — Чат про интернет вещей.
 
 [(Назад к меню)](#Меню)
 

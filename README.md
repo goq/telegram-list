@@ -178,6 +178,7 @@
 * [Zero Dereference](https://t.me/zerodereference) — Ссылки на материалы о системном программировании, разработке языков программирования, обработке сигналов и науке в целом.
 * [Games Production](https://t.me/GamesProduction) — Канал о производстве компьютерных игр
 * [TechChannel](https://t.me/tech_channel4u) — Всё о технологиях, программировании, инженерии и вебе.
+* [MRG Champs](https://t.me/mrgchamps) — Канал о чемпионатах, соревнованиях и хакатонах от Mail Ru Group
 
 [(Назад к меню)](#Меню)
 
@@ -578,7 +579,6 @@
 * [Чат по продуктам hashicorp](https://t.me/ru_hashicorp) — Чат пользователей Hashicorp: Consul, Nomad, Terraform...
 * [Tilda Developers](https://t.me/tilda_dev) — Чат разработчиков на платформе Tilda
 * [EOS dev](https://t.me/eoscode) — Чат о разработке под EOS
-* [HighLoadCup Official](https://t.me/highloadcup) — Официальная группа для участников чемпионата highloadcup от mail.ru
 * [ITForge](https://t.me/itforge) — Чат про python, парсинг сайтов и просто про IT
 * [Annode webdev](https://t.me/annode) — Чат веб-разработчиков. Frontend, Backend, CMS, БД и другое.
 * [Data Engineers](https://t.me/hadoopusers) — Чат про Apache Hadoop

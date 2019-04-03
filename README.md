@@ -457,6 +457,7 @@
 * [Сrystal Lang](https://t.me/crystal_ru) — Чат про Crystal Lang
 * [css_ru](https://t.me/css_ru) — Чат про CSS и немного HTML
 * [Dart & Flutter по-русски](https://t.me/rudart) — Чат про язык Dart (Flutter, AngularDart, и т.д.)
+* [Dart / Flutter](https://t.me/dartlang_group) — Dart / Flutter English speaking community
 * [Delphi & Lazarus](https://t.me/Delphi_Lazarus) — Чат про Delphi и Lazarus
 * [dlang.ru](https://t.me/dlangru) — Чат про язык D
 * [ErlangRus](https://t.me/erlangrus) — Толки о Erlang, IT и работе

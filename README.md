@@ -494,6 +494,7 @@
 * [Devall — PHP](https://t.me/joinchat/AAtJOjx9l5F9IhkHIIVP9Q) — Чат про PHP. Флуд
 * [PowerShell Pro](https://t.me/powershell_pro) — Язык программирования PowerShell
 * [PowerShellRus](https://t.me/powershellrus) — О Powershell на русском
+* [Powershell Ru](https://t.me/ru_powershell) — Ещё один чат про PowerShell
 * [PureBasicRU](https://t.me/purebasicru) — Чат про PureBasic
 * [R language](https://t.me/rlang_ru) — Язык программирования R, статистика и машинное обучение/data mining
 * [ReasonML и OCaml](https://t.me/reasonml_ru) — Чат про ReasonML и OCaml

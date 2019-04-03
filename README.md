@@ -633,6 +633,7 @@
 * [Keenetic_ru](https://t.me/Keenetic_ru) — Неофициальная группа обсуждения и взаимной помощи пользователей Keenetic.
 * [EvilWirelessChat](https://t.me/EvilWirelessChat) — Группа русскоязычных специалистов по беспроводным сетям.
 * [VMware User Group Rus](https://t.me/vmugru) — Чат про VMWare
+* [DNS Security (DNSSEC, DNSCurve, etc)](https://telegram.me/joinchat/AL6jEUFFW5TFS1s3pZMMjg) — Чат про DNS Security
 
 [(Назад к меню)](#Меню)
 

@@ -648,6 +648,7 @@
 * [Kubernetes](https://t.me/k8spb) — Чат про Kubernetes
 * [Метрики](https://t.me/metrics_ru) — Чат про метрики, мониторинг и анализ данных
 * [Сбор и аналитика системных сообщений](https://t.me/ru_logs) — Русскоговорящая группа по аналитике syslog/structured log. ElasticSearch, Mtail, Graylog и т.п.
+* [ru_gitlab](https://t.me/ru_gitlab) — Чат про GitLab
 
 [(Назад к меню)](#Меню)
 

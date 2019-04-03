@@ -503,6 +503,7 @@
 * [Ruby Talks](https://t.me/ruby_talks) — Про Ruby
 * [RubyRush](https://t.me/rubyrush) — Чат для делающих первые шаги в Ruby и программировании
 * [RustLang](https://t.me/rustlang_ru) — Чат про Rust
+* [Rust Beginners](https://t.me/rust_beginners_ru) — Чат про Rust для новичков
 * [embedded.rs](https://t.me/embedded_rs) — Чат про Embedded на Rust
 * [Scala](https://t.me/scala_ru) — Чат про Scala
 * [Scala PONV](https://t.me/scala_ponv) - Неформальный чат про Scala, FP, и не только

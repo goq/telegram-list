@@ -179,6 +179,7 @@
 * [Games Production](https://t.me/GamesProduction) — Канал о производстве компьютерных игр
 * [TechChannel](https://t.me/tech_channel4u) — Всё о технологиях, программировании, инженерии и вебе.
 * [MRG Champs](https://t.me/mrgchamps) — Канал о чемпионатах, соревнованиях и хакатонах от Mail Ru Group
+* [Saint P Ruby News](https://t.me/saintpruby) — Digest of Ruby community news
 
 [(Назад к меню)](#Меню)
 

@@ -10,7 +10,7 @@
 
 Канал недели:
 
-* [ITGM News](https://t.me/itgmnews) — Новости про [IT Global Meetup](https://piter-united.ru) - глобальный слёт IT сообществ
+* [The After Times](https://t.me/theaftertimes) — Несерьезный дайджест IT. Паста, мысли, критика.
 
 -----
 
@@ -178,7 +178,9 @@
 * [Zero Dereference](https://t.me/zerodereference) — Ссылки на материалы о системном программировании, разработке языков программирования, обработке сигналов и науке в целом.
 * [Games Production](https://t.me/GamesProduction) — Канал о производстве компьютерных игр
 * [TechChannel](https://t.me/tech_channel4u) — Всё о технологиях, программировании, инженерии и вебе.
-* [DevChampions](https://t.me/devchampions) — Лучшие книги, ссылки и ресурсы для айтишников (на английском языке)
+* [DevChampions](https://t.me/devchampions) — Книги, ссылки и ресурсы для айтишников (на английском языке)
+* [MRG Champs](https://t.me/mrgchamps) — Канал о чемпионатах, соревнованиях и хакатонах от Mail Ru Group
+* [Saint P Ruby News](https://t.me/saintpruby) — Digest of Ruby community news
 
 [(Назад к меню)](#Меню)
 
@@ -247,6 +249,7 @@
 * [Camshift](https://t.me/camshift) — Канал про ИБ в сфере видеонаблюдения
 * [Вирусолог](https://t.me/it_virologist) — Канал про it-вирусологию. Новости из мира it и инфобеза
 * [ИБач](https://t.me/ibach) — Канал об Информационной Безопасности 🔒
+* [Bug Bounty Channel](https://t.me/bug_bounty_channel) — All bug bounties here
 
 [(Назад к меню)](#Меню)
 
@@ -438,6 +441,7 @@
 * [Деловая переписка](https://t.me/ya_vas_uslyshal) — Как писать по работе. Примеры, шаблоны и разборы от авторов книги «Пиши, сокращай».
 * [печенье](https://t.me/gtxtymt_xyz) — Персональный блог PHP'иста, любителя Laravel. Новости о php и конечно же айтишные 7+/811мемы. Куда без них?1r4ty56
 * [ElectronIX](https://t.me/electronixch) — Авторский канал об электронике, беспроводной связи и схемотехнике.
+* [Золото Бородача](https://t.me/golden_borodutch) — Авторский канал Бородача (Никиты Колмогорова). Мысли, код, примеры, и прочие интересные штуки
 
 [(Назад к меню)](#Меню)
 
@@ -457,6 +461,7 @@
 * [Сrystal Lang](https://t.me/crystal_ru) — Чат про Crystal Lang
 * [css_ru](https://t.me/css_ru) — Чат про CSS и немного HTML
 * [Dart & Flutter по-русски](https://t.me/rudart) — Чат про язык Dart (Flutter, AngularDart, и т.д.)
+* [Dart / Flutter](https://t.me/dartlang_group) — Dart / Flutter English speaking community
 * [Delphi & Lazarus](https://t.me/Delphi_Lazarus) — Чат про Delphi и Lazarus
 * [dlang.ru](https://t.me/dlangru) — Чат про язык D
 * [ErlangRus](https://t.me/erlangrus) — Толки о Erlang, IT и работе
@@ -483,6 +488,7 @@
 * [Python](https://t.me/ru_python) — Чат про Python
 * [pro.python](https://t.me/propython) — Чат про Python
 * [Python_beginners](https://t.me/ru_python_beginners) — Чат про Python (для новичков)
+* [Async Python](https://t.me/python_async) — Обсуждаем асинхронщину в Python
 * [Rude Python](https://t.me/rudepython) — Грубый чат про Python (для мужиков)
 * [Python-programming](https://t.me/py_programming) — Чат про Python
 * [phpGeeks](https://t.me/phpgeeks) — Чат про PHP / php Geeks
@@ -491,6 +497,7 @@
 * [Devall — PHP](https://t.me/joinchat/AAtJOjx9l5F9IhkHIIVP9Q) — Чат про PHP. Флуд
 * [PowerShell Pro](https://t.me/powershell_pro) — Язык программирования PowerShell
 * [PowerShellRus](https://t.me/powershellrus) — О Powershell на русском
+* [Powershell Ru](https://t.me/ru_powershell) — Ещё один чат про PowerShell
 * [PureBasicRU](https://t.me/purebasicru) — Чат про PureBasic
 * [R language](https://t.me/rlang_ru) — Язык программирования R, статистика и машинное обучение/data mining
 * [ReasonML и OCaml](https://t.me/reasonml_ru) — Чат про ReasonML и OCaml
@@ -500,6 +507,7 @@
 * [Ruby Talks](https://t.me/ruby_talks) — Про Ruby
 * [RubyRush](https://t.me/rubyrush) — Чат для делающих первые шаги в Ruby и программировании
 * [RustLang](https://t.me/rustlang_ru) — Чат про Rust
+* [Rust Beginners](https://t.me/rust_beginners_ru) — Чат про Rust для новичков
 * [embedded.rs](https://t.me/embedded_rs) — Чат про Embedded на Rust
 * [Scala](https://t.me/scala_ru) — Чат про Scala
 * [Scala PONV](https://t.me/scala_ponv) - Неформальный чат про Scala, FP, и не только
@@ -531,8 +539,7 @@
 * [.NET Group](https://t.me/dotnetgroup) — Чат разработчиков .NET. Минимум флуда, максимум полезных обсуждений
 * [.NET Chat](https://t.me/DotNetChat) — Чат про .NET под эгидой MSK/SPB .NET Community Group
 * [pro.net](https://t.me/pro_net) — Обсуждение .NET Framework и всего, что с ним связано.
-* [Node: русскоязычное сообщество](https://t.me/node_ru) — Независимое сообщество node разработчиков на русском языке.
-* [Node.js](https://t.me/nodejs_ru) — Чат про NodeJS
+* [NodeJS](https://t.me/node_ru) — Чат про NodeJs
 * [CodenameCRUD](https://t.me/codenamecrud) — Чат про Ruby on Rails
 * [React](https://t.me/react_ru) — Чат про React
 * [Битрикс для разработчиков](https://t.me/bitrixfordevelopers) — Чат про Битрикс
@@ -560,6 +567,7 @@
 * [GraphQL](https://t.me/graphql_ru) — Чат про GraphQL
 * [SublimeText_RU](https://t.me/SublimeText_RU) — Чат про SublimeText
 * [OpenLayers](https://t.me/openlayers_ru) — Чат про картографическую библиотеку OpenLayers
+* [Vapor3+, Server Side Swift](https://t.me/server_side_swift) — Чат про Vapor Swift, Server-Side-Swift, Kitura и Perfect и IBM.
 
 [(Назад к меню)](#Меню)
 
@@ -578,7 +586,6 @@
 * [Чат по продуктам hashicorp](https://t.me/ru_hashicorp) — Чат пользователей Hashicorp: Consul, Nomad, Terraform...
 * [Tilda Developers](https://t.me/tilda_dev) — Чат разработчиков на платформе Tilda
 * [EOS dev](https://t.me/eoscode) — Чат о разработке под EOS
-* [HighLoadCup Official](https://t.me/highloadcup) — Официальная группа для участников чемпионата highloadcup от mail.ru
 * [ITForge](https://t.me/itforge) — Чат про python, парсинг сайтов и просто про IT
 * [Annode webdev](https://t.me/annode) — Чат веб-разработчиков. Frontend, Backend, CMS, БД и другое.
 * [Data Engineers](https://t.me/hadoopusers) — Чат про Apache Hadoop
@@ -589,6 +596,7 @@
 * [letsCode Chat](https://t.me/letsCodeChat) — Флудильня. Место для вопросов-ответов по разработке и ИТ в целом.
 * [pro.buildsystems](https://t.me/probuildsystems) — Чат про билдсистемы CMake, Meson, Waf, Scons, Bazel, и многие другие
 * [pro.osdev](https://t.me/pro_osdev) — Чат про разработку операционных систем
+* [*nix talks](https://t.me/unixtalks) — Чат про *nix'ы
 
 [(Назад к меню)](#Меню)
 
@@ -632,6 +640,9 @@
 * [cloud.yandex.ru](https://t.me/cloud_ya_ru) — Группа обсуждения облака от Яндекса. Практически официальная :)
 * [Keenetic_ru](https://t.me/Keenetic_ru) — Неофициальная группа обсуждения и взаимной помощи пользователей Keenetic.
 * [EvilWirelessChat](https://t.me/EvilWirelessChat) — Группа русскоязычных специалистов по беспроводным сетям.
+* [VMware User Group Rus](https://t.me/vmugru) — Чат про VMWare
+* [DNS Security (DNSSEC, DNSCurve, etc)](https://telegram.me/joinchat/AL6jEUFFW5TFS1s3pZMMjg) — Чат про DNS Security
+* [Эникей чатъ](https://t.me/anykey_chat) — Ну вы поняли :)
 
 [(Назад к меню)](#Меню)
 
@@ -645,6 +656,7 @@
 * [Kubernetes](https://t.me/k8spb) — Чат про Kubernetes
 * [Метрики](https://t.me/metrics_ru) — Чат про метрики, мониторинг и анализ данных
 * [Сбор и аналитика системных сообщений](https://t.me/ru_logs) — Русскоговорящая группа по аналитике syslog/structured log. ElasticSearch, Mtail, Graylog и т.п.
+* [ru_gitlab](https://t.me/ru_gitlab) — Чат про GitLab
 
 [(Назад к меню)](#Меню)
 
@@ -678,6 +690,7 @@
 * [NLP Chat](https://telegram.me/joinchat/ABI4p0BMRAByXDgJqo5uhQ) — Чат про Natural Language Processing
 * [Группа Kaggle Global](https://t.me/kaggle) — Чат про Kaggle, решение проблем, идеи и сотрудничество
 * [AI / Искусственный Интеллект](https://t.me/ai_life) — Чат про искусственный интеллект
+* [Python для анализа данных](https://t.me/pydata_chat) — Чат про применение Python для анализа данных, в особенности для различного рода автоматизации и аналитики.
 
 [(Назад к меню)](#Меню)
 
@@ -893,7 +906,9 @@
 * [proFPGA](https://t.me/proFpga) — Чат про разработку под FPGA (англ.). Оффтоп запрещён.
 * [ProArduino](https://t.me/ProArduino) — Чат про Arduino
 * [ELECTRONIX](https://t.me/electronix) — Чат и обсуждения электроники и проектирования электронной аппаратуры.
-* [Nordic Energy](https://t.me/joinchat/EMVk8kPDmkdoR_rBTp8x6w) — Чат про разработку электроники и автоматики.
+* [Nordic Energy](https://t.me/proHardware) — Чат про разработку электроники и автоматики.
+* [ARDUINO_GODs](https://t.me/ARDUINOpro) — Чат про Arduino
+* [IoT по-русски](https://t.me/ru_iot) — Чат про интернет вещей.
 
 [(Назад к меню)](#Меню)
 

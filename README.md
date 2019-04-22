@@ -10,7 +10,7 @@
 
 Канал недели:
 
-* [Записки админа](https://t.me/SysadminNotes) — Статьи, рекомендациии мысли про администрирование серверов
+* [The After Times](https://t.me/theaftertimes) — Несерьезный дайджест IT. Паста, мысли, критика.
 
 -----
 
@@ -86,6 +86,8 @@
 * [Samara IT Community news](https://t.me/Samara_IT_Community) — Канал новостей Самарского IT сообщества
 * [Eb*@oe IT](https://t.me/ebannoeit) — Телеграм версия одноименного ресурса eb*@oe it. Голая правда о нашем АйТи
 * [computerra.ru](https://t.me/computerra_ru) — Компьютерра - легендарный журнал о современных технологиях.
+* [ITGM News](https://t.me/itgmnews) — Новости про [IT Global Meetup](https://piter-united.ru) - глобальный слёт IT сообществ
+* [SALENAMES](https://t.me/salenames) — Новости и блог про домены от первого лица - доменного регистратора.
 
 [(Назад к меню)](#Меню)
 
@@ -172,7 +174,14 @@
 * [Kharkiv iOS](https://t.me/kharkiv_ios) — Новости и события iOS-комьюнити Харькова
 * [Пятничный деплой](https://t.me/count0_digest) — Подборка ссылок, статей и постов из мира DevOps\SRE\разработки.
 * [ProgHub](https://t.me/prog_hub) — Тестирования и задачи по различным языкам программирования
-* [Dev Tools](https://t.me/developer_tools) — На канале @developer_tools собраны разнообразные инструменты, плагины, аддоны, которые упростят твой процесс разработки.
+* [2pegramming](https://t.me/pepegramming) — Грустно о программировании. Ruby, architecture, live codding.
+* [Zero Dereference](https://t.me/zerodereference) — Ссылки на материалы о системном программировании, разработке языков программирования, обработке сигналов и науке в целом.
+* [Games Production](https://t.me/GamesProduction) — Канал о производстве компьютерных игр
+* [TechChannel](https://t.me/tech_channel4u) — Всё о технологиях, программировании, инженерии и вебе.
+* [DevChampions](https://t.me/devchampions) — Книги, ссылки и ресурсы для айтишников (на английском языке)
+* [MRG Champs](https://t.me/mrgchamps) — Канал о чемпионатах, соревнованиях и хакатонах от Mail Ru Group
+* [Saint P Ruby News](https://t.me/saintpruby) — Digest of Ruby community news
+* [Dev Tools](https://t.me/developer_tools) — Инструменты, плагины и аддоны для разработки.
 
 [(Назад к меню)](#Меню)
 
@@ -210,6 +219,8 @@
 * [Juliarderity, nerdiness, geekery, travels, punk](https://t.me/juliarderity) — JS VMs, спецификации, пропозалы, #TC39 инсайды, #Babel, #WebAssembly, нёрдство, конференции, панк.
 * [Замечательная web-разработка](https://t.me/webdevblog) — Авторский блог глазами опытного веб-дэва: мемы, новости, ресурсы, хаки, полезности. Вэлком! 🤟
 * [Developer Starter pack](https://t.me/devsp) — Канал для начинающих. Тесты, статьи, лайфхаки и тонны обучающих материалов. Бесплатно :)
+* [JavaScript](https://t.me/we_use_js) — Статьи, видео, книги по JavaScript и фронтенд разработке
+* [🦊 Angular Fox 🚀 — русскогорящие новости сообщества](https://t.me/angular_fox) — Как костыль, летящий на реактивно-лисьей тяге 🔥🦊
 
 [(Назад к меню)](#Меню)
 
@@ -238,6 +249,8 @@
 * [DC7499](https://t.me/DEFCON) — DefCon Russia
 * [Camshift](https://t.me/camshift) — Канал про ИБ в сфере видеонаблюдения
 * [Вирусолог](https://t.me/it_virologist) — Канал про it-вирусологию. Новости из мира it и инфобеза
+* [ИБач](https://t.me/ibach) — Канал об Информационной Безопасности 🔒
+* [Bug Bounty Channel](https://t.me/bug_bounty_channel) — All bug bounties here
 
 [(Назад к меню)](#Меню)
 
@@ -364,6 +377,7 @@
 * [Unreal Engine](https://t.me/unrealenginecis) — Новостной канал про Unreal Engine и геймдев.
 * [Мысли об IT](https://t.me/big_int) — Канал об Информационных Технологиях, трудоустройстве, разработке программного обеспечения, технологиях, методологиях, проектировании и архитектуре.
 * [ТРИЗ + Задачи💡](https://t.me/trizsolver) — Популяризация изобретательства и теории решения изобретательских задач.
+* [ИБмем](https://t.me/ibmem) — Мемы и пикчи об Информационной Безопасности
 
 [(Назад к меню)](#Меню)
 
@@ -428,6 +442,7 @@
 * [Деловая переписка](https://t.me/ya_vas_uslyshal) — Как писать по работе. Примеры, шаблоны и разборы от авторов книги «Пиши, сокращай».
 * [печенье](https://t.me/gtxtymt_xyz) — Персональный блог PHP'иста, любителя Laravel. Новости о php и конечно же айтишные 7+/811мемы. Куда без них?1r4ty56
 * [ElectronIX](https://t.me/electronixch) — Авторский канал об электронике, беспроводной связи и схемотехнике.
+* [Золото Бородача](https://t.me/golden_borodutch) — Авторский канал Бородача (Никиты Колмогорова). Мысли, код, примеры, и прочие интересные штуки
 
 [(Назад к меню)](#Меню)
 
@@ -447,13 +462,14 @@
 * [Сrystal Lang](https://t.me/crystal_ru) — Чат про Crystal Lang
 * [css_ru](https://t.me/css_ru) — Чат про CSS и немного HTML
 * [Dart & Flutter по-русски](https://t.me/rudart) — Чат про язык Dart (Flutter, AngularDart, и т.д.)
+* [Dart / Flutter](https://t.me/dartlang_group) — Dart / Flutter English speaking community
 * [Delphi & Lazarus](https://t.me/Delphi_Lazarus) — Чат про Delphi и Lazarus
+* [dlang.ru](https://t.me/dlangru) — Чат про язык D
 * [ErlangRus](https://t.me/erlangrus) — Толки о Erlang, IT и работе
 * [pro.elixir](https://t.me/proelixir) — Чат про Elixir
 * [Elm Lang](https://t.me/elm_ru) — Чат про язык программирования Elm
 * [FreePascal & Lazarus](https://t.me/freepascal_en) — Чат про FreePascal и Lazarus
 * [F# Chat](https://t.me/fsharp_chat) — Чат про F#
-* [pro.go](https://t.me/proGO) — Чат про Golang
 * [Golang RU](https://t.me/gogolang) — Чат про Golang
 * [Haskell](https://t.me/haskellru) — Чат про Haskell
 * [Haskell Learn](https://t.me/haskell_learn) — Чат для вопросов по основам Haskell
@@ -461,13 +477,11 @@
 * [pro.js](https://t.me/JSlang) — Чат про JavaScript
 * [javascript_ru](https://t.me/javascript_ru) — Чат про JavaScript
 * [learn.java](https://t.me/javastart) — Изучаем java вместе. Чат для начинающих и не только!
-* [Java & Co](https://t.me/javarush) — Чат про Java
 * [Java Underground](https://t.me/java_underground) — Чат про Java
 * [pro.jvm](https://t.me/jvmchat) — Чат про JVM
 * [Javanese Questions](https://t.me/javanese_questions) — общение в формате вопрос-ответ о Java, Kotlin и Android.
 * [JuliaLanguage](https://t.me/JuliaLanguage) — Все о языке Julia
 * [Kotlin](https://t.me/kotlin_lang) — Чат про Kotlin
-* [Lisp Forever](https://t.me/lisp_forever) — Common Lisp, Scheme/Racket, Clojure, Picolisp. S-expr
 * [NativeScript](https://t.me/nativescript_ru) — Чат про NativeScript
 * [ru.nim.talks](https://t.me/ru_nim_talks) — Чат про nim (ex-nimrod)
 * [Modern::Perl](https://t.me/modernperl) — Чат про Perl. Современный::Perl
@@ -475,6 +489,7 @@
 * [Python](https://t.me/ru_python) — Чат про Python
 * [pro.python](https://t.me/propython) — Чат про Python
 * [Python_beginners](https://t.me/ru_python_beginners) — Чат про Python (для новичков)
+* [Async Python](https://t.me/python_async) — Обсуждаем асинхронщину в Python
 * [Rude Python](https://t.me/rudepython) — Грубый чат про Python (для мужиков)
 * [Python-programming](https://t.me/py_programming) — Чат про Python
 * [phpGeeks](https://t.me/phpgeeks) — Чат про PHP / php Geeks
@@ -483,6 +498,7 @@
 * [Devall — PHP](https://t.me/joinchat/AAtJOjx9l5F9IhkHIIVP9Q) — Чат про PHP. Флуд
 * [PowerShell Pro](https://t.me/powershell_pro) — Язык программирования PowerShell
 * [PowerShellRus](https://t.me/powershellrus) — О Powershell на русском
+* [Powershell Ru](https://t.me/ru_powershell) — Ещё один чат про PowerShell
 * [PureBasicRU](https://t.me/purebasicru) — Чат про PureBasic
 * [R language](https://t.me/rlang_ru) — Язык программирования R, статистика и машинное обучение/data mining
 * [ReasonML и OCaml](https://t.me/reasonml_ru) — Чат про ReasonML и OCaml
@@ -492,6 +508,7 @@
 * [Ruby Talks](https://t.me/ruby_talks) — Про Ruby
 * [RubyRush](https://t.me/rubyrush) — Чат для делающих первые шаги в Ruby и программировании
 * [RustLang](https://t.me/rustlang_ru) — Чат про Rust
+* [Rust Beginners](https://t.me/rust_beginners_ru) — Чат про Rust для новичков
 * [embedded.rs](https://t.me/embedded_rs) — Чат про Embedded на Rust
 * [Scala](https://t.me/scala_ru) — Чат про Scala
 * [Scala PONV](https://t.me/scala_ponv) - Неформальный чат про Scala, FP, и не только
@@ -501,6 +518,7 @@
 * [Functional Programming](https://t.me/fp_ru) — Чат любителей функциональных языков программирования
 * [CIL](https://t.me/cilchat) — Чат про CIL/IL/MSIL
 * [WebAssembly](https://t.me/WebAssembly_ru) — Чат про Webassembly
+* [WebGL & Three.js](https://t.me/webgl_ru) — Чат про 3d визуализацию в браузере
 
 [(Назад к меню)](#Меню)
 
@@ -523,8 +541,7 @@
 * [.NET Group](https://t.me/dotnetgroup) — Чат разработчиков .NET. Минимум флуда, максимум полезных обсуждений
 * [.NET Chat](https://t.me/DotNetChat) — Чат про .NET под эгидой MSK/SPB .NET Community Group
 * [pro.net](https://t.me/pro_net) — Обсуждение .NET Framework и всего, что с ним связано.
-* [Node: русскоязычное сообщество](https://t.me/node_ru) — Независимое сообщество node разработчиков на русском языке.
-* [Node.js](https://t.me/nodejs_ru) — Чат про NodeJS
+* [NodeJS](https://t.me/node_ru) — Чат про NodeJs
 * [CodenameCRUD](https://t.me/codenamecrud) — Чат про Ruby on Rails
 * [React](https://t.me/react_ru) — Чат про React
 * [Битрикс для разработчиков](https://t.me/bitrixfordevelopers) — Чат про Битрикс
@@ -543,7 +560,6 @@
 * [pro.vim](https://t.me/vimers) — Русскоязычные вимеры
 * [weex](https://t.me/weex_ru) — Чат про Weex
 * [Qt](https://t.me/qt_chat) — Чат по Qt
-* [rollup](https://t.me/rollup_ru) — Чат про Rollup.js
 * [Ember.js](https://t.me/ember_js) — Cообщество Ember.js
 * [Discourse](https://t.me/joinchat/A8oWNg2L0txJw6_BygaZtg) — Чат про Discourse.
 * [Webpack](https://t.me/webpack_ru) — Обсуждения webpack 1/2, лоадеров, плагинов и сборок
@@ -552,6 +568,8 @@
 * [Google Apps Script RC](https://t.me/googleappsscriptrc) — Чат про Google Apps Script
 * [GraphQL](https://t.me/graphql_ru) — Чат про GraphQL
 * [SublimeText_RU](https://t.me/SublimeText_RU) — Чат про SublimeText
+* [OpenLayers](https://t.me/openlayers_ru) — Чат про картографическую библиотеку OpenLayers
+* [Vapor3+, Server Side Swift](https://t.me/server_side_swift) — Чат про Vapor Swift, Server-Side-Swift, Kitura и Perfect и IBM.
 
 [(Назад к меню)](#Меню)
 
@@ -570,7 +588,6 @@
 * [Чат по продуктам hashicorp](https://t.me/ru_hashicorp) — Чат пользователей Hashicorp: Consul, Nomad, Terraform...
 * [Tilda Developers](https://t.me/tilda_dev) — Чат разработчиков на платформе Tilda
 * [EOS dev](https://t.me/eoscode) — Чат о разработке под EOS
-* [HighLoadCup Official](https://t.me/highloadcup) — Официальная группа для участников чемпионата highloadcup от mail.ru
 * [ITForge](https://t.me/itforge) — Чат про python, парсинг сайтов и просто про IT
 * [Annode webdev](https://t.me/annode) — Чат веб-разработчиков. Frontend, Backend, CMS, БД и другое.
 * [Data Engineers](https://t.me/hadoopusers) — Чат про Apache Hadoop
@@ -579,6 +596,9 @@
 * [Google Cloud Platform_ru](https://t.me/goo_cloud_ru) — Чат про Google Cloud Platform
 * [Чат — Типичный Верстальщик](https://t.me/tpverstakchat) — Чат верстальщиков
 * [letsCode Chat](https://t.me/letsCodeChat) — Флудильня. Место для вопросов-ответов по разработке и ИТ в целом.
+* [pro.buildsystems](https://t.me/probuildsystems) — Чат про билдсистемы CMake, Meson, Waf, Scons, Bazel, и многие другие
+* [pro.osdev](https://t.me/pro_osdev) — Чат про разработку операционных систем
+* [*nix talks](https://t.me/unixtalks) — Чат про *nix'ы
 
 [(Назад к меню)](#Меню)
 
@@ -606,7 +626,6 @@
 * [ntwrk](https://t.me/ntwrk) — Чат сетевых инженеров
 * [Nag.Ru](https://t.me/nag_public) — Чат Nag.ru
 * [Mikrotik.Ru](https://t.me/MikrotikRus) — Чат про Микротики
-* [pro.mikrotik](https://t.me/pro_mikrotik) — Чат про Микротики (альтернативный)
 * [Asterisk Russian Community](https://t.me/asterisk_ru) — Чат про Asterisk
 * [Zabbix Talks](https://t.me/ZabbixPro) — Чат про Zabbix
 * [pro.zabbix](https://t.me/prozabbix) — Чат про Zabbix (альтернативный)
@@ -623,6 +642,9 @@
 * [cloud.yandex.ru](https://t.me/cloud_ya_ru) — Группа обсуждения облака от Яндекса. Практически официальная :)
 * [Keenetic_ru](https://t.me/Keenetic_ru) — Неофициальная группа обсуждения и взаимной помощи пользователей Keenetic.
 * [EvilWirelessChat](https://t.me/EvilWirelessChat) — Группа русскоязычных специалистов по беспроводным сетям.
+* [VMware User Group Rus](https://t.me/vmugru) — Чат про VMWare
+* [DNS Security (DNSSEC, DNSCurve, etc)](https://telegram.me/joinchat/AL6jEUFFW5TFS1s3pZMMjg) — Чат про DNS Security
+* [Эникей чатъ](https://t.me/anykey_chat) — Ну вы поняли :)
 
 [(Назад к меню)](#Меню)
 
@@ -636,6 +658,7 @@
 * [Kubernetes](https://t.me/k8spb) — Чат про Kubernetes
 * [Метрики](https://t.me/metrics_ru) — Чат про метрики, мониторинг и анализ данных
 * [Сбор и аналитика системных сообщений](https://t.me/ru_logs) — Русскоговорящая группа по аналитике syslog/structured log. ElasticSearch, Mtail, Graylog и т.п.
+* [ru_gitlab](https://t.me/ru_gitlab) — Чат про GitLab
 
 [(Назад к меню)](#Меню)
 
@@ -669,6 +692,7 @@
 * [NLP Chat](https://telegram.me/joinchat/ABI4p0BMRAByXDgJqo5uhQ) — Чат про Natural Language Processing
 * [Группа Kaggle Global](https://t.me/kaggle) — Чат про Kaggle, решение проблем, идеи и сотрудничество
 * [AI / Искусственный Интеллект](https://t.me/ai_life) — Чат про искусственный интеллект
+* [Python для анализа данных](https://t.me/pydata_chat) — Чат про применение Python для анализа данных, в особенности для различного рода автоматизации и аналитики.
 
 [(Назад к меню)](#Меню)
 
@@ -702,6 +726,7 @@
 * [Haiku](https://t.me/haiku_os) — Чат про Haiku (англ.)
 * [OS Haiku - общение](https://t.me/HaikuOS_RU_chat) — Чат про Haiku (рус.)
 * [KDE neon users](https://t.me/kdeneon) — English speaking community of KDE neon
+* [Kolibri OS](https://t.me/kolibri_os) — Group about fastest graphical operating system written in assembly.
 * [Pro Linux](https://telegram.me/joinchat/Be4rsT7VI1LxrHaMR3pezQ) — Взамен старой-доброй группы pro.linux.
 * [Linux Mint Russia 🇷🇺](https://t.me/LMRus) — Чат про Linux Mint (Русский)
 * [Linux Mint International](https://t.me/LMInter) — Linux Mint Chat (International)
@@ -883,7 +908,9 @@
 * [proFPGA](https://t.me/proFpga) — Чат про разработку под FPGA (англ.). Оффтоп запрещён.
 * [ProArduino](https://t.me/ProArduino) — Чат про Arduino
 * [ELECTRONIX](https://t.me/electronix) — Чат и обсуждения электроники и проектирования электронной аппаратуры.
-* [Nordic Energy](https://t.me/joinchat/EMVk8kPDmkdoR_rBTp8x6w) — Чат про разработку электроники и автоматики.
+* [Nordic Energy](https://t.me/proHardware) — Чат про разработку электроники и автоматики.
+* [ARDUINO_GODs](https://t.me/ARDUINOpro) — Чат про Arduino
+* [IoT по-русски](https://t.me/ru_iot) — Чат про интернет вещей.
 
 [(Назад к меню)](#Меню)
 
@@ -977,7 +1004,6 @@
 * [@tlgurbot](https://t.me/tlgurbot) — Предоставляет доступ по http к файлам из Телеграма.
 * [@EinfoBot](https://t.me/EinfoBot) — Бот, который ищет электронные компоненты и интегрирован в поисковую систему.
 * [@parserfreelancer_bot](https://t.me/parserfreelancer_bot) — Бот, уведомляющий о появлении новой работы на разных фрилансовых сайтах
-* [@TitsBot](https://t.me/phphelperbot) [Source](https://github.com/kefzce/titsbot) — Адалт бот,фото,видео,гиф,подборки и голосовалки за лучшие фотки
 * [@LFTVbot](https://t.me/LFTVbot) [Source](https://github.com/Lord-Protector/LostFilmBot) — Бот для сайта LostFilm.TV. Личные уведомления, загрузка нужных серий и многое другое.
 * [@OverStatsBot](https://t.me/OverStatsBot) [Source](https://github.com/Lord-Protector/OverStatsBot) — Бот для игры Overwatch. Генерирует личные профили в виде изображений.
 * [@nosticker_bot](https://t.me/nosticker_bot) — Бот автоматически удаляет любой стикер, отправленный в чат.

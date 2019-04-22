@@ -181,6 +181,7 @@
 * [DevChampions](https://t.me/devchampions) — Книги, ссылки и ресурсы для айтишников (на английском языке)
 * [MRG Champs](https://t.me/mrgchamps) — Канал о чемпионатах, соревнованиях и хакатонах от Mail Ru Group
 * [Saint P Ruby News](https://t.me/saintpruby) — Digest of Ruby community news
+* [Dev Tools](https://t.me/developer_tools) — Инструменты, плагины и аддоны для разработки.
 
 [(Назад к меню)](#Меню)
 

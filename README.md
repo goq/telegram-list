@@ -915,6 +915,7 @@
 * [Nordic Energy](https://t.me/proHardware) — Чат про разработку электроники и автоматики.
 * [ARDUINO_GODs](https://t.me/ARDUINOpro) — Чат про Arduino
 * [IoT по-русски](https://t.me/ru_iot) — Чат про интернет вещей.
+* [Embedded Books](https://t.me/embedded_books) — Подборка книг и ссылок на интересный материал
 
 [(Назад к меню)](#Меню)
 

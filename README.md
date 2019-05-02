@@ -309,6 +309,7 @@
 * [pro.JVM Jobs](https://t.me/jvmjobs) — Вакансии Java
 * [Scala Jobs Feed](https://t.me/scala_jobs_feed) — Вакансии Scala
 * [Работа в геймдеве](https://t.me/gamedevjob) — Вакансии в геймдеве и игровой индустрии
+* [Вакансии SAP](https://t.me/sapjobrus) — Вакансии в области SAP - ABAP, Cons, Basis, Management, etc.
 
 [(Назад к меню)](#Меню)
 
@@ -452,6 +453,7 @@
 ## Группы и чаты
 
 ##### Языки программирования
+* [SAP ABAP](https://t.me/sapabap) — Чат про ABAP
 * [pro.asm](https://t.me/proasm) — Чат про Assembler
 * [AutoIT RU](https://t.me/AutoIT_RU) — Чат про AutoIT
 * [Autohotkey_RU](https://t.me/AutoHotkey_RU) — Чат про Autohotkey

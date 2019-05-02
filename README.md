@@ -92,7 +92,6 @@
 [(Назад к меню)](#Меню)
 
 ##### Каналы по программированию и разработке ПО
-* [Middle Java](https://t.me/middle_java) — Канал @middle_java, посвященный backend и Java. Cтатьи, книги, вакансии, описание работы с фреймворками и библиотеками Spring, Hibernate, JOOQ, Lombok и т.п., учебные задачи, анонсы мероприятий, Git, DevOps и многое другое.
 * [Котики Кодят](https://t.me/ccoder) — Официальный канал дайджеста-подкаста "Котики Кодят". Актуальные новости из мира кодинга.
 * [GameDev Architecture](https://t.me/gamedev_architecture) — Автор пишет о том как игровым компаниям строить правильные, эффективные и красивые решения. Качество кода, проектирование архитектуры, лучшие практики.
 * [Апатичный дотнетчик](https://t.me/dotnetter) — Агрегатор новостей и статей из мира .NET
@@ -183,6 +182,7 @@
 * [MRG Champs](https://t.me/mrgchamps) — Канал о чемпионатах, соревнованиях и хакатонах от Mail Ru Group
 * [Saint P Ruby News](https://t.me/saintpruby) — Digest of Ruby community news
 * [Dev Tools](https://t.me/developer_tools) — Инструменты, плагины и аддоны для разработки.
+* [Middle Java](https://t.me/middle_java) — Канал про Java. Полезные материалы.
 
 [(Назад к меню)](#Меню)
 

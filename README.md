@@ -77,7 +77,6 @@
 * [QUANTUM QUINTUM](https://t.me/quantumquintum) — Канал Константина Кичинского (Technical Evangelism Lead в Microsoft), короткие заметки про Microsoft и технологии
 * [ITpro News & Reviews](https://t.me/MicrosoftRus) — Заметки о Microsoft, Windows Server, System Center, Azure, Office 365, OMS и прочее.
 * [Hackspace Saint-Petersburg](https://t.me/hackspb) — News from hackspace spb
-* [GNU/Linux • Instant View](https://t.me/GNULinuxRU) — Новости мира GNU/Linux в Instant View.
 * [Linux News](https://t.me/linux_news_ru) — Новости из мира GNU и Linux.
 * [Каледарь событий игровой индустрии](https://t.me/gamedev_calendar) — Канал информирующий о проходящих событиях игровой индустрии и крупных конференций на территории СНГ.
 * [Наука от Funscience](https://t.me/funscience) — Популярная наука, технологии,  гаджеты, космос.

@@ -916,6 +916,7 @@
 * [ARDUINO_GODs](https://t.me/ARDUINOpro) — Чат про Arduino
 * [IoT по-русски](https://t.me/ru_iot) — Чат про интернет вещей.
 * [Embedded Books](https://t.me/embedded_books) — Подборка книг и ссылок на интересный материал
+* [Engineer Addict](https://t.me/EngineerAddict) — Канал об электронике и инженерии для тех кто этим живет. Осторожно, английский язык!
 
 [(Назад к меню)](#Меню)
 

@@ -975,6 +975,7 @@
 радиостанций.
 * [@radiotgbot](https://t.me/radiotgbot) — Бот - Лучшее радио!
 * [@vkmusic_bot](https://t.me/vkmusic_bot) — Музыкальный бот ВК
+* [@auddbot](https://t.me/auddbot) — Бот, распознающий музыку в голосовых сообщениях
 
 ##### Полезные боты для разработки
 * [@bitbucket_bot](https://t.me/bitbucket_bot) — Интеграция bitbucket в телеграм

@@ -574,7 +574,8 @@
 * [SublimeText_RU](https://t.me/SublimeText_RU) — Чат про SublimeText
 * [opencv_ru](https://t.me/opencv_ru) — Чат про OpenCV
 * [OpenLayers](https://t.me/openlayers_ru) — Чат про картографическую библиотеку OpenLayers
-* [Vapor3+, Server Side Swift](https://t.me/server_side_swift) — Чат про Vapor Swift, Server-Side-Swift, Kitura и Perfect и IBM.
+* [Vapor3+, Server Side Swift](https://t.me/server_side_swift) — Чат про Vapor Swift, Server-Side-Swift, Kitura и Perfect и IBM
+* [pro.hibernate](https://t.me/hibernatechat) — Чат про Hibernate.
 
 [(Назад к меню)](#Меню)
 

@@ -598,7 +598,6 @@
 * [EOS dev](https://t.me/eoscode) — Чат о разработке под EOS
 * [ITForge](https://t.me/itforge) — Чат про python, парсинг сайтов и просто про IT
 * [Annode webdev](https://t.me/annode) — Чат веб-разработчиков. Frontend, Backend, CMS, БД и другое.
-* [Data Engineers](https://t.me/hadoopusers) — Чат про Apache Hadoop
 * [macOS Developers](https://t.me/macdev_ru) — Чат о разработке для macOS
 * [ХабраХабр I.T.](https://t.me/habrachat) — Чат информационных технологий.
 * [Google Cloud Platform_ru](https://t.me/goo_cloud_ru) — Чат про Google Cloud Platform
@@ -693,7 +692,7 @@
 * [Big Data & Machine Learning](https://t.me/bigdata_ru) — Чат по большим данным, обработке и машинному обучению
 * [Data Science / AI / ML / Big Data](https://t.me/bigdata_en) — All about Data Science: AI, Big Data, Machine Learning, and how to cook it right. English.
 * [Data Science Chat](https://t.me/datasciencechat) — Чат по теме Data Science
-* [Apache Hadoop stack](https://t.me/hadoopusers) — Чат по всему, что связано с Apache Hadoop стеком
+* [Data Engineers](https://t.me/hadoopusers) — Чат про Spark, Hadoop, Yarn, Mesos, и т.п.
 * [Нейронные сети](https://t.me/joinchat/ABI4pz6rz2iVzWUzaVqpmA) — Чат про нейронные сети
 * [Нейронные сети (Microsoft Developer)](https://t.me/neuroworkshop) — Чат про нейронные сети от Microsoft Developer
 * [NLP_RU Natural Language Processing](https://t.me/nlp_ru) — Чат про Natural Language Processing и Text Mining

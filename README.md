@@ -182,6 +182,7 @@
 * [Saint P Ruby News](https://t.me/saintpruby) — Digest of Ruby community news
 * [Dev Tools](https://t.me/developer_tools) — Инструменты, плагины и аддоны для разработки.
 * [Middle Java](https://t.me/middle_java) — Канал про Java. Полезные материалы.
+* [Amazon AWS notes](https://t.me/aws_notes) — Канал про AWS от Amazon
 
 [(Назад к меню)](#Меню)
 

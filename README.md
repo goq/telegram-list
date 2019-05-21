@@ -653,6 +653,7 @@
 * [VMware User Group Rus](https://t.me/vmugru) — Чат про VMWare
 * [DNS Security (DNSSEC, DNSCurve, etc)](https://telegram.me/joinchat/AL6jEUFFW5TFS1s3pZMMjg) — Чат про DNS Security
 * [Эникей чатъ](https://t.me/anykey_chat) — Ну вы поняли :)
+* [MikrotikRus](https://t.me/mikrotikclub) — Группа для обсуждения оборудования Mikrotik.
 
 [(Назад к меню)](#Меню)
 

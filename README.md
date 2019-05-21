@@ -654,6 +654,7 @@
 * [DNS Security (DNSSEC, DNSCurve, etc)](https://telegram.me/joinchat/AL6jEUFFW5TFS1s3pZMMjg) — Чат про DNS Security
 * [Эникей чатъ](https://t.me/anykey_chat) — Ну вы поняли :)
 * [MikrotikRus](https://t.me/mikrotikclub) — Группа для обсуждения оборудования Mikrotik.
+* [Клуб монтажников видеонаблюдения](https://t.me/cctvclub) — Делимся опытом, даём советы по монтажу и настройке видеонаблюдения, СКУД, ОПС и домофонам
 
 [(Назад к меню)](#Меню)
 

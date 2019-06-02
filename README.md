@@ -183,6 +183,7 @@
 * [Dev Tools](https://t.me/developer_tools) — Инструменты, плагины и аддоны для разработки.
 * [Middle Java](https://t.me/middle_java) — Канал про Java. Полезные материалы.
 * [Amazon AWS notes](https://t.me/aws_notes) — Канал про AWS от Amazon
+* [oleg_log](https://t.me/oleg_log) — Авторский канал для асоциальных программистов(работа, программирование и как с этим жить).
 
 [(Назад к меню)](#Меню)
 

@@ -246,6 +246,8 @@
 * [Киберshit](https://t.me/cybershit) — Канал про технологии и информационную безопасность
 * [WEBSITE SECURITY](https://t.me/sitesecurity) — Все о безопасности сайтов: диагностика, лечение от вирусов и защита от взлома.
 * [HttpNotOnly](https://t.me/somesecurity) — Security techniques and researches
+* [DC20e6](https://t.me/dc20e6) - DEFCON Ульяновск
+* [DC7831](https://t.me/defcon_nn) - DEFCON Нижний Новгород
 * [DC7499](https://t.me/DEFCON) — DefCon Russia
 * [Camshift](https://t.me/camshift) — Канал про ИБ в сфере видеонаблюдения
 * [Вирусолог](https://t.me/it_virologist) — Канал про it-вирусологию. Новости из мира it и инфобеза

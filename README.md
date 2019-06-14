@@ -252,6 +252,8 @@
 * [ИБач](https://t.me/ibach) — Канал об Информационной Безопасности 🔒
 * [Bug Bounty Channel](https://t.me/bug_bounty_channel) — All bug bounties here
 * [Industrial Scale Static Application Security Testing](https://t.me/isast) - Статический (и не только) анализ безопасности приложений в промышленных масштабах
+* [DC20e6](https://t.me/dc20e6) - DEFCON Ульяновск
+* [DC7831](https://t.me/defcon_nn) - DEFCON Нижний Новгород
 
 [(Назад к меню)](#Меню)
 

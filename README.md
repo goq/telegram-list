@@ -87,6 +87,7 @@
 * [computerra.ru](https://t.me/computerra_ru) — Компьютерра - легендарный журнал о современных технологиях.
 * [ITGM News](https://t.me/itgmnews) — Новости про [IT Global Meetup](https://piter-united.ru) - глобальный слёт IT сообществ
 * [SALENAMES](https://t.me/salenames) — Новости и блог про домены от первого лица - доменного регистратора.
+* [Skolkovo Leaks](https://t.me/skolkovoleaks) — Всё об инновационном центре "Сколково" - об этом не напишут в СМИ.
 
 [(Назад к меню)](#Меню)
 

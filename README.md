@@ -316,6 +316,7 @@
 * [Scala Jobs Feed](https://t.me/scala_jobs_feed) — Вакансии Scala
 * [Работа в геймдеве](https://t.me/gamedevjob) — Вакансии в геймдеве и игровой индустрии
 * [Вакансии SAP](https://t.me/sapjobrus) — Вакансии в области SAP - ABAP, Cons, Basis, Management, etc.
+* [CMS MODX Revolution Job](https://t.me/ru_modx_work) — Предложения по CMS MODX Revolution.
 
 [(Назад к меню)](#Меню)
 
@@ -620,6 +621,7 @@
 * [pro.buildsystems](https://t.me/probuildsystems) — Чат про билдсистемы CMake, Meson, Waf, Scons, Bazel, и многие другие
 * [pro.osdev](https://t.me/pro_osdev) — Чат про разработку операционных систем
 * [*nix talks](https://t.me/unixtalks) — Чат про *nix'ы
+* [*RU MODX](https://t.me/ru_modx) — Русскоязычное сообщество CMS MODX
 
 [(Назад к меню)](#Меню)
 

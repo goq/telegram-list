@@ -316,7 +316,7 @@
 * [Scala Jobs Feed](https://t.me/scala_jobs_feed) — Вакансии Scala
 * [Работа в геймдеве](https://t.me/gamedevjob) — Вакансии в геймдеве и игровой индустрии
 * [Вакансии SAP](https://t.me/sapjobrus) — Вакансии в области SAP - ABAP, Cons, Basis, Management, etc.
-* [CMS MODX Revolution Job](https://t.me/ru_modx_work) — Предложениям по CMS MODX Revolution.
+* [CMS MODX Revolution Job](https://t.me/ru_modx_work) — Предложения по CMS MODX Revolution.
 
 [(Назад к меню)](#Меню)
 

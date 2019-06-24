@@ -622,6 +622,7 @@
 * [pro.osdev](https://t.me/pro_osdev) — Чат про разработку операционных систем
 * [*nix talks](https://t.me/unixtalks) — Чат про *nix'ы
 * [*RU MODX](https://t.me/ru_modx) — Русскоязычное сообщество CMS MODX
+* [*Evolution CMS](https://t.me/evolutioncms) — Официальное сообщество Evolution CMS (ex MODX Evolution)
 
 [(Назад к меню)](#Меню)
 

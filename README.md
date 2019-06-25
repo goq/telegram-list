@@ -270,6 +270,7 @@
 * [Boring Berlin Scientist](https://t.me/boberscience) — Useful articles about Data Science, Machine Learning, Data Engineering and not only.
 * [Machine Learning World](http://t.me/ml_world) — Все по Data Science и Machine Learning
 * [мамкин Data Scientist](https://t.me/mommyscience) — тернистый путь в data science, личный экспирианс
+* [Neural Networks Engineering](https://t.me/neural_network_engineering) - Авторский канал про нейронные сети в NLP
 * [Чаты и группы телеграма по теме](#big-data-Машинное-обучение-deep-learning-и-data-science)
 
 [(Назад к меню)](#Меню)

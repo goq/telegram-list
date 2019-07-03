@@ -186,6 +186,7 @@
 * [Dev Tools](https://t.me/developer_tools) — Инструменты, плагины и аддоны для разработки.
 * [Middle Java](https://t.me/middle_java) — Канал про Java. Полезные материалы.
 * [Amazon AWS notes](https://t.me/aws_notes) — Канал про AWS от Amazon
+* [WordPress CodeRun](https://t.me/coderunphp) - Чат/Группа разработчиков WordPress, разбираем код, ищем решения.
 
 [(Назад к меню)](#Меню)
 

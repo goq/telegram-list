@@ -186,7 +186,6 @@
 * [Dev Tools](https://t.me/developer_tools) — Инструменты, плагины и аддоны для разработки.
 * [Middle Java](https://t.me/middle_java) — Канал про Java. Полезные материалы.
 * [Amazon AWS notes](https://t.me/aws_notes) — Канал про AWS от Amazon
-* [WordPress CodeRun](https://t.me/coderunphp) - Чат/Группа разработчиков WordPress, разбираем код, ищем решения.
 
 [(Назад к меню)](#Меню)
 
@@ -625,6 +624,7 @@
 * [*nix talks](https://t.me/unixtalks) — Чат про *nix'ы
 * [*RU MODX](https://t.me/ru_modx) — Русскоязычное сообщество CMS MODX
 * [*Evolution CMS](https://t.me/evolutioncms) — Официальное сообщество Evolution CMS (ex MODX Evolution)
+* [WordPress CodeRun](https://t.me/coderunphp) — Чат разработчиков WordPress, разбираем код, ищем решения.
 
 [(Назад к меню)](#Меню)
 

@@ -657,7 +657,7 @@
 * [Zabbix Talks](https://t.me/ZabbixPro) — Чат про Zabbix
 * [pro.zabbix](https://t.me/prozabbix) — Чат про Zabbix (альтернативный)
 * [KVM (PVE/oVirt etc)](https://t.me/pro_kvm) — Чат о виртуализации и Proxmox
-* [BareOS](https://t.me/pro_ru_bareos) - Чат о системе бекапов BareOS, форке Bacula
+* [BareOS](https://t.me/pro_ru_bareos) — Чат о системе бекапов BareOS, форке Bacula
 * [glpi_ru](https://t.me/glpi_ru) — Чат о системе helpdesk и инвентаризации GLPI
 * [AWS ru](https://t.me/aws_ru) — Чат про Amazon Web Services
 * [pro.git](https://t.me/pro_git) — Чат про систему контроля версий git

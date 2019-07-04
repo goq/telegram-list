@@ -909,7 +909,7 @@
 * [PyLadies Moscow](https://t.me/pyladies_moscow_chat) — PyLadies Moscow, московское сообщество разработчиц
 * [Ruby Vladivostok](https://t.me/rubyvladivostok) — Группа Ruby разработчиков города Владивостока
 * [1с Чат РБ](https://t.me/One1c_Blr) — Связанные одним 1С в РБ.
-* [Ruby Krasnodar](https://t.me/rubykrd) - Сообщество Ruby-программистов Краснодара.
+* [Ruby Krasnodar](https://t.me/rubykrd) — Сообщество Ruby-программистов Краснодара.
 * [iOS Community – Kharkiv](https://t.me/ios_kharkiv) – Сообщество iOS-программистов Харькова
 * [Kharkiv iOS Peerlab](https://t.me/kharkiv_ios) — Чат для связи людей, которые собираются на [iOS-пирлабы по субботам в Харькове](https://www.meetup.com/Kharkiv-iOS-Peerlab/)
 

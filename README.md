@@ -653,7 +653,7 @@
 * [Nag.Ru](https://t.me/nag_public) — Чат Nag.ru
 * [Mikrotik.Ru](https://t.me/MikrotikRus) — Чат про Микротики
 * [Asterisk Russian Community](https://t.me/asterisk_ru) — Чат про Asterisk
-* [Glaber](https://t.me/glaber_group) - Чат о форке Zabbix с использованием Clickhouse + асинхронщины и не только.
+* [Glaber](https://t.me/glaber_group) — Чат о форке Zabbix с использованием Clickhouse + асинхронщины и не только.
 * [Zabbix Talks](https://t.me/ZabbixPro) — Чат про Zabbix
 * [pro.zabbix](https://t.me/prozabbix) — Чат про Zabbix (альтернативный)
 * [KVM (PVE/oVirt etc)](https://t.me/pro_kvm) — Чат о виртуализации и Proxmox

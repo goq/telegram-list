@@ -1024,6 +1024,7 @@
 * [@ImageSearchBot](https://t.me/ImageSearchBot) — Бот поиска картинок от Яндекса
 * [@temp_mail_bot](https://t.me/temp_mail_bot) — Временная электронная почта на 10 минут для регистраций
 * [@fakemailbot](https://t.me/fakemailbot) — Временная электронная почта на 10 минут
+* [@tempgmailbot](https://t.me/tempgmailbot) — Бот с помощью которого вас пустит на любой сайт. Он дает вам электронную почту доверенного сервиса GMail.
 * [@pomodoro_timer_bot](https://t.me/pomodoro_timer_bot) — Бот-таймер по методу "помидорки"
 * [@sp2txt_bot](https://t.me/sp2txt_bot) — Бот, превращающий речь в текст
 * [@AntiParkonBot](https://t.me/AntiParkonBot) — Бот выдаёт контакты автовладельца по номеру машины

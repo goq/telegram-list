@@ -901,6 +901,7 @@
 * [IT-шники Белгорода](https://t.me/belgorod_it) — Чат айтишников Белгорода.
 * [Dev Seagulls](https://t.me/dev_seagulls) — Чат сообщества программистов Махачкалы
 * [IT EKB](https://t.me/IT_EKB) — Чат айтишников Екатеринбурга и окрестностей
+* [JUGNN](https://t.me/jugnn) — Нижегородская группа Java User Group
 * [JUGNsk](https://t.me/jugnsk) — Новосибирская группа Java User Group
 * [NSK IT events](https://t.me/NSKITevents) — Митапы и другие айтишные события в Новосибирске.
 * [QA Siberia](https://t.me/qa_siberia) — Сообщество тестировщиков Сибири.

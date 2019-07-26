@@ -90,6 +90,7 @@
 * [Skolkovo Leaks](https://t.me/skolkovoleaks) — Всё об инновационном центре "Сколково" - об этом не напишут в СМИ.
 * [ICT.Moscow](https://t.me/ICT_Moscow) — ИТ и телеком в Москве: успехи, проблемы, возможности для бизнеса. Агрегация новостей, полезные контакты, исследования.
 * [Content Review](https://t.me/contentreview) — Новости операторов связи, IT-компаний и прочих жителей мобильного мира.
+* [yegor256news](https://t.me/yegor256news) — Канал Егора Бугаенко (yegor256). Elegant Objects, Zerocracy, Zold и многое другое
 
 [(Назад к меню)](#Меню)
 

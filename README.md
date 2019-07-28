@@ -683,6 +683,7 @@
 * [Клуб проектировщиков & сметчиков](https://t.me/project_man_smeta) — Делимся опытом по проектированию и сметному делу
 * [ru_proxmox](https://t.me/ru_proxmox) — Чат про Proxmox
 * [ClubcomSale](https://t.me/ClubcomSale) — барахолка: продам и куплю любое телеком оборудование
+* [OpenWRT/LEDE RU](https://t.me/openwrt_ru) — Чат про OpenWRT/LEDE, свободную прошивку для роутеров
 
 [(Назад к меню)](#Меню)
 

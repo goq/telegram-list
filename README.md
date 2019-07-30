@@ -162,14 +162,14 @@
 * [Nuances of programming](https://t.me/nuancesprog) — Образовательные статьи и переводы — всё для программистов.
 * [@pmdaily](https://t.me/pmdaily) — Авторский канал о производстве сложных проектов, управлении продуктом и о развитии софтскиллов у программистов
 * [Java articles](https://t.me/java_articles) — подборка интересных и полезных статей из мира Java, Kotlin, Scala и других JVM языков на английском.
-* [Google Apps Script Russian](https://t.me/gasru) — Все, что связанно с Google Apps Script. Практические приемы разработки скриптов Гугл, обзор публичных библиотек и важных событий
+* [Google Apps Script Russian](https://t.me/gasru) — Все, что связано с Google Apps Script. Практические приемы разработки скриптов Гугл, обзор публичных библиотек и важных событий
 * [Записки программиста](https://t.me/eaxme) — Анонсы постов из блога "Записки программиста" (EAX.ME)
-* [Записки админа](https://t.me/SysadminNotes) — Статьи, рекомендациии мысли про администрирование серверов
+* [Записки админа](https://t.me/SysadminNotes) — Статьи, рекомендации мысли про администрирование серверов
 * [Flutter Daily](https://t.me/flutterdaily) — Канал с новостями фреймворка Flutter
 * [Dodo Pizza Mobile](https://t.me/dodoMobile) — Канал про iOS-разработку в Додо Пицце: swift, UI, книги.
 * [IT Meeting](https://t.me/ITMeeting) — Канал информирования о предстоящих митапах и конференций в области программирования.
 * [Open Source Daily](https://t.me/opensource_daily) — Open source проект дня. Каждый день новый.
-* [Google Apps Script Russian](https://t.me/gasru) — Все, что связанно с Google Apps Script.
+* [Google Apps Script Russian](https://t.me/gasru) — Все, что связано с Google Apps Script.
 * [Экстраполяция IT](https://t.me/itextrapolation) — Канал об IT в целом и о программировании в частности.
 * [Connection with Coding](https://t.me/cccoding) — Канал про программирование и робототехнику.
 * [DataViz](https://t.me/data_viz) — Интересные примеры визуализации данных.
@@ -207,7 +207,7 @@
 * [Frontend Raccoon](https://t.me/frontendraccoon) — Новости сообщества Frontend Raccoon
 * [Школа Веб 2.0](https://t.me/webschool_rus) — Авторский канал о веб-разработке (Ruby on Rails, UI/UX, HTML5, CSS3) [dead?]
 * [Dev Useful Stuff](https://t.me/dev_useful_stuff) — Библиотеки, фреймворки, инструменты
-* [FrontEnd Development](https://t.me/fedevelopment) — Канал ежедневно публикует полезные ссылки, новости из мира фронтент разработки.
+* [FrontEnd Development](https://t.me/fedevelopment) — Канал ежедневно публикует полезные ссылки, новости из мира фронтенд-разработки.
 * [Spb-Frontend](https://t.me/spb_frontend) — Новости фронтенда и питерского сообщества Spb-Frontend, дайджест новостей за неделю в виде рассылки
 * [GOV](https://t.me/govdesign) — Все о государстве и дизайне государства
 * [andrew-r обо всём](https://t.me/andrew_r_notes) — Андрей Романов о разработке интерфейсов, дизайне, программировании и всём остальном
@@ -743,7 +743,7 @@
 * [#ctfchat](https://t.me/ctfchat) — Чат CTF
 * [IT Security Talk](https://t.me/itsectalk) – IT Security Talk (english)
 * [Hacker May Cry](https://t.me/mrl_hack) — Чат для взаимопомощи в сфере информационной безопасности, хакинга и программирования.
-* [The Cødeby](https://t.me/thecodeby) — Чат о взломе и защите компьтерных систем.
+* [The Cødeby](https://t.me/thecodeby) — Чат о взломе и защите компьютерных систем.
 * [Сайберсекьюрити и Ко.](https://t.me/joinchat/A2Cq70EuBWoiwJTafRUHTA) — Чат канала @alexlitreev о безопасности в интернете, уязвимостях и прочих радостях жизни.
 * [Chat Security / ИБач чат](https://t.me/Chat_Security) — Обсуждение всего, что касается информационной безопасности.
 * [Linux Security](https://t.me/joinchat/Bzt6QkKkPL4rfMwLhe_uqw) — Чат про безопасность в Линуксе и про Линукс для безопасников
@@ -1067,7 +1067,7 @@
 * [@cryptographer070bot](https://t.me/cryptographer070bot) — Бот зашифрует и расшифрует ваши файлы и строки, надежным алгоритмом.
 * [@memingbot](https://t.me/memingbot) - Бот для создания мемов с вашим текстом на различных шаблонах.
 * [@daysandbox_bot](https://t.me/daysandbox_bot) - Бот удаляет ссылки и пересланные сообщения от пользователей, которые находятся менее 24 часов в чате.
-* [@watchdog_robot](https://t.me/watchdog_robot) - Бот для удаления ссылок, стикеров, фотографий, файловых вложений, пересланых сообщений и других типов сообщений в чате.
+* [@watchdog_robot](https://t.me/watchdog_robot) - Бот для удаления ссылок, стикеров, фотографий, файловых вложений, пересланных сообщений и других типов сообщений в чате.
 * [@lang_blocker_bot](https://t.me/lang_blocker_bot) - Бот для удаления сообщений, написанных на иностранных языках.
 * [@joinhider_bot](https://t.me/joinhider_bot) - Бот для удаления сообщений о том, что пользователь вошёл или вышел из чата.
 * [@nohello_robot](https://t.me/nohello_robot) - Бот для удаления привет-сообщений, знает несколько языков.

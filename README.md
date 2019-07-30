@@ -162,7 +162,6 @@
 * [Nuances of programming](https://t.me/nuancesprog) — Образовательные статьи и переводы — всё для программистов.
 * [@pmdaily](https://t.me/pmdaily) — Авторский канал о производстве сложных проектов, управлении продуктом и о развитии софтскиллов у программистов
 * [Java articles](https://t.me/java_articles) — подборка интересных и полезных статей из мира Java, Kotlin, Scala и других JVM языков на английском.
-* [Google Apps Script Russian](https://t.me/gasru) — Все, что связано с Google Apps Script. Практические приемы разработки скриптов Гугл, обзор публичных библиотек и важных событий
 * [Записки программиста](https://t.me/eaxme) — Анонсы постов из блога "Записки программиста" (EAX.ME)
 * [Записки админа](https://t.me/SysadminNotes) — Статьи, рекомендации мысли про администрирование серверов
 * [Flutter Daily](https://t.me/flutterdaily) — Канал с новостями фреймворка Flutter

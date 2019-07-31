@@ -803,6 +803,8 @@
 * [Universal Windows Platform](https://t.me/uwp_ru) — Чат разработчиков под Windows и Windows Phone.
 * [Android NDK (C++)](https://t.me/ndk_ru) — Чат про Android NDK (C++)
 * [Flutter Developers](https://t.me/flutter_rus) — Чат про Flutter
+* [AppTractor](https://t.me/apptractor) — Новости, статьи и свежие материалы про разработку и маркетинг приложений
+* [AppFiles](https://t.me/applib) - Библиотекуи и сервисы для iOS и Android разработчиков
 
 [(Назад к меню)](#Меню)
 

@@ -107,6 +107,8 @@
 * [Mad Devs Channel](https://t.me/maddevsio) — русскоязычный канал ребят из компании Mad Devs, информация о разработке, тулзах, методах.
 * [Spalmalo Tech Talk](https://t.me/spalmalo_tt) — Спалмало находит и шарит с вами всякие полезности
 * [Technologique](https://t.me/technologique) — Канал о тенденциях в концепциях языков программирования и технологиях разработки ПО
+* [Пятничный деплой](https://t.me/count0_digest) - Подборка ссылок, статей и постов из мира DevOps\SRE\разработки.
+* [Sysadmin Tools](https://t.me/sysadmin_tools) — Sysadmin tools and othe usefull things from modern IT.
 * [∏ρØƒuñçτØρ Øπτµç∑](https://t.me/libmustdie) — Авторский канал о программировании (Пэйперы, видео, интересные репозитории)
 * [Microsoft Developer](https://t.me/msdnru) — Официальный канал сообщества Microsoft для разработчиков и всех, кто интересуется новыми технологиям
 * [javaswag](https://t.me/javaswag) — дайджест интересных и полезных статей из мира Java.
@@ -412,6 +414,7 @@
 * [Gambala.live](https://t.me/gambala_live) — Канал Виталия Емельянцева - веб-разработчика и IT-шника. Знания и советы по CSS, JS, BEM, Ruby on Rails, бизнесу и жизни. Как войти в айти и жить в удовольствие.
 * [Архитектор_говорит](https://t.me/architect_says) — Про архитектуру IT-решений и всё, что рядом.
 * [Tolstoy Live](https://t.me/tolstoylive) — Прямые трансляции с WWDC и других IT конференций.
+* [oleg_log](https://t.me/oleg_log) - Авторский канал гофера Олега Ковалёва(Oleg Kovalov) - Приют для асоциальных программистов "Олег".
 * [Про руководство разработчиками](https://t.me/teamleading) — Канал руководителя службы разработки интерфейсов Олега Мохова из Екатеринбургского Яндекса про тимлидерство.
 * [HR отвечает](https://t.me/ask_catwomenko) — Вероника Ильина о поиске работы, хороших резюме, собеседованиях и специфике работы эйчаров.
 * [TechSparks](https://t.me/techsparks) — Андрей Себрант с новостями хайтека. Аннотированные ссылки на интересные, полезные и удивительные новости хайтека.
@@ -606,6 +609,8 @@
 * [Программисты](https://t.me/coding_ru) — Чат программистов. Флуд.
 * [Elegant Objects OOP JAVA](https://t.me/joinchat/AAAAAEJFMRzsRTRxM3ec6A) — Чат программистов Java OOP. Elegant Objects yegor256.com.
 * [codingteam](https://t.me/codingteam) — Кроссплатформенное сообщество инженеров и программистов.
+* [VictoriaMetrics_ru](https://t.me/VictoriaMetrics_ru1) - Ru сообщество по разработке и использованию tsdb (базы данных временных рядов) Victoria Metrics.
+* [Werf](https://t.me/werf_ru) - Сообщество по инструменту доставки контента в kunernetes от компании flant.ru .
 * [Telegram Bot Developers](https://t.me/botoid) — Чат про разработку ботов в телеграме
 * [IoT Community chat](https://t.me/Iot_chat) — Чат Internet fo Things сообщества.
 * [pro.algorithms](https://t.me/proalgorithms) — Группа по обсуждению алгоритмов, архитектурных решений, паттернов проектирования и прикладной математики.

@@ -914,9 +914,16 @@
 * [PyLadies Moscow](https://t.me/pyladies_moscow_chat) — PyLadies Moscow, московское сообщество разработчиц
 * [Ruby Vladivostok](https://t.me/rubyvladivostok) — Группа Ruby разработчиков города Владивостока
 * [1с Чат РБ](https://t.me/One1c_Blr) — Связанные одним 1С в РБ.
-* [Ruby Krasnodar](https://t.me/rubykrd) — Сообщество Ruby-программистов Краснодара.
 * [iOS Community – Kharkiv](https://t.me/ios_kharkiv) – Сообщество iOS-программистов Харькова
 * [Kharkiv iOS Peerlab](https://t.me/kharkiv_ios) — Чат для связи людей, которые собираются на [iOS-пирлабы по субботам в Харькове](https://www.meetup.com/Kharkiv-iOS-Peerlab/)
+* [Krasnodar Dev Days](https://t.me/krddevdays_chat) — Независимое сообщество разработчиков Краснодара и края.
+* [Krasnodar Frontend](https://t.me/krdfrontend) — Чат по интересам для frontend разработчиков.
+* [Krasnodar Backend](https://t.me/krdbackend) — Чат по интересам для backend разработчиков.
+* [Krasnodar Python](https://t.me/pythonkrd) — Чат по интересам для python разработчиков.
+* [Krasnodar QA](https://t.me/krdQA) — Чат по интересам для QA специалистов.
+* [Krasnodar Golang](https://t.me/golangkrasnodar) — Чат по интересам для golang разработчиков.
+* [Krasnodar Ruby](https://t.me/rubykrd) — Чат по интересам для ruby разработчиков.
+* [Krasnodar Android](https://t.me/androidkrd) — Чат по интересам для android разработчиков.
 
 [(Назад к меню)](#Меню)
 

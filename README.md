@@ -190,6 +190,7 @@
 * [Middle Java](https://t.me/middle_java) — Канал про Java. Полезные материалы.
 * [Amazon AWS notes](https://t.me/aws_notes) — Канал про AWS от Amazon
 * [Грефневая Кафка (pro.kafka)](https://t.me/AwesomeKafka_Ru) — Канал про Apache Kafka и связанными с ней событиями.
+* [Python Daily](https://t.me/pydaily) — Новости по языку программирования Python, ссылки на статьи, подкасты и другие интересные материалы.
 
 [(Назад к меню)](#Меню)
 

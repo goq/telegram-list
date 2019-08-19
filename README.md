@@ -627,7 +627,7 @@
 * [*RU MODX](https://t.me/ru_modx) — Русскоязычное сообщество CMS MODX
 * [*Evolution CMS](https://t.me/evolutioncms) — Официальное сообщество Evolution CMS (ex MODX Evolution)
 * [WordPress CodeRun](https://t.me/coderunphp) — Чат разработчиков WordPress, разбираем код, ищем решения.
-* [FAANG Interview](https://t.me/FaangInterview) — Чат по подготовке к интервью в компании "силиконовой долины".
+* [FAANG Interview](https://t.me/FaangInterview) — Чат по подготовке к интервью в компании Кремниевой долины.
 
 [(Назад к меню)](#Меню)
 

@@ -482,7 +482,6 @@
 * [pro.asm](https://t.me/proasm) — Чат про Assembler
 * [AutoIT RU](https://t.me/AutoIT_RU) — Чат про AutoIT
 * [Autohotkey_RU](https://t.me/AutoHotkey_RU) — Чат про Autohotkey
-* [pro.bash](https://t.me/pro_bash) — Чат про Bash Shell, организация nix* процессов, взаимодействие с терминалами и службами.
 * [pro.cxx](https://t.me/ProCxx) — Чат про Си++
 * [.NET chat RU](https://t.me/DotNetRuChat) — Чат про C# и .NET
 * [ExtremeCodeTV](https://t.me/extremecode) — Чат C# разработчиков (есть свой бот компилирующий C# код)
@@ -530,11 +529,11 @@
 * [PureBasicRU](https://t.me/purebasicru) — Чат про PureBasic
 * [R language](https://t.me/rlang_ru) — Язык программирования R, статистика и машинное обучение/data mining
 * [ReasonML и OCaml](https://t.me/reasonml_ru) — Чат про ReasonML и OCaml
-* [pro.ruby](https://t.me/proRuby) — Чат про Ruby
 * [Ruby & RoR](https://t.me/rubylang) — Чат про Ruby и Ruby on Rails
 * [Ruby School .us](https://t.me/rubyschool) — Чат для учеников руби-школы
 * [Ruby Talks](https://t.me/ruby_talks) — Про Ruby
 * [RubyRush](https://t.me/rubyrush) — Чат для делающих первые шаги в Ruby и программировании
+* [pro.rb](https://t.me/pro_rb) — Чат про Ruby и Rails
 * [RustLang](https://t.me/rustlang_ru) — Чат про Rust
 * [Rust Beginners](https://t.me/rust_beginners_ru) — Чат про Rust для новичков
 * [embedded.rs](https://t.me/embedded_rs) — Чат про Embedded на Rust
@@ -633,6 +632,7 @@
 * [*RU MODX](https://t.me/ru_modx) — Русскоязычное сообщество CMS MODX
 * [*Evolution CMS](https://t.me/evolutioncms) — Официальное сообщество Evolution CMS (ex MODX Evolution)
 * [WordPress CodeRun](https://t.me/coderunphp) — Чат разработчиков WordPress, разбираем код, ищем решения.
+* [FAANG Interview](https://t.me/FaangInterview) — Чат по подготовке к интервью в компании "силиконовой долины".
 
 [(Назад к меню)](#Меню)
 

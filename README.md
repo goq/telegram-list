@@ -645,6 +645,7 @@
 * [Urho3d](https://t.me/urho3d) — Чат разработчиков игр на Urho3D
 * [pro.graphon (and gamedev)](https://t.me/prographon) —  Чат про стандарты консорциума Khronos: OpenGL, OpenCL. Работы, туторы, интересные материалы
 * [unity3d.ru](https://t.me/unity3d_ru) — Чат про Unity3D и геймдев.
+* [Godot Engine](https://t.me/godot_engine) — Чат разработчиков игр на Godot Engine.
 
 [(Назад к меню)](#Меню)
 

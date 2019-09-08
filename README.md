@@ -191,7 +191,7 @@
 * [Amazon AWS notes](https://t.me/aws_notes) — Канал про AWS от Amazon
 * [Грефневая Кафка (pro.kafka)](https://t.me/AwesomeKafka_Ru) — Канал про Apache Kafka и связанными с ней событиями.
 * [Python Daily](https://t.me/pydaily) — Новости по языку программирования Python, ссылки на статьи, подкасты и другие интересные материалы.
-
+* [PyJunior](https://t.me/pyjunior) — канал для начинающих питонистов и не только
 [(Назад к меню)](#Меню)
 
 ##### Frontend каналы

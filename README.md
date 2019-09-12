@@ -859,7 +859,7 @@
 * [Chaos Construction](https://t.me/chaosconstructions) – Chaos Construction Санкт-Петербург
 * [PiterPy Conf](https://t.me/piterpy) — Петербургская конференция для разработчиков мира Python
 * [Developers Chat](https://t.me/joinchat/ABI4pz3M7FCxoDZcdcfVUA) — Чат сообщества Chatbots
-* [Погромисты-трактористы](https://t.me/pogromisty) — Опыт миграции в другие страны, вакансии
+* [Погромисты-трактористы](https://t.me/pogromista) — Опыт миграции в другие страны, вакансии
 * [QA](https://t.me/qa_ru) — Чат русскоязычного сообщества тестировщиков
 * [Remote workers & Freelancers](https://t.me/ru_freelancers) — Чат про удаленную работу и самозанятость
 * [Borodutch](https://t.me/borodutcher) — Собрались программисты-фрилансеры-предприниматели-стартаперы и замутили свою ламповую конфу.

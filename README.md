@@ -772,7 +772,6 @@
 * [OS Haiku - общение](https://t.me/HaikuOS_RU_chat) — Чат про Haiku (рус.)
 * [KDE neon users](https://t.me/kdeneon) — English speaking community of KDE neon
 * [Kolibri OS](https://t.me/kolibri_os) — Group about fastest graphical operating system written in assembly.
-* [Pro Linux](https://telegram.me/joinchat/Be4rsT7VI1LxrHaMR3pezQ) — Взамен старой-доброй группы pro.linux.
 * [Linux Mint Russia 🇷🇺](https://t.me/LMRus) — Чат про Linux Mint (Русский)
 * [Linux Mint International](https://t.me/LMInter) — Linux Mint Chat (International)
 * [Linux Mint Україна](https://t.me/linuxmint_com) — Linux Mint Україна. cтрогие правила

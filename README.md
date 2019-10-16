@@ -192,6 +192,7 @@
 * [Amazon AWS notes](https://t.me/aws_notes) — Канал про AWS от Amazon
 * [Грефневая Кафка (pro.kafka)](https://t.me/AwesomeKafka_Ru) — Канал про Apache Kafka и связанными с ней событиями.
 * [Python Daily](https://t.me/pydaily) — Новости по языку программирования Python, ссылки на статьи, подкасты и другие интересные материалы.
+* [IT Finland](https://t.me/itfinland) — Канал про айти в Финляндии. Документы, недвижимость, работа и жизнь айтишника в Финляндии в целом.
 
 [(Назад к меню)](#Меню)
 

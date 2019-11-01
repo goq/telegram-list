@@ -329,6 +329,7 @@
 * [Работа в геймдеве](https://t.me/gamedevjob) — Вакансии в геймдеве и игровой индустрии
 * [Вакансии SAP](https://t.me/sapjobrus) — Вакансии в области SAP - ABAP, Cons, Basis, Management, etc.
 * [CMS MODX Revolution Job](https://t.me/ru_modx_work) — Предложения по CMS MODX Revolution.
+* [Remote Dev Jobs](https://t.me/remotedevjobs) - Удаленная работа для программистов
 
 [(Назад к меню)](#Меню)
 

@@ -268,6 +268,7 @@
 * [Industrial Scale Static Application Security Testing](https://t.me/isast) — Статический (и не только) анализ безопасности приложений в промышленных масштабах
 * [DC20e6](https://t.me/dc20e6) — DEFCON Ульяновск
 * [DC7831](https://t.me/defcon_nn) — DEFCON Нижний Новгород
+* [Freedom Fox](https://t.mefreedom_fox) — Канал от хакеров и для хакеров. Книги, сливы и варез.
 
 [(Назад к меню)](#Меню)
 

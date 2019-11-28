@@ -10,7 +10,7 @@
 
 Канал недели:
 
-* [The After Times](https://t.me/theaftertimes) — Несерьезный дайджест IT. Паста, мысли, критика.
+* [Data Science Jobs](https://t.me/datasciencejobs) — Вакансии в области Data Science / Machine Learning / Deep Learning / Artifical Inellegence / Neural Networks / Natural Language Processing / Data Mining
 
 -----
 
@@ -312,6 +312,7 @@
 [(Назад к меню)](#Меню)
 
 ##### Вакансии
+* [Data Science Jobs](https://t.me/datasciencejobs) — Вакансии в области Data Science / Machine Learning / Deep Learning / Artifical Inellegence / Neural Networks / Natural Language Processing / Data Mining
 * [Мой круг](https://t.me/moikrug) — Вакансии "Мой круг"
 * [Вакансии и резюме из Digital](https://t.me/seohr) — Вакансии и резюме из Digital
 * [Digital Job](https://t.me/digitaljob_ch) — Вакансии в индустрии Digital

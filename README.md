@@ -281,6 +281,7 @@
 * [Amazon AWS notes](https://t.me/aws_notes) — Канал про AWS от Amazon
 * [Мониторим ИТ](https://t.me/monitorim_it) — Канал об управлении ИТ (мониторинг, ITSM, etc.)
 * [Пятничный деплой](https://t.me/count0_digest) - Подборка ссылок, статей и постов из мира DevOps\SRE\разработки.
+* [2pizza Software](https://t.me/topizza) — шуточки из hangops и не только.
 
 [(Назад к меню)](#Меню)
 

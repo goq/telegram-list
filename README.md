@@ -697,6 +697,7 @@
 * [E.L.K. - elasticsearch](https://t.me/elk_ru) — Обсуждаем вопросы, посвященные Elastic / Logstash / Kibana и всей экосистеме. Обмениваем идеями, новостями и решаем проблемы.
 * [DevOps Moscow](https://t.me/devopsmoscow) — Сообщество разработчиков, тестировщиков и сисадминов в Москве.
 * [DevOps](https://t.me/devops_ru) — Чат про DevOps
+* [SPb Reliability Meetup](https://t.me/spb_reliability) — SRE (Site Reliability Engineering) митапы в Санкт-Петербурге
 
 [(Назад к меню)](#Меню)
 

@@ -786,6 +786,7 @@
 * [Linux Mint Russia 🇷🇺](https://t.me/LMRus) — Чат про Linux Mint (Русский)
 * [Linux Mint International](https://t.me/LMInter) — Linux Mint Chat (International)
 * [Linux Mint Україна](https://t.me/linuxmint_com) — Linux Mint Україна. cтрогие правила
+* [Linux Help](https://t.me/grouplinux) — Чат взаимопомощи по линуксу.
 * [Linux чат](https://t.me/linux_wit) — Чат про Linux
 * [macOS ru](https://t.me/macOS_ru) — Чат про macOS
 * [iHack - Hackintosh & Jailbreak](https://t.me/macosx86) — Чат про Хакинтош и MacOS
@@ -891,7 +892,6 @@
 * [Random — дикий запад](https://t.me/random_ru) — Абсолютно ненормальное общение, выяснение отношений, холивары, грязный юмор и всё то, что можно назвать Random. Из /dev/null
 * [ru_ipv6](https://t.me/ru_ipv6) — IPv6 in ru
 * [DEVs chat](https://t.me/devschat) — Мы обсуждаем всё что связано с веб-разработкой - фронтенд, бекенд, а также сервера и DevOps.
-* [Linux Help](https://t.me/grouplinux) — Чат взаимопомощи по линуксу.
 * [OpenStreetMap RU](https://t.me/ruosm) — Сообщество OpenStreetMap
 * [speccy hardware](https://t.me/speccy_hard) — Чат про ZX Spectrum. Rus & Eng.
 * [Фронтенд Юность](https://t.me/frontend_u) — Чат сообщества подкаста «Фронтенд Юность»

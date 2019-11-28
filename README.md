@@ -505,7 +505,6 @@
 * [Golang RU](https://t.me/gogolang) — Чат про Golang
 * [Haskell](https://t.me/haskellru) — Чат про Haskell
 * [Haskell Learn](https://t.me/haskell_learn) — Чат для вопросов по основам Haskell
-* [JavaScript Zombie](https://t.me/joinchat/AAMBHz3Uyr0tuZ7VaB029g) — Чат про JavaScript для настоящих зомби :)
 * [pro.js](https://t.me/JSlang) — Чат про JavaScript
 * [javascript_ru](https://t.me/javascript_ru) — Чат про JavaScript
 * [learn.java](https://t.me/javastart) — Изучаем java вместе. Чат для начинающих и не только!

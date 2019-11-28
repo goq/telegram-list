@@ -683,7 +683,7 @@
 
 [(Назад к меню)](#Меню)
 
-##### Управление конфигурациями, development & operations engineers
+##### DevOps и Управление конфигурациями
 * [Ansible](https://t.me/pro_ansible) — Чат про Ansible
 * [ChatOps RU](https://t.me/chatops_ru) — Те, кто управляют серверами через чат ботов
 * [RU Devops](https://t.me/ru_devops) — Чат про DevOps

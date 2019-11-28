@@ -22,6 +22,7 @@
   * [Frontend](#frontend-каналы)
   * [Информационная безопасность](#Каналы-информации-по-Информационной-безопасности)
   * [Машинное обучение, big data, deep learning, data science](#Информационные-и-новостные-каналы-по-data-science-big-data-Машинному-обучению-и-deep-learning)
+  * [DevOps](#DevOps)
   * [Бизнес и стартапы](#Каналы-по-бизнесу-и-стартапам)
   * [Библиотеки и базы знаний](#Библиотеки-и-базы-данных)
   * [Вакансии](#Вакансии)
@@ -273,6 +274,11 @@
 * [мамкин Data Scientist](https://t.me/mommyscience) — тернистый путь в data science, личный экспирианс
 * [Neural Networks Engineering](https://t.me/neural_network_engineering) — Авторский канал про нейронные сети в NLP
 * [Чаты и группы телеграма по теме](#big-data-Машинное-обучение-deep-learning-и-data-science)
+
+[(Назад к меню)](#Меню)
+
+##### DevOps
+* [DevOps&SRE Library](https://t.me/devopslibrary) — Библиотека книг и статей по теме DevOps и SRE.
 
 [(Назад к меню)](#Меню)
 

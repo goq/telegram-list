@@ -280,6 +280,7 @@
 * [DevOps&SRE Library](https://t.me/devopslibrary) — Библиотека книг и статей по теме DevOps и SRE.
 * [Админим с Буквой](https://t.me/bykvaadm) — Канал о системном администрировании, DevOps и немного Инфобеза.
 * [Amazon AWS notes](https://t.me/aws_notes) — Канал про AWS от Amazon
+* [Мониторим ИТ](https://t.me/monitorim_it) — Канал об управлении ИТ (мониторинг, ITSM, etc.)
 
 [(Назад к меню)](#Меню)
 

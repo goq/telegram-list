@@ -711,6 +711,7 @@
 * [Git](https://t.me/git_ru) — Чат про Git
 * [ru_jenkins](https://t.me/ru_jenkins) — Чат про Jenkins
 * [St. Petersburg Jenkins Meetup](https://t.me/jenkins_spb) — Митап по Jenkins в Санкт-Петербурге
+* [Docker Novosibirsk](https://t.me/dockernsk) — Чат Docker Новосибирск
 
 [(Назад к меню)](#Меню)
 

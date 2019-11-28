@@ -781,6 +781,7 @@
 * [Linux Mint Russia 🇷🇺](https://t.me/LMRus) — Чат про Linux Mint (Русский)
 * [Linux Mint International](https://t.me/LMInter) — Linux Mint Chat (International)
 * [Linux Mint Україна](https://t.me/linuxmint_com) — Linux Mint Україна. cтрогие правила
+* [Linux чат](https://t.me/linux_wit) — Чат про Linux
 * [macOS ru](https://t.me/macOS_ru) — Чат про macOS
 * [iHack - Hackintosh & Jailbreak](https://t.me/macosx86) — Чат про Хакинтош и MacOS
 * [Manjaro ru](https://t.me/manjarolinux) — Чат про Manjaro Linux

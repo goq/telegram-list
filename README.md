@@ -695,6 +695,7 @@
 * [Сбор и аналитика системных сообщений](https://t.me/ru_logs) — Русскоговорящая группа по аналитике syslog/structured log. ElasticSearch, Mtail, Graylog и т.п.
 * [ru_gitlab](https://t.me/ru_gitlab) — Чат про GitLab
 * [E.L.K. - elasticsearch](https://t.me/elk_ru) — Обсуждаем вопросы, посвященные Elastic / Logstash / Kibana и всей экосистеме. Обмениваем идеями, новостями и решаем проблемы.
+* [DevOps Moscow](https://t.me/devopsmoscow) — Сообщество разработчиков, тестировщиков и сисадминов в Москве.
 
 [(Назад к меню)](#Меню)
 

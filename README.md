@@ -61,10 +61,6 @@
 ##### Новости
 * [opennet news](https://t.me/opennews) — Новости opennet
 * [SPbLUG news](https://t.me/spblug) — Канал новостей Санкт-Петербургской группы пользователей Linux (SPbLUG)
-* [DevOps news](https://t.me/devops_news) — Новости DevOps
-* [DevOps Deflope News](https://t.me/devops_deflope) — Новостной канал DevOps
-* [ДевОпс Инженер](https://t.me/devopsengineer) — Все о DevOps: подходы, практики, клауды, скейлинг
-* [CatOps](https://t.me/catops) — Новости и заметки про Devops, SRE и прочее
 * [Geeks](https://t.me/g33ks) — Статьи и новости. Для гиков и от гиков.
 * [Fedora Project News](https://t.me/fedoranews) — Официальные новости Fedora. English
 * [Russian Fedora news](https://t.me/rfrnews) — Новости проектов Fedora и Russian Fedora
@@ -277,6 +273,10 @@
 [(Назад к меню)](#Меню)
 
 ##### DevOps
+* [DevOps news](https://t.me/devops_news) — Новости DevOps
+* [DevOps Deflope News](https://t.me/devops_deflope) — Новостной канал DevOps
+* [ДевОпс Инженер](https://t.me/devopsengineer) — Все о DevOps: подходы, практики, клауды, скейлинг
+* [CatOps](https://t.me/catops) — Новости и заметки про Devops, SRE и прочее
 * [DevOps&SRE Library](https://t.me/devopslibrary) — Библиотека книг и статей по теме DevOps и SRE.
 * [Админим с Буквой](https://t.me/bykvaadm) — Канал о системном администрировании, DevOps и немного Инфобеза.
 * [Amazon AWS notes](https://t.me/aws_notes) — Канал про AWS от Amazon

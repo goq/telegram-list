@@ -695,7 +695,7 @@
 * [Ansible](https://t.me/pro_ansible) — Чат про Ansible
 * [ChatOps RU](https://t.me/chatops_ru) — Те, кто управляют серверами через чат ботов
 * [RU Devops](https://t.me/ru_devops) — Чат про DevOps
-* [Moby & Docker CE - Официальное Русское Сообщество](https://t.me/ru_docker) — Moby & Docker CE - Официальное Русское Сообщество
+* [RU.Docker - Официальное Русское Сообщество](https://t.me/ru_docker) — Официальное Русское Сообщество Docker
 * [Брутальный Docker](https://t.me/brutal_docker) — Чат для тех, кому есть что сказать про докер
 * [Puppet](https://t.me/puppet_ru) — Чат про Puppet и управление конфигурациями
 * [Kubernetes](https://t.me/k8spb) — Чат про Kubernetes
@@ -706,6 +706,7 @@
 * [DevOps Moscow](https://t.me/devopsmoscow) — Сообщество разработчиков, тестировщиков и сисадминов в Москве.
 * [DevOps](https://t.me/devops_ru) — Чат про DevOps
 * [SPb Reliability Meetup](https://t.me/spb_reliability) — SRE (Site Reliability Engineering) митапы в Санкт-Петербурге
+* [Docker](https://t.me/docker_ru) — Ещё один чат про Docker
 * [DevSecOps](https://t.me/devsecops_ru) — Чат про DevOps и Security
 
 [(Назад к меню)](#Меню)

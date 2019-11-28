@@ -279,6 +279,7 @@
 
 ##### DevOps
 * [DevOps&SRE Library](https://t.me/devopslibrary) — Библиотека книг и статей по теме DevOps и SRE.
+* [Админим с Буквой](https://t.me/bykvaadm) — Канал о системном администрировании, DevOps и немного Инфобеза.
 
 [(Назад к меню)](#Меню)
 

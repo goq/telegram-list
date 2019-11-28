@@ -709,6 +709,7 @@
 * [Docker](https://t.me/docker_ru) — Ещё один чат про Docker
 * [DevSecOps](https://t.me/devsecops_ru) — Чат про DevOps и Security
 * [Git](https://t.me/git_ru) — Чат про Git
+* [ru_jenkins](https://t.me/ru_jenkins) — Чат про Jenkins
 
 [(Назад к меню)](#Меню)
 

@@ -188,7 +188,6 @@
 * [Saint P Ruby News](https://t.me/saintpruby) — Digest of Ruby community news
 * [Dev Tools](https://t.me/developer_tools) — Инструменты, плагины и аддоны для разработки.
 * [Middle Java](https://t.me/middle_java) — Канал про Java. Полезные материалы.
-* [Amazon AWS notes](https://t.me/aws_notes) — Канал про AWS от Amazon
 * [Грефневая Кафка (pro.kafka)](https://t.me/AwesomeKafka_Ru) — Канал про Apache Kafka и связанными с ней событиями.
 * [Python Daily](https://t.me/pydaily) — Новости по языку программирования Python, ссылки на статьи, подкасты и другие интересные материалы.
 * [IT Finland](https://t.me/itfinland) — Канал про айти в Финляндии. Документы, недвижимость, работа и жизнь айтишника в Финляндии в целом.
@@ -280,6 +279,7 @@
 ##### DevOps
 * [DevOps&SRE Library](https://t.me/devopslibrary) — Библиотека книг и статей по теме DevOps и SRE.
 * [Админим с Буквой](https://t.me/bykvaadm) — Канал о системном администрировании, DevOps и немного Инфобеза.
+* [Amazon AWS notes](https://t.me/aws_notes) — Канал про AWS от Amazon
 
 [(Назад к меню)](#Меню)
 

@@ -698,6 +698,7 @@
 * [DevOps Moscow](https://t.me/devopsmoscow) — Сообщество разработчиков, тестировщиков и сисадминов в Москве.
 * [DevOps](https://t.me/devops_ru) — Чат про DevOps
 * [SPb Reliability Meetup](https://t.me/spb_reliability) — SRE (Site Reliability Engineering) митапы в Санкт-Петербурге
+* [DevSecOps](https://t.me/devsecops_ru) — Чат про DevOps и Security
 
 [(Назад к меню)](#Меню)
 

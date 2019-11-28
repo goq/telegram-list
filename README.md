@@ -714,6 +714,7 @@
 * [St. Petersburg Jenkins Meetup](https://t.me/jenkins_spb) — Митап по Jenkins в Санкт-Петербурге
 * [Docker Novosibirsk](https://t.me/dockernsk) — Чат Docker Новосибирск
 * [Envoy Proxy](https://t.me/envoyproxy_ru) — Чат про Envoy Proxy
+* [werf_ru](https://t.me/werf_ru) — Чат про Werf
 
 [(Назад к меню)](#Меню)
 

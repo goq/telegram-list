@@ -104,7 +104,6 @@
 * [Mad Devs Channel](https://t.me/maddevsio) — русскоязычный канал ребят из компании Mad Devs, информация о разработке, тулзах, методах.
 * [Spalmalo Tech Talk](https://t.me/spalmalo_tt) — Спалмало находит и шарит с вами всякие полезности
 * [Technologique](https://t.me/technologique) — Канал о тенденциях в концепциях языков программирования и технологиях разработки ПО
-* [Пятничный деплой](https://t.me/count0_digest) - Подборка ссылок, статей и постов из мира DevOps\SRE\разработки.
 * [Sysadmin Tools](https://t.me/sysadmin_tools) — Sysadmin tools and othe usefull things from modern IT.
 * [∏ρØƒuñçτØρ Øπτµç∑](https://t.me/libmustdie) — Авторский канал о программировании (Пэйперы, видео, интересные репозитории)
 * [Microsoft Developer](https://t.me/msdnru) — Официальный канал сообщества Microsoft для разработчиков и всех, кто интересуется новыми технологиям
@@ -281,6 +280,7 @@
 * [Админим с Буквой](https://t.me/bykvaadm) — Канал о системном администрировании, DevOps и немного Инфобеза.
 * [Amazon AWS notes](https://t.me/aws_notes) — Канал про AWS от Amazon
 * [Мониторим ИТ](https://t.me/monitorim_it) — Канал об управлении ИТ (мониторинг, ITSM, etc.)
+* [Пятничный деплой](https://t.me/count0_digest) - Подборка ссылок, статей и постов из мира DevOps\SRE\разработки.
 
 [(Назад к меню)](#Меню)
 

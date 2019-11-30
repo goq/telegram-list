@@ -283,6 +283,7 @@
 * [2pizza Software](https://t.me/topizza) — шуточки из hangops и не только.
 * [Записки админа](https://t.me/SysadminNotes) — Статьи, рекомендации мысли про администрирование серверов
 * [i_odmin](https://t.me/i_odmin) — Канал про сисадминов
+* [DevOps40.ru](https://t.me/devops40) — Канал новостей DevOps 40. Анонсы мероприятий, статьи, книги.
 
 [(Назад к меню)](#Меню)
 

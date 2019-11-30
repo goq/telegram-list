@@ -755,6 +755,7 @@
 * [Python для анализа данных](https://t.me/pydata_chat) — Чат про применение Python для анализа данных, в особенности для различного рода автоматизации и аналитики.
 * [Catboost_ru](https://t.me/catboost_ru) — Русскоязыный чат библиотеки CatBoost
 * [Catboost_en](https://t.me/catboost_en) — Англоязычный чат библиотеки CatBoost
+* [Natural Language Processing](https://t.me/natural_language_processing) — Чат про Natural Language Processing
 
 [(Назад к меню)](#Меню)
 

@@ -265,6 +265,7 @@
 * [Machine Learning World](http://t.me/ml_world) — Все по Data Science и Machine Learning
 * [мамкин Data Scientist](https://t.me/mommyscience) — тернистый путь в data science, личный экспирианс
 * [Neural Networks Engineering](https://t.me/neural_network_engineering) — Авторский канал про нейронные сети в NLP
+* [Machinelearning](https://t.me/ai_machinelearning_big_data) — Актуальная информация из мира ML, нейронных сетей, DI
 * [Machine Learning Explained](https://t.me/machine_learning_explained) — Канал для тех, кто хочет успевать следить за происходящим в ML
 * [Чаты и группы телеграма по теме](#big-data-Машинное-обучение-deep-learning-и-data-science)
 

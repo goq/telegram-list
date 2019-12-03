@@ -648,7 +648,7 @@
 [(Назад к меню)](#Меню)
 
 ##### Системное и сетевое администрирование, телефония и телекоммуникации.
-* [RU.SYSADMIN](https://t.me/ru_sysadmin) — Чат Сисадминов
+* [RU.SYSADMIN](https://t.me/joinchat/AAMBHz8a8swCNLNFnVLUVg) — Чат Сисадминов
 * [ru.VoIP](https://t.me/ru_voip) — Чат про телефонию, VoIP, Asterisk
 * [Hosting and so on](https://t.me/pro_hosting) — Про хостинг
 * [pro.telecom](https://t.me/protelecom) — Чат про телекоммуникации.

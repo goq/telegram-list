@@ -285,6 +285,7 @@
 * [Записки админа](https://t.me/SysadminNotes) — Статьи, рекомендации мысли про администрирование серверов
 * [i_odmin](https://t.me/i_odmin) — Канал про сисадминов
 * [DevOps40.ru](https://t.me/devops40) — Канал новостей DevOps 40. Анонсы мероприятий, статьи, книги.
+* [WindowsITPro - winitpro.ru](https://t.me/winitpro_ru) — Канал сайта http://winitpro.ru про настройку и оптимизацию Windows, Active Directory, GPO, PowerShell, Linux. Виртуализацию Hyper-V, VMWare.
 
 [(Назад к меню)](#Меню)
 

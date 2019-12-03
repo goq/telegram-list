@@ -714,6 +714,7 @@
 * [Envoy Proxy](https://t.me/envoyproxy_ru) — Чат про Envoy Proxy
 * [werf_ru](https://t.me/werf_ru) — Чат про Werf
 * [Saltstack](https://t.me/saltstack) — Чат про Salt
+* [Scalability Camp](https://t.me/scalability_camp) — Чат про распредёленные системы
 
 [(Назад к меню)](#Меню)
 

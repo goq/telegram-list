@@ -631,6 +631,7 @@
 * [*Evolution CMS](https://t.me/evolutioncms) — Официальное сообщество Evolution CMS (ex MODX Evolution)
 * [WordPress CodeRun](https://t.me/coderunphp) — Чат разработчиков WordPress, разбираем код, ищем решения.
 * [FAANG Interview](https://t.me/FaangInterview) — Чат по подготовке к интервью в компании Кремниевой долины.
+* [Heroku Ru](https://t.me/heroku_ru) — Чат по платформе Heroku
 
 [(Назад к меню)](#Меню)
 

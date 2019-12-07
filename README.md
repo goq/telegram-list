@@ -811,6 +811,7 @@
 * [comput.math](https://t.me/comput_math) — Вычислительная математика и численные методы. MATLAB, Octave, Scilab, Python, Julia, F#, C++
 * [Physic Pub](https://t.me/physpub) — Чат про физику
 * [Starter Math](https://t.me/starter_math) — Чат про математику для начинающих
+* [Математический чат](https://t.me/typmath_chat) — Уютное логово математиков
 
 [(Назад к меню)](#Меню)
 

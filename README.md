@@ -117,7 +117,7 @@
 * [Сообщество phpland](https://t.me/phpland) — Официальный канал сообщества phpland (PHP, MySQL, CSS, HTML, Ubuntu-Linux).
 * [Software architecture musings](https://t.me/samusings) — Канал про архитектуру программных систем от Александра Белоцерковского (Microsoft Technical Evangelist).
 * [devdigect // netcore](https://t.me/dncuug) — ежедневный дайджест новостей посвященных разработке на платформе .NET Core. Поддерживается сообществом .NET Core Ukrainian User Group.
-* [devdigect // xamarin](https://t.me/xamarin_ua) —  дайджест новостей посвященных мобильной разработке с использованием Xamarin.
+* [devdigect // xamarin](https://t.me/xamarin_digest) —  дайджест новостей посвященных мобильной разработке с использованием Xamarin.
 * [devdigect // azure](https://t.me/azure_digest) —  дайджест новостей посвященных облачной платформе Microsoft Azure.
 * [#CoolAdmin](https://t.me/cooladmin) — канал про системное администрирование, сети, сервера и системы хранения. С новостями и историями.
 * [R0 Crew](https://t.me/R0_Crew) — Ъ Сообщество реверс-инженеров.
@@ -487,6 +487,7 @@
 * [pro.cxx](https://t.me/ProCxx) — Чат про Си++
 * [.NET chat RU](https://t.me/DotNetRuChat) — Чат про C# и .NET
 * [ExtremeCodeTV](https://t.me/extremecode) — Чат C# разработчиков (есть свой бот компилирующий C# код)
+* [var chat = new Chat();](https://t.me/dotnet_chat) — Чат посвящен разработке на .NET
 * [Clojure](https://t.me/clojure_ru) — Чат про Clojure
 * [Сrystal Lang](https://t.me/crystal_ru) — Чат про Crystal Lang
 * [css_ru](https://t.me/css_ru) — Чат про CSS и немного HTML

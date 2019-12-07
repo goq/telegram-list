@@ -187,6 +187,7 @@
 * [Python_in_depth](https://t.me/python_in_depth) — Авторский канал Python для начинающих и не очень.
 * [Daily Coding](https://t.me/dailycoding) — Интересные задачи, обучающие статьи, советы по стилю кода и многое другое
 * [AppTractor](https://t.me/apptractor) — Новости, статьи и свежие материалы про разработку и маркетинг приложений
+* [AppFiles](https://t.me/applib) - Библиотекуи и сервисы для iOS и Android разработчиков
 
 [(Назад к меню)](#Меню)
 
@@ -836,7 +837,6 @@
 * [Flutter Developers](https://t.me/flutter_rus) — Чат про Flutter
 * [Android_Declarative](https://t.me/android_declarative) - Чат русскоязычного android-сообщества, посвященный декларативным UI-фреймворкам: Jetpack Compose, Anko, Anvil, Litho
 * [SwiftBook](https://t.me/swiftbook_chat) — Чат про Swift от проекта [swiftbook.ru](https://swiftbook.ru)
-* [AppFiles](https://t.me/applib) - Библиотекуи и сервисы для iOS и Android разработчиков
 
 [(Назад к меню)](#Меню)
 

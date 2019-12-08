@@ -52,6 +52,10 @@
   * [Книги, философия](#Книги-философия)
   * [Разное и интересное](#Разное-и-интересное)
 * [Боты](#Боты)
+  * [Музыка и Радио](#Музыка-и-Радио)
+  * [Полезные боты для разработки](#Полезные-боты-для-разработки)
+  * [Для администраторов чатов](#Для-администраторов-чатов)
+  * [Прочие боты](#Прочие-боты)
 
 -----
 
@@ -1057,6 +1061,17 @@
 * [@integram_bot](https://t.me/integram_bot) — Интеграция разных сервисов по разработке ПО в телеграм
 * [@trello_bot](https://t.me/trello_bot) — Интеграция всемирно известной Канбан доски в телеграм
 
+##### Для администраторов чатов
+* [@daysandbox_bot](https://t.me/daysandbox_bot) - Бот удаляет ссылки и пересланные сообщения от пользователей, которые находятся менее 24 часов в чате.
+* [@watchdog_robot](https://t.me/watchdog_robot) - Бот для удаления ссылок, стикеров, фотографий, файловых вложений, пересланных сообщений и других типов сообщений в чате.
+* [@lang_blocker_bot](https://t.me/lang_blocker_bot) - Бот для удаления сообщений, написанных на иностранных языках.
+* [@joinhider_bot](https://t.me/joinhider_bot) - Бот для удаления сообщений о том, что пользователь вошёл или вышел из чата.
+* [@nohello_robot](https://t.me/nohello_robot) - Бот для удаления привет-сообщений, знает несколько языков.
+* [@grep_robot](https://t.me/grep_robot) - Бот для удаления сообщений, содержащих слова из чёрного списка.
+* [@GDGCensorBot](https://t.me/GDGCensorBot) — Бот для удаления матов и ругательств из чата.
+* [@nosticker_bot](https://t.me/nosticker_bot) — Бот автоматически удаляет любой стикер, отправленный в чат.
+* [@GBReborn_bot](https://t.me/GBReborn_bot) [Source](https://github.com/RememberTheAir/GroupButler) — Бот для администрирования, использующий официальный API для ботов.
+
 ##### Прочие боты
 * [@Lingvanexbot](https://t.me/lingvanexbot) - Переводчик на основе нейросетей для более чем 50 языков. 
 * [@ImageSearchBot](https://t.me/ImageSearchBot) — Бот поиска картинок от Яндекса
@@ -1089,19 +1104,12 @@
 * [@parserfreelancer_bot](https://t.me/parserfreelancer_bot) — Бот, уведомляющий о появлении новой работы на разных фрилансовых сайтах
 * [@LFTVbot](https://t.me/LFTVbot) [Source](https://github.com/Lord-Protector/LostFilmBot) — Бот для сайта LostFilm.TV. Личные уведомления, загрузка нужных серий и многое другое.
 * [@OverStatsBot](https://t.me/OverStatsBot) [Source](https://github.com/Lord-Protector/OverStatsBot) — Бот для игры Overwatch. Генерирует личные профили в виде изображений.
-* [@nosticker_bot](https://t.me/nosticker_bot) — Бот автоматически удаляет любой стикер, отправленный в чат.
 * [@KDERuBot](https://t.me/KDERuBot) — Новости сообщества KDE Россия.
 * [@myShowsMeBot](https://t.me/myShowsMeBot) — Помогает следить за выходом новых эпизодов просматриваемых сериалов.
-* [@GBReborn_bot](https://t.me/GBReborn_bot) [Source](https://github.com/RememberTheAir/GroupButler) — Бот для администрирования, использующий официальный API для ботов.
 * [@TGhost_bot](https://t.me/TGhost_bot) — удобный бот для обмена файлами в интернете. Файлы не удаляются и всегда доступны.
-* [@GDGCensorBot](https://t.me/GDGCensorBot) — Бот для удаления матов и ругательств из чата.
 * [@FavouriteStickers](https://t.me/FavouriteStickersBot) — Бот для сохранения понравившихся стикеров.
 * [@cryptographer070bot](https://t.me/cryptographer070bot) — Бот зашифрует и расшифрует ваши файлы и строки, надежным алгоритмом.
 * [@memingbot](https://t.me/memingbot) - Бот для создания мемов с вашим текстом на различных шаблонах.
-* [@daysandbox_bot](https://t.me/daysandbox_bot) - Бот удаляет ссылки и пересланные сообщения от пользователей, которые находятся менее 24 часов в чате.
-* [@watchdog_robot](https://t.me/watchdog_robot) - Бот для удаления ссылок, стикеров, фотографий, файловых вложений, пересланных сообщений и других типов сообщений в чате.
-* [@lang_blocker_bot](https://t.me/lang_blocker_bot) - Бот для удаления сообщений, написанных на иностранных языках.
-* [@joinhider_bot](https://t.me/joinhider_bot) - Бот для удаления сообщений о том, что пользователь вошёл или вышел из чата.
-* [@nohello_robot](https://t.me/nohello_robot) - Бот для удаления привет-сообщений, знает несколько языков.
-* [@grep_robot](https://t.me/grep_robot) - Бот для удаления сообщений, содержащих слова из чёрного списка.
 * [@SynoptykBot](https://t.me/SynoptykBot) - Погодный бот с уведомлениями, текущей погодой и прогнозом на 7 дней, а также возможностью задать до 5 локаций.
+
+[(Назад к меню)](#Меню)

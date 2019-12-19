@@ -863,6 +863,7 @@
 * [Golang Jobs and Freelance](https://t.me/golangjob) — Jobs and freelance for golang developers
 * [php_jobs](https://t.me/php_jobs) — Вакансии и запросы на поиск работы по направлению PHP, Laravel, Symfony, Yii и т.д.
 * [YiiJobs](https://t.me/yiijobs) — Вакансии, проекты, фриланс - Yii
+* [Laravel Jobs](https://t.me/laraveljob) — Laravel - вакансии, работа, фриланс
 * [For Products and Projects Managers](https://t.me/Forproducts) — Вакансии для продактов и проджектов.
 * [Вакансии для аналитиков](https://t.me/analysts_hunter) — Чат для поиска работы и специалистов в области интернет-аналитики
 * [Scala Jobs Chat](https://t.me/scala_jobs) — Чат со Scala вакансиями, можно в меру флудить.

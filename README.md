@@ -503,6 +503,7 @@
 * [Elm Lang](https://t.me/elm_ru) — Чат про язык программирования Elm
 * [FreePascal & Lazarus](https://t.me/freepascal_en) — Чат про FreePascal и Lazarus
 * [F# Chat](https://t.me/fsharp_chat) — Чат про F#
+* [FORTH и Родственные ЯП](https://t.me/forthchat) — Чат про Forth и родственные языки
 * [Golang RU](https://t.me/gogolang) — Чат про Golang
 * [Haskell](https://t.me/haskellru) — Чат про Haskell
 * [Haskell Learn](https://t.me/haskell_learn) — Чат для вопросов по основам Haskell

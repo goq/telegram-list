@@ -566,6 +566,7 @@
 * [Joomla! по-русски](https://t.me/joomlaru) — Чат про Joomla!
 * [Laravel Oficial](https://t.me/laravel_pro) — Чат про Laravel (официальный?)
 * [Laravel Russia](https://t.me/laravelrus) — Чат про Laravel
+* [Laravel для начинающих](https://t.me/laravel_web) — Чат про Laravel для начинающих
 * [Yii Framework](https://t.me/yii2ru) — Чат про Yii
 * [React Native](https://t.me/reactnative_ru) — Чат про React Native
 * [.NET Talks](https://t.me/dotnettalks) — Свободный чат .NET разработчиков, оффтоп разрешен.

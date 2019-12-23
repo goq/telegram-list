@@ -189,6 +189,7 @@
 * [AppTractor](https://t.me/apptractor) — Новости, статьи и свежие материалы про разработку и маркетинг приложений
 * [AppFiles](https://t.me/applib) - Библиотекуи и сервисы для iOS и Android разработчиков
 * [Swift Tips](https://t.me/swift_tips) — Ежедневные советы, подсказки, лайфхаки и статьи по Swift.
+* [Math.random(): javascript community](https://t.me/mathrandomcommunity) - сообщество инженеров связанные интересами в JavaScript технологиях.
 
 [(Назад к меню)](#Меню)
 

@@ -559,7 +559,6 @@
 * [aiohttp](https://t.me/aiohttp_ru) — Чат про aiohttp и asyncio (python)
 * [Angular.js](https://t.me/angular_js) — Чат про AngularJS 1.x
 * [Angular](https://t.me/angular_ru) — Чат про Angular (4.x+)
-* [VueJS](https://t.me/vuejs_ru) — Чат про VueJS
 * [VueJS Club](https://t.me/vuejs_club) — Чат про VueJS (админ - core member vue)
 * [NuxtJS](https://t.me/nuxtjs_ru) — Чат про NuxtJS (среди участников - core member nuxt)
 * [Flask](https://t.me/ru_flask) — Чат про Flask и SQLAlchemy (Python Flask)
@@ -609,6 +608,7 @@
 * [pro.hibernate](https://t.me/hibernatechat) — Чат про Hibernate.
 * [pro.kafka](https://t.me/proKafka) — Чат про Apache Kafka.
 * [Web2py Russian](https://t.me/web2py_rus) — Чат про фреймворк Web2py
+* [VueJS](https://t.me/vuejs_ru) — Чат про VueJS
 
 [(Назад к меню)](#Меню)
 

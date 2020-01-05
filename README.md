@@ -559,7 +559,6 @@
 * [aiohttp](https://t.me/aiohttp_ru) — Чат про aiohttp и asyncio (python)
 * [Angular.js](https://t.me/angular_js) — Чат про AngularJS 1.x
 * [Angular](https://t.me/angular_ru) — Чат про Angular (4.x+)
-* [NuxtJS](https://t.me/nuxtjs_ru) — Чат про NuxtJS (среди участников - core member nuxt)
 * [Flask](https://t.me/ru_flask) — Чат про Flask и SQLAlchemy (Python Flask)
 * [Django](https://t.me/django_framework) — Чат про веб-фреймворк Django
 * [Emacs](https://t.me/emacs_ru) — Чат про Emacs
@@ -575,6 +574,7 @@
 * [.NET Chat](https://t.me/DotNetChat) — Чат про .NET под эгидой MSK/SPB .NET Community Group
 * [pro.net](https://t.me/pro_net) — Обсуждение .NET Framework и всего, что с ним связано.
 * [NodeJS](https://t.me/nodejs_ru) — Чат про NodeJs
+* [NuxtJS](https://t.me/nuxtjs_ru) — Чат про NuxtJS
 * [CodenameCRUD](https://t.me/codenamecrud) — Чат про Ruby on Rails
 * [React](https://t.me/react_ru) — Чат про React
 * [Битрикс для разработчиков](https://t.me/bitrixfordevelopers) — Чат про Битрикс

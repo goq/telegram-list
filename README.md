@@ -86,6 +86,7 @@
 * [ICT.Moscow](https://t.me/ICT_Moscow) — ИТ и телеком в Москве: успехи, проблемы, возможности для бизнеса. Агрегация новостей, полезные контакты, исследования.
 * [Content Review](https://t.me/contentreview) — Новости операторов связи, IT-компаний и прочих жителей мобильного мира.
 * [yegor256news](https://t.me/yegor256news) — Канал Егора Бугаенко (yegor256). Elegant Objects, Zerocracy, Zold и многое другое
+* [GTL](https://t.me/gittoplibs) — Git top libraries. Канал об интересных библиотеках GitHub, а также выжимки новостей IT-мира (новые фреймворки, библиотеки, события)
 
 [(Назад к меню)](#Меню)
 
@@ -1121,3 +1122,4 @@
 * [@nohello_robot](https://t.me/nohello_robot) - Бот для удаления привет-сообщений, знает несколько языков.
 * [@grep_robot](https://t.me/grep_robot) - Бот для удаления сообщений, содержащих слова из чёрного списка.
 * [@SynoptykBot](https://t.me/SynoptykBot) - Погодный бот с уведомлениями, текущей погодой и прогнозом на 7 дней, а также возможностью задать до 5 локаций.
+* [@AmIHackedBot](https://t.me/AmIHackedBot) - Бот, который проверяет не были ли вы хакнуты. Использует сайт https://haveibeenpwned.com/

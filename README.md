@@ -187,8 +187,9 @@
 * [Python_in_depth](https://t.me/python_in_depth) — Авторский канал Python для начинающих и не очень.
 * [Daily Coding](https://t.me/dailycoding) — Интересные задачи, обучающие статьи, советы по стилю кода и многое другое
 * [AppTractor](https://t.me/apptractor) — Новости, статьи и свежие материалы про разработку и маркетинг приложений
-* [AppFiles](https://t.me/applib) - Библиотекуи и сервисы для iOS и Android разработчиков
+* [AppFiles](https://t.me/applib) - Библиотеки и сервисы для iOS и Android разработчиков
 * [Swift Tips](https://t.me/swift_tips) — Ежедневные советы, подсказки, лайфхаки и статьи по Swift.
+* [Geek Export](https://t.me/geekexport) - Канал про карьеру в Европе, лайфхаки и уроки английского для айтишников
 
 [(Назад к меню)](#Меню)
 

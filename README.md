@@ -1098,7 +1098,7 @@
 ##### Верифицированные
 * [BotFather](https://t.me/BotFather) — Крёстный бото-отец :-)
 * [Spam Info Bot](https://t.me/SpamBot) — Узнать в бане ли в телеграме, или нет
-* [DiscussBot](htttps://t.me/discussbot) - Бот для добавления комментариев в канале
+* [DiscussBot](https://t.me/discussbot) - Бот для добавления комментариев в канале
 * [Telegraph](https://t.me/telegraph) - Бот для управления аккаунтом на telegra.ph
 * [Stickers](https://t.me/Stickers) - Бот для создания стикерпаков
 * [IFTTT](https://t.me/IFTTT) - Бот IFTTT связывающий ваши телеграм каналы и группы с друми сервисами

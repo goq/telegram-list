@@ -87,6 +87,7 @@
 * [Content Review](https://t.me/contentreview) — Новости операторов связи, IT-компаний и прочих жителей мобильного мира.
 * [yegor256news](https://t.me/yegor256news) — Канал Егора Бугаенко (yegor256). Elegant Objects, Zerocracy, Zold и многое другое
 * [GTL](https://t.me/gittoplibs) — Git top libraries. Канал об интересных библиотеках GitHub, а также выжимки новостей IT-мира (новые фреймворки, библиотеки, события)
+* [Новости KDE](https://t.me/kde_ru_news) — Новости и интересные материалы о свободном программном обеспечении от сообщества [KDE](https://kde.ru)
 
 [(Назад к меню)](#Меню)
 
@@ -188,8 +189,9 @@
 * [Python_in_depth](https://t.me/python_in_depth) — Авторский канал Python для начинающих и не очень.
 * [Daily Coding](https://t.me/dailycoding) — Интересные задачи, обучающие статьи, советы по стилю кода и многое другое
 * [AppTractor](https://t.me/apptractor) — Новости, статьи и свежие материалы про разработку и маркетинг приложений
-* [AppFiles](https://t.me/applib) - Библиотекуи и сервисы для iOS и Android разработчиков
+* [AppFiles](https://t.me/applib) - Библиотеки и сервисы для iOS и Android разработчиков
 * [Swift Tips](https://t.me/swift_tips) — Ежедневные советы, подсказки, лайфхаки и статьи по Swift.
+* [Geek Export](https://t.me/geekexport) - Канал про карьеру в Европе, лайфхаки и уроки английского для айтишников
 
 [(Назад к меню)](#Меню)
 
@@ -1107,7 +1109,6 @@
 * [@LFTVbot](https://t.me/LFTVbot) [Source](https://github.com/Lord-Protector/LostFilmBot) — Бот для сайта LostFilm.TV. Личные уведомления, загрузка нужных серий и многое другое.
 * [@OverStatsBot](https://t.me/OverStatsBot) [Source](https://github.com/Lord-Protector/OverStatsBot) — Бот для игры Overwatch. Генерирует личные профили в виде изображений.
 * [@nosticker_bot](https://t.me/nosticker_bot) — Бот автоматически удаляет любой стикер, отправленный в чат.
-* [@KDERuBot](https://t.me/KDERuBot) — Новости сообщества KDE Россия.
 * [@myShowsMeBot](https://t.me/myShowsMeBot) — Помогает следить за выходом новых эпизодов просматриваемых сериалов.
 * [@GBReborn_bot](https://t.me/GBReborn_bot) [Source](https://github.com/RememberTheAir/GroupButler) — Бот для администрирования, использующий официальный API для ботов.
 * [@TGhost_bot](https://t.me/TGhost_bot) — удобный бот для обмена файлами в интернете. Файлы не удаляются и всегда доступны.
@@ -1122,4 +1123,3 @@
 * [@nohello_robot](https://t.me/nohello_robot) - Бот для удаления привет-сообщений, знает несколько языков.
 * [@grep_robot](https://t.me/grep_robot) - Бот для удаления сообщений, содержащих слова из чёрного списка.
 * [@SynoptykBot](https://t.me/SynoptykBot) - Погодный бот с уведомлениями, текущей погодой и прогнозом на 7 дней, а также возможностью задать до 5 локаций.
-* [@AmIHackedBot](https://t.me/AmIHackedBot) - Бот, который проверяет не были ли вы хакнуты. Использует сайт https://haveibeenpwned.com/

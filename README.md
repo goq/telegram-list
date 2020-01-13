@@ -55,6 +55,7 @@
   * [Музыка и радио](#Музыка-и-радио)
   * [Полезные боты для разработки](#Полезные-боты-для-разработки)
   * [Для администраторов чатов](#Для-администраторов-чатов)
+  * [Книги и фильмы](#Книги-и-фильмы)
   * [Верифицированные](#Верифицированные)
   * [Прочие боты](#Прочие-боты)
 
@@ -1103,7 +1104,13 @@
 * [@spoooiler_bot](https://t.me/spoooiler_bot) - Инлайн бот для скрытия спойлеров под кнопку
 
 ##### Книги и фильмы
-
+* [@flibustafreebookbot](https://t.me/flibustafreebookbot) — Бот флибусты для скачивания книг.
+* [@olibrarybot](https://t.me/olibrarybot) - Бот для скачивания книг
+* [@ru_tracker_bot](https://t.me/ru_tracker_bot) — Бот рутрекера
+* [@aud_books_bot])(https://t.me/aud_books_bot) -  Бот для скачивания аудиокниг
+* [@asbookabot](https://t.me/asbookabot) - Ещё один
+* [@LikeMovieBot](https://t.me/LikeMovieBot) - Бот для просмотра фильмов
+* [@RuKinoBot](https://t.me/RuKinoBot) - Бот с расписанием кинотеатров
 
 ##### Верифицированные
 * [BotFather](https://t.me/BotFather) — Крёстный бото-отец :-)
@@ -1128,8 +1135,6 @@
 * [@NodKeys_bot](https://t.me/NodKeys_bot) — Ключница (может не работать)
 * [@AlertBot](https://t.me/AlertBot) — Бот-напоминалка удобный
 * [@MyCookBot](https://t.me/MyCookBot) — Бот шеф-повар. База рецептов
-* [@flibustafreebookbot](https://t.me/flibustafreebookbot) — Бот флибусты для скачивания книг.
-* [@ru_tracker_bot](https://t.me/ru_tracker_bot) — Бот рутрекера
 * [@WallpaperRobot](https://t.me/WallpaperRobot) — Бот с обоями на рабочий стол
 * [@pikabubestbot](https://t.me/pikabubestbot) — Бот пикабу
 * [@arbeit_bot](https://t.me/arbeit_bot) — Opensourсe freelance биржа [arbeitbot](https://arbeitbot.com/)

@@ -1126,11 +1126,8 @@
 * [@parserfreelancer_bot](https://t.me/parserfreelancer_bot) — Бот, уведомляющий о появлении новой работы на разных фрилансовых сайтах
 * [@LFTVbot](https://t.me/LFTVbot) [Source](https://github.com/Lord-Protector/LostFilmBot) — Бот для сайта LostFilm.TV. Личные уведомления, загрузка нужных серий и многое другое.
 * [@OverStatsBot](https://t.me/OverStatsBot) [Source](https://github.com/Lord-Protector/OverStatsBot) — Бот для игры Overwatch. Генерирует личные профили в виде изображений.
-<<<<<<< HEAD
 * [@KDERuBot](https://t.me/KDERuBot) — Новости сообщества KDE Россия.
-=======
 * [@nosticker_bot](https://t.me/nosticker_bot) — Бот автоматически удаляет любой стикер, отправленный в чат.
->>>>>>> upstream/master
 * [@myShowsMeBot](https://t.me/myShowsMeBot) — Помогает следить за выходом новых эпизодов просматриваемых сериалов.
 * [@TGhost_bot](https://t.me/TGhost_bot) — удобный бот для обмена файлами в интернете. Файлы не удаляются и всегда доступны.
 * [@FavouriteStickers](https://t.me/FavouriteStickersBot) — Бот для сохранения понравившихся стикеров.

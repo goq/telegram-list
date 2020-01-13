@@ -86,6 +86,8 @@
 * [ICT.Moscow](https://t.me/ICT_Moscow) — ИТ и телеком в Москве: успехи, проблемы, возможности для бизнеса. Агрегация новостей, полезные контакты, исследования.
 * [Content Review](https://t.me/contentreview) — Новости операторов связи, IT-компаний и прочих жителей мобильного мира.
 * [yegor256news](https://t.me/yegor256news) — Канал Егора Бугаенко (yegor256). Elegant Objects, Zerocracy, Zold и многое другое
+* [GTL](https://t.me/gittoplibs) — Git top libraries. Канал об интересных библиотеках GitHub, а также выжимки новостей IT-мира (новые фреймворки, библиотеки, события)
+* [Новости KDE](https://t.me/kde_ru_news) — Новости и интересные материалы о свободном программном обеспечении от сообщества [KDE](https://kde.ru)
 
 [(Назад к меню)](#Меню)
 
@@ -187,9 +189,10 @@
 * [Python_in_depth](https://t.me/python_in_depth) — Авторский канал Python для начинающих и не очень.
 * [Daily Coding](https://t.me/dailycoding) — Интересные задачи, обучающие статьи, советы по стилю кода и многое другое
 * [AppTractor](https://t.me/apptractor) — Новости, статьи и свежие материалы про разработку и маркетинг приложений
-* [AppFiles](https://t.me/applib) - Библиотекуи и сервисы для iOS и Android разработчиков
+* [AppFiles](https://t.me/applib) - Библиотеки и сервисы для iOS и Android разработчиков
 * [Swift Tips](https://t.me/swift_tips) — Ежедневные советы, подсказки, лайфхаки и статьи по Swift.
 * [Math.random(): javascript community](https://t.me/mathrandomcommunity) - сообщество инженеров связанные интересами в JavaScript технологиях.
+* [Geek Export](https://t.me/geekexport) - Канал про карьеру в Европе, лайфхаки и уроки английского для айтишников
 
 [(Назад к меню)](#Меню)
 
@@ -575,6 +578,7 @@
 * [.NET Chat](https://t.me/DotNetChat) — Чат про .NET под эгидой MSK/SPB .NET Community Group
 * [pro.net](https://t.me/pro_net) — Обсуждение .NET Framework и всего, что с ним связано.
 * [NodeJS](https://t.me/nodejs_ru) — Чат про NodeJs
+* [NuxtJS](https://t.me/nuxtjs_ru) — Чат про NuxtJS
 * [CodenameCRUD](https://t.me/codenamecrud) — Чат про Ruby on Rails
 * [React](https://t.me/react_ru) — Чат про React
 * [Битрикс для разработчиков](https://t.me/bitrixfordevelopers) — Чат про Битрикс
@@ -607,6 +611,8 @@
 * [pro.hibernate](https://t.me/hibernatechat) — Чат про Hibernate.
 * [pro.kafka](https://t.me/proKafka) — Чат про Apache Kafka.
 * [Web2py Russian](https://t.me/web2py_rus) — Чат про фреймворк Web2py
+* [VueJS](https://t.me/vuejs_ru) — Чат про VueJS
+* [VueJS Club](https://t.me/vuejs_club) — Чат про VueJS
 
 [(Назад к меню)](#Меню)
 
@@ -658,7 +664,7 @@
 [(Назад к меню)](#Меню)
 
 ##### Системное и сетевое администрирование, телефония и телекоммуникации.
-* [RU.SYSADMIN](https://t.me/joinchat/AAMBHz8a8swCNLNFnVLUVg) — Чат Сисадминов
+* [RU.SYSADMIN](https://t.me/russysadmin) — Чат Сисадминов
 * [ru.VoIP](https://t.me/ru_voip) — Чат про телефонию, VoIP, Asterisk
 * [Hosting and so on](https://t.me/pro_hosting) — Про хостинг
 * [pro.telecom](https://t.me/protelecom) — Чат про телекоммуникации.
@@ -866,6 +872,7 @@
 * [Golang Jobs and Freelance](https://t.me/golangjob) — Jobs and freelance for golang developers
 * [php_jobs](https://t.me/php_jobs) — Вакансии и запросы на поиск работы по направлению PHP, Laravel, Symfony, Yii и т.д.
 * [YiiJobs](https://t.me/yiijobs) — Вакансии, проекты, фриланс - Yii
+* [Laravel Jobs](https://t.me/laraveljob) — Laravel - вакансии, работа, фриланс
 * [For Products and Projects Managers](https://t.me/Forproducts) — Вакансии для продактов и проджектов.
 * [Вакансии для аналитиков](https://t.me/analysts_hunter) — Чат для поиска работы и специалистов в области интернет-аналитики
 * [Scala Jobs Chat](https://t.me/scala_jobs) — Чат со Scala вакансиями, можно в меру флудить.
@@ -922,6 +929,8 @@
 * [DocOps-чат](https://t.me/docsascode) — Чат канала [DocOps](https://t.me/docops): обсуждаем посты, делимся опытом.
 * [Google Таблицы - это чат](https://t.me/google_spreadsheets_chat) — Чат канала [Google Таблицы](https://t.me/google_sheets). Обсуждаем посты, делимся опытом, решаем задачи и проблемы.
 * [Linux Gaming RUS](https://t.me/LinuxGamingRUS) — Чат про игры под Linux, а также wine, proton.
+* [#Вайти](https://t.me/hashtag_whity) — Чат-школа самообучения программистов
+* [LibreOfficeRU](https://t.me/libreofficeru) — Группа для российских пользователей LibreOffice
 
 [(Назад к меню)](#Меню)
 
@@ -1103,7 +1112,6 @@
 * [@LFTVbot](https://t.me/LFTVbot) [Source](https://github.com/Lord-Protector/LostFilmBot) — Бот для сайта LostFilm.TV. Личные уведомления, загрузка нужных серий и многое другое.
 * [@OverStatsBot](https://t.me/OverStatsBot) [Source](https://github.com/Lord-Protector/OverStatsBot) — Бот для игры Overwatch. Генерирует личные профили в виде изображений.
 * [@nosticker_bot](https://t.me/nosticker_bot) — Бот автоматически удаляет любой стикер, отправленный в чат.
-* [@KDERuBot](https://t.me/KDERuBot) — Новости сообщества KDE Россия.
 * [@myShowsMeBot](https://t.me/myShowsMeBot) — Помогает следить за выходом новых эпизодов просматриваемых сериалов.
 * [@GBReborn_bot](https://t.me/GBReborn_bot) [Source](https://github.com/RememberTheAir/GroupButler) — Бот для администрирования, использующий официальный API для ботов.
 * [@TGhost_bot](https://t.me/TGhost_bot) — удобный бот для обмена файлами в интернете. Файлы не удаляются и всегда доступны.

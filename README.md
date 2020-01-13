@@ -1100,7 +1100,10 @@
 * [@combot](https://t.me/combot) - Популярный бот-модератор
 * [@banofbot](https://t.me/banofbot) - Бот, который позволяет голосованием без админов исключать участников
 * [@SublimeBot](https://t.me/SublimeBot) - Бот для проведения шуточного розыгрыша в группе
-* [@spoooiler_bot](httts://t.me/spoooiler_bot) - Инлайн бот для скрытия спойлеров под кнопку
+* [@spoooiler_bot](https://t.me/spoooiler_bot) - Инлайн бот для скрытия спойлеров под кнопку
+
+##### Книги и фильмы
+
 
 ##### Верифицированные
 * [BotFather](https://t.me/BotFather) — Крёстный бото-отец :-)
@@ -1150,10 +1153,11 @@
 * [@egrul_bot](https://t.me/egrul_bot) - Бот для поиска информации о юридических лицах
 * [@buzzim_alerts_bot](https://t.me/buzzim_alerts_bot) - Поиск по открытым сообщениям в Telegram и уведовлением о их появлении
 * [@mailsearchbot](https://t.me/mailsearchbot) - Бот для проверки почты и ников на утечки
+* [@wiki](https:/t.me/wiki) - Инлайн бот для поиска статей в википедии
+* [@MsisdnInfoBot](https://t.me/MsisdnInfoBot) - Бот для определения оператора и региона номера
 
 <details>
   <summary>Похоже нерабочие</summary>
-  
   
   * [@spoibot](https://t.me/spoibot) — Инлайн бот для прятанья спойлер текстов за кнопку (удобно в крупных чатах)
   

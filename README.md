@@ -1093,10 +1093,21 @@
 * [@GDGCensorBot](https://t.me/GDGCensorBot) — Бот для удаления матов и ругательств из чата.
 * [@nosticker_bot](https://t.me/nosticker_bot) — Бот автоматически удаляет любой стикер, отправленный в чат.
 * [@GBReborn_bot](https://t.me/GBReborn_bot) [Source](https://github.com/RememberTheAir/GroupButler) — Бот для администрирования, использующий официальный API для ботов.
+* [@combot](https://t.me/combot) - Популярный бот-модератор
+
+##### Верифицированные
+* [BotFather](https://t.me/BotFather) — Крёстный бото-отец :-)
+* [Spam Info Bot](https://t.me/SpamBot) — Узнать в бане ли в телеграме, или нет
+* [DiscussBot](htttps://t.me/discussbot) - Бот для добавления комментариев в канале
+* [Telegraph](https://t.me/telegraph) - Бот для управления аккаунтом на telegra.ph
+* [Stickers](https://t.me/Stickers) - Бот для создания стикерпаков
+* [IFTTT](https://t.me/IFTTT) - Бот IFTTT связывающий ваши телеграм каналы и группы с друми сервисами
+* [Gmail Bot](https://t.me/GmailBot) - Бот присылающий сообщения с email в телеграм 
 
 ##### Прочие боты
 * [@Lingvanexbot](https://t.me/lingvanexbot) - Переводчик на основе нейросетей для более чем 50 языков. 
-* [@ImageSearchBot](https://t.me/ImageSearchBot) — Бот поиска картинок от Яндекса
+* [Yandex Image Search](https://t.me/pic) — Бот поиска картинок от Яндекса. Inline
+* [Yandex.Translate](https://t.me/YTranslateBot) - Бот-переводчик от Яндекса
 * [@temp_mail_bot](https://t.me/temp_mail_bot) — Временная электронная почта на 10 минут для регистраций
 * [@fakemailbot](https://t.me/fakemailbot) — Временная электронная почта на 10 минут
 * [@tempgmailbot](https://t.me/tempgmailbot) — Бот с помощью которого вас пустит на любой сайт. Он дает вам электронную почту доверенного сервиса GMail.
@@ -1106,9 +1117,7 @@
 * [@NodKeys_bot](https://t.me/NodKeys_bot) — Ключница (может не работать)
 * [@AlertBot](https://t.me/AlertBot) — Бот-напоминалка удобный
 * [@MyCookBot](https://t.me/MyCookBot) — Бот шеф-повар. База рецептов
-* [@SpamBot](https://t.me/SpamBot) — Узнать в бане ли в телеграме, или нет
 * [@AIPrismaBot](https://t.me/AIPrismaBot) — Призма Бот
-* [@BotFather](https://t.me/BotFather) — Крёстный бото-отец :-)
 * [@MyTeleCloudBot](https://t.me/MyTeleCloudBot) — облачный бот ?
 * [@mybookbot](https://t.me/mybookbot) — Бот-поисковик/скачиватель книг.
 * [@ru_tracker_bot](https://t.me/ru_tracker_bot) — Бот рутрекера
@@ -1120,19 +1129,24 @@
 * [@bashim_bot](https://t.me/bashim_bot) — Случайные цитаты с сайта [bash.im](http://bash.im) (+ поиск в инлайн-режиме)
 * [@SocialSaveBot](https://t.me/SocialSaveBot) — Позволяет сохранить фотографии из инстаграма
 * [@spoibot](https://t.me/spoibot) — Инлайн бот для прятанья спойлер текстов за кнопку (удобно в крупных чатах)
-* [@TgRusBot](https://t.me/tgrusbot) — Бот для русификации Telegram (Android, Desktop, iOS). Работает и в инлайн-режиме.
 * [@tlgurbot](https://t.me/tlgurbot) — Предоставляет доступ по http к файлам из Телеграма.
 * [@EinfoBot](https://t.me/EinfoBot) — Бот, который ищет электронные компоненты и интегрирован в поисковую систему.
 * [@parserfreelancer_bot](https://t.me/parserfreelancer_bot) — Бот, уведомляющий о появлении новой работы на разных фрилансовых сайтах
 * [@LFTVbot](https://t.me/LFTVbot) [Source](https://github.com/Lord-Protector/LostFilmBot) — Бот для сайта LostFilm.TV. Личные уведомления, загрузка нужных серий и многое другое.
-* [@OverStatsBot](https://t.me/OverStatsBot) [Source](https://github.com/Lord-Protector/OverStatsBot) — Бот для игры Overwatch. Генерирует личные профили в виде изображений.
 * [@KDERuBot](https://t.me/KDERuBot) — Новости сообщества KDE Россия.
 * [@nosticker_bot](https://t.me/nosticker_bot) — Бот автоматически удаляет любой стикер, отправленный в чат.
 * [@myShowsMeBot](https://t.me/myShowsMeBot) — Помогает следить за выходом новых эпизодов просматриваемых сериалов.
 * [@TGhost_bot](https://t.me/TGhost_bot) — удобный бот для обмена файлами в интернете. Файлы не удаляются и всегда доступны.
-* [@FavouriteStickers](https://t.me/FavouriteStickersBot) — Бот для сохранения понравившихся стикеров.
 * [@cryptographer070bot](https://t.me/cryptographer070bot) — Бот зашифрует и расшифрует ваши файлы и строки, надежным алгоритмом.
 * [@memingbot](https://t.me/memingbot) - Бот для создания мемов с вашим текстом на различных шаблонах.
 * [@SynoptykBot](https://t.me/SynoptykBot) - Погодный бот с уведомлениями, текущей погодой и прогнозом на 7 дней, а также возможностью задать до 5 локаций.
+* [@fStikBot](https://t.me/fStikBot) - Бот сохраняет любимые стикеры в один стикерпак.
+
+<details>
+  <summary>Похоже нерабочие</summary>
+  * [@FavouriteStickers](https://t.me/FavouriteStickersBot) — Бот для сохранения понравившихся стикеров.
+  * [@OverStatsBot](https://t.me/OverStatsBot) [Source](https://github.com/Lord-Protector/OverStatsBot) — Бот для игры Overwatch. Генерирует личные профили в виде изображений.
+  * [@ImageSearchBot](https://t.me/ImageSearchBot) — Бот поиска картинок от Яндекса
+</details>
 
 [(Назад к меню)](#Меню)

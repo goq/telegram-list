@@ -55,6 +55,7 @@
   * [Музыка и радио](#Музыка-и-радио)
   * [Полезные боты для разработки](#Полезные-боты-для-разработки)
   * [Для администраторов чатов](#Для-администраторов-чатов)
+  * [Верифицированные](#Верифицированные)
   * [Прочие боты](#Прочие-боты)
 
 -----
@@ -1074,6 +1075,8 @@
 * [@auddbot](https://t.me/auddbot) — Бот, распознающий музыку в голосовых сообщениях
 * [@YaMelodyBot](https://t.me/YaMelodyBot) - Аналогичный бот от Яндекс.Музыки
 * [@streaminghell_bot](https://t.me/@streaminghell_bot) — Находит нужный трек или альбом на всех музкальных площадках.
+* [@LyBot](https://t.me/LyBot) - Бот ищет музыку в Youtube Music
+* [@vkm4bot](http://t.me/vkm4bot) - Бот ищет музыку в ВК
 
 ##### Полезные боты для разработки
 * [@bitbucket_bot](https://t.me/bitbucket_bot) — Интеграция bitbucket в телеграм
@@ -1082,6 +1085,7 @@
 * [@GitHubBot](https://t.me/GitHubBot) — Интеграция GitHub в телеграм
 * [@integram_bot](https://t.me/integram_bot) — Интеграция разных сервисов по разработке ПО в телеграм
 * [@trello_bot](https://t.me/trello_bot) — Интеграция всемирно известной Канбан доски в телеграм
+* [@ShowJsonBot](https:/t.me/ShowJsonBot) - Бот пришлёт информацию об оправленном сообщении в JSON
 
 ##### Для администраторов чатов
 * [@daysandbox_bot](https://t.me/daysandbox_bot) - Бот удаляет ссылки и пересланные сообщения от пользователей, которые находятся менее 24 часов в чате.
@@ -1094,6 +1098,9 @@
 * [@nosticker_bot](https://t.me/nosticker_bot) — Бот автоматически удаляет любой стикер, отправленный в чат.
 * [@GBReborn_bot](https://t.me/GBReborn_bot) [Source](https://github.com/RememberTheAir/GroupButler) — Бот для администрирования, использующий официальный API для ботов.
 * [@combot](https://t.me/combot) - Популярный бот-модератор
+* [@banofbot](https://t.me/banofbot) - Бот, который позволяет голосованием без админов исключать участников
+* [@SublimeBot](https://t.me/SublimeBot) - Бот для проведения шуточного розыгрыша в группе
+* [@spoooiler_bot](httts://t.me/spoooiler_bot) - Инлайн бот для скрытия спойлеров под кнопку
 
 ##### Верифицированные
 * [BotFather](https://t.me/BotFather) — Крёстный бото-отец :-)
@@ -1102,13 +1109,13 @@
 * [Telegraph](https://t.me/telegraph) - Бот для управления аккаунтом на telegra.ph
 * [Stickers](https://t.me/Stickers) - Бот для создания стикерпаков
 * [IFTTT](https://t.me/IFTTT) - Бот IFTTT связывающий ваши телеграм каналы и группы с друми сервисами
-* [Gmail Bot](https://t.me/GmailBot) - Бот присылающий сообщения с email в телеграм 
+* [Gmail Bot](https://t.me/GmailBot) - Бот присылающий сообщения с email в телеграм
+* [MTProxy Admin Bot](https://t.me/MTProxybot) - Бот для управления MTProto прокси
 
 ##### Прочие боты
 * [@Lingvanexbot](https://t.me/lingvanexbot) - Переводчик на основе нейросетей для более чем 50 языков. 
 * [Yandex Image Search](https://t.me/pic) — Бот поиска картинок от Яндекса. Inline
 * [Yandex.Translate](https://t.me/YTranslateBot) - Бот-переводчик от Яндекса
-* [@temp_mail_bot](https://t.me/temp_mail_bot) — Временная электронная почта на 10 минут для регистраций
 * [@fakemailbot](https://t.me/fakemailbot) — Временная электронная почта на 10 минут
 * [@tempgmailbot](https://t.me/tempgmailbot) — Бот с помощью которого вас пустит на любой сайт. Он дает вам электронную почту доверенного сервиса GMail.
 * [@pomodoro_timer_bot](https://t.me/pomodoro_timer_bot) — Бот-таймер по методу "помидорки"
@@ -1127,8 +1134,6 @@
 * [@passgenbot](https://t.me/passgenbot) — Генератор [человекопонятных](http://xkcd.com/936/) паролей.
 * [@bashim_bot](https://t.me/bashim_bot) — Случайные цитаты с сайта [bash.im](http://bash.im) (+ поиск в инлайн-режиме)
 * [@SocialSaveBot](https://t.me/SocialSaveBot) — Позволяет сохранить фотографии из инстаграма
-* [@spoibot](https://t.me/spoibot) — Инлайн бот для прятанья спойлер текстов за кнопку (удобно в крупных чатах)
-* [@spoooiler_bot](httts://t.me/spoooiler_bot) - Ещё один
 * [@tlgurbot](https://t.me/tlgurbot) — Предоставляет доступ по http к файлам из Телеграма.
 * [@EinfoBot](https://t.me/EinfoBot) — Бот, который ищет электронные компоненты и интегрирован в поисковую систему.
 * [@parserfreelancer_bot](https://t.me/parserfreelancer_bot) — Бот, уведомляющий о появлении новой работы на разных фрилансовых сайтах
@@ -1140,9 +1145,19 @@
 * [@SynoptykBot](https://t.me/SynoptykBot) - Погодный бот с уведомлениями, текущей погодой и прогнозом на 7 дней, а также возможностью задать до 5 локаций.
 * [@fStikBot](https://t.me/fStikBot) - Бот сохраняет любимые стикеры в один стикерпак.
 * [@CryptoBitBot](https://t.me/CryptoBitBot) - Бот показывает информацию о курсах валют
+* [@apkdl_bot](https:t.me/apkdl_bot) - Бот скачивает APK-файлы приложений для Android
+* [@dictsbot](https://t.me/dictsbot) - Бот ищущий слово по словарям
+* [@egrul_bot](https://t.me/egrul_bot) - Бот для поиска информации о юридических лицах
+* [@buzzim_alerts_bot](https://t.me/buzzim_alerts_bot) - Поиск по открытым сообщениям в Telegram и уведовлением о их появлении
+* [@mailsearchbot](https://t.me/mailsearchbot) - Бот для проверки почты и ников на утечки
 
 <details>
   <summary>Похоже нерабочие</summary>
+  
+  
+  * [@spoibot](https://t.me/spoibot) — Инлайн бот для прятанья спойлер текстов за кнопку (удобно в крупных чатах)
+  
+  * [@temp_mail_bot](https://t.me/temp_mail_bot) — Временная электронная почта на 10 минут для регистраций
   
   * [@AIPrismaBot](https://t.me/AIPrismaBot) — Призма Бот
   

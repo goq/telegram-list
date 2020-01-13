@@ -90,6 +90,8 @@
 * [ICT.Moscow](https://t.me/ICT_Moscow) — ИТ и телеком в Москве: успехи, проблемы, возможности для бизнеса. Агрегация новостей, полезные контакты, исследования.
 * [Content Review](https://t.me/contentreview) — Новости операторов связи, IT-компаний и прочих жителей мобильного мира.
 * [yegor256news](https://t.me/yegor256news) — Канал Егора Бугаенко (yegor256). Elegant Objects, Zerocracy, Zold и многое другое
+* [GTL](https://t.me/gittoplibs) — Git top libraries. Канал об интересных библиотеках GitHub, а также выжимки новостей IT-мира (новые фреймворки, библиотеки, события)
+* [Новости KDE](https://t.me/kde_ru_news) — Новости и интересные материалы о свободном программном обеспечении от сообщества [KDE](https://kde.ru)
 
 [(Назад к меню)](#Меню)
 
@@ -121,7 +123,7 @@
 * [Сообщество phpland](https://t.me/phpland) — Официальный канал сообщества phpland (PHP, MySQL, CSS, HTML, Ubuntu-Linux).
 * [Software architecture musings](https://t.me/samusings) — Канал про архитектуру программных систем от Александра Белоцерковского (Microsoft Technical Evangelist).
 * [devdigect // netcore](https://t.me/dncuug) — ежедневный дайджест новостей посвященных разработке на платформе .NET Core. Поддерживается сообществом .NET Core Ukrainian User Group.
-* [devdigect // xamarin](https://t.me/xamarin_ua) —  дайджест новостей посвященных мобильной разработке с использованием Xamarin.
+* [devdigect // xamarin](https://t.me/xamarin_digest) —  дайджест новостей посвященных мобильной разработке с использованием Xamarin.
 * [devdigect // azure](https://t.me/azure_digest) —  дайджест новостей посвященных облачной платформе Microsoft Azure.
 * [#CoolAdmin](https://t.me/cooladmin) — канал про системное администрирование, сети, сервера и системы хранения. С новостями и историями.
 * [R0 Crew](https://t.me/R0_Crew) — Ъ Сообщество реверс-инженеров.
@@ -190,6 +192,11 @@
 * [IT Finland](https://t.me/itfinland) — Канал про айти в Финляндии. Документы, недвижимость, работа и жизнь айтишника в Финляндии в целом.
 * [Python_in_depth](https://t.me/python_in_depth) — Авторский канал Python для начинающих и не очень.
 * [Daily Coding](https://t.me/dailycoding) — Интересные задачи, обучающие статьи, советы по стилю кода и многое другое
+* [AppTractor](https://t.me/apptractor) — Новости, статьи и свежие материалы про разработку и маркетинг приложений
+* [AppFiles](https://t.me/applib) - Библиотеки и сервисы для iOS и Android разработчиков
+* [Swift Tips](https://t.me/swift_tips) — Ежедневные советы, подсказки, лайфхаки и статьи по Swift.
+* [Math.random(): javascript community](https://t.me/mathrandomcommunity) - сообщество инженеров связанные интересами в JavaScript технологиях.
+* [Geek Export](https://t.me/geekexport) - Канал про карьеру в Европе, лайфхаки и уроки английского для айтишников
 
 [(Назад к меню)](#Меню)
 
@@ -271,6 +278,7 @@
 * [Neural Networks Engineering](https://t.me/neural_network_engineering) — Авторский канал про нейронные сети в NLP
 * [Machinelearning](https://t.me/ai_machinelearning_big_data) — Актуальная информация из мира ML, нейронных сетей, DI
 * [Machine Learning Explained](https://t.me/machine_learning_explained) — Канал для тех, кто хочет успевать следить за происходящим в ML
+* [Deep Learning Highlights](https://t.me/deeplearninghl) — This channel is created in order to share the best from the world of Deep Learning, including educational projects and papers
 * [Чаты и группы телеграма по теме](#big-data-Машинное-обучение-deep-learning-и-data-science)
 
 [(Назад к меню)](#Меню)
@@ -289,6 +297,7 @@
 * [Записки админа](https://t.me/SysadminNotes) — Статьи, рекомендации мысли про администрирование серверов
 * [i_odmin](https://t.me/i_odmin) — Канал про сисадминов
 * [DevOps40.ru](https://t.me/devops40) — Канал новостей DevOps 40. Анонсы мероприятий, статьи, книги.
+* [WindowsITPro - winitpro.ru](https://t.me/winitpro_ru) — Канал сайта http://winitpro.ru про настройку и оптимизацию Windows, Active Directory, GPO, PowerShell, Linux. Виртуализацию Hyper-V, VMWare.
 
 [(Назад к меню)](#Меню)
 
@@ -347,6 +356,7 @@
 * [Главред](https://t.me/glvrdru) — Канал Максима Ильяхова про текст. Советы и статьи о тексте, редактуре, информационном стиле и рекламе.
 * [Паша и его прокрастинация](https://t.me/abbsol) — Как писать текст, проблемы пишущих, правила русского языка, советы писателей, книги о ремесле.
 * [Ссылки, контент, две микроразметки](https://t.me/keystoseo) — Канал по SEO и всему что связано с поисковым маркетингом.
+* [Блог дорвейщика о SEO](https://t.me/lord_alfred) — Мысли и хитрости о продвижении чёрными методами.
 
 [(Назад к меню)](#Меню)
 
@@ -488,6 +498,7 @@
 * [pro.cxx](https://t.me/ProCxx) — Чат про Си++
 * [.NET chat RU](https://t.me/DotNetRuChat) — Чат про C# и .NET
 * [ExtremeCodeTV](https://t.me/extremecode) — Чат C# разработчиков (есть свой бот компилирующий C# код)
+* [var chat = new Chat();](https://t.me/dotnet_chat) — Чат посвящен разработке на .NET
 * [Clojure](https://t.me/clojure_ru) — Чат про Clojure
 * [Сrystal Lang](https://t.me/crystal_ru) — Чат про Crystal Lang
 * [css_ru](https://t.me/css_ru) — Чат про CSS и немного HTML
@@ -500,6 +511,7 @@
 * [Elm Lang](https://t.me/elm_ru) — Чат про язык программирования Elm
 * [FreePascal & Lazarus](https://t.me/freepascal_en) — Чат про FreePascal и Lazarus
 * [F# Chat](https://t.me/fsharp_chat) — Чат про F#
+* [FORTH и Родственные ЯП](https://t.me/forthchat) — Чат про Forth и родственные языки
 * [Golang RU](https://t.me/gogolang) — Чат про Golang
 * [Haskell](https://t.me/haskellru) — Чат про Haskell
 * [Haskell Learn](https://t.me/haskell_learn) — Чат для вопросов по основам Haskell
@@ -562,6 +574,7 @@
 * [Joomla! по-русски](https://t.me/joomlaru) — Чат про Joomla!
 * [Laravel Oficial](https://t.me/laravel_pro) — Чат про Laravel (официальный?)
 * [Laravel Russia](https://t.me/laravelrus) — Чат про Laravel
+* [Laravel для начинающих](https://t.me/laravel_web) — Чат про Laravel для начинающих
 * [Yii Framework](https://t.me/yii2ru) — Чат про Yii
 * [React Native](https://t.me/reactnative_ru) — Чат про React Native
 * [.NET Talks](https://t.me/dotnettalks) — Свободный чат .NET разработчиков, оффтоп разрешен.
@@ -569,6 +582,7 @@
 * [.NET Chat](https://t.me/DotNetChat) — Чат про .NET под эгидой MSK/SPB .NET Community Group
 * [pro.net](https://t.me/pro_net) — Обсуждение .NET Framework и всего, что с ним связано.
 * [NodeJS](https://t.me/nodejs_ru) — Чат про NodeJs
+* [NuxtJS](https://t.me/nuxtjs_ru) — Чат про NuxtJS
 * [CodenameCRUD](https://t.me/codenamecrud) — Чат про Ruby on Rails
 * [React](https://t.me/react_ru) — Чат про React
 * [Битрикс для разработчиков](https://t.me/bitrixfordevelopers) — Чат про Битрикс
@@ -601,6 +615,8 @@
 * [pro.hibernate](https://t.me/hibernatechat) — Чат про Hibernate.
 * [pro.kafka](https://t.me/proKafka) — Чат про Apache Kafka.
 * [Web2py Russian](https://t.me/web2py_rus) — Чат про фреймворк Web2py
+* [VueJS](https://t.me/vuejs_ru) — Чат про VueJS
+* [VueJS Club](https://t.me/vuejs_club) — Чат про VueJS
 
 [(Назад к меню)](#Меню)
 
@@ -652,7 +668,7 @@
 [(Назад к меню)](#Меню)
 
 ##### Системное и сетевое администрирование, телефония и телекоммуникации.
-* [RU.SYSADMIN](https://t.me/ru_sysadmin) — Чат Сисадминов
+* [RU.SYSADMIN](https://t.me/russysadmin) — Чат Сисадминов
 * [ru.VoIP](https://t.me/ru_voip) — Чат про телефонию, VoIP, Asterisk
 * [Hosting and so on](https://t.me/pro_hosting) — Про хостинг
 * [pro.telecom](https://t.me/protelecom) — Чат про телекоммуникации.
@@ -718,6 +734,8 @@
 * [Docker Novosibirsk](https://t.me/dockernsk) — Чат Docker Новосибирск
 * [Envoy Proxy](https://t.me/envoyproxy_ru) — Чат про Envoy Proxy
 * [werf_ru](https://t.me/werf_ru) — Чат про Werf
+* [Saltstack](https://t.me/saltstack) — Чат про Salt
+* [Scalability Camp](https://t.me/scalability_camp) — Чат про распредёленные системы
 
 [(Назад к меню)](#Меню)
 
@@ -832,6 +850,7 @@
 * [Android NDK (C++)](https://t.me/ndk_ru) — Чат про Android NDK (C++)
 * [Flutter Developers](https://t.me/flutter_rus) — Чат про Flutter
 * [Android_Declarative](https://t.me/android_declarative) - Чат русскоязычного android-сообщества, посвященный декларативным UI-фреймворкам: Jetpack Compose, Anko, Anvil, Litho
+* [SwiftBook](https://t.me/swiftbook_chat) — Чат про Swift от проекта [swiftbook.ru](https://swiftbook.ru)
 
 [(Назад к меню)](#Меню)
 
@@ -857,6 +876,7 @@
 * [Golang Jobs and Freelance](https://t.me/golangjob) — Jobs and freelance for golang developers
 * [php_jobs](https://t.me/php_jobs) — Вакансии и запросы на поиск работы по направлению PHP, Laravel, Symfony, Yii и т.д.
 * [YiiJobs](https://t.me/yiijobs) — Вакансии, проекты, фриланс - Yii
+* [Laravel Jobs](https://t.me/laraveljob) — Laravel - вакансии, работа, фриланс
 * [For Products and Projects Managers](https://t.me/Forproducts) — Вакансии для продактов и проджектов.
 * [Вакансии для аналитиков](https://t.me/analysts_hunter) — Чат для поиска работы и специалистов в области интернет-аналитики
 * [Scala Jobs Chat](https://t.me/scala_jobs) — Чат со Scala вакансиями, можно в меру флудить.
@@ -1106,7 +1126,11 @@
 * [@parserfreelancer_bot](https://t.me/parserfreelancer_bot) — Бот, уведомляющий о появлении новой работы на разных фрилансовых сайтах
 * [@LFTVbot](https://t.me/LFTVbot) [Source](https://github.com/Lord-Protector/LostFilmBot) — Бот для сайта LostFilm.TV. Личные уведомления, загрузка нужных серий и многое другое.
 * [@OverStatsBot](https://t.me/OverStatsBot) [Source](https://github.com/Lord-Protector/OverStatsBot) — Бот для игры Overwatch. Генерирует личные профили в виде изображений.
+<<<<<<< HEAD
 * [@KDERuBot](https://t.me/KDERuBot) — Новости сообщества KDE Россия.
+=======
+* [@nosticker_bot](https://t.me/nosticker_bot) — Бот автоматически удаляет любой стикер, отправленный в чат.
+>>>>>>> upstream/master
 * [@myShowsMeBot](https://t.me/myShowsMeBot) — Помогает следить за выходом новых эпизодов просматриваемых сериалов.
 * [@TGhost_bot](https://t.me/TGhost_bot) — удобный бот для обмена файлами в интернете. Файлы не удаляются и всегда доступны.
 * [@FavouriteStickers](https://t.me/FavouriteStickersBot) — Бот для сохранения понравившихся стикеров.

@@ -974,6 +974,8 @@
 * [Krasnodar Golang](https://t.me/golangkrasnodar) — Чат по интересам для golang разработчиков.
 * [Krasnodar Ruby](https://t.me/rubykrd) — Чат по интересам для ruby разработчиков.
 * [Krasnodar Android](https://t.me/androidkrd) — Чат по интересам для android разработчиков.
+* [IT_Сочи](https://t.me/it_sochi) - Общий чат разработчиков Сочи
+* [СочиJS](https://t.me/sochijs) - Сочи JS-комьюнити 
 
 [(Назад к меню)](#Меню)
 

@@ -1107,7 +1107,7 @@
 * [@flibustafreebookbot](https://t.me/flibustafreebookbot) — Бот флибусты для скачивания книг.
 * [@olibrarybot](https://t.me/olibrarybot) - Бот для скачивания книг
 * [@ru_tracker_bot](https://t.me/ru_tracker_bot) — Бот рутрекера
-* [@aud_books_bot])(https://t.me/aud_books_bot) -  Бот для скачивания аудиокниг
+* [@aud_books_bot](https://t.me/aud_books_bot) -  Бот для скачивания аудиокниг
 * [@asbookabot](https://t.me/asbookabot) - Ещё один
 * [@LikeMovieBot](https://t.me/LikeMovieBot) - Бот для просмотра фильмов
 * [@RuKinoBot](https://t.me/RuKinoBot) - Бот с расписанием кинотеатров

@@ -928,6 +928,8 @@
 * [DocOps-чат](https://t.me/docsascode) — Чат канала [DocOps](https://t.me/docops): обсуждаем посты, делимся опытом.
 * [Google Таблицы - это чат](https://t.me/google_spreadsheets_chat) — Чат канала [Google Таблицы](https://t.me/google_sheets). Обсуждаем посты, делимся опытом, решаем задачи и проблемы.
 * [Linux Gaming RUS](https://t.me/LinuxGamingRUS) — Чат про игры под Linux, а также wine, proton.
+* [#Вайти](https://t.me/hashtag_whity) — Чат-школа самообучения программистов
+* [LibreOfficeRU](https://t.me/libreofficeru) — Группа для российских пользователей LibreOffice
 
 [(Назад к меню)](#Меню)
 

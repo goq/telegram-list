@@ -1168,7 +1168,7 @@
 
 <details>
   <summary>Похоже нерабочие</summary>
-  
+
   * [@spoibot](https://t.me/spoibot) — Инлайн бот для прятанья спойлер текстов за кнопку (удобно в крупных чатах)
   
   * [@temp_mail_bot](https://t.me/temp_mail_bot) — Временная электронная почта на 10 минут для регистраций
@@ -1180,17 +1180,17 @@
   * [@cryptographer070bot](https://t.me/cryptographer070bot) — Бот зашифрует и расшифрует ваши файлы и строки, надежным алгоритмом.
   
   * [@MyTeleCloudBot](https://t.me/MyTeleCloudBot) — облачный бот
- 
+
   * [@mybookbot](https://t.me/mybookbot) — Бот-поисковик/скачиватель книг.
- 
+
   * [@sp2txt_bot](https://t.me/sp2txt_bot) — Бот распознающий голосовые сообщения
- 
+
   * [@FavouriteStickers](https://t.me/FavouriteStickersBot) — Бот для сохранения понравившихся стикеров.
- 
+
   * [@OverStatsBot](https://t.me/OverStatsBot) [Source](https://github.com/Lord-Protector/OverStatsBot) — Бот для игры Overwatch. Генерирует личные профили в виде изображений.
   
   * [@ImageSearchBot](https://t.me/ImageSearchBot) — Бот поиска картинок от Яндекса
-  
+
 </details>
 
 [(Назад к меню)](#Меню)

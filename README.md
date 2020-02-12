@@ -1158,12 +1158,12 @@
 * [@SynoptykBot](https://t.me/SynoptykBot) - Погодный бот с уведомлениями, текущей погодой и прогнозом на 7 дней, а также возможностью задать до 5 локаций.
 * [@fStikBot](https://t.me/fStikBot) - Бот сохраняет любимые стикеры в один стикерпак.
 * [@CryptoBitBot](https://t.me/CryptoBitBot) - Бот показывает информацию о курсах валют
-* [@apkdl_bot](https:t.me/apkdl_bot) - Бот скачивает APK-файлы приложений для Android
+* [@apkdl_bot](https:t.me//apkdl_bot) - Бот скачивает APK-файлы приложений для Android
 * [@dictsbot](https://t.me/dictsbot) - Бот ищущий слово по словарям
 * [@egrul_bot](https://t.me/egrul_bot) - Бот для поиска информации о юридических лицах
 * [@buzzim_alerts_bot](https://t.me/buzzim_alerts_bot) - Поиск по открытым сообщениям в Telegram и уведовлением о их появлении
 * [@mailsearchbot](https://t.me/mailsearchbot) - Бот для проверки почты и ников на утечки
-* [@wiki](https:/t.me/wiki) - Инлайн бот для поиска статей в википедии
+* [@wiki](https://t.me/wiki) - Инлайн бот для поиска статей в википедии
 * [@MsisdnInfoBot](https://t.me/MsisdnInfoBot) - Бот для определения оператора и региона номера
 
 <details>

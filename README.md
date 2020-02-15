@@ -8,6 +8,7 @@
 
 ##### Новости
 * [Газета.Ру](https://t.me/gazetaru) — Официальный канал "Газеты.Ru"
+* [Газета.Ру](https://t.me/gazetaru) — Официальный канал "Газеты.Ru"
 * [L'homme qui pleure](https://t.me/lhommequipleure) — Персональный канал Александра Чистякова ([@demeliorator](https://t.me/))
 * [Веб-стандарты](https://t.me/webstandards_ru) — Новости фронтенда от "Веб-стандартов"
 * [opennet news](https://t.me/opennews) — Новости opennet

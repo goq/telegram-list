@@ -1139,6 +1139,7 @@
 * [@voicybot](https://t.me/voicybot) - Бот распознающий голосовые сообщения
 * [@ToText_bot](https://t.me/ToText_bot) - Ещё один
 * [@AntiParkonBot](https://t.me/AntiParkonBot) — Бот выдаёт контакты автовладельца по номеру машины
+* [@PerekupBot](https://t.me/PerekupBot) - Бот выявляет перекупов на [Авто.ру](https://auto.ru/)
 * [@NodKeys_bot](https://t.me/NodKeys_bot) — Ключница (может не работать)
 * [@AlertBot](https://t.me/AlertBot) — Бот-напоминалка удобный
 * [@MyCookBot](https://t.me/MyCookBot) — Бот шеф-повар. База рецептов

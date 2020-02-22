@@ -1118,7 +1118,7 @@
 * [@asbookabot](https://t.me/asbookabot) - Ещё один
 * [@LikeMovieBot](https://t.me/LikeMovieBot) - Бот для просмотра фильмов
 * [@RuKinoBot](https://t.me/RuKinoBot) - Бот с расписанием кинотеатров
-* [@JaredMovieRuBot](https://t.me/JaredMovieRuBot) - Джаред - уведомляет о выходе новых эпизодова просматриваемых тобой серириалов.
+* [@JaredMovieRuBot](https://t.me/JaredMovieRuBot) - Джаред - уведомляет о выходе новых эпизодов просматриваемых тобой сериалов.
 
 ##### Верифицированные
 * [BotFather](https://t.me/BotFather) — Крёстный бото-отец :-)

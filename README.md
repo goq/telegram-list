@@ -760,6 +760,7 @@
 * [dbmsdev](https://t.me/dbmsdev) — Чат о разработке СУБД
 * [pgCodeKeeper](https://t.me/pgcodekeeper) — Чат поддержки [opensource](https://github.com/pgcodekeeper/pgcodekeeper) проекта [pgCodeKeeper](http://pgcodekeeper.org)
 * [Oracle RU](https://t.me/oracle_ru) — Чат про Oracle
+* [Scylla DB](https://t.me/ru_scylladb) — Чат про ScyllaDB
 
 [(Назад к меню)](#Меню)
 

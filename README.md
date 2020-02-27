@@ -633,7 +633,7 @@
 * [codingteam](https://t.me/codingteam) — Кроссплатформенное сообщество инженеров и программистов.
 * [VictoriaMetrics_ru](https://t.me/VictoriaMetrics_ru1) - Ru сообщество по разработке и использованию tsdb (базы данных временных рядов) Victoria Metrics.
 * [Werf](https://t.me/werf_ru) - Сообщество по инструменту доставки контента в kunernetes от компании flant.ru .
-* [Telegram Bot Developers](https://t.me/botoid) — Чат про разработку ботов в телеграме
+* [Telegram Bot Developers](https://t.me/botoid_ru) — Чат про разработку ботов в телеграме
 * [IoT Community chat](https://t.me/Iot_chat) — Чат Internet fo Things сообщества.
 * [pro.algorithms](https://t.me/proalgorithms) — Группа по обсуждению алгоритмов, архитектурных решений, паттернов проектирования и прикладной математики.
 * [AtomicDesign](https://t.me/atomicdesign) — Обсуждение Atomic Design в React.js
@@ -1172,7 +1172,7 @@
 
 <details>
   <summary>Похоже нерабочие</summary>
-  
+
   * [@spoibot](https://t.me/spoibot) — Инлайн бот для прятанья спойлер текстов за кнопку (удобно в крупных чатах)
   
   * [@temp_mail_bot](https://t.me/temp_mail_bot) — Временная электронная почта на 10 минут для регистраций
@@ -1184,17 +1184,17 @@
   * [@cryptographer070bot](https://t.me/cryptographer070bot) — Бот зашифрует и расшифрует ваши файлы и строки, надежным алгоритмом.
   
   * [@MyTeleCloudBot](https://t.me/MyTeleCloudBot) — облачный бот
- 
+
   * [@mybookbot](https://t.me/mybookbot) — Бот-поисковик/скачиватель книг.
- 
+
   * [@sp2txt_bot](https://t.me/sp2txt_bot) — Бот распознающий голосовые сообщения
- 
+
   * [@FavouriteStickers](https://t.me/FavouriteStickersBot) — Бот для сохранения понравившихся стикеров.
- 
+
   * [@OverStatsBot](https://t.me/OverStatsBot) [Source](https://github.com/Lord-Protector/OverStatsBot) — Бот для игры Overwatch. Генерирует личные профили в виде изображений.
   
   * [@ImageSearchBot](https://t.me/ImageSearchBot) — Бот поиска картинок от Яндекса
-  
+
 </details>
 
 [(Назад к меню)](#Меню)

@@ -781,6 +781,7 @@
 * [Catboost_ru](https://t.me/catboost_ru) — Русскоязыный чат библиотеки CatBoost
 * [Catboost_en](https://t.me/catboost_en) — Англоязычный чат библиотеки CatBoost
 * [Natural Language Processing](https://t.me/natural_language_processing) — Чат про Natural Language Processing
+* [Распознавание речи](https://t.me/speech_recognition_ru) — Распознавание, синтез речи и речевые технологии
 
 [(Назад к меню)](#Меню)
 
@@ -944,6 +945,7 @@
 * [Linux Gaming RUS](https://t.me/LinuxGamingRUS) — Чат про игры под Linux, а также wine, proton.
 * [#Вайти](https://t.me/hashtag_whity) — Чат-школа самообучения программистов
 * [LibreOfficeRU](https://t.me/libreofficeru) — Группа для российских пользователей LibreOffice
+* [Операторы мобильной связи](https://t.me/opsosru) — Обсуждение операторов сотовой связи
 
 [(Назад к меню)](#Меню)
 

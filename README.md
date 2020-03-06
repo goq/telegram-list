@@ -206,6 +206,7 @@
 * [Веб-стандарты](https://t.me/webstandards_ru) — Новости фронтенда от "Веб-стандартов"
 * [Breakfast.js](https://t.me/breakfastjs) — Ежедневная подборка новостей из мира фронтенд разработки
 * [devSchachtChannel](https://t.me/devSchachtChannel) — Подкаст. Переводы. Веб-разработка. Анонсы новых статей и подкастов от devSchacht
+* [JavaScript Kung Fu](https://t.me/javascript_kung_fu) ([Workaround link](tg://resolve?domain=javascript_kung_fu)) — Thoughts, experimets, tests and puzzles regarding to JavaScript
 * [Иван Акулов про фронтенд](https://t.me/iamakulov_channel) — Заметки про фронтенд, UX и смежные темы.
 * [webo_ru](https://t.me/webo_ru) — Виталий Харисов из Яндекса про оптимизацию сайтов.
 * [webo_en](https://t.me/webo_en) — Web sites optimization (by @vithar)
@@ -486,6 +487,7 @@
 * [Записки инженера](https://t.me/EngineersNotes) — Заметки по технологиям по ту сторону экрана. Тем, кому интересно как эта магия работает, посвящается. Электроника в глубоком смысле слова.
 * [Заметки тимлида](https://t.me/zametki_tl) — Канал тимлида: личный опыт, мало теории, много практики и примеров из жизни
 * [Геймдев, который мы заслужили](https://t.me/korovany) — Авторский канал о геймдеве. Статьи, видео, книги, аналитика, мнения, новости и всё такое
+* [Пингвитон](https://t.me/lautips) — полезные штуки про Linux и Python от @lauvenhelz
 
 [(Назад к меню)](#Меню)
 
@@ -528,12 +530,14 @@
 * [NativeScript](https://t.me/nativescript_ru) — Чат про NativeScript
 * [ru.nim.talks](https://t.me/ru_nim_talks) — Чат про nim (ex-nimrod)
 * [Modern::Perl](https://t.me/modernperl) — Чат про Perl. Современный::Perl
+* [Церковь Метрик](https://t.me/metrics_ru) — Чат Метрики. Graphite, Prometheus, Influx, Moira, Grafana...
 * [use Perl or die;](https://t.me/usePerlOrDie) — Группа о языке Perl и обо всём что с ним связано.
 * [Python](https://t.me/ru_python) — Чат про Python
 * [pro.python](https://t.me/propython) — Чат про Python
 * [Python_beginners](https://t.me/ru_python_beginners) — Чат про Python (для новичков)
 * [Async Python](https://t.me/python_async) — Обсуждаем асинхронщину в Python
 * [Rude Python](https://t.me/rudepython) — Грубый чат про Python (для мужиков)
+* [OpenTelemetry](https://t.me/ru_opentelemetry) — Observability! Opencensus/OpenTracing/OpenTelemetry/...
 * [Python-programming](https://t.me/py_programming) — Чат про Python
 * [phpGeeks](https://t.me/phpgeeks) — Чат про PHP / php Geeks
 * [phpclub](https://t.me/phpclubru) — Чат про PHP / php Club
@@ -709,7 +713,7 @@
 * [Клуб проектировщиков & сметчиков](https://t.me/project_man_smeta) — Делимся опытом по проектированию и сметному делу
 * [ru_proxmox](https://t.me/ru_proxmox) — Чат про Proxmox
 * [ClubcomSale](https://t.me/ClubcomSale) — барахолка: продам и куплю любое телеком оборудование
-* [Серверное администрирование](https://t.me/srv_admins) — Чат про администрирование. 
+* [Серверное администрирование](https://t.me/srv_admins) — Чат про администрирование.
 * [OpenWRT/LEDE RU](https://t.me/openwrt_ru) — Чат про OpenWRT/LEDE, свободную прошивку для роутеров
 
 [(Назад к меню)](#Меню)
@@ -758,6 +762,7 @@
 * [dbmsdev](https://t.me/dbmsdev) — Чат о разработке СУБД
 * [pgCodeKeeper](https://t.me/pgcodekeeper) — Чат поддержки [opensource](https://github.com/pgcodekeeper/pgcodekeeper) проекта [pgCodeKeeper](http://pgcodekeeper.org)
 * [Oracle RU](https://t.me/oracle_ru) — Чат про Oracle
+* [Scylla DB](https://t.me/ru_scylladb) — Чат про ScyllaDB
 
 [(Назад к меню)](#Меню)
 
@@ -978,7 +983,7 @@
 * [Krasnodar Ruby](https://t.me/rubykrd) — Чат по интересам для ruby разработчиков.
 * [Krasnodar Android](https://t.me/androidkrd) — Чат по интересам для android разработчиков.
 * [IT_Сочи](https://t.me/it_sochi) - Общий чат разработчиков Сочи
-* [СочиJS](https://t.me/sochijs) - Сочи JS-комьюнити 
+* [СочиJS](https://t.me/sochijs) - Сочи JS-комьюнити
 
 [(Назад к меню)](#Меню)
 
@@ -1116,6 +1121,7 @@
 * [@asbookabot](https://t.me/asbookabot) - Ещё один
 * [@LikeMovieBot](https://t.me/LikeMovieBot) - Бот для просмотра фильмов
 * [@RuKinoBot](https://t.me/RuKinoBot) - Бот с расписанием кинотеатров
+* [@JaredMovieRuBot](https://t.me/JaredMovieRuBot) - Джаред - уведомляет о выходе новых эпизодов просматриваемых тобой сериалов.
 
 ##### Верифицированные
 * [BotFather](https://t.me/BotFather) — Крёстный бото-отец :-)
@@ -1128,7 +1134,7 @@
 * [MTProxy Admin Bot](https://t.me/MTProxybot) - Бот для управления MTProto прокси
 
 ##### Прочие боты
-* [@Lingvanexbot](https://t.me/lingvanexbot) - Переводчик на основе нейросетей для более чем 50 языков. 
+* [@Lingvanexbot](https://t.me/lingvanexbot) - Переводчик на основе нейросетей для более чем 50 языков.
 * [Yandex Image Search](https://t.me/pic) — Бот поиска картинок от Яндекса. Inline
 * [Yandex.Translate](https://t.me/YTranslateBot) - Бот-переводчик от Яндекса
 * [@fakemailbot](https://t.me/fakemailbot) — Временная электронная почта на 10 минут
@@ -1170,15 +1176,15 @@
   <summary>Похоже нерабочие</summary>
 
   * [@spoibot](https://t.me/spoibot) — Инлайн бот для прятанья спойлер текстов за кнопку (удобно в крупных чатах)
-  
+
   * [@temp_mail_bot](https://t.me/temp_mail_bot) — Временная электронная почта на 10 минут для регистраций
-  
+
   * [@AIPrismaBot](https://t.me/AIPrismaBot) — Призма Бот
-  
+
   * [@MelodyRobot](https://t.me/MelodyRobot) — Угадай мелодию бот
 
   * [@cryptographer070bot](https://t.me/cryptographer070bot) — Бот зашифрует и расшифрует ваши файлы и строки, надежным алгоритмом.
-  
+
   * [@MyTeleCloudBot](https://t.me/MyTeleCloudBot) — облачный бот
 
   * [@mybookbot](https://t.me/mybookbot) — Бот-поисковик/скачиватель книг.
@@ -1188,7 +1194,7 @@
   * [@FavouriteStickers](https://t.me/FavouriteStickersBot) — Бот для сохранения понравившихся стикеров.
 
   * [@OverStatsBot](https://t.me/OverStatsBot) [Source](https://github.com/Lord-Protector/OverStatsBot) — Бот для игры Overwatch. Генерирует личные профили в виде изображений.
-  
+
   * [@ImageSearchBot](https://t.me/ImageSearchBot) — Бот поиска картинок от Яндекса
 
 </details>

@@ -198,6 +198,7 @@
 * [Swift Tips](https://t.me/swift_tips) — Ежедневные советы, подсказки, лайфхаки и статьи по Swift.
 * [Math.random(): javascript community](https://t.me/mathrandomcommunity) - сообщество инженеров связанные интересами в JavaScript технологиях.
 * [Geek Export](https://t.me/geekexport) - Канал про карьеру в Европе, лайфхаки и уроки английского для айтишников
+* [Junior Python School](https://t.me/pythonjuniorschool) - Канал с большим количеством tricky quizzes и материалов для Python dev.
 
 [(Назад к меню)](#Меню)
 

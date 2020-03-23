@@ -44,6 +44,7 @@
   * [Мобильная разработка](#Мобильная-разработка)
   * [Вакансии и работа](#Вакансии-и-работа)
   * [Управление проектами, продакт-менеджмент, Agile, Kanban, SCRUM](#Управление-проектами-продакт-менеджмент-agile-kanban-scrum)
+  * [Разработка в Telegram, Vk и других мессенджерах](#Разработка-в-telegram-vk-и-других-мессенджерах)
   * [Разные IT-сообщества](#Разные-it-сообщества)
   * [Региональные IT-сообщества](#Региональные-it-сообщества)
   * [Разные не IT-сообщества](#Разные-не-it-сообщества)
@@ -641,7 +642,6 @@
 * [codingteam](https://t.me/codingteam) — Кроссплатформенное сообщество инженеров и программистов.
 * [VictoriaMetrics_ru](https://t.me/VictoriaMetrics_ru1) - Ru сообщество по разработке и использованию tsdb (базы данных временных рядов) Victoria Metrics.
 * [Werf](https://t.me/werf_ru) - Сообщество по инструменту доставки контента в kunernetes от компании flant.ru .
-* [Telegram Bot Developers](https://t.me/botoid) — Чат про разработку ботов в телеграме
 * [IoT Community chat](https://t.me/Iot_chat) — Чат Internet fo Things сообщества.
 * [pro.algorithms](https://t.me/proalgorithms) — Группа по обсуждению алгоритмов, архитектурных решений, паттернов проектирования и прикладной математики.
 * [AtomicDesign](https://t.me/atomicdesign) — Обсуждение Atomic Design в React.js
@@ -666,7 +666,6 @@
 * [FAANG Interview](https://t.me/FaangInterview) — Чат по подготовке к интервью в компании Кремниевой долины.
 * [Heroku Ru](https://t.me/heroku_ru) — Чат по платформе Heroku
 * [Яндекс.Облако](https://t.me/yandexcloud_chat) — Официальный чат Яндекс.Облака
-* [Яндекс.Диалоги](https://t.me/yadialogschat) — Сообщество разработчиков навыков Алисы
 * [Умный дом с Алисой](https://t.me/station_yandex) — Яндекс.Станция, Умный дом и устройства с Алисой
 * [Вокруг да около Zigbee](https://t.me/zigbeer) — Обсуждение устройств, прошивок и прочего софта, работающего с Zigbee
 * [CyberBiology](https://t.me/Chat_CyberBiology) - Моделирование самоорганизующихся систем (искусственная жизнь, ALife)
@@ -917,12 +916,29 @@
 
 [(Назад к меню)](#Меню)
 
+##### Разработка в Telegram, VK и других мессенджерах
+
++ [Bot Talk](https://t.me/BotTalk) — Официальный чат бот-платформы в Telegram
++ [Telegram Bot Developers](https://t.me/botoid) — Чат про разработку ботов в телеграме
++ [DevsHelper](https://t.me/devshelper) — Ещё один
++ [pyTelegramBotAPI](https://t.me/pyTelegramBotAPI_talks_ru) — Чат о Python библиотеке pyTelegramBotAPI
++ [aiogram_ru](https://t.me/aiogram_ru) — Чат о Python библиотеке aiogram
++ [Боты на Telegraf](https://t.me/telegraf_ru) — Чат о JS библиотеке Telegraf
++ [MadelineProto RU](https://t.me/pwrtelegramgroupru) — Чат PHP библиотеки  MadelineProto
++ [Golang Telegram Bot API](https://t.me/go_telegram_bot_api) — Чат о Go библиотеке go-telegram-bot-api
++ [VK Developers](https://t.me/vkapichat) — Чат разработчиков для VK
++ [VkNet.](https://t.me/VkDotNet) — Чат библиотеки Vk Api for .NET
++ [python273/vk_api](https://t.me/python273_vk_api) — Чат Python модуля vk_api
++ [Яндекс.Диалоги](https://t.me/yadialogschat) — Сообщество разработчиков навыков Алисы
++ [Developers Chat](https://t.me/joinchat/ABI4pz3M7FCxoDZcdcfVUA) — Чат сообщества Chatbots
+
+[(Назад к меню)](#Меню)
+
 ##### Разные IT-сообщества
 * [IT PPL](https://t.me/spbitpeople) – IT People: общение айтишников и про айти, и не про айти ;-)
 * [SPbLUG chat](https://t.me/spblug_chat) — Saint Petersburg Linux talks (неофициальный чат SPbLUG)
 * [Chaos Construction](https://t.me/chaosconstructions) – Chaos Construction Санкт-Петербург
 * [PiterPy Conf](https://t.me/piterpy) — Петербургская конференция для разработчиков мира Python
-* [Developers Chat](https://t.me/joinchat/ABI4pz3M7FCxoDZcdcfVUA) — Чат сообщества Chatbots
 * [Погромисты-трактористы](https://t.me/pogromisty) — Опыт миграции в другие страны, вакансии
 * [QA](https://t.me/qa_ru) — Чат русскоязычного сообщества тестировщиков
 * [Remote workers & Freelancers](https://t.me/ru_freelancers) — Чат про удаленную работу и самозанятость

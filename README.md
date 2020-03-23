@@ -200,6 +200,7 @@
 * [Math.random(): javascript community](https://t.me/mathrandomcommunity) - сообщество инженеров связанные интересами в JavaScript технологиях.
 * [Geek Export](https://t.me/geekexport) - Канал про карьеру в Европе, лайфхаки и уроки английского для айтишников
 * [Junior Python School](https://t.me/pythonjuniorschool) - Канал с большим количеством tricky quizzes и материалов для Python dev.
+* [C#Lab](https://t.me/CSharpLab) - Примеры на C#
 
 [(Назад к меню)](#Меню)
 
@@ -508,7 +509,6 @@
 * [pro.cxx](https://t.me/ProCxx) — Чат про Си++
 * [.NET chat RU](https://t.me/DotNetRuChat) — Чат про C# и .NET
 * [ExtremeCodeTV](https://t.me/extremecode) — Чат C# разработчиков (есть свой бот компилирующий C# код)
-* [C#Lab](https://t.me/CSharpLab) - Примеры на C#
 * [var chat = new Chat();](https://t.me/dotnet_chat) — Чат посвящен разработке на .NET
 * [Clojure](https://t.me/clojure_ru) — Чат про Clojure
 * [Сrystal Lang](https://t.me/crystal_ru) — Чат про Crystal Lang

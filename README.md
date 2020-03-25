@@ -641,7 +641,7 @@
 * [Elegant Objects OOP JAVA](https://t.me/joinchat/AAAAAEJFMRzsRTRxM3ec6A) — Чат программистов Java OOP. Elegant Objects yegor256.com.
 * [codingteam](https://t.me/codingteam) — Кроссплатформенное сообщество инженеров и программистов.
 * [VictoriaMetrics_ru](https://t.me/VictoriaMetrics_ru1) - Ru сообщество по разработке и использованию tsdb (базы данных временных рядов) Victoria Metrics.
-* [Werf](https://t.me/werf_ru) - Сообщество по инструменту доставки контента в kunernetes от компании flant.ru .
+* [Werf](https://t.me/werf_ru) - Сообщество по инструменту доставки контента в kubernetes от компании flant.ru .
 * [IoT Community chat](https://t.me/Iot_chat) — Чат Internet fo Things сообщества.
 * [pro.algorithms](https://t.me/proalgorithms) — Группа по обсуждению алгоритмов, архитектурных решений, паттернов проектирования и прикладной математики.
 * [AtomicDesign](https://t.me/atomicdesign) — Обсуждение Atomic Design в React.js

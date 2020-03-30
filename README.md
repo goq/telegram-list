@@ -1120,7 +1120,8 @@
 * [@LyBot](https://t.me/LyBot) - Бот ищет музыку в Youtube Music
 * [@vkm4bot](https://t.me/vkm4bot) - Бот ищет музыку в ВК
 * [@yandex_music_bot](https://t.me/yandex_music_bot) - Бот ищет музыку в Яндекс.Музыке
-
+* [@podcastly_bot](https://t.me/podcastly_bot) - Бот поможет найти подкаст с помощью поиска/рекомендательной системы, уведомит о новых эпизодах.
+ 
 ##### Полезные боты для разработки
 * [@bitbucket_bot](https://t.me/bitbucket_bot) — Интеграция bitbucket в телеграм
 * [@ChatbroBot](https://t.me/chatbrobot) — Позволяет встроить Telegram чат на сайт

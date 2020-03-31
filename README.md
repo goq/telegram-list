@@ -431,6 +431,7 @@
 * [Яндекс.Диалоги](https://t.me/yadialogsnews) — Новости Яндекс.Диалогов, советы и лайфхаки от команды сервиса
 * [Новые Навыки Алисы](https://t.me/NewAliceSkills) — Автоматический сканер новых навыков каталога alice.voice-ui.ru
 * [Около Яндекс.Станции](https://t.me/yandexdb) - Про Яндекс.Станцию, Dexp Smartbox, Irbis A, Elari SmartBeat
+* [Trade & Play](https://t.me/tradeplay) - Амбициозный проект об инвестициях в внутриигровые предметы на торговой площадке Steam.
 
 [(Назад к меню)](#Меню)
 
@@ -1206,6 +1207,7 @@
 * [@MsisdnInfoBot](https://t.me/MsisdnInfoBot) - Бот для определения оператора и региона номера
 * [@LaTeXyBot](https://t.me/LaTeXyBot) - Инлайн бот для отображения формул
 * [@cloud_convert_bot](https://t.me/cloud_convert_bot) - Конвертер различных форматов файлов
+* [@tradeplay_bot](https://t.me/tradeplay_bot) - Первый в мире бот, анализирующий торговую площадку Steam и подбирающий предметы для инвестиций.
 
 <details>
   <summary>Похоже нерабочие</summary>

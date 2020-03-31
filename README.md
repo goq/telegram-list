@@ -1206,6 +1206,7 @@
 * [@MsisdnInfoBot](https://t.me/MsisdnInfoBot) - Бот для определения оператора и региона номера
 * [@LaTeXyBot](https://t.me/LaTeXyBot) - Инлайн бот для отображения формул
 * [@cloud_convert_bot](https://t.me/cloud_convert_bot) - Конвертер различных форматов файлов
+* [@HalfLifeIRL_bot](https://t.me/HalfLifeIRL_bot) - Накладывает на присланные фотографии [меню Half-Life](https://i.imgur.com/F8xrtAm.jpg).
 
 <details>
   <summary>Похоже нерабочие</summary>

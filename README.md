@@ -883,6 +883,7 @@
 [(Назад к меню)](#Меню)
 
 ##### Вакансии и работа
+* [Мир фриланса](https://t.me/freelancers_world) — Поиск работы и специалистов
 * [Jobs and Project Chat](https://t.me/joinchat/ABI4pz7v7KfJhb12XIkIUA) — Чат по вакансиям и проектам от сообщества Chatbots
 * [Mobile Dev Jobs](https://t.me/mobile_jobs) — Чат по вакансиям разработчиков мобильных приложений
 * [Mobile Dev Jobs UA](https://t.me/mobile_job_ua) — Чат по вакансиям разработчиков мобильных приложений в Украине

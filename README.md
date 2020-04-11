@@ -626,6 +626,7 @@
 * [Web2py Russian](https://t.me/web2py_rus) — Чат про фреймворк Web2py
 * [VueJS](https://t.me/vuejs_ru) — Чат про VueJS
 * [VueJS Club](https://t.me/vuejs_club) — Чат про VueJS
+* [React — русскоговорящее сообщество](https://t.me/react_js) — Крупнейший русскоязычный чат про React и его экосистему.
 
 [(Назад к меню)](#Меню)
 

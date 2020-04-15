@@ -1212,6 +1212,7 @@
 * [@MsisdnInfoBot](https://t.me/MsisdnInfoBot) - Бот для определения оператора и региона номера
 * [@LaTeXyBot](https://t.me/LaTeXyBot) - Инлайн бот для отображения формул
 * [@cloud_convert_bot](https://t.me/cloud_convert_bot) - Конвертер различных форматов файлов
+* [@Ya_Disk_Bot](https://t.me/Ya_Disk_Bot) - Интеграция сервиса "Яндекс.Диск" в Telegram. Например, загрузка файлов (фото, видео, аудио и т.п.) на Яндекс.Диск.
 
 <details>
   <summary>Похоже нерабочие</summary>

@@ -284,6 +284,7 @@
 * [Machinelearning](https://t.me/ai_machinelearning_big_data) — Актуальная информация из мира ML, нейронных сетей, DI
 * [Machine Learning Explained](https://t.me/machine_learning_explained) — Канал для тех, кто хочет успевать следить за происходящим в ML
 * [Deep Learning Highlights](https://t.me/deeplearninghl) — This channel is created in order to share the best from the world of Deep Learning, including educational projects and papers
+* [Machine, are you learning?](https://t.me/ml_learning) — Insights in recent Machine Learning topics, approaches, models and papers.
 * [Чаты и группы телеграма по теме](#big-data-Машинное-обучение-deep-learning-и-data-science)
 
 [(Назад к меню)](#Меню)

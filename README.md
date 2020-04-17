@@ -271,6 +271,7 @@
 [(Назад к меню)](#Меню)
 
 ##### Информационные и новостные каналы по Data science, Big Data, Машинному обучению и deep learning.
+* [Data Science Jobs](https://t.me/datasciencejobs) — Работа и вакансии: Data Science / Machine Learning / Deep Learning / Artifical Inellegence / Neural Networks / Natural Language Processing / Data Mining
 * [Data Science](https://t.me/opendatascience) — Data Science Channel
 * [Deep Learning Russia](https://t.me/deeplearning_ru) — Канал сообщества vk.com/deeplearning_ru
 * [Hey Machine Learning](https://t.me/heyml) — Канал по машинному обучению и искусственному интеллекту

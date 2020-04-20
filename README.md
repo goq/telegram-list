@@ -991,33 +991,24 @@
 
 [(Назад к меню)](#Меню)
 
-##### Региональные IT-сообщества
+##### Российские региональные IT-сообщества
+###### Москва
+* [KotlinMoscow](https://t.me/KotlinMoscow) — Сообщество Kotlin Moscow
+* [Moscow.rb](https://t.me/moscowrb) — Московское сообщество Ruby
+* [Москоу progers](https://t.me/moscowProgers) — Чат программистов и прочих IT специалистов Москвы
+* [PyLadies Moscow](https://t.me/pyladies_moscow_chat) — PyLadies Moscow, московское сообщество разработчиц
+###### Санкт-Петербург
 * [SPb Python](https://t.me/spbpython) — Saint-Petersburg Python Interest Group
 * [Spb Qt](https://t.me/qtspb) — Сообщество Qt программистов Санкт-Петербурга
-* [KotlinMoscow](https://t.me/KotlinMoscow) — Сообщество Kotlin Moscow
-* [Rubyata](https://t.me/rubyata) — Ruby and Ruby On Rails community in Kyrgyzstan
-* [Moscow.rb](https://t.me/moscowrb) — Московское сообщество Ruby
 * [Saint P Ruby User Group](https://t.me/saintprug) — Сообщество разработчиков Ruby в Санкт-Петербурге
-* [Москоу progers](https://t.me/moscowProgers) — Чат программистов и прочих IT специалистов Москвы
-* [Python Community Chelyabinsk](https://t.me/pychel) — Чат челябинского сообщества Python-разработчиков
 * [fprog_spb](https://t.me/fprog_spb) — Митап функциональных программистов в СПб
-* [Чат IT-Страны](https://t.me/itbelarustalk) — Чат белорусского IT-сообщества.
-* [IT Lobby Irkutsk](https://t.me/joinchat/CD0D_D31vVD8L1FO4UutnQ) — чат ITишников города Иркутск
-* [IT-шники Белгорода](https://t.me/belgorod_it) — Чат айтишников Белгорода.
-* [Dev Seagulls](https://t.me/dev_seagulls) — Чат сообщества программистов Махачкалы
-* [IT EKB](https://t.me/IT_EKB) — Чат айтишников Екатеринбурга и окрестностей
-* [JUGNN](https://t.me/jugnn) — Нижегородская группа Java User Group
-* [JUGNsk](https://t.me/jugnsk) — Новосибирская группа Java User Group
-* [NSK IT events](https://t.me/NSKITevents) — Митапы и другие айтишные события в Новосибирске.
-* [QA Siberia](https://t.me/qa_siberia) — Сообщество тестировщиков Сибири.
 * [PiterPy Meetup](https://t.me/piterpy_meetup) — Петербургские митапы про Python и мир разработки вокруг
 * [PiterPy Idle](https://t.me/piterpy_idle) — Оффтопик-чат сообщества PiterPy Meetup. Обсуждаем музыку, квартиры, железо, афтепати, налоги
 * [PyLadies SPb](https://t.me/pyladies_spb) — PyLadies SPb, петербургское сообщество разработчиц
-* [PyLadies Moscow](https://t.me/pyladies_moscow_chat) — PyLadies Moscow, московское сообщество разработчиц
-* [Ruby Vladivostok](https://t.me/rubyvladivostok) — Группа Ruby разработчиков города Владивостока
-* [1с Чат РБ](https://t.me/One1c_Blr) — Связанные одним 1С в РБ.
-* [iOS Community – Kharkiv](https://t.me/ios_kharkiv) – Сообщество iOS-программистов Харькова
-* [Kharkiv iOS Peerlab](https://t.me/kharkiv_ios) — Чат для связи людей, которые собираются на [iOS-пирлабы по субботам в Харькове](https://www.meetup.com/Kharkiv-iOS-Peerlab/)
+###### ЦФО
+###### СЗФО
+###### ЮФО
+* [IT-шники Белгорода](https://t.me/belgorod_it) — Чат айтишников Белгорода.
 * [Krasnodar Dev Days](https://t.me/krddevdays_chat) — Независимое сообщество разработчиков Краснодара и края.
 * [Krasnodar Frontend](https://t.me/krdfrontend) — Чат по интересам для frontend разработчиков.
 * [Krasnodar Backend](https://t.me/krdbackend) — Чат по интересам для backend разработчиков.
@@ -1028,6 +1019,26 @@
 * [Krasnodar Android](https://t.me/androidkrd) — Чат по интересам для android разработчиков.
 * [IT_Сочи](https://t.me/it_sochi) - Общий чат разработчиков Сочи
 * [СочиJS](https://t.me/sochijs) - Сочи JS-комьюнити
+###### СКФО
+* [Dev Seagulls](https://t.me/dev_seagulls) — Чат сообщества программистов Махачкалы
+###### ПФО
+* [JUGNN](https://t.me/jugnn) — Нижегородская группа Java User Group
+###### УрФО
+* [IT EKB](https://t.me/IT_EKB) — Чат айтишников Екатеринбурга и окрестностей
+* [Python Community Chelyabinsk](https://t.me/pychel) — Чат челябинского сообщества Python-разработчиков
+###### СФО
+* [QA Siberia](https://t.me/qa_siberia) — Сообщество тестировщиков Сибири.
+* [IT Lobby Irkutsk](https://t.me/joinchat/CD0D_D31vVD8L1FO4UutnQ) — чат ITишников города Иркутск
+* [JUGNsk](https://t.me/jugnsk) — Новосибирская группа Java User Group
+* [NSK IT events](https://t.me/NSKITevents) — Митапы и другие айтишные события в Новосибирске.
+###### ДВФО
+* [Ruby Vladivostok](https://t.me/rubyvladivostok) — Группа Ruby разработчиков города Владивостока
+##### Зарубежные русскоязычные IT-сообщества
+* [iOS Community – Kharkiv](https://t.me/ios_kharkiv) – Сообщество iOS-программистов Харькова
+* [Kharkiv iOS Peerlab](https://t.me/kharkiv_ios) — Чат для связи людей, которые собираются на [iOS-пирлабы по субботам в Харькове](https://www.meetup.com/Kharkiv-iOS-Peerlab/)
+* [Чат IT-Страны](https://t.me/itbelarustalk) — Чат белорусского IT-сообщества.
+* [1с Чат РБ](https://t.me/One1c_Blr) — Связанные одним 1С в РБ.
+* [Rubyata](https://t.me/rubyata) — Ruby and Ruby On Rails community in Kyrgyzstan
 
 [(Назад к меню)](#Меню)
 

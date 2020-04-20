@@ -1042,25 +1042,6 @@
 
 [(Назад к меню)](#Меню)
 
-##### Разные не IT-сообщества
-* [spb_auto](https://t.me/spb_auto) — Чат сообщества spb_auto
-* [P2P, Mesh, Cryptocurrency, etc.](https://t.me/distributed) — Криптовалюты, p2p, mesh и другие средства личной свободы
-* [Политика](https://t.me/ru_politics) — Политические обсуждения
-* [Инвесторы и трейдеры](https://t.me/ru_traders) — Инвестирование и торговля на бирже
-* [Сообщество UX / UI - дизайнеров](https://t.me/uxchat) — uxchat.live
-* [Телеграм Гики](https://t.me/tgchat) — Обсуждение новостей о Telegram
-* [Питерчат](https://t.me/piterchat) – Чат для жителей Санкт-Петербурга.
-* [МоскваChat](https://t.me/MOCKBAchat) – Чат для жителей Москвы.
-* [Блудливая Калифорния](https://t.me/bludcaliforni) — Чат для общения, знакомств и совместных встреч в Москве и области.
-* [Английский язык](https://t.me/eng_for_rus) — Изучаем английский язык вместе.
-* [ForGeeks Chat](https://t.me/forgeekschat) — Чат про гиков и для гиков
-* [Airbase](https://t.me/airbase_ru) — чат форумов Авиабазы. Военная техника (в основном авиация и флот), политика, компьютеры, литература, кино и многое другое.
-* [Funscience](https://t.me/funscience_chat) — группа канала [@Funscience](https://t.me/funscience)
-* [Aurora Borealis Hunters](https://t.me/aurora_ru) — Чат фото- и видео-охотников за Северным Сиянием!
-* [Гонок чят](https://t.me/raacingchat) — Чятик любителей погонять. Project CARS 2, Gran Turismo Sport, Assetto Corsa, etc.
-
-[(Назад к меню)](#Меню)
-
 ##### Электроника, микроконтроллеры и встраиваемые системы
 * [Catethysis](https://t.me/telecatethysis) — Чат про электронику, программирование микроконтроллеров, stm32
 * [pro.embedded](https://t.me/proembedded) — Чат про встраиваемые системы

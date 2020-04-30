@@ -96,6 +96,7 @@
 * [GTL](https://t.me/gittoplibs) — Git top libraries. Канал об интересных библиотеках GitHub, а также выжимки новостей IT-мира (новые фреймворки, библиотеки, события)
 * [Новости KDE](https://t.me/kde_ru_news) — Новости и интересные материалы о свободном программном обеспечении от сообщества [KDE](https://kde.ru)
 * [imaxai.ru | CPU Эльбрус](https://t.me/imaxairu) – Новости из мира российских микропроцессоров Эльбрус
+* [Server Side Swift News](https://t.me/sssnews) — Новости, заметки и релизы из мира Server-Side Swift
 
 [(Назад к меню)](#Меню)
 

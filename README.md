@@ -857,6 +857,7 @@
 * [Ubuntu](https://t.me/ru_ubuntu) — Чат про Ubuntu (Kubuntu, Lubuntu, Xubuntu)
 * [Pro.Windows](https://t.me/pro_windows) — Чат про Microsoft Windows и всё, что с этим связано
 * [i3wm](https://t.me/i3_wm_ru) — Чат про оконный менеджер i3 и тайлинг (рус.)
+* [Tiling WM Mastery](https://t.me/tiling_wm_mastery) — Чат про тайлинговые менеджеры
 
 [(Назад к меню)](#Меню)
 

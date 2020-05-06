@@ -201,6 +201,7 @@
 * [Geek Export](https://t.me/geekexport) - Канал про карьеру в Европе, лайфхаки и уроки английского для айтишников
 * [Junior Python School](https://t.me/pythonjuniorschool) - Канал с большим количеством tricky quizzes и материалов для Python dev.
 * [C#Lab](https://t.me/CSharpLab) - Примеры на C#
+* [Elgg](https://t.me/elggnews) - Новости, статьи, Q&A, релизы версий и плагинов для [Elgg](https://elgg.org) - фреймворке для построения социальных сетей (на английском языке)
 
 [(Назад к меню)](#Меню)
 
@@ -634,6 +635,7 @@
 * [Web2py Russian](https://t.me/web2py_rus) — Чат про фреймворк Web2py
 * [VueJS](https://t.me/vuejs_ru) — Чат про VueJS
 * [VueJS Club](https://t.me/vuejs_club) — Чат про VueJS
+* [Elgg Chat](https://t.me/elggchat) - Чат про Elgg
 
 [(Назад к меню)](#Меню)
 

@@ -586,6 +586,7 @@
 * [Angular](https://t.me/angular_ru) — Чат про Angular (4.x+)
 * [Flask](https://t.me/ru_flask) — Чат про Flask и SQLAlchemy (Python Flask)
 * [Django](https://t.me/django_framework) — Чат про веб-фреймворк Django
+* [Django [ru]](https://t.me/pydjango) — Русскоязычный чат про веб-фреймворк Django
 * [Emacs](https://t.me/emacs_ru) — Чат про Emacs
 * [Ionic Framework](https://t.me/pro_ionic) — Чат про Ionic Framework и все что связано с разработкой гибридных приложений на нем и Сordova
 * [Joomla! по-русски](https://t.me/joomlaru) — Чат про Joomla!

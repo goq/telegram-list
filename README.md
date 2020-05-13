@@ -434,6 +434,7 @@
 * [Яндекс.Диалоги](https://t.me/yadialogsnews) — Новости Яндекс.Диалогов, советы и лайфхаки от команды сервиса
 * [Новые Навыки Алисы](https://t.me/NewAliceSkills) — Автоматический сканер новых навыков каталога alice.voice-ui.ru
 * [Около Яндекс.Станции](https://t.me/yandexdb) - Про Яндекс.Станцию, Dexp Smartbox, Irbis A, Elari SmartBeat
+* [АйТиБорода](https://t.me/itbeard) - Официальный паблик youtube-канала "АйТиБорода"
 
 [(Назад к меню)](#Меню)
 

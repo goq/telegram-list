@@ -435,6 +435,7 @@
 * [Новые Навыки Алисы](https://t.me/NewAliceSkills) — Автоматический сканер новых навыков каталога alice.voice-ui.ru
 * [Около Яндекс.Станции](https://t.me/yandexdb) - Про Яндекс.Станцию, Dexp Smartbox, Irbis A, Elari SmartBeat
 * [АйТиБорода](https://t.me/itbeard) - Официальный паблик youtube-канала "АйТиБорода"
+* [Russian Hackers](https://t.me/RussianHackers_Channel) — Канал про хакатоны, пет-проджекты, инди-хакерство и стартапы.
 
 [(Назад к меню)](#Меню)
 
@@ -973,7 +974,6 @@
 * [Atlassian User Froup](https://t.me/augspb) — Чат сообщества Atlassian, все про Atlassian продукты и интеграции с ними
 * [Visual Studio Code](https://t.me/vscode_ru) — Чат настройки и создания плагинов VS Code
 * [Kittens Meowing](https://t.me/PrivacyGroup) — Первое правила клуба: «Никому и никогда не рассказывать о клубе».
-* [Hackathons and Travel](https://t.me/HackathonsAndTravel) — Чат про путешествия и хакатоны. Поиск и создание команд на хакатоны по всему миру.
 * [Random — дикий запад](https://t.me/random_ru) — Абсолютно ненормальное общение, выяснение отношений, холивары, грязный юмор и всё то, что можно назвать Random. Из /dev/null
 * [ru_ipv6](https://t.me/ru_ipv6) — IPv6 in ru
 * [DEVs chat](https://t.me/devschat) — Мы обсуждаем всё что связано с веб-разработкой - фронтенд, бекенд, а также сервера и DevOps.

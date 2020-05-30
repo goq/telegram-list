@@ -509,6 +509,7 @@
 * [dlang.ru](https://t.me/dlangru) — Чат про язык D
 * [ErlangRus](https://t.me/erlangrus) — Толки о Erlang, IT и работе
 * [pro.elixir](https://t.me/proelixir) — Чат про Elixir
+* [Эликсир и Вунш](https://t.me/wunsh) — Чат эликсирщиков
 * [Elm Lang](https://t.me/elm_ru) — Чат про язык программирования Elm
 * [FreePascal & Lazarus](https://t.me/freepascal_en) — Чат про FreePascal и Lazarus
 * [F# Chat](https://t.me/fsharp_chat) — Чат про F#
@@ -578,7 +579,9 @@
 * [Laravel Oficial](https://t.me/laravel_pro) — Чат про Laravel (официальный?)
 * [Laravel Russia](https://t.me/laravelrus) — Чат про Laravel
 * [Laravel для начинающих](https://t.me/laravel_web) — Чат про Laravel для начинающих
-* [Yii Framework](https://t.me/yii2ru) — Чат про Yii
+* [Yii Framework 1.1](https://t.me/yii1ru) — Чат про Yii 1.1 
+* [Yii Framework 2](https://t.me/yii2ru) — Чат про Yii 2
+* [Yii Framework 3](https://t.me/yii3ru) — Чат про Yii 3
 * [React Native](https://t.me/reactnative_ru) — Чат про React Native
 * [.NET Talks](https://t.me/dotnettalks) — Свободный чат .NET разработчиков, оффтоп разрешен.
 * [.NET Group](https://t.me/dotnetgroup) — Чат разработчиков .NET. Минимум флуда, максимум полезных обсуждений
@@ -604,6 +607,7 @@
 * [pro.vim](https://t.me/vimers) — Русскоязычные вимеры
 * [weex](https://t.me/weex_ru) — Чат про Weex
 * [Qt](https://t.me/qt_chat) — Чат по Qt
+* [GTK](https://t.me/GTKchat) — Кроссплатформенная библиотека элементов интерфейса
 * [Ember.js](https://t.me/ember_js) — Cообщество Ember.js
 * [Discourse](https://t.me/joinchat/A8oWNg2L0txJw6_BygaZtg) — Чат про Discourse.
 * [Webpack](https://t.me/webpack_ru) — Обсуждения webpack 1/2, лоадеров, плагинов и сборок
@@ -631,7 +635,6 @@
 * [codingteam](https://t.me/codingteam) — Кроссплатформенное сообщество инженеров и программистов.
 * [VictoriaMetrics_ru](https://t.me/VictoriaMetrics_ru1) - Ru сообщество по разработке и использованию tsdb (базы данных временных рядов) Victoria Metrics.
 * [IoT Community chat](https://t.me/Iot_chat) — Чат Internet fo Things сообщества.
-* [pro.algorithms](https://t.me/proalgorithms) — Группа по обсуждению алгоритмов, архитектурных решений, паттернов проектирования и прикладной математики.
 * [AtomicDesign](https://t.me/atomicdesign) — Обсуждение Atomic Design в React.js
 * [Microsoft Developer Chat](https://t.me/microsoftschool) — Чат разработчиков и системных администраторов сообщества Microsoft Developer
 * [Ethereum Developers](https://t.me/eth_ru) — Ethereum Developers, Smart Contracts, Эфириум
@@ -671,7 +674,7 @@
 * [Godot Engine](https://t.me/godot_engine) — Чат разработчиков игр на Godot Engine
 * [blender_ru](https://t.me/blender_ru) — Чат о Blender
 * [3ds Max](https://t.me/ohmy3dsmax) — Чат о 3ds Max
-* [Maya 3D](https://t.me/addstickers/maya_3d) — Чат о Maya 3d
+* [Maya 3D](https://t.me/maya_3d) — Чат о Maya 3d
 * [Чат Дяди Паши Fusion 360](https://t.me/dadapasha_chat) — Fusion 360 и аддиктивные технологии. Generative Design, CAD, CAM
 * [MODO](https://t.me/modo_art) — Чат про Foundry MODO и около нём
 * [The Foundry MARI](https://t.me/thefoundrymari) — Чат о The Foundry MARI
@@ -722,6 +725,7 @@
 * [ClubcomSale](https://t.me/ClubcomSale) — барахолка: продам и куплю любое телеком оборудование
 * [Серверное администрирование](https://t.me/srv_admins) — Чат про администрирование.
 * [OpenWRT/LEDE RU](https://t.me/openwrt_ru) — Чат про OpenWRT/LEDE, свободную прошивку для роутеров
+* [nginx_ru](@nginx_ru) — Сообщество пользователей nginx
 
 [(Назад к меню)](#Меню)
 
@@ -785,8 +789,7 @@
 * [Группа Kaggle Global](https://t.me/kaggle) — Чат про Kaggle, решение проблем, идеи и сотрудничество
 * [AI / Искусственный Интеллект](https://t.me/ai_life) — Чат про искусственный интеллект
 * [Python для анализа данных](https://t.me/pydata_chat) — Чат про применение Python для анализа данных, в особенности для различного рода автоматизации и аналитики.
-* [Catboost_ru](https://t.me/catboost_ru) — Русскоязыный чат библиотеки CatBoost
-* [Catboost_en](https://t.me/catboost_en) — Англоязычный чат библиотеки CatBoost
+* [Catboost_ru](https://t.me/catboost_ru) — Русскоязыный чат библиотеки CatBoost (англ. чат [Catboost_en](https://t.me/catboost_en))
 * [Natural Language Processing](https://t.me/natural_language_processing) — Чат про Natural Language Processing
 * [Распознавание речи](https://t.me/speech_recognition_ru) — Распознавание, синтез речи и речевые технологии
 
@@ -857,6 +860,13 @@
 * [μεταγεωμετρία](https://t.me/metageometria) - Метагеометрия: 4D, гиперболические геометрии, порталы и т.д.
 * [Геометрический чатик](https://t.me/joinchat/DxYaB0QLindiVZpW32-rfQ) - Разговоры о геометрии и задачах ([канал](https://t.me/geometrykanal))
 * [pro.latex](https://t.me/pro_latex) — Система компьютерной вёрстки LaTeX
+* [Infernal Math](https://t.me/matheden) —  Ещё один математический чат
+* [pro.math](https://t.me/promath_ru) — Ещё один
+* [Physics.Math.Code](t.me/math_code) — Математика и смежное
+* [/math/](https://t.me/rumath) — Ещё один 
+* [Типы в языках программирования, моделирования](https://t.me/typeslife) — STLC, MLTT, теория типов, теория доменов, теория категорий, онтология
+* [Онтологии](t.me/rusontology) — Онтологии, тезаурусы, их автоматизацию, внедрение и использование
+* [pro.algorithms](https://t.me/proalgorithms) — Группа по обсуждению алгоритмов, архитектурных решений, паттернов проектирования и прикладной математики.
 
 [(Назад к меню)](#Меню)
 
@@ -928,6 +938,7 @@
 + [Боты на Telegraf](https://t.me/telegraf_ru) — Чат о JS библиотеке Telegraf
 + [MadelineProto RU](https://t.me/pwrtelegramgroupru) — Чат PHP библиотеки  MadelineProto
 + [Golang Telegram Bot API](https://t.me/go_telegram_bot_api) — Чат о Go библиотеке go-telegram-bot-api
++ [AltTG](https://t.me/AltTG) — Чат о альтеративных клиентах телеграма
 + [VK Developers](https://t.me/vkapichat) — Чат разработчиков для VK
 + [VkNet.](https://t.me/VkDotNet) — Чат библиотеки Vk Api for .NET
 + [python273/vk_api](https://t.me/python273_vk_api) — Чат Python модуля vk_api
@@ -975,6 +986,7 @@
 * [LibreOfficeRU](https://t.me/libreofficeru) — Группа для российских пользователей LibreOffice
 * [Операторы мобильной связи](https://t.me/opsosru) — Обсуждение операторов сотовой связи
 * [Эльбрусы и с чем их едят](https://t.me/e2k_chat) – Чат про администрирование и создание программ на платформе Эльбрус
+* [Просто о BIM](https://t.me/prostobim) — Обсуждение информационного моделирования зданий
 
 [(Назад к меню)](#Меню)
 
@@ -1197,6 +1209,7 @@
 * [@LaTeXyBot](https://t.me/LaTeXyBot) - Инлайн бот для отображения формул
 * [@cloud_convert_bot](https://t.me/cloud_convert_bot) - Конвертер различных форматов файлов
 * [@Ya_Disk_Bot](https://t.me/Ya_Disk_Bot) - Интеграция сервиса "Яндекс.Диск" в Telegram. Например, загрузка файлов (фото, видео, аудио и т.п.) на Яндекс.Диск.
+* [@MathCalcBot](t.me/MathCalcBot) — Поможет быстро что-то подсчитать. Работает inline
 
 <details>
   <summary>Похоже нерабочие</summary>

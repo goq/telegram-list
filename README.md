@@ -741,14 +741,12 @@
 * [Сбор и аналитика системных сообщений](https://t.me/ru_logs) — Русскоговорящая группа по аналитике syslog/structured log. ElasticSearch, Mtail, Graylog и т.п.
 * [ru_gitlab](https://t.me/ru_gitlab) — Чат про GitLab
 * [E.L.K. - elasticsearch](https://t.me/elk_ru) — Обсуждаем вопросы, посвященные Elastic / Logstash / Kibana и всей экосистеме. Обмениваем идеями, новостями и решаем проблемы.
-* [DevOps Moscow](https://t.me/devopsmoscow) — Сообщество разработчиков, тестировщиков и сисадминов в Москве.
 * [DevOps](https://t.me/devops_ru) — Чат про DevOps
 * [SPb Reliability Meetup](https://t.me/spb_reliability) — SRE (Site Reliability Engineering) митапы в Санкт-Петербурге
 * [Docker](https://t.me/docker_ru) — Ещё один чат про Docker
 * [DevSecOps](https://t.me/devsecops_ru) — Чат про DevOps и Security
 * [Git](https://t.me/git_ru) — Чат про Git
 * [ru_jenkins](https://t.me/ru_jenkins) — Чат про Jenkins
-
 * [Docker Novosibirsk](https://t.me/dockernsk) — Чат Docker Новосибирск
 * [Envoy Proxy](https://t.me/envoyproxy_ru) — Чат про Envoy Proxy
 * [werf_ru](https://t.me/werf_ru) — Чат про Werf
@@ -996,6 +994,7 @@
 * [Moscow.rb](https://t.me/moscowrb) — Московское сообщество Ruby
 * [Москоу progers](https://t.me/moscowProgers) — Чат программистов и прочих IT специалистов Москвы
 * [PyLadies Moscow](https://t.me/pyladies_moscow_chat) — PyLadies Moscow, московское сообщество разработчиц
+* [DevOps Moscow](https://t.me/devopsmoscow) — Сообщество разработчиков, тестировщиков и сисадминов в Москве.
 ###### Санкт-Петербург
 * [SPb Python](https://t.me/spbpython) — Saint-Petersburg Python Interest Group
 * [Spb Qt](https://t.me/qtspb) — Сообщество Qt программистов Санкт-Петербурга

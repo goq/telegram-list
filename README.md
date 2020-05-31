@@ -748,7 +748,7 @@
 * [DevSecOps](https://t.me/devsecops_ru) — Чат про DevOps и Security
 * [Git](https://t.me/git_ru) — Чат про Git
 * [ru_jenkins](https://t.me/ru_jenkins) — Чат про Jenkins
-* [St. Petersburg Jenkins Meetup](https://t.me/jenkins_spb) — Митап по Jenkins в Санкт-Петербурге
+
 * [Docker Novosibirsk](https://t.me/dockernsk) — Чат Docker Новосибирск
 * [Envoy Proxy](https://t.me/envoyproxy_ru) — Чат про Envoy Proxy
 * [werf_ru](https://t.me/werf_ru) — Чат про Werf
@@ -1004,6 +1004,7 @@
 * [PiterPy Meetup](https://t.me/piterpy_meetup) — Петербургские митапы про Python и мир разработки вокруг
 * [PiterPy Idle](https://t.me/piterpy_idle) — Оффтопик-чат сообщества PiterPy Meetup. Обсуждаем музыку, квартиры, железо, афтепати, налоги
 * [PyLadies SPb](https://t.me/pyladies_spb) — PyLadies SPb, петербургское сообщество разработчиц
+* [St. Petersburg Jenkins Meetup](https://t.me/jenkins_spb) — Митап по Jenkins в Санкт-Петербурге
 ###### ЦФО
 ###### СЗФО
 ###### ЮФО

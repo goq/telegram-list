@@ -745,7 +745,6 @@
 * [DevSecOps](https://t.me/devsecops_ru) — Чат про DevOps и Security
 * [Git](https://t.me/git_ru) — Чат про Git
 * [ru_jenkins](https://t.me/ru_jenkins) — Чат про Jenkins
-* [Docker Novosibirsk](https://t.me/dockernsk) — Чат Docker Новосибирск
 * [Envoy Proxy](https://t.me/envoyproxy_ru) — Чат про Envoy Proxy
 * [werf_ru](https://t.me/werf_ru) — Чат про Werf
 * [Saltstack](https://t.me/saltstack) — Чат про Salt
@@ -1029,6 +1028,7 @@
 * [IT Lobby Irkutsk](https://t.me/joinchat/CD0D_D31vVD8L1FO4UutnQ) — чат ITишников города Иркутск
 * [JUGNsk](https://t.me/jugnsk) — Новосибирская группа Java User Group
 * [NSK IT events](https://t.me/NSKITevents) — Митапы и другие айтишные события в Новосибирске.
+* [Docker Novosibirsk](https://t.me/dockernsk) — Чат Docker Новосибирск
 ###### ДВФО
 * [Ruby Vladivostok](https://t.me/rubyvladivostok) — Группа Ruby разработчиков города Владивостока
 ##### Зарубежные русскоязычные IT-сообщества

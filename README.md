@@ -742,8 +742,6 @@
 * [ru_gitlab](https://t.me/ru_gitlab) — Чат про GitLab
 * [E.L.K. - elasticsearch](https://t.me/elk_ru) — Обсуждаем вопросы, посвященные Elastic / Logstash / Kibana и всей экосистеме. Обмениваем идеями, новостями и решаем проблемы.
 * [DevOps](https://t.me/devops_ru) — Чат про DevOps
-* [SPb Reliability Meetup](https://t.me/spb_reliability) — SRE (Site Reliability Engineering) митапы в Санкт-Петербурге
-* [Docker](https://t.me/docker_ru) — Ещё один чат про Docker
 * [DevSecOps](https://t.me/devsecops_ru) — Чат про DevOps и Security
 * [Git](https://t.me/git_ru) — Чат про Git
 * [ru_jenkins](https://t.me/ru_jenkins) — Чат про Jenkins
@@ -1004,6 +1002,7 @@
 * [PiterPy Idle](https://t.me/piterpy_idle) — Оффтопик-чат сообщества PiterPy Meetup. Обсуждаем музыку, квартиры, железо, афтепати, налоги
 * [PyLadies SPb](https://t.me/pyladies_spb) — PyLadies SPb, петербургское сообщество разработчиц
 * [St. Petersburg Jenkins Meetup](https://t.me/jenkins_spb) — Митап по Jenkins в Санкт-Петербурге
+* [SPb Reliability Meetup](https://t.me/spb_reliability) — SRE (Site Reliability Engineering) митапы в Санкт-Петербурге
 ###### ЦФО
 ###### СЗФО
 ###### ЮФО

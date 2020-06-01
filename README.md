@@ -994,7 +994,6 @@
 * [DevOps Moscow](https://t.me/devopsmoscow) — Сообщество разработчиков, тестировщиков и сисадминов в Москве.
 ###### Санкт-Петербург
 * [SPb Python](https://t.me/spbpython) — Saint-Petersburg Python Interest Group
-* [Spb Qt](https://t.me/qtspb) — Сообщество Qt программистов Санкт-Петербурга
 * [Saint P Ruby User Group](https://t.me/saintprug) — Сообщество разработчиков Ruby в Санкт-Петербурге
 * [fprog_spb](https://t.me/fprog_spb) — Митап функциональных программистов в СПб
 * [PiterPy Meetup](https://t.me/piterpy_meetup) — Петербургские митапы про Python и мир разработки вокруг

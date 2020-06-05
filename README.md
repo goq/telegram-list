@@ -1121,6 +1121,7 @@
 * [@LyBot](https://t.me/LyBot) - Бот ищет музыку в Youtube Music
 * [@vkm4bot](https://t.me/vkm4bot) - Бот ищет музыку в ВК
 * [@yandex_music_bot](https://t.me/yandex_music_bot) - Бот ищет музыку в Яндекс.Музыке
+* [@AudioBassBot](https://t.me/AudioBassBot) - Бот усиливает бас в аудио, голосовых собщениях и видео.
 
 ##### Полезные боты для разработки
 * [@bitbucket_bot](https://t.me/bitbucket_bot) — Интеграция bitbucket в телеграм

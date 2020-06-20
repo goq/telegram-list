@@ -1001,6 +1001,7 @@
 * [SPb Reliability Meetup](https://t.me/spb_reliability) — SRE (Site Reliability Engineering) митапы в Санкт-Петербурге
 ###### ЦФО
 ###### СЗФО
+* [GDG Kaliningrad](https://t.me/gdgkaliningrad) — Чат айтишников Калининграда
 ###### ЮФО
 * [IT-шники Белгорода](https://t.me/belgorod_it) — Чат айтишников Белгорода.
 * [Krasnodar Dev Days](https://t.me/krddevdays_chat) — Независимое сообщество разработчиков Краснодара и края.

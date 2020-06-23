@@ -620,6 +620,7 @@
 * [wxwidgets RU](https://t.me/WxWidgetsRU) — Чат про WxWidgets
 * [Fire-Monkey](https://t.me/TFMXGods) — Чат про Fire-Monkey
 * [Флудилка Fire-Monkey](https://t.me/fmx_flood) — Флудилка Fire-Monkey
+* [Elgg Chat](https://t.me/elggchat) - Чат про Elgg
 
 [(Назад к меню)](#Меню)
 

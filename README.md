@@ -80,7 +80,6 @@
 * [Linux News](https://t.me/linux_news_ru) — Новости из мира GNU и Linux.
 * [Каледарь событий игровой индустрии](https://t.me/gamedev_calendar) — Канал информирующий о проходящих событиях игровой индустрии и крупных конференций на территории СНГ.
 * [Наука от Funscience](https://t.me/funscience) — Популярная наука, технологии,  гаджеты, космос.
-* [IT-Страна](https://t.me/itbelarus) — IT-новости из Беларуси.
 * [Qubit (Quantum Daily)](https://t.me/qubit_daily) — Канал технологического евангелиста Microsoft, Стаса Павлова, о последних новостях из мира квантовых вычислений.
 * [Samara IT Community news](https://t.me/Samara_IT_Community) — Канал новостей Самарского IT сообщества
 * [Eb*@oe IT](https://t.me/ebannoeit) — Телеграм версия одноименного ресурса eb*@oe it. Голая правда о нашем АйТи
@@ -1033,6 +1032,7 @@
 * [Чат IT-Страны](https://t.me/itbelarustalk) — Чат белорусского IT-сообщества.
 * [1с Чат РБ](https://t.me/One1c_Blr) — Связанные одним 1С в РБ.
 * [Rubyata](https://t.me/rubyata) — Ruby and Ruby On Rails community in Kyrgyzstan
+* [IT-Страна](https://t.me/itbelarus) — Чат IT-страны.
 
 [(Назад к меню)](#Меню)
 

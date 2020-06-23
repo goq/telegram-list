@@ -615,7 +615,6 @@
 * [Web2py Russian](https://t.me/web2py_rus) — Чат про фреймворк Web2py
 * [VueJS](https://t.me/vuejs_ru) — Чат про VueJS
 * [VueJS Club](https://t.me/vuejs_club) — Чат про VueJS
-* [wxwidgets RU](https://t.me/WxWidgetsRU) — Чат про WxWidgets
 
 [(Назад к меню)](#Меню)
 
@@ -652,6 +651,9 @@
 * [Умный дом с Алисой](https://t.me/station_yandex) — Яндекс.Станция, Умный дом и устройства с Алисой
 * [Вокруг да около Zigbee](https://t.me/zigbeer) — Обсуждение устройств, прошивок и прочего софта, работающего с Zigbee
 * [CyberBiology](https://t.me/Chat_CyberBiology) - Моделирование самоорганизующихся систем (искусственная жизнь, ALife)
+* [Sentry](https://t.me/sentry_ru) - Чат по Sentry — инструмент мониторинга исключений (exception), ошибок в ваших приложениях.
+* [Nexus SonaType](https://t.me/ru_nexus_sonatype) - Чат по Sonatype Nexus – интегрированная платформа, с помощью которой разработчики могут проксировать, хранить и управлять зависимостями Java (Maven), образами Docker, Python, Ruby, NPM, Bower, RPM-пакетами, gitlfs, Apt, Go, Nuget.
+* [SonarQube](https://t.me/sonarqube_ru) - Чат по SonarQube - инструмент для внедрения статического анализа кода.
 
 [(Назад к меню)](#Меню)
 

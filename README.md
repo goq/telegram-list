@@ -652,6 +652,9 @@
 * [Умный дом с Алисой](https://t.me/station_yandex) — Яндекс.Станция, Умный дом и устройства с Алисой
 * [Вокруг да около Zigbee](https://t.me/zigbeer) — Обсуждение устройств, прошивок и прочего софта, работающего с Zigbee
 * [CyberBiology](https://t.me/Chat_CyberBiology) - Моделирование самоорганизующихся систем (искусственная жизнь, ALife)
+* [Sentry](https://t.me/sentry_ru) - Чат по Sentry — инструмент мониторинга исключений (exception), ошибок в приложениях.
+* [Nexus SonaType](https://t.me/ru_nexus_sonatype) - Чат по Sonatype Nexus – интегрированная платформа, с помощью которой разработчики могут проксировать, хранить и управлять зависимостями Java (Maven), образами Docker, Python, Ruby, NPM, Bower, RPM-пакетами, gitlfs, Apt, Go, Nuget.
+* [SonarQube](https://t.me/sonarqube_ru) - Чат по SonarQube - инструмент для внедрения статического анализа кода.
 
 [(Назад к меню)](#Меню)
 

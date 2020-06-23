@@ -617,6 +617,7 @@
 * [VueJS](https://t.me/vuejs_ru) — Чат про VueJS
 * [VueJS Club](https://t.me/vuejs_club) — Чат про VueJS
 * [wxwidgets RU](https://t.me/WxWidgetsRU) — Чат про WxWidgets
+* [Fire-Monkey](https://t.me/TFMXGods) — Чат про Fire-Monkey
 
 [(Назад к меню)](#Меню)
 

@@ -876,6 +876,7 @@
 * [Universal Windows Platform](https://t.me/uwp_ru) — Чат разработчиков под Windows и Windows Phone.
 * [Android NDK (C++)](https://t.me/ndk_ru) — Чат про Android NDK (C++)
 * [Flutter Developers](https://t.me/flutter_rus) — Чат про Flutter
+* [NEWS Flutter Dev Podcast](https://t.me/flutterdevpodcast_news) - Новости подкаста Flutter Dev Podcast.
 * [Android_Declarative](https://t.me/android_declarative) - Чат русскоязычного android-сообщества, посвященный декларативным UI-фреймворкам: Jetpack Compose, Anko, Anvil, Litho
 * [SwiftBook](https://t.me/swiftbook_chat) — Чат про Swift от проекта [swiftbook.ru](https://swiftbook.ru)
 * [SwiftUIC](https://t.me/swiftuic) — Чат про SwiftUI и Combine

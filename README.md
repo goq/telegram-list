@@ -513,6 +513,7 @@
 * [Haskell](https://t.me/haskellru) — Чат про Haskell
 * [Haskell Learn](https://t.me/haskell_learn) — Чат для вопросов по основам Haskell
 * [javascript_ru](https://t.me/javascript_ru) — Чат про JavaScript
+* [JavaScript](https://t.me/js_ru) — Ещё один про JavaScript
 * [learn.java](https://t.me/javastart) — Изучаем java вместе. Чат для начинающих и не только!
 * [Java Underground](https://t.me/java_underground) — Чат про Java
 * [pro.jvm](https://t.me/jvmchat) — Чат про JVM
@@ -538,6 +539,7 @@
 * [PowerShellRus](https://t.me/powershellrus) — О Powershell на русском
 * [Powershell Ru](https://t.me/ru_powershell) — Ещё один чат про PowerShell
 * [PureBasicRU](https://t.me/purebasicru) — Чат про PureBasic
+* [PureScript](https://t.me/purescript_ru) — Чат о PureScript
 * [R language](https://t.me/rlang_ru) — Язык программирования R, статистика и машинное обучение/data mining
 * [ReasonML и OCaml](https://t.me/reasonml_ru) — Чат про ReasonML и OCaml
 * [Ruby & RoR](https://t.me/rubylang) — Чат про Ruby и Ruby on Rails
@@ -551,10 +553,12 @@
 * [Scala](https://t.me/scala_ru) — Чат про Scala
 * [Scala PONV](https://t.me/scala_ponv) — Неформальный чат про Scala, FP, и не только
 * [TypeScript + Flow = ❤](https://t.me/typescript_ru) — Чат про TypeScript и Flow
+* [TypeScript](https://t.me/ts_ru) — Чат о TypeScript
 * [(F|R|FR)P](https://t.me/frp_ru) — Функциональное Реактивное Программирование
 * [ReactiveX](https://t.me/reactivex) — Про реактивное программирование
 * [Functional Programming](https://t.me/fp_ru) — Чат любителей функциональных языков программирования
 * [CIL](https://t.me/cilchat) — Чат про CIL/IL/MSIL
+* [Vala](https://t.me/codefaq) — Чат о Vala
 * [WebAssembly](https://t.me/WebAssembly_ru) — Чат про Webassembly
 * [WebGL & Three.js](https://t.me/webgl_ru) — Чат про 3d визуализацию в браузере
 
@@ -567,6 +571,7 @@
 * [Angular](https://t.me/angular_ru) — Чат про Angular (4.x+)
 * [Flask](https://t.me/ru_flask) — Чат про Flask и SQLAlchemy (Python Flask)
 * [Django](https://t.me/django_framework) — Чат про веб-фреймворк Django
+* [D3.js](https://t.me/d3js_ru) — Чат о D3.js
 * [Emacs](https://t.me/emacs_ru) — Чат про Emacs
 * [Ionic Framework](https://t.me/pro_ionic) — Чат про Ionic Framework и все что связано с разработкой гибридных приложений на нем и Сordova
 * [Joomla! по-русски](https://t.me/joomlaru) — Чат про Joomla!
@@ -585,6 +590,8 @@
 * [NuxtJS](https://t.me/nuxtjs_ru) — Чат про NuxtJS
 * [CodenameCRUD](https://t.me/codenamecrud) — Чат про Ruby on Rails
 * [React](https://t.me/react_ru) — Чат про React
+* [React](https://t.me/react_js) — Ещё один про React
+* [Redux](https://t.me/redux_ru) — Чат о Redux
 * [Битрикс для разработчиков](https://t.me/bitrixfordevelopers) — Чат про Битрикс
 * [Odoo talks & fun](https://t.me/odoo_talks) — Чат про Odoo на русском и других языках
 * [Sequelize](https://t.me/sequelize) — Чат по Sequelize
@@ -622,6 +629,7 @@
 * [Fire-Monkey](https://t.me/TFMXGods) — Чат про Fire-Monkey
 * [Флудилка Fire-Monkey](https://t.me/fmx_flood) — Флудилка Fire-Monkey
 * [Elgg Chat](https://t.me/elggchat) - Чат про Elgg
+* [IDE и редакторы](https://t.me/ide_ru) — Чат о различных IDE и редакторах
 
 [(Назад к меню)](#Меню)
 
@@ -647,6 +655,7 @@
 * [Чат — Типичный Верстальщик](https://t.me/tpverstakchat) — Чат верстальщиков
 * [letsCode Chat](https://t.me/letsCodeChat) — Флудильня. Место для вопросов-ответов по разработке и ИТ в целом.
 * [pro.buildsystems](https://t.me/probuildsystems) — Чат про билдсистемы CMake, Meson, Waf, Scons, Bazel, и многие другие
+* [Meson Chat](https://t.me/meson_chat) — Чат о билдсистеме Meson
 * [pro.osdev](https://t.me/pro_osdev) — Чат про разработку операционных систем
 * [*nix talks](https://t.me/unixtalks) — Чат про *nix'ы
 * [*RU MODX](https://t.me/ru_modx) — Русскоязычное сообщество CMS MODX
@@ -661,6 +670,8 @@
 * [Sentry](https://t.me/sentry_ru) - Чат по Sentry — инструмент мониторинга исключений (exception), ошибок в приложениях.
 * [Nexus SonaType](https://t.me/ru_nexus_sonatype) - Чат по Sonatype Nexus – интегрированная платформа, с помощью которой разработчики могут проксировать, хранить и управлять зависимостями Java (Maven), образами Docker, Python, Ruby, NPM, Bower, RPM-пакетами, gitlfs, Apt, Go, Nuget.
 * [SonarQube](https://t.me/sonarqube_ru) - Чат по SonarQube - инструмент для внедрения статического анализа кода.
+* [pro_winapi](https://t.me/pro_winapi) — Обсуждение программирования в Windows
+* [SmartHome](https://t.me/SmartsHome) — Об умном доме
 
 [(Назад к меню)](#Меню)
 
@@ -749,6 +760,7 @@
 * [werf_ru](https://t.me/werf_ru) — Чат про Werf
 * [Saltstack](https://t.me/saltstack) — Чат про Salt
 * [Scalability Camp](https://t.me/scalability_camp) — Чат про распредёленные системы
+* [Podman](https://t.me/ru_podman) — Чат о Podman
 
 [(Назад к меню)](#Меню)
 
@@ -857,7 +869,7 @@
 * [pro.latex](https://t.me/pro_latex) — Система компьютерной вёрстки LaTeX
 * [Infernal Math](https://t.me/matheden) —  Ещё один математический чат
 * [pro.math](https://t.me/promath_ru) — Ещё один
-* [Physics.Math.Code](t.me/math_code) — Математика и смежное
+* [Physics.Math.Code](https://t.me/math_code) — Математика и смежное
 * [/math/](https://t.me/rumath) — Ещё один 
 * [Типы в языках программирования, моделирования](https://t.me/typeslife) — STLC, MLTT, теория типов, теория доменов, теория категорий, онтология
 * [Онтологии](https://t.me/rusontology) — Онтологии, тезаурусы, их автоматизацию, внедрение и использование
@@ -982,6 +994,7 @@
 * [Операторы мобильной связи](https://t.me/opsosru) — Обсуждение операторов сотовой связи
 * [Эльбрусы и с чем их едят](https://t.me/e2k_chat) – Чат про администрирование и создание программ на платформе Эльбрус
 * [Просто о BIM](https://t.me/prostobim) — Обсуждение информационного моделирования зданий
+* [Ender-3 Russian users](https://t.me/ender_3) — Чат о 3D принтере Ender 3 
 
 [(Назад к меню)](#Меню)
 

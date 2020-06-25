@@ -18,7 +18,7 @@
 * [@vkmusic_bot](https://t.me/vkmusic_bot) — Музыкальный бот ВК
 * [@auddbot](https://t.me/auddbot) — Бот, распознающий музыку в голосовых сообщениях
 * [@YaMelodyBot](https://t.me/YaMelodyBot) - Аналогичный бот от Яндекс.Музыки
-* [@streaminghell_bot](https://t.me/@streaminghell_bot) — Находит нужный трек или альбом на всех музкальных площадках.
+* [@streaminghell_bot](https://t.me/streaminghell_bot) — Находит нужный трек или альбом на всех музкальных площадках.
 * [@LyBot](https://t.me/LyBot) - Бот ищет музыку в Youtube Music
 * [@vkm4bot](https://t.me/vkm4bot) - Бот ищет музыку в ВК
 * [@yandex_music_bot](https://t.me/yandex_music_bot) - Бот ищет музыку в Яндекс.Музыке

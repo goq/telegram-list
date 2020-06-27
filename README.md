@@ -122,7 +122,6 @@
 * [devdigect // xamarin](https://t.me/xamarin_digest) —  дайджест новостей посвященных мобильной разработке с использованием Xamarin.
 * [devdigect // azure](https://t.me/azure_digest) —  дайджест новостей посвященных облачной платформе Microsoft Azure.
 * [#CoolAdmin](https://t.me/cooladmin) — канал про системное администрирование, сети, сервера и системы хранения. С новостями и историями.
-* [R0 Crew](https://t.me/R0_Crew) — Ъ Сообщество реверс-инженеров.
 * [Разработка игр](https://t.me/progamedev) — Материалы о разработке, экспертные статьи и скромные мнения обо всём, что касается игр.
 * [Non-trivial Ruby](https://t.me/rubynontrivial) — Ruby-наркомания: микробиблиотеки, альтернативные фреймворки, security, IoT, system programming
 * [DevBrain](https://t.me/devbrain) — Новости, статьи, книги и видео из мира разработки софта
@@ -260,6 +259,7 @@
 * [DC20e6](https://t.me/dc20e6) — DEFCON Ульяновск
 * [DC7831](https://t.me/defcon_nn) — DEFCON Нижний Новгород
 * [SecurityLibrary](https://t.me/SecLib) — Книги статьи и журналы по информационной безопасности
+* [R0 Crew](https://t.me/R0_Crew) — Ъ Сообщество реверс-инженеров
 
 [(Назад к меню)](#Меню)
 

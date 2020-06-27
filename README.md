@@ -490,7 +490,7 @@
 * [pro.asm](https://t.me/proasm) — Чат про Assembler
 * [AutoIT RU](https://t.me/AutoIT_RU) — Чат про AutoIT
 * [Autohotkey_RU](https://t.me/AutoHotkey_RU) — Чат про Autohotkey
-* [pro.cxx](https://t.me/ProCxx) — Чат про Си++
+* [pro.cxx](https://t.me/ProCxx) — Чат про С++
 * [.NET chat RU](https://t.me/DotNetRuChat) — Чат про C# и .NET
 * [ExtremeCodeTV](https://t.me/extremecode) — Чат C# разработчиков (есть свой бот компилирующий C# код)
 * [var chat = new Chat();](https://t.me/dotnet_chat) — Чат посвящен разработке на .NET

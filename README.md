@@ -859,7 +859,7 @@
 * [pro.latex](https://t.me/pro_latex) — Система компьютерной вёрстки LaTeX
 * [Infernal Math](https://t.me/matheden) —  Ещё один математический чат
 * [pro.math](https://t.me/promath_ru) — Ещё один
-* [Physics.Math.Code](t.me/math_code) — Математика и смежное
+* [Physics.Math.Code](https://t.me/math_code) — Математика и смежное
 * [/math/](https://t.me/rumath) — Ещё один 
 * [Типы в языках программирования, моделирования](https://t.me/typeslife) — STLC, MLTT, теория типов, теория доменов, теория категорий, онтология
 * [Онтологии](https://t.me/rusontology) — Онтологии, тезаурусы, их автоматизацию, внедрение и использование

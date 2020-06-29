@@ -487,6 +487,7 @@
 ## Группы и чаты
 
 ##### Языки программирования
+* [Разработка языков программирования](https://t.me/lang_idioms) - Чат разработчиков языков программирования
 * [SAP ABAP](https://t.me/sapabap) — Чат про ABAP
 * [pro.asm](https://t.me/proasm) — Чат про Assembler
 * [AutoIT RU](https://t.me/AutoIT_RU) — Чат про AutoIT

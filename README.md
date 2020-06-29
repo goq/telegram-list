@@ -782,8 +782,8 @@
 * [pgCodeKeeper](https://t.me/pgcodekeeper) — Чат поддержки [opensource](https://github.com/pgcodekeeper/pgcodekeeper) проекта [pgCodeKeeper](http://pgcodekeeper.org)
 * [Oracle RU](https://t.me/oracle_ru) — Чат про Oracle
 * [Scylla DB](https://t.me/ru_scylladb) — Чат про ScyllaDB
-* [Разработка СУБД](https://t.me/dev_dbms_ru) - Чат разработчиков СУБД
 * [dbmsdev](https://t.me/dbmsdev) — Чат о разработке СУБД
+* [Разработка СУБД](https://t.me/dev_dbms_ru) - Чат разработчиков СУБД
 
 [(Назад к меню)](#Меню)
 

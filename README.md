@@ -239,6 +239,7 @@
 * [JS Community](https://t.me/js_fans) - Канал про JavaScript (NodeJS, React, Vue) и о всём, что с ним связанно
 * [Библиотека фронтендера](https://t.me/frontendproglib) — Полезные материалы по всему, что может быть интересно frontend-разработчику
 * [PiterJS](https://t.me/piterjs) — Митап про JavaScript в Санкт-Петербурге
+* [$mol: Новости](https://t.me/mol_news) - Новости о фреймворке $mol, экосистеме MAM и основанных на них проектах.
 
 [(Назад к меню)](#Меню)
 

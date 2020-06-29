@@ -238,6 +238,7 @@
 * [maxpfrontend](https://t.me/maxpfrontend) — Прокачка в React, вебинары, трюки, секреты
 * [JS Community](https://t.me/js_fans) - Канал про JavaScript (NodeJS, React, Vue) и о всём, что с ним связанно
 * [Библиотека фронтендера](https://t.me/frontendproglib) — Полезные материалы по всему, что может быть интересно frontend-разработчику
+* [PiterJS](https://t.me/piterjs) — Митап про JavaScript в Санкт-Петербурге
 
 [(Назад к меню)](#Меню)
 
@@ -1013,7 +1014,6 @@
 * [SPb Python](https://t.me/spbpython) — Saint-Petersburg Python Interest Group
 * [Saint P Ruby User Group](https://t.me/saintprug) — Сообщество разработчиков Ruby в Санкт-Петербурге
 * [fprog_spb](https://t.me/fprog_spb) — Митап функциональных программистов в СПб
-* [PiterJS](https://t.me/piterjs) — Митап про JavaScript в Санкт-Петербурге
 * [PiterPy Meetup](https://t.me/piterpy_meetup) — Петербургские митапы про Python и мир разработки вокруг
 * [PiterPy Idle](https://t.me/piterpy_idle) — Оффтопик-чат сообщества PiterPy Meetup. Обсуждаем музыку, квартиры, железо, афтепати, налоги
 * [PyLadies SPb](https://t.me/pyladies_spb) — PyLadies SPb, петербургское сообщество разработчиц

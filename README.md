@@ -558,6 +558,7 @@
 * [CIL](https://t.me/cilchat) — Чат про CIL/IL/MSIL
 * [WebAssembly](https://t.me/WebAssembly_ru) — Чат про Webassembly
 * [WebGL & Three.js](https://t.me/webgl_ru) — Чат про 3d визуализацию в браузере
+* [Разработка языков программирования](https://t.me/lang_idioms) - Чат разработчиков языков программирования
 
 [(Назад к меню)](#Меню)
 

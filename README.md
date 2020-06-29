@@ -754,6 +754,8 @@
 [(Назад к меню)](#Меню)
 
 ##### Базы Данных
+* [Разработка СУБД](https://t.me/dev_dbms_ru) - Чат разработчиков СУБД
+* [dbmsdev](https://t.me/dbmsdev) — Чат о разработке СУБД
 * [DBA](https://t.me/dba_ru) — Чат про базы данных и их администрирование
 * [MongoDBRussian](https://t.me/MongoDBRussian) — Чат про MongoDB
 * [MySQL](https://t.me/mysql_db) — Чат про MySQL
@@ -766,7 +768,6 @@
 * [SQL_Ninja](https://t.me/sql_ninja) — Флудильня SqlCom
 * [PostGIS](https://t.me/postgis) — Обсуждения PostGIS (поддержка географических объектов в PostgreSQL)
 * [PostgresChat](https://t.me/postgreschat) — Чат про PostgreSQL (english)
-* [dbmsdev](https://t.me/dbmsdev) — Чат о разработке СУБД
 * [pgCodeKeeper](https://t.me/pgcodekeeper) — Чат поддержки [opensource](https://github.com/pgcodekeeper/pgcodekeeper) проекта [pgCodeKeeper](http://pgcodekeeper.org)
 * [Oracle RU](https://t.me/oracle_ru) — Чат про Oracle
 * [Scylla DB](https://t.me/ru_scylladb) — Чат про ScyllaDB

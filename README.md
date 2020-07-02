@@ -285,6 +285,7 @@
 * [DL in NLP](https://t.me/dlinnlp) — Новости и обзоры статей на тему обработки естественного языка, нейросетей
 * [Just links](https://t.me/j_links) — That's just link aggregator of everything interesting, especially DL and solid state physics
 * [Graph Machine Learning](https://t.me/graphML) — Graph theory, computer science, machine learning, etc.
+* [Not Boring Tech](https://t.me/notboring_tech) — Канал с интересными статьями и обзорами. Нейросети и прочие интересности
 * [Чаты и группы телеграма по теме](#big-data-Машинное-обучение-deep-learning-и-data-science)
 
 [(Назад к меню)](#Меню)

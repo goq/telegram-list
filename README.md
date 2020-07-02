@@ -664,6 +664,7 @@
 * [Sentry](https://t.me/sentry_ru) - Чат по Sentry — инструмент мониторинга исключений (exception), ошибок в приложениях.
 * [Nexus SonaType](https://t.me/ru_nexus_sonatype) - Чат по Sonatype Nexus – интегрированная платформа, с помощью которой разработчики могут проксировать, хранить и управлять зависимостями Java (Maven), образами Docker, Python, Ruby, NPM, Bower, RPM-пакетами, gitlfs, Apt, Go, Nuget.
 * [SonarQube](https://t.me/sonarqube_ru) - Чат по SonarQube - инструмент для внедрения статического анализа кода.
+* [У браузера под юбкой](https://t.me/dev_browser) - обсуждение механизмов браузерных движков.
 
 [(Назад к меню)](#Меню)
 

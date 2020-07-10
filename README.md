@@ -566,6 +566,7 @@
 [(Назад к меню)](#Меню)
 
 ##### Мобильная разработка
+* [Android. Разработка](https://t.me/androidev) — Чат только по рабочим вопросам и проблемам возникающих при разработке для Android и поиск решения.
 * [Android Developers](https://t.me/android_ru) — Чат про разработку под Android.
 * [iOS Developers](https://t.me/ios_ru) — Чат про разработку под iOS
 * [Xamarin Developers Russia](https://t.me/xamarin_russia) — Чат про разработку на платформе Xamarin под Android, IOS, Windows, MacOs
@@ -594,6 +595,7 @@
 * [Ukraine Android Jobs](https://t.me/joinchat/HMeR-xJoq6LkltufhEPK_g) — Чат по вакансиям и проектам Android разработчиков Украины
 * [Golang Jobs and Freelance](https://t.me/golangjob) — Jobs and freelance for golang developers
 * [php_jobs](https://t.me/php_jobs) — Вакансии и запросы на поиск работы по направлению PHP, Laravel, Symfony, Yii и т.д.
+* [Jobs_IT](https://t.me/jobs_it) — Один из крупнейших чатов для размещения IT вакансий и поиска работы. Объявления на русском и английском языках.
 
 [(Назад к меню)](#Меню)
 
@@ -613,6 +615,7 @@
 * [#ctfchat](https://t.me/ctfchat) — Чат CTF
 * [Developers Chat](https://t.me/joinchat/ABI4pz3M7FCxoDZcdcfVUA) — Чат сообщества Chatbots
 * [Погромисты-трактористы](https://t.me/pogromisty) — Опыт миграции в другие страны, вакансии
+* [Погромисты — качайте алкоритмы. Welcome to FAANG](https://t.me/pogromista) — Общение на любые темы разработчиков мигрировавших в другие страны и сочувствующих им
 * [QA](https://t.me/qa_ru) — Чат русскоязычного сообщества тестировщиков
 * [Freelancers & Remote workers](https://t.me/ru_freelancers) — Чат практикующих и интересующихся удаленной работой и самозанятостью
 * [Borodutch](https://t.me/borodutcher) — Собрались программисты-фрилансеры-предприниматели-стартаперы и замутили свою ламповую конфу.

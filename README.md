@@ -152,13 +152,13 @@
 * [Уютный IT адочек](https://t.me/lovely_it_hell) — Канал для технических менеджеров, тимлидов и техдиров об управлении командой, знаниями и soft-skills
 * [Python etc](https://t.me/pythonetc) — Авторский канал с ежедневными заметками про Python в частности и программирование в целом (English).
 * [Боль Тимлида](https://t.me/TeamLeadTalks) — Канал для тимлидов и им сочувствующих. Появился как артефакт Teamlead Conf, но с тех пор живёт своей полноценной жизнью.
-* [DocOps / Docs as code](https://t.me/docops) — Про документацию, подход docs-as-code и управление знаниями в командах разработки. Задача канала — строить мосты между техническими писателями, разработчиками и бизнесом.
+* [DocOps / Docs as code](https://t.me/docops) — Про документацию, подход docs-as-code и управление знаниями в командах разработки. Задача канала — строить мосты между техническими писателями, разработчиками и бизнесом.
 * [Technical Writing 101](https://t.me/technical_writing) — Личный технический блог, посвященный новым тенденциям, новостям и другим темам в области технической коммуникации и всему, где присутствуют буквы.
 * [Techwriter's Daily](https://t.me/techwriters) — Канал для технических писателей: статьи, видео, обзоры инструментов, анонсы конференций, вакансии и многое другое.
 * [Девелопер расскажет](https://t.me/devtipshere) — Новости, статьи и книги по разработке.
 * [C# 1001 notes](https://t.me/csharp_1001_notes) — Канал с ежедневными заметками о языке C#
 * [Nuances of programming](https://t.me/nuancesprog) — Образовательные статьи и переводы — всё для программистов.
-* [@pmdaily](https://t.me/pmdaily) — Авторский канал о производстве сложных проектов, управлении продуктом и о развитии софтскиллов у программистов
+* [@pmdaily](https://t.me/pmdaily) — Авторский канал о производстве сложных проектов, управлении продуктом и о развитии софтскиллов у программистов
 * [Java articles](https://t.me/java_articles) — подборка интересных и полезных статей из мира Java, Kotlin, Scala и других JVM языков на английском.
 * [Записки программиста](https://t.me/eaxme) — Анонсы постов из блога "Записки программиста" (EAX.ME)
 * [Flutter Daily](https://t.me/flutterdaily) — Канал с новостями фреймворка Flutter
@@ -223,7 +223,7 @@
 * [Web Stack](https://t.me/web_stack) — Канал со подборками статей и новостей про веб-разработку
 * [Front End World](https://t.me/front_end_first) — Англоязычный канал с новостями и статьями про фронтэнд
 * [Platon on frontend](https://t.me/platononfrontend) — Заметки, мысли и новости о фронтенде.
-* [Фронтенд Юность](https://t.me/frontend_u_news) — Канал подкаста «Фронтенд Юность» (18+).  Самый честный подкаст о фронтенде.
+* [Фронтенд Юность](https://t.me/frontend_u_news) — Канал подкаста «Фронтенд Юность» (18+).  Самый честный подкаст о фронтенде.
 * [Абрамов Позвонит](https://t.me/ReduxAnotherDay) — Канал информационно-развлекательной направленности про веб-разработку.
 * [WebDEV](https://t.me/webb_dev) — Полезные ресурсы для Backend и Frontend разработчиков, новости и статьи.
 * [Типичный Верстальщик](https://t.me/tpverstak) — Советы по созданию сайтов, книги, подборка сервисов для работы
@@ -578,7 +578,7 @@
 * [Laravel Oficial](https://t.me/laravel_pro) — Чат про Laravel (официальный?)
 * [Laravel Russia](https://t.me/laravelrus) — Чат про Laravel
 * [Laravel для начинающих](https://t.me/laravel_web) — Чат про Laravel для начинающих
-* [Yii Framework 1.1](https://t.me/yii1ru) — Чат про Yii 1.1 
+* [Yii Framework 1.1](https://t.me/yii1ru) — Чат про Yii 1.1
 * [Yii Framework 2](https://t.me/yii2ru) — Чат про Yii 2
 * [Yii Framework 3](https://t.me/yii3ru) — Чат про Yii 3
 * [React Native](https://t.me/reactnative_ru) — Чат про React Native
@@ -733,6 +733,7 @@
 * [Серверное администрирование](https://t.me/srv_admins) — Чат про администрирование.
 * [OpenWRT/LEDE RU](https://t.me/openwrt_ru) — Чат про OpenWRT/LEDE, свободную прошивку для роутеров
 * [nginx_ru](@nginx_ru) — Сообщество пользователей nginx
+* [Сисодминиум](https://t.me/sysodminium) - Канал одноименного блога [Сисодминиум](https://jtprog.ru/) о системном администрировании и около него
 
 [(Назад к меню)](#Меню)
 
@@ -866,7 +867,7 @@
 * [Infernal Math](https://t.me/matheden) —  Ещё один математический чат
 * [pro.math](https://t.me/promath_ru) — Ещё один
 * [Physics.Math.Code](https://t.me/math_code) — Математика и смежное
-* [/math/](https://t.me/rumath) — Ещё один 
+* [/math/](https://t.me/rumath) — Ещё один
 * [Типы в языках программирования, моделирования](https://t.me/typeslife) — STLC, MLTT, теория типов, теория доменов, теория категорий, онтология
 * [Онтологии](https://t.me/rusontology) — Онтологии, тезаурусы, их автоматизацию, внедрение и использование
 * [pro.algorithms](https://t.me/proalgorithms) — Группа по обсуждению алгоритмов, архитектурных решений, паттернов проектирования и прикладной математики.
@@ -982,8 +983,8 @@
 * [Nextcloud](https://t.me/nextcloudru) — Чат про Nextcloud
 * [Gambala.chat](https://t.me/gambala_chat) — Чат о разработке, бизнесе и личной эффективности.
 * [Русскоязычное сообщество технических писателей](https://t.me/technicalwriters) — чат сообщества.
-* [DocOps-чат](https://t.me/docsascode) — Чат канала [DocOps](https://t.me/docops): обсуждаем посты, делимся опытом.
-* [Google Таблицы - это чат](https://t.me/google_spreadsheets_chat) — Чат канала [Google Таблицы](https://t.me/google_sheets). Обсуждаем посты, делимся опытом, решаем задачи и проблемы.
+* [DocOps-чат](https://t.me/docsascode) — Чат канала [DocOps](https://t.me/docops): обсуждаем посты, делимся опытом.
+* [Google Таблицы - это чат](https://t.me/google_spreadsheets_chat) — Чат канала [Google Таблицы](https://t.me/google_sheets). Обсуждаем посты, делимся опытом, решаем задачи и проблемы.
 * [Linux Gaming RUS](https://t.me/LinuxGamingRUS) — Чат про игры под Linux, а также wine, proton.
 * [#Вайти](https://t.me/hashtag_whity) — Чат-школа самообучения программистов
 * [LibreOfficeRU](https://t.me/libreofficeru) — Группа для российских пользователей LibreOffice
@@ -1100,3 +1101,4 @@
 * [Podlodka - Mobile Podcast](https://t.me/podlodka) — Чат подкаста про мобильную разработку Podlodka
 
 [(Назад к меню)](#Меню)
+

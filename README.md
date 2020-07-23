@@ -756,6 +756,8 @@
 * [werf_ru](https://t.me/werf_ru) — Чат про Werf
 * [Saltstack](https://t.me/saltstack) — Чат про Salt
 * [Scalability Camp](https://t.me/scalability_camp) — Чат про распредёленные системы
+* [Gravitee - русскоговорящее сообщество](https://t.me/gravitee_ru) — Чат по Gravitee 
+* [Keycloak - русскоговорящее сообщество](https://t.me/keycloak_ru) — Чат по Keycloak 
 
 [(Назад к меню)](#Меню)
 

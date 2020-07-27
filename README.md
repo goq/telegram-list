@@ -414,7 +414,7 @@
 * [Ненавижу программистов](https://t.me/iloveprogrammers) – Ироничные цитаты о программистах и программировании
 * [Проветримся!](https://t.me/progulka) – Гуляем с интересными людьми на интересные темы около IT.
 * [IT Юмор](https://t.me/ithumor) – Сливаем ваше время в /dev/null — развлекаем программистов
-* [Яндекс.Облако](https://t.me/yandexcloudnews) ) –— Новости от команды Яндекс.Облака
+* [Яндекс.Облако](https://t.me/yandexcloudnews) ) — Новости от команды Яндекс.Облака
 * [Яндекс.Диалоги](https://t.me/yadialogsnews) — Новости Яндекс.Диалогов, советы и лайфхаки от команды сервиса
 * [Новые Навыки Алисы](https://t.me/NewAliceSkills) — Автоматический сканер новых навыков каталога alice.voice-ui.ru
 * [Около Яндекс.Станции](https://t.me/yandexdb) – Про Яндекс.Станцию, Dexp Smartbox, Irbis A, Elari SmartBeat
@@ -759,7 +759,7 @@
 * [Saltstack](https://t.me/saltstack) — Чат про Salt
 * [Scalability Camp](https://t.me/scalability_camp) — Чат про распредёленные системы
 * [Gravitee](https://t.me/gravitee_ru) — Чат про Gravitee
-* [Keycloak](https://t.me/keycloak_ru) — Чат про Keycloak) –
+* [Keycloak](https://t.me/keycloak_ru) — Чат про Keycloak
 
 [(Назад к меню)](#Меню)
 

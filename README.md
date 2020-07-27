@@ -759,6 +759,7 @@
 * [Saltstack](https://t.me/saltstack) — Чат про Salt
 * [Scalability Camp](https://t.me/scalability_camp) — Чат про распредёленные системы
 * [Gravitee](https://t.me/gravitee_ru) — Чат про Gravitee
+* [Keycloak](https://t.me/keycloak_ru) — Чат про Keycloak
 
 [(Назад к меню)](#Меню)
 

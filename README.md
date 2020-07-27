@@ -194,6 +194,7 @@
 * [Elgg](https://t.me/elggnews) - Новости, статьи, Q&A, релизы версий и плагинов для фреймворка Elgg
 * [NEWS Flutter Dev Podcast](https://t.me/flutterdevpodcast_news) — Flutter Dev Podcast.
 * [Библиотека C/C++ разработчика](https://t.me/cppproglib) — Полезные материалы по всему, что может быть полезно плюсовику/сишнику.
+* [PowerShells](https://t.me/PowerShells) — PowerShell. Новости, события, репозитории, книги и видео.
 
 [(Назад к меню)](#Меню)
 

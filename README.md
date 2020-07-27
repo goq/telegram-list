@@ -78,7 +78,7 @@
 * [Samara IT Community news](https://t.me/Samara_IT_Community) — Канал новостей Самарского IT сообщества
 * [Eb*@oe IT](https://t.me/ebannoeit) — Телеграм версия одноименного ресурса eb*@oe it. Голая правда о нашем АйТи
 * [computerra.ru](https://t.me/computerra_ru) — Компьютерра - легендарный журнал о современных технологиях.
-* [ITGM News](https://t.me/itgmnews) — Новости про [IT Global Meetup](https://piter-united.ru) – глобальный слёт IT сообществ
+* [ITGM News](https://t.me/itgmnews) — Новости про [IT Global Meetup](https://piter-united.ru) — глобальный слёт IT сообществ
 * [SALENAMES](https://t.me/salenames) — Новости и блог про домены от первого лица - доменного регистратора.
 * [Skolkovo Leaks](https://t.me/skolkovoleaks) — Всё об инновационном центре "Сколково" - об этом не напишут в СМИ.
 * [ICT.Moscow](https://t.me/ICT_Moscow) — ИТ и телеком в Москве: успехи, проблемы, возможности для бизнеса. Агрегация новостей, полезные контакты, исследования.
@@ -86,7 +86,7 @@
 * [yegor256news](https://t.me/yegor256news) — Канал Егора Бугаенко (yegor256). Elegant Objects, Zerocracy, Zold и многое другое
 * [GTL](https://t.me/gittoplibs) — Git top libraries. Канал об интересных библиотеках GitHub, а также выжимки новостей IT-мира (новые фреймворки, библиотеки, события)
 * [Новости KDE](https://t.me/kde_ru_news) — Новости и интересные материалы о свободном программном обеспечении от сообщества [KDE](https://kde.ru)
-* [imaxai.ru | CPU Эльбрус](https://t.me/imaxairu) – Новости из мира российских микропроцессоров Эльбрус
+* [imaxai.ru | CPU Эльбрус](https://t.me/imaxairu) — Новости из мира российских микропроцессоров Эльбрус
 * [Server Side Swift News](https://t.me/sssnews) — Новости, заметки и релизы из мира Server-Side Swift
 * [Новости IT за 10 минут](https://t.me/technews10) — Краткий обзор основных новостей tech индустрии с ссылками на источники
 
@@ -98,7 +98,7 @@
 * [Апатичный дотнетчик](https://t.me/dotnetter) — Агрегатор новостей и статей из мира .NET
 * [pro.elixir_news](https://t.me/proelixir_news) — Новости из мира Elixir
 * [Elixir Formula](https://t.me/elixir_formula) — Канал новостей и интересных статей в мире Эликсира.
-* [Opensource Findings](https://t.me/opensource_findings) – Канал с ежедневными ссылками на крутые Open-Source проекты, а также статьи и доклады про фундаментальные вещи в разработке.
+* [Opensource Findings](https://t.me/opensource_findings) — Канал с ежедневными ссылками на крутые Open-Source проекты, а также статьи и доклады про фундаментальные вещи в разработке.
 * [Мобайл: дизайн и разработка](https://t.me/aboutmobile) — Канал для всех, кто создает мобильные приложения
 * [Android Дичь](https://t.me/shitty_android) — Тщательно отобранные статьи и доклады по Android-разработке и смежным темам
 * [TM Feed](https://t.me/tmfeed) — Лента публикаций с Хабра и Гиктаймс
@@ -186,13 +186,13 @@
 * [Python_in_depth](https://t.me/python_in_depth) — Авторский канал Python для начинающих и не очень.
 * [Daily Coding](https://t.me/dailycoding) — Интересные задачи, обучающие статьи, советы по стилю кода и многое другое
 * [AppTractor](https://t.me/apptractor) — Новости, статьи и свежие материалы про разработку и маркетинг приложений
-* [AppFiles](https://t.me/applib) – Библиотеки и сервисы для iOS и Android разработчиков
+* [AppFiles](https://t.me/applib) — Библиотеки и сервисы для iOS и Android разработчиков
 * [Swift Tips](https://t.me/swift_tips) — Ежедневные советы, подсказки, лайфхаки и статьи по Swift.
-* [Math.random(): javascript community](https://t.me/mathrandomcommunity) – сообщество инженеров связанные интересами в JavaScript технологиях.
-* [Geek Export](https://t.me/geekexport) – Канал про карьеру в Европе, лайфхаки и уроки английского для айтишников
-* [Junior Python School](https://t.me/pythonjuniorschool) – Канал с большим количеством tricky quizzes и материалов для Python dev.
-* [C#Lab](https://t.me/CSharpLab) – Примеры на C#
-* [Elgg](https://t.me/elggnews) – Новости, статьи, Q&A, релизы версий и плагинов для фреймворка Elgg
+* [Math.random(): javascript community](https://t.me/mathrandomcommunity) — сообщество инженеров связанные интересами в JavaScript технологиях.
+* [Geek Export](https://t.me/geekexport) — Канал про карьеру в Европе, лайфхаки и уроки английского для айтишников
+* [Junior Python School](https://t.me/pythonjuniorschool) — Канал с большим количеством tricky quizzes и материалов для Python dev.
+* [C#Lab](https://t.me/CSharpLab) — Примеры на C#
+* [Elgg](https://t.me/elggnews) — Новости, статьи, Q&A, релизы версий и плагинов для фреймворка Elgg
 * [NEWS Flutter Dev Podcast](https://t.me/flutterdevpodcast_news) — Flutter Dev Podcast.
 * [Библиотека C/C++ разработчика](https://t.me/cppproglib) — Полезные материалы по всему, что может быть полезно плюсовику/сишнику.
 * [PowerShells](https://t.me/PowerShells) — PowerShell. Новости, события, репозитории, книги и видео.
@@ -238,10 +238,10 @@
 * [Angular Fox — русскогорящие новости сообщества](https://t.me/angular_fox) — Как костыль, летящий на реактивно-лисьей тяге
 * [Defront](https://t.me/defront) — Про фронтенд-разработку и не только. Субъективные мысли о прочитанных статьях и просмотренных докладах
 * [maxpfrontend](https://t.me/maxpfrontend) — Прокачка в React, вебинары, трюки, секреты
-* [JS Community](https://t.me/js_fans) – Канал про JavaScript (NodeJS, React, Vue) и о всём, что с ним связанно
+* [JS Community](https://t.me/js_fans) — Канал про JavaScript (NodeJS, React, Vue) и о всём, что с ним связанно
 * [Библиотека фронтендера](https://t.me/frontendproglib) — Полезные материалы по всему, что может быть интересно frontend-разработчику
 * [PiterJS](https://t.me/piterjs) — Митап про JavaScript в Санкт-Петербурге
-* [$mol: Новости](https://t.me/mol_news) – Новости о фреймворке $mol, экосистеме MAM и основанных на них проектах.
+* [$mol: Новости](https://t.me/mol_news) — Новости о фреймворке $mol, экосистеме MAM и основанных на них проектах.
 
 [(Назад к меню)](#Меню)
 
@@ -301,7 +301,7 @@
 * [Админим с Буквой](https://t.me/bykvaadm) — Канал о системном администрировании, DevOps и немного Инфобеза.
 * [Amazon AWS notes](https://t.me/aws_notes) — Канал про AWS от Amazon
 * [Мониторим ИТ](https://t.me/monitorim_it) — Канал об управлении ИТ (мониторинг, ITSM, etc.)
-* [Пятничный деплой](https://t.me/count0_digest) – Подборка ссылок, статей и постов из мира DevOps\SRE\разработки.
+* [Пятничный деплой](https://t.me/count0_digest) — Подборка ссылок, статей и постов из мира DevOps\SRE\разработки.
 * [2pizza Software](https://t.me/topizza) — шуточки из hangops и не только.
 * [Записки админа](https://t.me/SysadminNotes) — Статьи, рекомендации мысли про администрирование серверов
 * [i_odmin](https://t.me/i_odmin) — Канал про сисадминов
@@ -411,14 +411,14 @@
 * [Салатовая телега](https://t.me/unidataline) — Канал компании DataLine. Рассказываем про устройство дата-центров, облака, ИБ, телеком.
 * [е@#$я физика](https://t.me/ebanfizika) — Физика для особенных :)
 * [Говнокод](https://t.me/g_code) — Самые забавные и интересные подборки говнокода с GitHub и не только.
-* [Ненавижу программистов](https://t.me/iloveprogrammers) – Ироничные цитаты о программистах и программировании
-* [Проветримся!](https://t.me/progulka) – Гуляем с интересными людьми на интересные темы около IT.
-* [IT Юмор](https://t.me/ithumor) – Сливаем ваше время в /dev/null — развлекаем программистов
+* [Ненавижу программистов](https://t.me/iloveprogrammers) — Ироничные цитаты о программистах и программировании
+* [Проветримся!](https://t.me/progulka) — Гуляем с интересными людьми на интересные темы около IT.
+* [IT Юмор](https://t.me/ithumor) — Сливаем ваше время в /dev/null — развлекаем программистов
 * [Яндекс.Облако](https://t.me/yandexcloudnews) ) — Новости от команды Яндекс.Облака
 * [Яндекс.Диалоги](https://t.me/yadialogsnews) — Новости Яндекс.Диалогов, советы и лайфхаки от команды сервиса
 * [Новые Навыки Алисы](https://t.me/NewAliceSkills) — Автоматический сканер новых навыков каталога alice.voice-ui.ru
-* [Около Яндекс.Станции](https://t.me/yandexdb) – Про Яндекс.Станцию, Dexp Smartbox, Irbis A, Elari SmartBeat
-* [АйТиБорода](https://t.me/itbeard) – Официальный паблик youtube-канала "АйТиБорода"
+* [Около Яндекс.Станции](https://t.me/yandexdb) — Про Яндекс.Станцию, Dexp Smartbox, Irbis A, Elari SmartBeat
+* [АйТиБорода](https://t.me/itbeard) — Официальный паблик youtube-канала "АйТиБорода"
 * [Russian Hackers](https://t.me/RussianHackers_Channel) — Канал про хакатоны, пет-проджекты, инди-хакерство и стартапы.
 
 [(Назад к меню)](#Меню)
@@ -563,7 +563,7 @@
 * [CIL](https://t.me/cilchat) — Чат про CIL/IL/MSIL
 * [WebAssembly](https://t.me/WebAssembly_ru) — Чат про Webassembly
 * [WebGL & Three.js](https://t.me/webgl_ru) — Чат про 3d визуализацию в браузере
-* [Разработка языков программирования](https://t.me/lang_idioms) – Чат разработчиков языков программирования
+* [Разработка языков программирования](https://t.me/lang_idioms) — Чат разработчиков языков программирования
 
 [(Назад к меню)](#Меню)
 
@@ -628,7 +628,7 @@
 * [wxwidgets RU](https://t.me/WxWidgetsRU) — Чат про WxWidgets
 * [Fire-Monkey](https://t.me/TFMXGods) — Чат про Fire-Monkey
 * [Флудилка Fire-Monkey](https://t.me/fmx_flood) — Флудилка Fire-Monkey
-* [Elgg Chat](https://t.me/elggchat) – Чат про Elgg
+* [Elgg Chat](https://t.me/elggchat) — Чат про Elgg
 
 [(Назад к меню)](#Меню)
 
@@ -638,7 +638,7 @@
 * [Программисты](https://t.me/coding_ru) — Чат программистов. Флуд.
 * [Elegant Objects OOP JAVA](https://t.me/joinchat/AAAAAEJFMRzsRTRxM3ec6A) — Чат программистов Java OOP. Elegant Objects yegor256.com.
 * [codingteam](https://t.me/codingteam) — Кроссплатформенное сообщество инженеров и программистов.
-* [VictoriaMetrics_ru](https://t.me/VictoriaMetrics_ru1) – Ru сообщество по разработке и использованию tsdb (базы данных временных рядов) Victoria Metrics.
+* [VictoriaMetrics_ru](https://t.me/VictoriaMetrics_ru1) — Ru сообщество по разработке и использованию tsdb (базы данных временных рядов) Victoria Metrics.
 * [IoT Community chat](https://t.me/Iot_chat) — Чат Internet fo Things сообщества.
 * [AtomicDesign](https://t.me/atomicdesign) — Обсуждение Atomic Design в React.js
 * [Microsoft Developer Chat](https://t.me/microsoftschool) — Чат разработчиков и системных администраторов сообщества Microsoft Developer
@@ -664,11 +664,11 @@
 * [Яндекс.Облако](https://t.me/yandexcloud_chat) — Официальный чат Яндекс.Облака
 * [Умный дом с Алисой](https://t.me/station_yandex) — Яндекс.Станция, Умный дом и устройства с Алисой
 * [Вокруг да около Zigbee](https://t.me/zigbeer) — Обсуждение устройств, прошивок и прочего софта, работающего с Zigbee
-* [CyberBiology](https://t.me/Chat_CyberBiology) – Моделирование самоорганизующихся систем (искусственная жизнь, ALife)
-* [Sentry](https://t.me/sentry_ru) – Чат по Sentry — инструмент мониторинга исключений (exception), ошибок в приложениях.
-* [Nexus SonaType](https://t.me/ru_nexus_sonatype) – Чат по Sonatype Nexus – интегрированная платформа, с помощью которой разработчики могут проксировать, хранить и управлять зависимостями Java (Maven), образами Docker, Python, Ruby, NPM, Bower, RPM-пакетами, gitlfs, Apt, Go, Nuget.
-* [SonarQube](https://t.me/sonarqube_ru) – Чат по SonarQube - инструмент для внедрения статического анализа кода.
-* [У браузера под юбкой](https://t.me/dev_browser) – обсуждение механизмов браузерных движков.
+* [CyberBiology](https://t.me/Chat_CyberBiology) — Моделирование самоорганизующихся систем (искусственная жизнь, ALife)
+* [Sentry](https://t.me/sentry_ru) — Чат по Sentry — инструмент мониторинга исключений (exception), ошибок в приложениях.
+* [Nexus SonaType](https://t.me/ru_nexus_sonatype) — Чат по Sonatype Nexus – интегрированная платформа, с помощью которой разработчики могут проксировать, хранить и управлять зависимостями Java (Maven), образами Docker, Python, Ruby, NPM, Bower, RPM-пакетами, gitlfs, Apt, Go, Nuget.
+* [SonarQube](https://t.me/sonarqube_ru) — Чат по SonarQube - инструмент для внедрения статического анализа кода.
+* [У браузера под юбкой](https://t.me/dev_browser) — обсуждение механизмов браузерных движков.
 
 [(Назад к меню)](#Меню)
 
@@ -735,7 +735,7 @@
 * [Серверное администрирование](https://t.me/srv_admins) — Чат про администрирование.
 * [OpenWRT/LEDE RU](https://t.me/openwrt_ru) — Чат про OpenWRT/LEDE, свободную прошивку для роутеров
 * [nginx_ru](@nginx_ru) — Сообщество пользователей nginx
-* [Сисодминиум](https://t.me/sysodminium) – Канал одноименного блога [Сисодминиум](https://jtprog.ru/) о системном администрировании и около него
+* [Сисодминиум](https://t.me/sysodminium) — Канал одноименного блога [Сисодминиум](https://jtprog.ru/) о системном администрировании и около него
 
 [(Назад к меню)](#Меню)
 
@@ -780,7 +780,7 @@
 * [Oracle RU](https://t.me/oracle_ru) — Чат про Oracle
 * [Scylla DB](https://t.me/ru_scylladb) — Чат про ScyllaDB
 * [dbmsdev](https://t.me/dbmsdev) — Чат о разработке СУБД
-* [Разработка СУБД](https://t.me/dev_dbms_ru) – Чат разработчиков СУБД
+* [Разработка СУБД](https://t.me/dev_dbms_ru) — Чат разработчиков СУБД
 
 [(Назад к меню)](#Меню)
 
@@ -808,7 +808,7 @@
 * [Безопасность АСУ ТП / ICS / SCADA](https://t.me/RuScadaSec) — Чат по кибербезопасности АСУ ТП для интерактивного обмена информацией по теме.
 * [DC7499](https://t.me/DC7499) — Чат DefCon Москва (+7 499)
 * [#ctfchat](https://t.me/ctfchat) — Чат CTF
-* [IT Security Talk](https://t.me/itsectalk) – IT Security Talk (english)
+* [IT Security Talk](https://t.me/itsectalk) — IT Security Talk (english)
 * [Hacker May Cry](https://t.me/mrl_hack) — Чат для взаимопомощи в сфере информационной безопасности, хакинга и программирования.
 * [The Cødeby](https://t.me/thecodeby) — Чат о взломе и защите компьютерных систем.
 * [Сайберсекьюрити и Ко.](https://t.me/joinchat/A2Cq70EuBWoiwJTafRUHTA) — Чат канала @alexlitreev о безопасности в интернете, уязвимостях и прочих радостях жизни.
@@ -865,8 +865,8 @@
 * [Physic Pub](https://t.me/physpub) — Чат про физику
 * [Starter Math](https://t.me/starter_math) — Чат про математику для начинающих
 * [Математический чат](https://t.me/typmath_chat) — Уютное логово математиков
-* [μεταγεωμετρία](https://t.me/metageometria) – Метагеометрия: 4D, гиперболические геометрии, порталы и т.д.
-* [Геометрический чатик](https://t.me/joinchat/DxYaB0QLindiVZpW32-rfQ) – Разговоры о геометрии и задачах ([канал](https://t.me/geometrykanal))
+* [μεταγεωμετρία](https://t.me/metageometria) — Метагеометрия: 4D, гиперболические геометрии, порталы и т.д.
+* [Геометрический чатик](https://t.me/joinchat/DxYaB0QLindiVZpW32-rfQ) — Разговоры о геометрии и задачах ([канал](https://t.me/geometrykanal))
 * [pro.latex](https://t.me/pro_latex) — Система компьютерной вёрстки LaTeX
 * [Infernal Math](https://t.me/matheden) —  Ещё один математический чат
 * [pro.math](https://t.me/promath_ru) — Ещё один
@@ -890,7 +890,7 @@
 * [Universal Windows Platform](https://t.me/uwp_ru) — Чат разработчиков под Windows и Windows Phone.
 * [Android NDK (C++)](https://t.me/ndk_ru) — Чат про Android NDK (C++)
 * [Flutter Developers](https://t.me/flutter_rus) — Чат про Flutter
-* [Android_Declarative](https://t.me/android_declarative) – Чат русскоязычного android-сообщества, посвященный декларативным UI-фреймворкам: Jetpack Compose, Anko, Anvil, Litho
+* [Android_Declarative](https://t.me/android_declarative) — Чат русскоязычного android-сообщества, посвященный декларативным UI-фреймворкам: Jetpack Compose, Anko, Anvil, Litho
 * [SwiftBook](https://t.me/swiftbook_chat) — Чат про Swift от проекта [swiftbook.ru](https://swiftbook.ru)
 * [SwiftUIC](https://t.me/swiftuic) — Чат про SwiftUI и Combine
 
@@ -957,9 +957,9 @@
 [(Назад к меню)](#Меню)
 
 ##### Разные IT-сообщества
-* [IT PPL](https://t.me/spbitpeople) – IT People: общение айтишников и про айти, и не про айти ;-)
+* [IT PPL](https://t.me/spbitpeople) — IT People: общение айтишников и про айти, и не про айти ;-)
 * [SPbLUG chat](https://t.me/spblug_chat) — Saint Petersburg Linux talks (неофициальный чат SPbLUG)
-* [Chaos Construction](https://t.me/chaosconstructions) – Chaos Construction Санкт-Петербург
+* [Chaos Construction](https://t.me/chaosconstructions) — Chaos Construction Санкт-Петербург
 * [PiterPy Conf](https://t.me/piterpy) — Петербургская конференция для разработчиков мира Python
 * [Погромисты-трактористы](https://t.me/pogromisty) — Опыт миграции в другие страны, вакансии
 * [QA](https://t.me/qa_ru) — Чат русскоязычного сообщества тестировщиков
@@ -993,7 +993,7 @@
 * [#Вайти](https://t.me/hashtag_whity) — Чат-школа самообучения программистов
 * [LibreOfficeRU](https://t.me/libreofficeru) — Группа для российских пользователей LibreOffice
 * [Операторы мобильной связи](https://t.me/opsosru) — Обсуждение операторов сотовой связи
-* [Эльбрусы и с чем их едят](https://t.me/e2k_chat) – Чат про администрирование и создание программ на платформе Эльбрус
+* [Эльбрусы и с чем их едят](https://t.me/e2k_chat) — Чат про администрирование и создание программ на платформе Эльбрус
 * [Просто о BIM](https://t.me/prostobim) — Обсуждение информационного моделирования зданий
 
 [(Назад к меню)](#Меню)
@@ -1027,8 +1027,8 @@
 * [Krasnodar Golang](https://t.me/golangkrasnodar) — Чат по интересам для golang разработчиков.
 * [Krasnodar Ruby](https://t.me/rubykrd) — Чат по интересам для ruby разработчиков.
 * [Krasnodar Android](https://t.me/androidkrd) — Чат по интересам для android разработчиков.
-* [IT_Сочи](https://t.me/it_sochi) – Общий чат разработчиков Сочи
-* [СочиJS](https://t.me/sochijs) – Сочи JS-комьюнити
+* [IT_Сочи](https://t.me/it_sochi) — Общий чат разработчиков Сочи
+* [СочиJS](https://t.me/sochijs) — Сочи JS-комьюнити
 ###### СКФО
 * [Dev Seagulls](https://t.me/dev_seagulls) — Чат сообщества программистов Махачкалы
 ###### ПФО
@@ -1045,7 +1045,7 @@
 ###### ДВФО
 * [Ruby Vladivostok](https://t.me/rubyvladivostok) — Группа Ruby разработчиков города Владивостока
 ##### Зарубежные русскоязычные IT-сообщества
-* [iOS Community – Kharkiv](https://t.me/ios_kharkiv) – Сообщество iOS-программистов Харькова
+* [iOS Community – Kharkiv](https://t.me/ios_kharkiv) — Сообщество iOS-программистов Харькова
 * [Kharkiv iOS Peerlab](https://t.me/kharkiv_ios) — Чат для связи людей, которые собираются на [iOS-пирлабы по субботам в Харькове](https://www.meetup.com/Kharkiv-iOS-Peerlab/)
 * [Чат IT-Страны](https://t.me/itbelarustalk) — Чат белорусского IT-сообщества.
 * [1с Чат РБ](https://t.me/One1c_Blr) — Связанные одним 1С в РБ.

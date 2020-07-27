@@ -23,6 +23,7 @@
 * [@vkm4bot](https://t.me/vkm4bot) - Бот ищет музыку в ВК
 * [@yandex_music_bot](https://t.me/yandex_music_bot) - Бот ищет музыку в Яндекс.Музыке
 * [@podcastly_bot](https://t.me/podcastly_bot) - Бот поможет найти подкаст с помощью поиска/рекомендательной системы, уведомит о новых эпизодах.
+* [@Shazam Music Charts](https://t.me/ShazamMusicChartsBot) - Бот для поиска новой музыки в качестве Lossless / FLAC (без сжатия). 
 
 [(Назад к меню)](#Разделы)
 
@@ -83,6 +84,7 @@
 * [@Lingvanexbot](https://t.me/lingvanexbot) - Переводчик на основе нейросетей для более чем 50 языков.
 * [Yandex Image Search](https://t.me/pic) — Бот поиска картинок от Яндекса. Inline
 * [Yandex.Translate](https://t.me/YTranslateBot) - Бот-переводчик от Яндекса
+* [Remember Words Bot](https://t.me/RememberWords_bot) - личный помощник для изучения слов. Подходит для изучения слов и расширения словарного запаса.
 * [@fakemailbot](https://t.me/fakemailbot) — Временная электронная почта на 10 минут
 * [@tempgmailbot](https://t.me/tempgmailbot) — Бот с помощью которого вас пустит на любой сайт. Он дает вам электронную почту доверенного сервиса GMail.
 * [@pomodoro_timer_bot](https://t.me/pomodoro_timer_bot) — Бот-таймер по методу "помидорки"

@@ -758,6 +758,7 @@
 * [werf_ru](https://t.me/werf_ru) — Чат про Werf
 * [Saltstack](https://t.me/saltstack) — Чат про Salt
 * [Scalability Camp](https://t.me/scalability_camp) — Чат про распредёленные системы
+* [Gravitee](https://t.me/gravitee_ru) — Чат про Gravitee
 
 [(Назад к меню)](#Меню)
 

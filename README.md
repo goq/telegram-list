@@ -1025,6 +1025,10 @@
 * [St. Petersburg Jenkins Meetup](https://t.me/jenkins_spb) — Митап по Jenkins в Санкт-Петербурге
 * [SPb Reliability Meetup](https://t.me/spb_reliability) — SRE (Site Reliability Engineering) митапы в Санкт-Петербурге
 ###### ЦФО
+* [Глубокий Рефакторинг](https://t.me/deeprefactoring) - IT притон г. Воронежа
+* [GDG Voronezh](https://t.me/gdgvrn) - Чат айтишников Воронежа
+* [Golang Voronezh](https://t.me/golang_vrn) — Чат по интересам для golang разработчиков Воронежа
+* [SAP Community Voronezh](https://t.me/sapcmntvrn) - Чат по интересам для SAP специалистов Воронежа
 ###### СЗФО
 * [GDG Kaliningrad](https://t.me/gdgkaliningrad) — Чат айтишников Калининграда
 ###### ЮФО
@@ -1113,6 +1117,7 @@
 * [Саратов (публичный чат)](https://t.me/saratov_public) — Публичный чат города Саратов
 * [Москва](https://t.me/ponaehali) — Чат общения в Москве. Понаехали. Всё про жизнь в Москве :: Как попасть туда :: Как прожить там :: Как покинуть этот город
 * [Podlodka - Mobile Podcast](https://t.me/podlodka) — Чат подкаста про мобильную разработку Podlodka
+* [Z Namespace Chat](https://t.me/z_chatspace) — Чат подкаста про SAP
 
 [(Назад к меню)](#Меню)
 

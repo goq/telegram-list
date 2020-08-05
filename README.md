@@ -794,7 +794,6 @@
 * [NLP_RU Natural Language Processing](https://t.me/nlp_ru) — Чат про Natural Language Processing и Text Mining
 * [NLP Chat](https://telegram.me/joinchat/ABI4p0BMRAByXDgJqo5uhQ) — Чат про Natural Language Processing
 * [Группа Kaggle Global](https://t.me/kaggle) — Чат про Kaggle, решение проблем, идеи и сотрудничество
-* [AI / Искусственный Интеллект](https://t.me/ai_life) — Чат про искусственный интеллект
 * [Python для анализа данных](https://t.me/pydata_chat) — Чат про применение Python для анализа данных, в особенности для различного рода автоматизации и аналитики.
 * [Catboost_ru](https://t.me/catboost_ru) — Русскоязыный чат библиотеки CatBoost (англ. чат [Catboost_en](https://t.me/catboost_en))
 * [Natural Language Processing](https://t.me/natural_language_processing) — Чат про Natural Language Processing

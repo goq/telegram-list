@@ -654,6 +654,7 @@
 * [Чат — Типичный Верстальщик](https://t.me/tpverstakchat) — Чат верстальщиков
 * [letsCode Chat](https://t.me/letsCodeChat) — Флудильня. Место для вопросов-ответов по разработке и ИТ в целом.
 * [pro.buildsystems](https://t.me/probuildsystems) — Чат про билдсистемы CMake, Meson, Waf, Scons, Bazel, и многие другие
+* [Meson Chat](https://t.me/meson_chat) — Чат о билдсистеме Meson
 * [pro.osdev](https://t.me/pro_osdev) — Чат про разработку операционных систем
 * [*nix talks](https://t.me/unixtalks) — Чат про *nix'ы
 * [*RU MODX](https://t.me/ru_modx) — Русскоязычное сообщество CMS MODX

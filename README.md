@@ -629,6 +629,7 @@
 * [Fire-Monkey](https://t.me/TFMXGods) — Чат про Fire-Monkey
 * [Флудилка Fire-Monkey](https://t.me/fmx_flood) — Флудилка Fire-Monkey
 * [Elgg Chat](https://t.me/elggchat) — Чат про Elgg
+* [IDE и редакторы](https://t.me/ide_ru) — Чат о различных IDE и редакторах
 
 [(Назад к меню)](#Меню)
 

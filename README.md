@@ -561,6 +561,7 @@
 * [ReactiveX](https://t.me/reactivex) — Про реактивное программирование
 * [Functional Programming](https://t.me/fp_ru) — Чат любителей функциональных языков программирования
 * [CIL](https://t.me/cilchat) — Чат про CIL/IL/MSIL
+* [Vala](https://t.me/codefaq) — Чат о Vala
 * [WebAssembly](https://t.me/WebAssembly_ru) — Чат про Webassembly
 * [WebGL & Three.js](https://t.me/webgl_ru) — Чат про 3d визуализацию в браузере
 * [Разработка языков программирования](https://t.me/lang_idioms) — Чат разработчиков языков программирования

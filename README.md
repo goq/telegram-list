@@ -1107,6 +1107,7 @@
 * [Москва](https://t.me/ponaehali) — Чат общения в Москве. Понаехали. Всё про жизнь в Москве :: Как попасть туда :: Как прожить там :: Как покинуть этот город
 * [Podlodka - Mobile Podcast](https://t.me/podlodka) — Чат подкаста про мобильную разработку Podlodka
 * [Z Namespace Chat](https://t.me/z_chatspace) — Чат подкаста про SAP
+* [Чат Алкающих Поэтов](https://t.me/joinchat/FC6kkBnP3OfzjUT__7YNnQ) - Поэзия и алкание
 
 [(Назад к меню)](#Меню)
 

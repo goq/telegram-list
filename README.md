@@ -265,6 +265,7 @@
 * [DC7831](https://t.me/defcon_nn) — DEFCON Нижний Новгород
 * [SecurityLibrary](https://t.me/SecLib) — Книги статьи и журналы по информационной безопасности
 * [R0 Crew](https://t.me/R0_Crew) — Ъ Сообщество реверс-инженеров
+* [OSINT mindset](https://t.me/osint_mindset) - Авторский канал про OSINT как образ мышления
 
 [(Назад к меню)](#Меню)
 

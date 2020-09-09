@@ -500,6 +500,7 @@
 * [Autohotkey_RU](https://t.me/AutoHotkey_RU) — Чат про Autohotkey
 * [pro.cxx](https://t.me/ProCxx) — Чат про С++
 * [.NET chat RU](https://t.me/DotNetRuChat) — Чат про C# и .NET
+* [C#](https://t.me/professorweb) — Русскоговорящее сообщество C# и .NET разработчиков
 * [ExtremeCodeTV](https://t.me/extremecode) — Чат C# разработчиков (есть свой бот компилирующий C# код)
 * [var chat = new Chat();](https://t.me/dotnet_chat) — Чат посвящен разработке на .NET
 * [Clojure](https://t.me/clojure_ru) — Чат про Clojure

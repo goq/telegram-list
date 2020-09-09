@@ -333,8 +333,8 @@
 * [Библиотека Golang](https://t.me/joinchat/Be4rsT2X7QRJmDbFbnAcnQ) — Канал-библиотека по языку программирования Golang (пустующий)
 * [Бизнес-книги](https://t.me/marketologmanager) — Канал с подборками литературы по бизнесу
 * [справочник "Единой России"](https://t.me/joinchat/ACqUWT8mxfwM8vgXxxFqQQ) — Телефонный справочник "Единой России" в Госдуме РФ :-D
-* [Awesome Russian Podcasts](https://t.me/awesome_russian_podcasts) - На канале ежедневно публикуются новые выпуски [ИТ-подкастов](https://github.com/unchase/awesome-russian-it/blob/master/Podcasts.md), собранных в [awesome-russian-it](https://github.com/unchase/awesome-russian-it) репозитории.
-* [Awesome Russian YouTube](https://t.me/awesome_russian_youtube) - На канале ежедневно публикуются новые видео [YouTube-каналов](https://github.com/unchase/awesome-russian-it/blob/master/YouTube.md), собранных в [awesome-russian-it](https://github.com/unchase/awesome-russian-it) репозитории.
+* [Awesome Russian Podcasts](https://t.me/awesome_russian_podcasts) — Ежедневные выпуски разных IT-подкастов (подборка)
+* [Awesome Russian YouTube](https://t.me/awesome_russian_youtube) — Ежедневные выпуски разных IT-видосов с ютуба
 
 [(Назад к меню)](#Меню)
 

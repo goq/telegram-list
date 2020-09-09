@@ -886,7 +886,8 @@
 [(Назад к меню)](#Меню)
 
 ##### Мобильная разработка
-* [Android Developers](https://t.me/android_ru) — Чат про разработку под Android.
+* [Android Developers](https://t.me/android_ru) — Чат про разработку под Android
+* [Android. Разработка](https://t.me/androidev) — Чат про разработку под Android
 * [iOS Developers](https://t.me/ios_ru) — Чат про разработку под iOS
 * [Xamarin Developers Russia](https://t.me/xamarin_russia) — Чат про разработку на платформе Xamarin под Android, IOS, Windows, MacOs
 * [Xamarin Developers Ukraine](https://t.me/xamarin_ukraine) — Чат и meetup-сообщество о разработке на платформе Xamarin под Android, IOS, Windows, MacOs в Украине
@@ -933,6 +934,7 @@
 * [Работа монтаж/проектирование СВН, СКУД, ОПС, ЛВС](https://t.me/cctv_work) — Обсуждаем инженерную инфраструктуру, электрику и IT, делимся опытом, дискутируем.
 * [ClubcomJob](https://t.me/clubcomjob) — Вакансии и резюме сотрудников в телекоме.
 * [Клуб-КОМ Каналы и ПМ](https://t.me/clubcomx) — Заказ и предложение последних миль и каналов связи
+* [Jobs_IT](https://t.me/jobs_it) — IT вакансии на русском и английском языках.
 
 [(Назад к меню)](#Меню)
 
@@ -971,7 +973,6 @@
 * [Погромисты-трактористы](https://t.me/pogromisty) — Опыт миграции в другие страны, вакансии
 * [QA](https://t.me/qa_ru) — Чат русскоязычного сообщества тестировщиков
 * [Remote workers & Freelancers](https://t.me/ru_freelancers) — Чат про удаленную работу и самозанятость
-* [Borodutch](https://t.me/borodutcher) — Собрались программисты-фрилансеры-предприниматели-стартаперы и замутили свою ламповую конфу.
 * [ru_ASUTP](https://t.me/ru_ASUTP) — АСУ ТП: САУ, SCADA, ПЛК и немного умных домов.
 * [ru_CAD](https://t.me/ru_CAD) — САПР.
 * [Секта кнопкопоклонников](https://t.me/ru_mechcult) — Чат странных людей, которые любят ~~механические~~ клавиатуры

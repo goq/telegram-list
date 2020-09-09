@@ -874,8 +874,8 @@
 [(Назад к меню)](#Меню)
 
 ##### Мобильная разработка
-* [Android. Разработка](https://t.me/androidev) — Чат только по рабочим вопросам и проблемам возникающих при разработке для Android и поиск решения.
-* [Android Developers](https://t.me/android_ru) — Чат про разработку под Android.
+* [Android Developers](https://t.me/android_ru) — Чат про разработку под Android
+* [Android. Разработка](https://t.me/androidev) — Чат про разработку под Android
 * [iOS Developers](https://t.me/ios_ru) — Чат про разработку под iOS
 * [Xamarin Developers Russia](https://t.me/xamarin_russia) — Чат про разработку на платформе Xamarin под Android, IOS, Windows, MacOs
 * [Xamarin Developers Ukraine](https://t.me/xamarin_ukraine) — Чат и meetup-сообщество о разработке на платформе Xamarin под Android, IOS, Windows, MacOs в Украине
@@ -913,7 +913,6 @@
 * [Ukraine Android Jobs](https://t.me/joinchat/HMeR-xJoq6LkltufhEPK_g) — Чат по вакансиям и проектам Android разработчиков Украины
 * [Golang Jobs and Freelance](https://t.me/golangjob) — Jobs and freelance for golang developers
 * [php_jobs](https://t.me/php_jobs) — Вакансии и запросы на поиск работы по направлению PHP, Laravel, Symfony, Yii и т.д.
-* [Jobs_IT](https://t.me/jobs_it) — Один из крупнейших чатов для размещения IT вакансий и поиска работы. Объявления на русском и английском языках.
 * [YiiJobs](https://t.me/yiijobs) — Вакансии, проекты, фриланс - Yii
 * [Laravel Jobs](https://t.me/laraveljob) — Laravel - вакансии, работа, фриланс
 * [For Products and Projects Managers](https://t.me/Forproducts) — Вакансии для продактов и проджектов.
@@ -923,6 +922,7 @@
 * [Работа монтаж/проектирование СВН, СКУД, ОПС, ЛВС](https://t.me/cctv_work) — Обсуждаем инженерную инфраструктуру, электрику и IT, делимся опытом, дискутируем.
 * [ClubcomJob](https://t.me/clubcomjob) — Вакансии и резюме сотрудников в телекоме.
 * [Клуб-КОМ Каналы и ПМ](https://t.me/clubcomx) — Заказ и предложение последних миль и каналов связи
+* [Jobs_IT](https://t.me/jobs_it) — IT вакансии на русском и английском языках.
 
 [(Назад к меню)](#Меню)
 
@@ -959,10 +959,8 @@
 * [Chaos Construction](https://t.me/chaosconstructions) – Chaos Construction Санкт-Петербург
 * [PiterPy Conf](https://t.me/piterpy) — Петербургская конференция для разработчиков мира Python
 * [Погромисты-трактористы](https://t.me/pogromisty) — Опыт миграции в другие страны, вакансии
-* [Погромисты — качайте алкоритмы. Welcome to FAANG](https://t.me/pogromista) — Общение на любые темы разработчиков мигрировавших в другие страны и сочувствующих им
 * [QA](https://t.me/qa_ru) — Чат русскоязычного сообщества тестировщиков
 * [Remote workers & Freelancers](https://t.me/ru_freelancers) — Чат про удаленную работу и самозанятость
-* [Borodutch](https://t.me/borodutcher) — Собрались программисты-фрилансеры-предприниматели-стартаперы и замутили свою ламповую конфу.
 * [ru_ASUTP](https://t.me/ru_ASUTP) — АСУ ТП: САУ, SCADA, ПЛК и немного умных домов.
 * [ru_CAD](https://t.me/ru_CAD) — САПР.
 * [Секта кнопкопоклонников](https://t.me/ru_mechcult) — Чат странных людей, которые любят ~~механические~~ клавиатуры

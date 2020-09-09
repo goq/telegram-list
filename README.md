@@ -767,6 +767,7 @@
 * [Gravitee](https://t.me/gravitee_ru) — Чат про Gravitee
 * [Keycloak](https://t.me/keycloak_ru) — Чат про Keycloak
 * [Podman](https://t.me/ru_podman) — Чат о Podman
+* [monhouse.tech](https://t.me/monhouse_tech) — Чат про мониторинг и оперативное управление.
 
 [(Назад к меню)](#Меню)
 

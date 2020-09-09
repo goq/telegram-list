@@ -843,8 +843,7 @@
 * [KDE Россия](https://t.me/kde_ru) — Чат русскоязычного сообщества KDE (пользователи и разработчики)
 * [KDE neon users](https://t.me/kdeneon) — English speaking community of KDE neon
 * [Kolibri OS](https://t.me/kolibri_os) — Group about fastest graphical operating system written in assembly.
-* [Linux Mint Russia 🇷🇺](https://t.me/LMRus) — Чат про Linux Mint (Русский)
-* [Linux Mint International](https://t.me/LMInter) — Linux Mint Chat (International)
+* [🍃RU.MINT](https://t.me/ru_mint) — Официальное Русское Сообщество Linux Mint
 * [Linux Mint Україна](https://t.me/linuxmint_com) — Linux Mint Україна. cтрогие правила
 * [Linux Help](https://t.me/grouplinux) — Чат взаимопомощи по линуксу.
 * [Linux чат](https://t.me/linux_wit) — Чат про Linux

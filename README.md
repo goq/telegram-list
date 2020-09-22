@@ -542,7 +542,6 @@
 * [Async Python](https://t.me/python_async) — Обсуждаем асинхронщину в Python
 * [Rude Python](https://t.me/rudepython) — Грубый чат про Python (для мужиков)
 * [OpenTelemetry](https://t.me/ru_opentelemetry) — Observability! Opencensus/OpenTracing/OpenTelemetry/...
-* [Python-programming](https://t.me/py_programming) — Чат про Python
 * [phpGeeks](https://t.me/phpgeeks) — Чат про PHP / php Geeks
 * [phpclub](https://t.me/phpclubru) — Чат про PHP / php Club
 * [prophp](https://t.me/prophp7) — Чат про современный PHP

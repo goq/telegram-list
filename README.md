@@ -289,6 +289,7 @@
 * [Just links](https://t.me/j_links) — That's just link aggregator of everything interesting, especially DL and solid state physics
 * [Graph Machine Learning](https://t.me/graphML) — Graph theory, computer science, machine learning, etc.
 * [Not Boring Tech](https://t.me/notboring_tech) — Канал с интересными статьями и обзорами. Нейросети и прочие интересности
+* [До Джуна. Data science](https://t.me/data_science_do_junior) — Как дойти до позиции junior в data science.
 * [Чаты и группы телеграма по теме](#big-data-Машинное-обучение-deep-learning-и-data-science)
 
 [(Назад к меню)](#Меню)

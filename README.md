@@ -832,6 +832,7 @@
 * [Hack & Crack](https://t.me/hack_cpp) — Hack & Crack CPP
 * [IBM QRadar](https://t.me/QRadarChat) — IBM QRadar SIEM group (EN)
 * [PfSense](https://t.me/ru_pfsense) — Чат про PfSence
+* [MaxPatrol SIEM](https://t.me/MPSIEMChat) — Чат про MaxPatrol SIEM
 
 [(Назад к меню)](#Меню)
 

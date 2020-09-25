@@ -837,6 +837,7 @@
 * [Arch Linux RU](https://t.me/ArchLinuxChatRU) — Анархия!
 * [CentOS](https://t.me/centos_ru) — Чат про CentOS
 * [Debian](https://t.me/DebianRu) — Чат про Debian
+* [elementaryOS](https://t.me/elementaryosuser) — Community of elementary OS users (EN)
 * [Fedora](https://t.me/fedora) — Чат про Fedora (англ.)
 * [Russian Fedora](https://t.me/russianfedora) — Чат про Fedora (рус.)
 * [freebsd_ru](https://t.me/freebsd_ru) — Чат про FreeBSD

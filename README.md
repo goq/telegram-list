@@ -833,6 +833,7 @@
 * [IBM QRadar](https://t.me/QRadarChat) — IBM QRadar SIEM group (EN)
 * [PfSense](https://t.me/ru_pfsense) — Чат про PfSence
 * [MaxPatrol SIEM](https://t.me/MPSIEMChat) — Чат про MaxPatrol SIEM
+* [152-ФЗ и Персональные данные](https://t.me/fz152pdn) — Чат про защиту персональных данных согласно ФЗ 152
 
 [(Назад к меню)](#Меню)
 

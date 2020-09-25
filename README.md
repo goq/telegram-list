@@ -831,6 +831,7 @@
 * [DCG#7812 DEFCON-RUSSIA](https://t.me/DCG7812) — Чат DefCon Санкт-Петербург (+7 812)
 * [Hack & Crack](https://t.me/hack_cpp) — Hack & Crack CPP
 * [IBM QRadar](https://t.me/QRadarChat) — IBM QRadar SIEM group (EN)
+* [PfSense](https://t.me/ru_pfsense) — Чат про PfSence
 
 [(Назад к меню)](#Меню)
 

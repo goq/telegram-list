@@ -830,6 +830,7 @@
 * [WebPwnChat](https://t.me/WebPwnChat) — Чат про уязвимости и атаки на веб-приложения.
 * [DCG#7812 DEFCON-RUSSIA](https://t.me/DCG7812) — Чат DefCon Санкт-Петербург (+7 812)
 * [Hack & Crack](https://t.me/hack_cpp) — Hack & Crack CPP
+* [IBM QRadar](https://t.me/QRadarChat) — IBM QRadar SIEM group (EN)
 
 [(Назад к меню)](#Меню)
 

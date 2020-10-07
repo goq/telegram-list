@@ -195,7 +195,9 @@
 * [NEWS Flutter Dev Podcast](https://t.me/flutterdevpodcast_news) — Flutter Dev Podcast.
 * [Библиотека C/C++ разработчика](https://t.me/cppproglib) — Полезные материалы по всему, что может быть полезно плюсовику/сишнику.
 * [PowerShells](https://t.me/PowerShells) — PowerShell. Новости, события, репозитории, книги и видео.
-* [Python Заметки](https://t.me/pythonotes) — Интересные заметки и обучающие материалы по Python
+* [Python Заметки](https://t.me/pythonotes) — Интересные заметки и обучающие материалы по Python.
+* [Новый подкаст (2)_после правок.final.doc](https://t.me/newpodcast2) - Канал подкаста "Новый подкаст (2)_после правок.final.doc".
+* [Новый подкаст (2)_после правок.final.doc.chat](https://t.me/newpodcast2chat) - Час подкаста "Новый подкаст (2)_после правок.final.doc".
 
 [(Назад к меню)](#Меню)
 

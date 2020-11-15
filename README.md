@@ -552,6 +552,7 @@
 * [PowerShellRus](https://t.me/powershellrus) — О Powershell на русском
 * [Powershell Ru](https://t.me/ru_powershell) — Ещё один чат про PowerShell
 * [PureBasicRU](https://t.me/purebasicru) — Чат про PureBasic
+* [PureScript](https://t.me/purescript_ru) — Чат про язык программирования PureScript
 * [R language](https://t.me/rlang_ru) — Язык программирования R, статистика и машинное обучение/data mining
 * [ReasonML и OCaml](https://t.me/reasonml_ru) — Чат про ReasonML и OCaml
 * [Ruby & RoR](https://t.me/rubylang) — Чат про Ruby и Ruby on Rails
@@ -978,6 +979,8 @@
 [(Назад к меню)](#Меню)
 
 ##### Разные IT-сообщества
+* [Мы обречены (канал)](https://t.me/myobrechenychannel) — Канал подкаста про выгорание и айти
+* [Мы обречены (чат)](https://t.me/myobrecheny) — Чат подкаста про выгорание и айти
 * [IT PPL](https://t.me/spbitpeople) — IT People: общение айтишников и про айти, и не про айти ;-)
 * [SPbLUG chat](https://t.me/spblug_chat) — Saint Petersburg Linux talks (неофициальный чат SPbLUG)
 * [Chaos Construction](https://t.me/chaosconstructions) — Chaos Construction Санкт-Петербург

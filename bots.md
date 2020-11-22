@@ -98,8 +98,8 @@
 * [@pikabubestbot](https://t.me/pikabubestbot) — Бот пикабу
 * [@arbeit_bot](https://t.me/arbeit_bot) — Opensourсe freelance биржа [arbeitbot](https://arbeitbot.com/)
 * [@xorappbot](https://t.me/xorappbot) — Frelance биржа [xor.ai](https://www.xor.ai/).
-* [@passgenbot](https://t.me/passgenbot) — Генератор [человекопонятных](http://xkcd.com/936/) паролей.
-* [@bashim_bot](https://t.me/bashim_bot) — Случайные цитаты с сайта [bash.im](http://bash.im) (+ поиск в инлайн-режиме)
+* [@passgenbot](https://t.me/passgenbot) — Генератор [человекопонятных](https://xkcd.com/936/) паролей.
+* [@bashim_bot](https://t.me/bashim_bot) — Случайные цитаты с сайта [bash.im](https://bash.im) (+ поиск в инлайн-режиме)
 * [@SocialSaveBot](https://t.me/SocialSaveBot) — Позволяет сохранить фотографии из инстаграма
 * [@tlgurbot](https://t.me/tlgurbot) — Предоставляет доступ по http к файлам из Телеграма.
 * [@EinfoBot](https://t.me/EinfoBot) — Бот, который ищет электронные компоненты и интегрирован в поисковую систему.

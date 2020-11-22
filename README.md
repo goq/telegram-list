@@ -279,7 +279,7 @@
 * [WebAnalytics](https://t.me/webanalyst) — Канал про веб-аналитику, по повышению конверсии и про анализ данных в маркетинге
 * [BigQuery Insights](https://t.me/bigquery) — Аналитика и большие данные в Google BigQuery, инсайты, data science, UX / WEB analytics, big data, digital marketing.
 * [Boring Berlin Scientist](https://t.me/boberscience) — Useful articles about Data Science, Machine Learning, Data Engineering and not only.
-* [Machine Learning World](http://t.me/ml_world) — Все по Data Science и Machine Learning
+* [Machine Learning World](https://t.me/ml_world) — Все по Data Science и Machine Learning
 * [мамкин Data Scientist](https://t.me/mommyscience) — тернистый путь в data science, личный экспирианс
 * [Neural Networks Engineering](https://t.me/neural_network_engineering) — Авторский канал про нейронные сети в NLP
 * [Machinelearning](https://t.me/ai_machinelearning_big_data) — Актуальная информация из мира ML, нейронных сетей, DI
@@ -309,7 +309,7 @@
 * [Записки админа](https://t.me/SysadminNotes) — Статьи, рекомендации мысли про администрирование серверов
 * [i_odmin](https://t.me/i_odmin) — Канал про сисадминов
 * [DevOps40.ru](https://t.me/devops40) — Канал новостей DevOps 40. Анонсы мероприятий, статьи, книги.
-* [WindowsITPro - winitpro.ru](https://t.me/winitpro_ru) — Канал сайта http://winitpro.ru про настройку и оптимизацию Windows, Active Directory, GPO, PowerShell, Linux. Виртуализацию Hyper-V, VMWare.
+* [WindowsITPro - winitpro.ru](https://t.me/winitpro_ru) — Канал сайта [winitpro.ru](https://winitpro.ru) про настройку и оптимизацию Windows, Active Directory, GPO, PowerShell, Linux. Виртуализацию Hyper-V, VMWare.
 * [Технологический Болт Генона](https://t.me/tech_b0lt_Genona) — Заметки и записки про DevOps, DevSecOps, безопасность.
 
 [(Назад к меню)](#Меню)
@@ -791,7 +791,7 @@
 * [SQL_Ninja](https://t.me/sql_ninja) — Флудильня SqlCom
 * [PostGIS](https://t.me/postgis) — Обсуждения PostGIS (поддержка географических объектов в PostgreSQL)
 * [PostgresChat](https://t.me/postgreschat) — Чат про PostgreSQL (english)
-* [pgCodeKeeper](https://t.me/pgcodekeeper) — Чат поддержки [opensource](https://github.com/pgcodekeeper/pgcodekeeper) проекта [pgCodeKeeper](http://pgcodekeeper.org)
+* [pgCodeKeeper](https://t.me/pgcodekeeper) — Чат поддержки [opensource](https://github.com/pgcodekeeper/pgcodekeeper) проекта [pgCodeKeeper](https://pgcodekeeper.org)
 * [Oracle RU](https://t.me/oracle_ru) — Чат про Oracle
 * [Scylla DB](https://t.me/ru_scylladb) — Чат про ScyllaDB
 * [dbmsdev](https://t.me/dbmsdev) — Чат о разработке СУБД

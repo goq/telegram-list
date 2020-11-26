@@ -999,6 +999,7 @@
 * [Просто о BIM](https://t.me/prostobim) — Обсуждение информационного моделирования зданий
 * [Ender-3 Russian users](https://t.me/ender_3) — Чат о 3D принтере Ender 3
 * [HARD TALK. CG Железо, компы, разгон](https://t.me/HARD_TALK) — CG Железо, компы, разгон
+* [Hardcore Development](https://t.me/joinchat/CAhDYERJVDxYlqInXLe9gQ) — Hardcore Development Team. No bullshit. FP, RP.
 
 [(Назад к меню)](#Меню)
 

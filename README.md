@@ -115,7 +115,8 @@
 * [Экстраполяция IT](https://t.me/itextrapolation) — Авторский канал об IT, аутсорсе, продуктах и программировании.
 * [iOS Good Reads](https://t.me/iosgr) — Ежедневная порция материалов по iOS разработке
 * [Android Good Reads](https://t.me/droidgr) — Ежедневная порция материалов по Android разработке
-* [Сообщество phpland](https://t.me/phpland) — Официальный канал сообщества phpland (PHP, MySQL, CSS, HTML, Ubuntu-Linux).
+* [protonalex](https://t.me/protonalex) — Коллекция качественных материалов для тех, кто любит создавать веб-сайты и веб-приложения (PHP, MySQL, CSS, HTML).
+* [protonduck](https://t.me/protonduck) — Коллекция качественных материалов для тех, кто любит Linux.
 * [devdigect // netcore](https://t.me/dncuug) — ежедневный дайджест новостей посвященных разработке на платформе .NET Core. Поддерживается сообществом .NET Core Ukrainian User Group.
 * [devdigect // xamarin](https://t.me/xamarin_digest) —  дайджест новостей посвященных мобильной разработке с использованием Xamarin.
 * [devdigect // azure](https://t.me/azure_digest) —  дайджест новостей посвященных облачной платформе Microsoft Azure.

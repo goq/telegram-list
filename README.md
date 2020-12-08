@@ -792,7 +792,6 @@
 ##### Big Data, Машинное обучение, deep learning и data science
 * [Big Data & Machine Learning](https://t.me/bigdata_ru) — Чат по большим данным, обработке и машинному обучению
 * [Data Science / AI / ML / Big Data](https://t.me/bigdata_en) — All about Data Science: AI, Big Data, Machine Learning, and how to cook it right. English.
-* [Data Science Chat](https://t.me/datasciencechat) — Чат по теме Data Science
 * [Data Engineers](https://t.me/hadoopusers) — Чат про Spark, Hadoop, Yarn, Mesos, и т.п.
 * [Нейронные сети](https://t.me/joinchat/ABI4pz6rz2iVzWUzaVqpmA) — Чат про нейронные сети
 * [NLP_RU Natural Language Processing](https://t.me/nlp_ru) — Чат про Natural Language Processing и Text Mining
@@ -802,6 +801,7 @@
 * [Catboost_ru](https://t.me/catboost_ru) — Русскоязыный чат библиотеки CatBoost (англ. чат [Catboost_en](https://t.me/catboost_en))
 * [Natural Language Processing](https://t.me/natural_language_processing) — Чат про Natural Language Processing
 * [Распознавание речи](https://t.me/speech_recognition_ru) — Распознавание, синтез речи и речевые технологии
+* [DL in NLP discussion group](https://t.me/dlinnlp_discuss) — Чат про DL in NLP (МФТИ)
 
 [(Назад к меню)](#Меню)
 

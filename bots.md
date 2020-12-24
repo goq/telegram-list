@@ -81,6 +81,7 @@
 [(Назад к меню)](#Разделы)
 
 ##### Прочие боты
+* [@AkinatorBot](https://t.me/AkinatorBot) - Акинатор бот, угадывает персонажей по наводящим вопросам. Оффициальный порт https://akinator.com/.
 * [@Lingvanexbot](https://t.me/lingvanexbot) - Переводчик на основе нейросетей для более чем 50 языков.
 * [Yandex Image Search](https://t.me/pic) — Бот поиска картинок от Яндекса. Inline
 * [Yandex.Translate](https://t.me/YTranslateBot) - Бот-переводчик от Яндекса

@@ -81,7 +81,6 @@
 [(Назад к меню)](#Разделы)
 
 ##### Прочие боты
-* [@AkinatorBot](https://t.me/AkinatorBot) - Акинатор бот, угадывает персонажей по наводящим вопросам. Оффициальный порт https://akinator.com/.
 * [@Lingvanexbot](https://t.me/lingvanexbot) - Переводчик на основе нейросетей для более чем 50 языков.
 * [Yandex Image Search](https://t.me/pic) — Бот поиска картинок от Яндекса. Inline
 * [Yandex.Translate](https://t.me/YTranslateBot) - Бот-переводчик от Яндекса
@@ -124,6 +123,7 @@
 * [@cloud_convert_bot](https://t.me/cloud_convert_bot) - Конвертер различных форматов файлов
 * [@Ya_Disk_Bot](https://t.me/Ya_Disk_Bot) - Интеграция сервиса "Яндекс.Диск" в Telegram. Например, загрузка файлов (фото, видео, аудио и т.п.) на Яндекс.Диск.
 * [@MathCalcBot](t.me/MathCalcBot) — Поможет быстро что-то подсчитать. Работает inline
+* [@AkinatorBot](https://t.me/AkinatorBot) - Акинатор бот, угадывает персонажей по наводящим вопросам.
 
 [(Назад к меню)](#Разделы)
 

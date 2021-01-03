@@ -558,7 +558,7 @@
 * [embedded.rs](https://t.me/embedded_rs) — Чат про Embedded на Rust
 * [Scala](https://t.me/scala_ru) — Чат про Scala
 * [Scala PONV](https://t.me/scala_ponv) — Неформальный чат про Scala, FP, и не только
-* [TypeScript + Flow = ❤](https://t.me/typescript_ru) — Чат про TypeScript и Flow
+* [TypeScript + Flow = ❤](https://t.me/ts_ru) — Чат про TypeScript и Flow
 * [(F|R|FR)P](https://t.me/frp_ru) — Функциональное Реактивное Программирование
 * [ReactiveX](https://t.me/reactivex) — Про реактивное программирование
 * [Functional Programming](https://t.me/fp_ru) — Чат любителей функциональных языков программирования

@@ -740,6 +740,7 @@
 * [OpenWRT/LEDE RU](https://t.me/openwrt_ru) — Чат про OpenWRT/LEDE, свободную прошивку для роутеров
 * [nginx_ru](@nginx_ru) — Сообщество пользователей nginx
 * [SysOps](https://t.me/sysopschannel) — Канал одноименного блога [SysOps](https://jtprog.ru/) о системном администрировании и около него
+* [debian.pro](https://t.me/debian_pro) - Канал в дополнение к блогу [Debian.pro](https://debian.pro), в основном про системное администрирование
 
 [(Назад к меню)](#Меню)
 

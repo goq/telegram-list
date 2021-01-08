@@ -494,8 +494,8 @@
 
 ##### Языки программирования
 * [SAP ABAP](https://t.me/sapabap) — Чат про ABAP
-* [Ассемблер](https://t.me/ChatAssembler) — Чат про Assembler (молодой, активный)
-* [pro.asm](https://t.me/proasm) — Чат про Assembler (более тихий)
+* [Ассемблер](https://t.me/ChatAssembler) — Чат про Assembler
+* [pro.asm](https://t.me/proasm) — Чат про Assembler
 * [AutoIT RU](https://t.me/AutoIT_RU) — Чат про AutoIT
 * [Autohotkey_RU](https://t.me/AutoHotkey_RU) — Чат про Autohotkey
 * [pro.cxx](https://t.me/ProCxx) — Чат про С++

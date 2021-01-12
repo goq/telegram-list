@@ -623,6 +623,7 @@
 * [SublimeText_RU](https://t.me/SublimeText_RU) — Чат про SublimeText
 * [opencv_ru](https://t.me/opencv_ru) — Чат про OpenCV
 * [OpenLayers](https://t.me/openlayers_ru) — Чат про картографическую библиотеку OpenLayers
+* [Tarantool PHP](https://t.me/tarantool_php) — Сообщество PHP-разработчиков использующих Тarantool 
 * [Vapor3+, Server Side Swift](https://t.me/server_side_swift) — Чат про Vapor Swift, Server-Side-Swift, Kitura и Perfect и IBM
 * [pro.hibernate](https://t.me/hibernatechat) — Чат про Hibernate.
 * [pro.kafka](https://t.me/proKafka) — Чат про Apache Kafka.

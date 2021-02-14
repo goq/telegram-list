@@ -791,7 +791,8 @@
 * [Oracle RU](https://t.me/oracle_ru) — Чат про Oracle
 * [Scylla DB](https://t.me/ru_scylladb) — Чат про ScyllaDB
 * [dbmsdev](https://t.me/dbmsdev) — Чат о разработке СУБД
-* [Разработка СУБД](https://t.me/dev_dbms_ru) — Чат разработчиков СУБД
+* [Разработка СУБД](https://t.me/teradata_ru) — Чат по Teradata
+* [Teradata RU]
 
 [(Назад к меню)](#Меню)
 

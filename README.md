@@ -489,6 +489,7 @@
 * [Осмыслить и забыть](https://t.me/karmind) — Личный блог Java-разработчика обо всём, кроме Java-разработки.
 * [Вадим Филимонов](https://t.me/filimonovvadim) — Авторский канал с заметками о вебе.
 * [Искушённый Dev - Coding with Max](https://t.me/seasoneddevru) - Регулярный авторский блог Fullstack разработчика (видео, дайджест, заметки).
+* [Gamedev suffering](https://t.me/gamedev_suffering) - Авторский блог [Андрея Апанасика](https://suvitruf.ru) про разработку игр.
 
 [(Назад к меню)](#Меню)
 

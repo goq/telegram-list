@@ -237,6 +237,8 @@
 * [PiterJS](https://t.me/piterjs) — Митап про JavaScript в Санкт-Петербурге
 * [$mol: Новости](https://t.me/mol_news) — Новости о фреймворке $mol, экосистеме MAM и основанных на них проектах.
 * [Web Coder Notes](https://t.me/webcodernotes) - Профессионалам и любителям веб разработки: заметки, статьи, новости
+* [React Уроки](https://t.me/react_it) — Канал с новостями и интересными материалами про React
+* [Vue Уроки](https://t.me/vue_it) — Канал с уроками и новостями про Vue
 
 [(Назад к меню)](#Меню)
 
@@ -306,6 +308,7 @@
 * [DevOps40.ru](https://t.me/devops40) — Канал новостей DevOps 40. Анонсы мероприятий, статьи, книги.
 * [WindowsITPro - winitpro.ru](https://t.me/winitpro_ru) — Канал сайта [winitpro.ru](https://winitpro.ru) про настройку и оптимизацию Windows, Active Directory, GPO, PowerShell, Linux. Виртуализацию Hyper-V, VMWare.
 * [Технологический Болт Генона](https://t.me/tech_b0lt_Genona) — Заметки и записки про DevOps, DevSecOps, безопасность.
+* [ServerAdmin.ru](https://t.me/srv_admin) — Авторская информация о системном администрировании и devops от владельца сайта serveradmin.ru.
 * [OrangeDevOps](https://t.me/orangedevops) — ссылки на статьи, видео, другие каналы и личный опыт по теме DevOps (сети, мониторинг и логирование, nginx, инфраструктуру как код, CI/CD, Docker, базы данных, git, kubernetes, облака, ну и конечно Linux).
 
 [(Назад к меню)](#Меню)
@@ -488,6 +491,7 @@
 * [Осмыслить и забыть](https://t.me/karmind) — Личный блог Java-разработчика обо всём, кроме Java-разработки.
 * [Вадим Филимонов](https://t.me/filimonovvadim) — Авторский канал с заметками о вебе.
 * [Искушённый Dev - Coding with Max](https://t.me/seasoneddevru) - Регулярный авторский блог Fullstack разработчика (видео, дайджест, заметки).
+* [Gamedev suffering](https://t.me/gamedev_suffering) - Авторский блог [Андрея Апанасика](https://suvitruf.ru) про разработку игр.
 
 [(Назад к меню)](#Меню)
 
@@ -973,7 +977,7 @@
 * [SPbLUG chat](https://t.me/spblug_chat) — Saint Petersburg Linux talks (неофициальный чат SPbLUG)
 * [Chaos Construction](https://t.me/chaosconstructions) — Chaos Construction Санкт-Петербург
 * [PiterPy Conf](https://t.me/piterpy) — Петербургская конференция для разработчиков мира Python
-* [Погромисты-трактористы](https://t.me/pogromisty) — Опыт миграции в другие страны, вакансии
+* [Погромисты-трактористы](https://t.me/pogromista) — Чат флудилка мигрировавших IT специалистов
 * [QA](https://t.me/qa_ru) — Чат русскоязычного сообщества тестировщиков
 * [Remote workers & Freelancers](https://t.me/ru_freelancers) — Чат про удаленную работу и самозанятость
 * [ru_ASUTP](https://t.me/ru_ASUTP) — АСУ ТП: САУ, SCADA, ПЛК и немного умных домов.

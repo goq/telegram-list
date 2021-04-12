@@ -309,6 +309,7 @@
 * [WindowsITPro - winitpro.ru](https://t.me/winitpro_ru) — Канал сайта [winitpro.ru](https://winitpro.ru) про настройку и оптимизацию Windows, Active Directory, GPO, PowerShell, Linux. Виртуализацию Hyper-V, VMWare.
 * [Технологический Болт Генона](https://t.me/tech_b0lt_Genona) — Заметки и записки про DevOps, DevSecOps, безопасность.
 * [ServerAdmin.ru](https://t.me/srv_admin) — Авторская информация о системном администрировании и devops от владельца сайта serveradmin.ru.
+* [OrangeDevOps](https://t.me/orangedevops) — ссылки на статьи, видео, другие каналы и личный опыт по теме DevOps (сети, мониторинг и логирование, nginx, инфраструктуру как код, CI/CD, Docker, базы данных, git, kubernetes, облака, ну и конечно Linux).
 
 [(Назад к меню)](#Меню)
 

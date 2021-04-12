@@ -34,7 +34,8 @@
 * [@GitHubBot](https://t.me/GitHubBot) — Интеграция GitHub в телеграм
 * [@integram_bot](https://t.me/integram_bot) — Интеграция разных сервисов по разработке ПО в телеграм
 * [@trello_bot](https://t.me/trello_bot) — Интеграция всемирно известной Канбан доски в телеграм
-* [@ShowJsonBot](https:/t.me/ShowJsonBot) - Бот пришлёт информацию об оправленном сообщении в JSON
+* [@ShowJsonBot](https://t.me/ShowJsonBot) - Бот пришлёт информацию об оправленном сообщении в JSON
+* [@purl2bot](https://t.me/purl2bot) - Бот публикует файл изображения или снимок экрана из буфера обмена и предоставляет публичную ссылку на него. Сервис может быть полезным техническим писателям и разработчикам документации.
 
 [(Назад к меню)](#Разделы)
 
@@ -98,8 +99,8 @@
 * [@pikabubestbot](https://t.me/pikabubestbot) — Бот пикабу
 * [@arbeit_bot](https://t.me/arbeit_bot) — Opensourсe freelance биржа [arbeitbot](https://arbeitbot.com/)
 * [@xorappbot](https://t.me/xorappbot) — Frelance биржа [xor.ai](https://www.xor.ai/).
-* [@passgenbot](https://t.me/passgenbot) — Генератор [человекопонятных](http://xkcd.com/936/) паролей.
-* [@bashim_bot](https://t.me/bashim_bot) — Случайные цитаты с сайта [bash.im](http://bash.im) (+ поиск в инлайн-режиме)
+* [@passgenbot](https://t.me/passgenbot) — Генератор [человекопонятных](https://xkcd.com/936/) паролей.
+* [@bashim_bot](https://t.me/bashim_bot) — Случайные цитаты с сайта [bash.im](https://bash.im) (+ поиск в инлайн-режиме)
 * [@SocialSaveBot](https://t.me/SocialSaveBot) — Позволяет сохранить фотографии из инстаграма
 * [@tlgurbot](https://t.me/tlgurbot) — Предоставляет доступ по http к файлам из Телеграма.
 * [@EinfoBot](https://t.me/EinfoBot) — Бот, который ищет электронные компоненты и интегрирован в поисковую систему.
@@ -123,6 +124,9 @@
 * [@cloud_convert_bot](https://t.me/cloud_convert_bot) - Конвертер различных форматов файлов
 * [@Ya_Disk_Bot](https://t.me/Ya_Disk_Bot) - Интеграция сервиса "Яндекс.Диск" в Telegram. Например, загрузка файлов (фото, видео, аудио и т.п.) на Яндекс.Диск.
 * [@MathCalcBot](t.me/MathCalcBot) — Поможет быстро что-то подсчитать. Работает inline
+* [@AkinatorBot](https://t.me/AkinatorBot) - Акинатор бот, угадывает персонажей по наводящим вопросам.
+* [@Google_itBot](https://t.me/Google_itBot) - Inline Бот для поиска в Google (текст, картинки), поиск видео в YouTube.
+* [@maigret_osint_bot](https://t.me/maigret_osint_bot) - Поиск аккаунтов по никнейму на более чем 1300 сайтах.
 
 [(Назад к меню)](#Разделы)
 

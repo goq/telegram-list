@@ -193,6 +193,7 @@
 * [Библиотека C/C++ разработчика](https://t.me/cppproglib) — Полезные материалы по всему, что может быть полезно плюсовику/сишнику.
 * [PowerShells](https://t.me/PowerShells) — PowerShell. Новости, события, репозитории, книги и видео.
 * [Python Заметки](https://t.me/pythonotes) — Интересные заметки и обучающие материалы по Python
+* [Пингвин кодит](https://t.me/penguinCoding) — Авторский блогоканал про кодинг.
 * [Zen of Python](https://t.me/zen_of_python) — Полный Дзен Пайтона в одном канале.
 * [Точка входа в программирование](https://t.me/prog_point) — Фундаментальные знания по основам программирования.
 * [Мобильная разработка](https://t.me/mobi_dev) — Всё самое актуальное по мобильной разработке: Android, iOS, кроссплатформа.
@@ -241,6 +242,8 @@
 * [PiterJS](https://t.me/piterjs) — Митап про JavaScript в Санкт-Петербурге
 * [$mol: Новости](https://t.me/mol_news) — Новости о фреймворке $mol, экосистеме MAM и основанных на них проектах.
 * [Web Coder Notes](https://t.me/webcodernotes) - Профессионалам и любителям веб разработки: заметки, статьи, новости
+* [React Уроки](https://t.me/react_it) — Канал с новостями и интересными материалами про React
+* [Vue Уроки](https://t.me/vue_it) — Канал с уроками и новостями про Vue
 * [Веб-страница](https://t.me/tproger_web) — Всё по фронтенду, бэкенду и девопсу на одной странице.
 
 [(Назад к меню)](#Меню)
@@ -311,6 +314,8 @@
 * [DevOps40.ru](https://t.me/devops40) — Канал новостей DevOps 40. Анонсы мероприятий, статьи, книги.
 * [WindowsITPro - winitpro.ru](https://t.me/winitpro_ru) — Канал сайта [winitpro.ru](https://winitpro.ru) про настройку и оптимизацию Windows, Active Directory, GPO, PowerShell, Linux. Виртуализацию Hyper-V, VMWare.
 * [Технологический Болт Генона](https://t.me/tech_b0lt_Genona) — Заметки и записки про DevOps, DevSecOps, безопасность.
+* [ServerAdmin.ru](https://t.me/srv_admin) — Авторская информация о системном администрировании и devops от владельца сайта serveradmin.ru.
+* [OrangeDevOps](https://t.me/orangedevops) — ссылки на статьи, видео, другие каналы и личный опыт по теме DevOps (сети, мониторинг и логирование, nginx, инфраструктуру как код, CI/CD, Docker, базы данных, git, kubernetes, облака, ну и конечно Linux).
 
 [(Назад к меню)](#Меню)
 
@@ -489,6 +494,10 @@
 * [IT Daily Blog](https://t.me/itdailyblog) — IT Daily. Работа программиста день за днём. Об IT изнутри.
 * [Иван Акулов про разработку](https://t.me/iamakulov_channel) — JS, React, веб-перформанс, разработка и архитектура от Ивана Акулова
 * [johenews](https://t.me/johenews) — Очень хороший авторский канал про IT. Обзоры, аналитика, новости.
+* [Осмыслить и забыть](https://t.me/karmind) — Личный блог Java-разработчика обо всём, кроме Java-разработки.
+* [Вадим Филимонов](https://t.me/filimonovvadim) — Авторский канал с заметками о вебе.
+* [Искушённый Dev - Coding with Max](https://t.me/seasoneddevru) - Регулярный авторский блог Fullstack разработчика (видео, дайджест, заметки).
+* [Gamedev suffering](https://t.me/gamedev_suffering) - Авторский блог [Андрея Апанасика](https://suvitruf.ru) про разработку игр.
 
 [(Назад к меню)](#Меню)
 
@@ -498,6 +507,7 @@
 
 ##### Языки программирования
 * [SAP ABAP](https://t.me/sapabap) — Чат про ABAP
+* [Ассемблер](https://t.me/ChatAssembler) — Чат про Assembler
 * [pro.asm](https://t.me/proasm) — Чат про Assembler
 * [AutoIT RU](https://t.me/AutoIT_RU) — Чат про AutoIT
 * [Autohotkey_RU](https://t.me/AutoHotkey_RU) — Чат про Autohotkey
@@ -562,7 +572,7 @@
 * [embedded.rs](https://t.me/embedded_rs) — Чат про Embedded на Rust
 * [Scala](https://t.me/scala_ru) — Чат про Scala
 * [Scala PONV](https://t.me/scala_ponv) — Неформальный чат про Scala, FP, и не только
-* [TypeScript + Flow = ❤](https://t.me/typescript_ru) — Чат про TypeScript и Flow
+* [TypeScript + Flow = ❤](https://t.me/ts_ru) — Чат про TypeScript и Flow
 * [(F|R|FR)P](https://t.me/frp_ru) — Функциональное Реактивное Программирование
 * [ReactiveX](https://t.me/reactivex) — Про реактивное программирование
 * [Functional Programming](https://t.me/fp_ru) — Чат любителей функциональных языков программирования
@@ -626,6 +636,7 @@
 * [SublimeText_RU](https://t.me/SublimeText_RU) — Чат про SublimeText
 * [opencv_ru](https://t.me/opencv_ru) — Чат про OpenCV
 * [OpenLayers](https://t.me/openlayers_ru) — Чат про картографическую библиотеку OpenLayers
+* [Tarantool PHP](https://t.me/tarantool_php) — Сообщество PHP-разработчиков использующих Тarantool 
 * [Vapor3+, Server Side Swift](https://t.me/server_side_swift) — Чат про Vapor Swift, Server-Side-Swift, Kitura и Perfect и IBM
 * [pro.hibernate](https://t.me/hibernatechat) — Чат про Hibernate.
 * [pro.kafka](https://t.me/proKafka) — Чат про Apache Kafka.
@@ -972,7 +983,7 @@
 * [SPbLUG chat](https://t.me/spblug_chat) — Saint Petersburg Linux talks (неофициальный чат SPbLUG)
 * [Chaos Construction](https://t.me/chaosconstructions) — Chaos Construction Санкт-Петербург
 * [PiterPy Conf](https://t.me/piterpy) — Петербургская конференция для разработчиков мира Python
-* [Погромисты-трактористы](https://t.me/pogromisty) — Опыт миграции в другие страны, вакансии
+* [Погромисты-трактористы](https://t.me/pogromista) — Чат флудилка мигрировавших IT специалистов
 * [QA](https://t.me/qa_ru) — Чат русскоязычного сообщества тестировщиков
 * [Remote workers & Freelancers](https://t.me/ru_freelancers) — Чат про удаленную работу и самозанятость
 * [ru_ASUTP](https://t.me/ru_ASUTP) — АСУ ТП: САУ, SCADA, ПЛК и немного умных домов.

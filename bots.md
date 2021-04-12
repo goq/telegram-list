@@ -34,7 +34,8 @@
 * [@GitHubBot](https://t.me/GitHubBot) — Интеграция GitHub в телеграм
 * [@integram_bot](https://t.me/integram_bot) — Интеграция разных сервисов по разработке ПО в телеграм
 * [@trello_bot](https://t.me/trello_bot) — Интеграция всемирно известной Канбан доски в телеграм
-* [@ShowJsonBot](https:/t.me/ShowJsonBot) - Бот пришлёт информацию об оправленном сообщении в JSON
+* [@ShowJsonBot](https://t.me/ShowJsonBot) - Бот пришлёт информацию об оправленном сообщении в JSON
+* [@purl2bot](https://t.me/purl2bot) - Бот публикует файл изображения или снимок экрана из буфера обмена и предоставляет публичную ссылку на него. Сервис может быть полезным техническим писателям и разработчикам документации.
 
 [(Назад к меню)](#Разделы)
 
@@ -123,6 +124,9 @@
 * [@cloud_convert_bot](https://t.me/cloud_convert_bot) - Конвертер различных форматов файлов
 * [@Ya_Disk_Bot](https://t.me/Ya_Disk_Bot) - Интеграция сервиса "Яндекс.Диск" в Telegram. Например, загрузка файлов (фото, видео, аудио и т.п.) на Яндекс.Диск.
 * [@MathCalcBot](t.me/MathCalcBot) — Поможет быстро что-то подсчитать. Работает inline
+* [@AkinatorBot](https://t.me/AkinatorBot) - Акинатор бот, угадывает персонажей по наводящим вопросам.
+* [@Google_itBot](https://t.me/Google_itBot) - Inline Бот для поиска в Google (текст, картинки), поиск видео в YouTube.
+* [@maigret_osint_bot](https://t.me/maigret_osint_bot) - Поиск аккаунтов по никнейму на более чем 1300 сайтах.
 
 [(Назад к меню)](#Разделы)
 

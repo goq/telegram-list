@@ -308,6 +308,7 @@
 * [DevOps40.ru](https://t.me/devops40) — Канал новостей DevOps 40. Анонсы мероприятий, статьи, книги.
 * [WindowsITPro - winitpro.ru](https://t.me/winitpro_ru) — Канал сайта [winitpro.ru](https://winitpro.ru) про настройку и оптимизацию Windows, Active Directory, GPO, PowerShell, Linux. Виртуализацию Hyper-V, VMWare.
 * [Технологический Болт Генона](https://t.me/tech_b0lt_Genona) — Заметки и записки про DevOps, DevSecOps, безопасность.
+* [ServerAdmin.ru](https://t.me/srv_admin) — Авторская информация о системном администрировании и devops от владельца сайта serveradmin.ru.
 
 [(Назад к меню)](#Меню)
 

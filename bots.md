@@ -126,6 +126,7 @@
 * [@MathCalcBot](t.me/MathCalcBot) — Поможет быстро что-то подсчитать. Работает inline
 * [@AkinatorBot](https://t.me/AkinatorBot) - Акинатор бот, угадывает персонажей по наводящим вопросам.
 * [@Google_itBot](https://t.me/Google_itBot) - Inline Бот для поиска в Google (текст, картинки), поиск видео в YouTube.
+* [@maigret_osint_bot](https://t.me/maigret_osint_bot) - Поиск аккаунтов по никнейму на более чем 1300 сайтах.
 
 [(Назад к меню)](#Разделы)
 

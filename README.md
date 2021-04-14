@@ -600,6 +600,7 @@
 * [Laravel Oficial](https://t.me/laravel_pro) — Чат про Laravel (официальный?)
 * [Laravel Russia](https://t.me/laravelrus) — Чат про Laravel
 * [Laravel для начинающих](https://t.me/laravel_web) — Чат про Laravel для начинающих
+* [October CMS](https://t.me/octobercms_rus) — Сообщество разработчиков и пользователей OctoberCMS в рунете
 * [Yii Framework 1.1](https://t.me/yii1ru) — Чат про Yii 1.1
 * [Yii Framework 2](https://t.me/yii2ru) — Чат про Yii 2
 * [Yii Framework 3](https://t.me/yii3ru) — Чат про Yii 3

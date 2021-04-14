@@ -1018,7 +1018,6 @@
 * [#Вайти](https://t.me/hashtag_whity) — Чат-школа самообучения программистов
 * [LibreOfficeRU](https://t.me/libreofficeru) — Группа для российских пользователей LibreOffice
 * [Операторы мобильной связи](https://t.me/opsosru) — Обсуждение операторов сотовой связи
-* [Эльбрусы и с чем их едят](https://t.me/e2k_chat) — Чат про администрирование и создание программ на платформе Эльбрус
 * [Просто о BIM](https://t.me/prostobim) — Обсуждение информационного моделирования зданий
 * [Ender-3 Russian users](https://t.me/ender_3) — Чат о 3D принтере Ender 3
 * [HARD TALK. CG Железо, компы, разгон](https://t.me/HARD_TALK) — CG Железо, компы, разгон

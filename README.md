@@ -317,7 +317,7 @@
 * [Технологический Болт Генона](https://t.me/tech_b0lt_Genona) — Заметки и записки про DevOps, DevSecOps, безопасность.
 * [ServerAdmin.ru](https://t.me/srv_admin) — Авторская информация о системном администрировании и devops от владельца сайта serveradmin.ru.
 * [OrangeDevOps](https://t.me/orangedevops) — ссылки на статьи, видео, другие каналы и личный опыт по теме DevOps (сети, мониторинг и логирование, nginx, инфраструктуру как код, CI/CD, Docker, базы данных, git, kubernetes, облака, ну и конечно Linux).
-* [SysOps](https://t.me/sysopschannel) — Канал одноименного блога [SysOps](https://jtprog.ru) о системном администрировании, DevOps, SRE и около того
+* [SysOps](https://t.me/sysopschannel) — Канал о системном администрировании, DevOps, SRE и около того
 
 [(Назад к меню)](#Меню)
 
@@ -757,7 +757,7 @@
 * [Серверное администрирование](https://t.me/srv_admins) — Чат про администрирование.
 * [OpenWRT/LEDE RU](https://t.me/openwrt_ru) — Чат про OpenWRT/LEDE, свободную прошивку для роутеров
 * [nginx_ru](@nginx_ru) — Сообщество пользователей nginx
-* [ЧАТ: SysOps](https://t.me/sysopschat) — Чат канала [SysOps](https://t.me/sysopschannel) о системном администрировании, DevOps, SRE и около того
+* [ЧАТ: SysOps](https://t.me/sysopschat) — Чат о системном администрировании, DevOps, SRE и около того
 
 [(Назад к меню)](#Меню)
 

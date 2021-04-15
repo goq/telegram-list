@@ -814,6 +814,7 @@
 * [Scylla DB](https://t.me/ru_scylladb) — Чат про ScyllaDB
 * [dbmsdev](https://t.me/dbmsdev) — Чат о разработке СУБД
 * [Разработка СУБД](https://t.me/dev_dbms_ru) — Чат разработчиков СУБД
+* [Teradata](https://t.me/teradata_ru) — Чат по Терадате
 
 [(Назад к меню)](#Меню)
 

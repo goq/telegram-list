@@ -297,6 +297,7 @@
 * [NLP Seminar](https://t.me/nlp_seminar) — NLP Seminar (ВШЭ)
 * [Все об АВ тестах](https://t.me/abtesting) —  Канал с материалами по AB тестированию
 * [BigQuery Insights](https://t.me/BigQuery) — Аналитика в Google BigQuery, инсайты, примеры SQL-запросов
+* [WebAnalytics](https://t.me/webanalyst) — Канал про веб-аналитику
 * [Чаты и группы телеграма по теме](#big-data-Машинное-обучение-deep-learning-и-data-science)
 
 [(Назад к меню)](#Меню)

@@ -298,6 +298,7 @@
 * [Все об АВ тестах](https://t.me/abtesting) —  Канал с материалами по AB тестированию
 * [BigQuery Insights](https://t.me/BigQuery) — Аналитика в Google BigQuery, инсайты, примеры SQL-запросов
 * [WebAnalytics](https://t.me/webanalyst) — Канал про веб-аналитику
+* [Product Analytics](https://t.me/ProductAnalytics) — Шпаргалка продуктового аналитика, актуальные материалы из закладок аналитиков
 * [Чаты и группы телеграма по теме](#big-data-Машинное-обучение-deep-learning-и-data-science)
 
 [(Назад к меню)](#Меню)

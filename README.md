@@ -829,6 +829,7 @@
 * [Natural Language Processing](https://t.me/natural_language_processing) — Чат про Natural Language Processing
 * [Распознавание речи](https://t.me/speech_recognition_ru) — Распознавание, синтез речи и речевые технологии
 * [DL in NLP discussion group](https://t.me/dlinnlp_discuss) — Чат про DL in NLP (МФТИ)
+* [Чат Tableau](https://t.me/tableau_chat) — Сообщество Tableau-пользователей в России
 
 [(Назад к меню)](#Меню)
 

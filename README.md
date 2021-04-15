@@ -295,6 +295,7 @@
 * [Not Boring Tech](https://t.me/notboring_tech) — Канал с интересными статьями и обзорами. Нейросети и прочие интересности
 * [До Джуна. Data science](https://t.me/data_science_do_junior) — Как дойти до позиции junior в data science.
 * [NLP Seminar](https://t.me/nlp_seminar) — NLP Seminar (ВШЭ)
+* [Все об АВ тестах](https://t.me/abtesting) —  Канал с материалами по AB тестированию
 * [Чаты и группы телеграма по теме](#big-data-Машинное-обучение-deep-learning-и-data-science)
 
 [(Назад к меню)](#Меню)

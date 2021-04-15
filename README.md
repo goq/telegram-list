@@ -242,7 +242,7 @@
 * [Библиотека фронтендера](https://t.me/frontendproglib) — Полезные материалы по всему, что может быть интересно frontend-разработчику
 * [PiterJS](https://t.me/piterjs) — Митап про JavaScript в Санкт-Петербурге
 * [$mol: Новости](https://t.me/mol_news) — Новости о фреймворке $mol, экосистеме MAM и основанных на них проектах.
-* [Web Coder Notes](https://t.me/webcodernotes) - Профессионалам и любителям веб разработки: заметки, статьи, новости
+* [Web Coder Notes](https://t.me/webcodernotes) — Профессионалам и любителям веб разработки: заметки, статьи, новости
 * [React Уроки](https://t.me/react_it) — Канал с новостями и интересными материалами про React
 * [Vue Уроки](https://t.me/vue_it) — Канал с уроками и новостями про Vue
 * [Веб-страница](https://t.me/tproger_web) — Всё по фронтенду, бэкенду и девопсу на одной странице.
@@ -269,7 +269,7 @@
 * [DC7831](https://t.me/defcon_nn) — DEFCON Нижний Новгород
 * [SecurityLibrary](https://t.me/SecLib) — Книги статьи и журналы по информационной безопасности
 * [R0 Crew](https://t.me/R0_Crew) — Ъ Сообщество реверс-инженеров
-* [OSINT mindset](https://t.me/osint_mindset) - Авторский канал про OSINT как образ мышления
+* [OSINT mindset](https://t.me/osint_mindset) — Авторский канал про OSINT как образ мышления
 
 [(Назад к меню)](#Меню)
 
@@ -502,8 +502,8 @@
 * [johenews](https://t.me/johenews) — Очень хороший авторский канал про IT. Обзоры, аналитика, новости.
 * [Осмыслить и забыть](https://t.me/karmind) — Личный блог Java-разработчика обо всём, кроме Java-разработки.
 * [Вадим Филимонов](https://t.me/filimonovvadim) — Авторский канал с заметками о вебе.
-* [Искушённый Dev - Coding with Max](https://t.me/seasoneddevru) - Регулярный авторский блог Fullstack разработчика (видео, дайджест, заметки).
-* [Gamedev suffering](https://t.me/gamedev_suffering) - Авторский блог Андрея Апанасика про разработку игр.
+* [Искушённый Dev - Coding with Max](https://t.me/seasoneddevru) — Регулярный авторский блог Fullstack разработчика (видео, дайджест, заметки).
+* [Gamedev suffering](https://t.me/gamedev_suffering) — Авторский блог Андрея Апанасика про разработку игр.
 * [Digital Доктор](https://t.me/tlgdoc) — Мысли о мессенджерах, IT-гигантах и новых технологиях.
 
 [(Назад к меню)](#Меню)
@@ -1049,11 +1049,11 @@
 * [St. Petersburg Jenkins Meetup](https://t.me/jenkins_spb) — Митап по Jenkins в Санкт-Петербурге
 * [SPb Reliability Meetup](https://t.me/spb_reliability) — SRE (Site Reliability Engineering) митапы в Санкт-Петербурге
 ###### ЦФО
-* [OrelCodes](https://t.me/orel_codes_chat) - IT чат г. Орла (регулярно проводятся митапы)
-* [Глубокий Рефакторинг](https://t.me/deeprefactoring) - IT притон г. Воронежа
-* [GDG Voronezh](https://t.me/gdgvrn) - Чат айтишников Воронежа
+* [OrelCodes](https://t.me/orel_codes_chat) — IT чат г. Орла (регулярно проводятся митапы)
+* [Глубокий Рефакторинг](https://t.me/deeprefactoring) — IT притон г. Воронежа
+* [GDG Voronezh](https://t.me/gdgvrn) — Чат айтишников Воронежа
 * [Golang Voronezh](https://t.me/golang_vrn) — Чат по интересам для golang разработчиков Воронежа
-* [SAP Community Voronezh](https://t.me/sapcmntvrn) - Чат по интересам для SAP специалистов Воронежа
+* [SAP Community Voronezh](https://t.me/sapcmntvrn) — Чат по интересам для SAP специалистов Воронежа
 ###### СЗФО
 * [GDG Kaliningrad](https://t.me/gdgkaliningrad) — Чат айтишников Калининграда
 ###### ЮФО

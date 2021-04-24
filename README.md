@@ -522,6 +522,7 @@
 * [Autohotkey_RU](https://t.me/AutoHotkey_RU) — Чат про Autohotkey
 * [Lame C](https://t.me/lame_c) — Чат для желающих изучать язык Си
 * [pro.cxx](https://t.me/ProCxx) — Чат про С++
+* [Lame C++](https://t.me/lame_cpp) — Чат для начинающих по C++
 * [.NET chat RU](https://t.me/DotNetRuChat) — Чат про C# и .NET
 * [C#](https://t.me/professorweb) — Русскоговорящее сообщество C# и .NET разработчиков
 * [ExtremeCodeTV](https://t.me/extremecode) — Чат C# разработчиков (есть свой бот компилирующий C# код)

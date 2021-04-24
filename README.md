@@ -520,6 +520,7 @@
 * [pro.asm](https://t.me/proasm) — Чат про Assembler
 * [AutoIT RU](https://t.me/AutoIT_RU) — Чат про AutoIT
 * [Autohotkey_RU](https://t.me/AutoHotkey_RU) — Чат про Autohotkey
+* [Lame C](https://t.me/lame_c) — Чат для желающих изучать язык Си
 * [pro.cxx](https://t.me/ProCxx) — Чат про С++
 * [.NET chat RU](https://t.me/DotNetRuChat) — Чат про C# и .NET
 * [C#](https://t.me/professorweb) — Русскоговорящее сообщество C# и .NET разработчиков

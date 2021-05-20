@@ -508,6 +508,7 @@
 * [Искушённый Dev - Coding with Max](https://t.me/seasoneddevru) — Регулярный авторский блог Fullstack разработчика (видео, дайджест, заметки).
 * [Gamedev suffering](https://t.me/gamedev_suffering) — Авторский блог Андрея Апанасика про разработку игр.
 * [Digital Доктор](https://t.me/tlgdoc) — Мысли о мессенджерах, IT-гигантах и новых технологиях.
+* [Dmitriy Melnik on System Design](https://t.me/dmitriy_melnik_channel) — Авторский канал Дмитрия Мельника о системном дизайне и архитектуре. Ведётся на английском языке.
 
 [(Назад к меню)](#Меню)
 

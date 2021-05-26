@@ -54,6 +54,7 @@
 * [@SublimeBot](https://t.me/SublimeBot) - Бот для проведения шуточного розыгрыша в группе
 * [@spoooiler_bot](https://t.me/spoooiler_bot) - Инлайн бот для скрытия спойлеров под кнопку
 * [@recordForEventBot](https://t.me/recordForEventBot) - Бот для ведения списка людей, записавшихся на событие.
+* [@setwmbot](https://t.me/setwmbot) - Бот для автоматического добавления водяных знаков на всех фото, видео или Gif.
 
 [(Назад к меню)](#Разделы)
 

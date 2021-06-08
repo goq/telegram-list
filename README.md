@@ -303,6 +303,7 @@
 * [EXPF – математическая статистика и эксперименты](https://t.me/exp_fest) — Канал про эксперименты, статистику и анализ данных
 * [Tableau в России](https://t.me/tableau_ru) — Канал про Tableau.
 * [NSS Lab News](https://t.me/NSS_group) —  Канал академической AI/ML-лаборатории (NSS Lab, Университет ИТМО)
+* [DATApedia | Data Science](https://t.me/data_science_wiki) - Канал с материалами по Data Science, Big Data и Machine Learning
 * [Чаты и группы телеграма по теме](#big-data-Машинное-обучение-deep-learning-и-data-science)
 
 [(Назад к меню)](#Меню)

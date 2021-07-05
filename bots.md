@@ -83,6 +83,7 @@
 [(Назад к меню)](#Разделы)
 
 ##### Прочие боты
+* [@its_black_list_bot](https://t.me/its_black_list_bot) - Самый масштабный Черный Список Instagram мошенников.
 * [@Lingvanexbot](https://t.me/lingvanexbot) - Переводчик на основе нейросетей для более чем 50 языков.
 * [Yandex Image Search](https://t.me/pic) — Бот поиска картинок от Яндекса. Inline
 * [Yandex.Translate](https://t.me/YTranslateBot) - Бот-переводчик от Яндекса

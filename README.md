@@ -977,7 +977,8 @@
 * [Products_ru](https://t.me/products_ru) — Чат про управление продуктами, Growth Hacking, Cust Dev, Design Thinking, UX, метрикам и т.д.
 * [Agile_ru](https://t.me/agile_ru) — Общаемся на темы, посвященные Agile, Scrum, Lean, XP, Kanban, инструментам повышения эффективности.
 * [Agile Games](https://t.me/agilegames) — Оффлайн игры, помогающие понять суть гибких методологий. Регулярные митапы в Москве и Питере.
-* [Projects_KS](https://t.met/projects_kz) - Локальное сообщество по управлению проектами
+* [Projects KZ](https://t.met/projects_kz) - Казахстанское сообщество по управлению проектами
+* [Products.KZ](https://t.me/productskz) - Казахстанское сообщество менеджеров по управлению продуктами
 
 [(Назад к меню)](#Меню)
 

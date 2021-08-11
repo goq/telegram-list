@@ -898,6 +898,7 @@
 * [Ubuntu](https://t.me/ru_ubuntu) — Чат про Ubuntu (Kubuntu, Lubuntu, Xubuntu)
 * [Pro.Windows](https://t.me/pro_windows) — Чат про Microsoft Windows и всё, что с этим связано
 * [Tiling WM Mastery](https://t.me/tiling_wm_mastery) — Чат про тайлинговые менеджеры
+* [IBM i (OS/400)](https://t.me/ibm_i) — Обсуждение системы IBM i и программирования в этой системе на CL, RPG, C/C++, Java, Cobol.
 
 [(Назад к меню)](#Меню)
 

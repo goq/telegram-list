@@ -566,7 +566,7 @@
 * [pro.python](https://t.me/propython) — Чат про Python
 * [Python_beginners](https://t.me/ru_python_beginners) — Чат про Python (для новичков)
 * [Async Python](https://t.me/python_async) — Обсуждаем асинхронщину в Python
-* [Rude Python](https://t.me/rudepython) — Грубый чат про Python (для мужиков)
+* [Rude Python](https://t.me/rudepython) — Грубый чат про Python (без нытиков)
 * [OpenTelemetry](https://t.me/ru_opentelemetry) — Observability! Opencensus/OpenTracing/OpenTelemetry/...
 * [phpGeeks](https://t.me/phpgeeks) — Чат про PHP / php Geeks
 * [phpclub](https://t.me/phpclubru) — Чат про PHP / php Club

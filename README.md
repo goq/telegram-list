@@ -804,7 +804,10 @@
 * [Gravitee](https://t.me/gravitee_ru) — Чат про Gravitee
 * [Keycloak](https://t.me/keycloak_ru) — Чат про Keycloak
 * [Podman](https://t.me/ru_podman) — Чат о Podman
-* [monhouse.tech](https://t.me/monhouse_tech) — Чат про мониторинг и оперативное управление.
+* [monhouse.tech](https://t.me/monhouse_tech) — Чат про мониторинг и оперативное управление
+* [Azure RU Community](https://t.me/AzureRUCommunity) — Чат обАжур - про публичное облако MS Azure
+* [EPAM AWS Community](https://t.me/epam_aws) — Чат для тех, кто уже использует технологии AWS или просто интересуется этой темой
+* [GCP RU Community](https://t.me/google_cloud_ru)  — Русскоязычное сообщество специалистов работающих с Google Cloud
 
 [(Назад к меню)](#Меню)
 

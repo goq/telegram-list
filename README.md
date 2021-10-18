@@ -125,6 +125,7 @@
 * [Разработка игр](https://t.me/progamedev) — Материалы о разработке, экспертные статьи и скромные мнения обо всём, что касается игр.
 * [Non-trivial Ruby](https://t.me/rubynontrivial) — Ruby-наркомания: микробиблиотеки, альтернативные фреймворки, security, IoT, system programming
 * [DevBrain](https://t.me/devbrain) — Новости, статьи, книги и видео из мира разработки софта
+* [Алиса рассказывает](https://t.me/eestie) — Авторский канал об IT, аутсорсе, продуктах и программировании.
 * [VR Journal](https://t.me/VR_Journal) — Уютненько о VR/AR технологиях
 * [anykeynotes](https://t.me/anykeynotes) — Записки старого эникейщика.
 * [Angular 2](https://t.me/angular2) — Новости из мира Angular (js framework)

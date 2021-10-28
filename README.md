@@ -1001,6 +1001,7 @@
 + [Боты на Telegraf](https://t.me/telegraf_ru) — Чат о JS библиотеке Telegraf
 + [MadelineProto RU](https://t.me/pwrtelegramgroupru) — Чат PHP библиотеки  MadelineProto
 + [Golang Telegram Bot API](https://t.me/go_telegram_bot_api) — Чат о Go библиотеке go-telegram-bot-api
++ [Kotlin TelegramBotAPI Library](https://t.me/InMoTelegramBotAPI) - Чат о Kotlin-библиотеке TelegramBotAPI
 + [AltTG](https://t.me/AltTG) — Чат о альтеративных клиентах телеграма
 + [VK Developers](https://t.me/vkapichat) — Чат разработчиков для VK
 + [VkNet.](https://t.me/VkDotNet) — Чат библиотеки Vk Api for .NET

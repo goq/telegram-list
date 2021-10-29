@@ -714,6 +714,7 @@
 * [Эльбрусы и с чем их едят](https://t.me/e2k_chat) — Чат про Эльбрусы (Russian CPU)
 * [Compiler Development](https://t.me/CompilerDev) — Разработка компиляторов и интерпретаторов
 * [IT Talks Benelux](https://t.me/ITBenelux) — IT-чат стран Бенелюкс
+* [GitHub Planeta: по-русски](https://t.me/githubplaneta) — Ежемесячные виртуальные встречи для русско-говорящей аудитории
 
 [(Назад к меню)](#Меню)
 

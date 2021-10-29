@@ -11,7 +11,6 @@
 ---
 
 ##### Музыка и радио
-* [@mcduckmusicbot](https://t.me/mcduckmusicbot) — McDuck MusicBot. Много хорошей музыки.
 * [@RadioBot](https://t.me/radiobot) — Бот в котором можно переслушать эфиры 40+ популярных российских
 радиостанций.
 * [@radiotgbot](https://t.me/radiotgbot) — Бот - Лучшее радио!
@@ -30,7 +29,6 @@
 ##### Полезные боты для разработки
 * [@bitbucket_bot](https://t.me/bitbucket_bot) — Интеграция bitbucket в телеграм
 * [@ChatbroBot](https://t.me/chatbrobot) — Позволяет встроить Telegram чат на сайт
-* [@dotobot](https://t.me/dotobot) — Мини wunderlist/trello прямо в чате
 * [@GitHubBot](https://t.me/GitHubBot) — Интеграция GitHub в телеграм
 * [@integram_bot](https://t.me/integram_bot) — Интеграция разных сервисов по разработке ПО в телеграм
 * [@trello_bot](https://t.me/trello_bot) — Интеграция всемирно известной Канбан доски в телеграм
@@ -48,23 +46,22 @@
 * [@grep_robot](https://t.me/grep_robot) - Бот для удаления сообщений, содержащих слова из чёрного списка.
 * [@GDGCensorBot](https://t.me/GDGCensorBot) — Бот для удаления матов и ругательств из чата.
 * [@nosticker_bot](https://t.me/nosticker_bot) — Бот автоматически удаляет любой стикер, отправленный в чат.
+* [@FavouriteStickers](https://t.me/FavouriteStickersBot) — Бот для сохранения понравившихся стикеров.  
 * [@GBReborn_bot](https://t.me/GBReborn_bot) [Source](https://github.com/RememberTheAir/GroupButler) — Бот для администрирования, использующий официальный API для ботов.
 * [@combot](https://t.me/combot) - Популярный бот-модератор
 * [@banofbot](https://t.me/banofbot) - Бот, который позволяет голосованием без админов исключать участников
 * [@SublimeBot](https://t.me/SublimeBot) - Бот для проведения шуточного розыгрыша в группе
 * [@spoooiler_bot](https://t.me/spoooiler_bot) - Инлайн бот для скрытия спойлеров под кнопку
 * [@recordForEventBot](https://t.me/recordForEventBot) - Бот для ведения списка людей, записавшихся на событие.
+* [@setwmbot](https://t.me/setwmbot) - Бот для автоматического добавления водяных знаков на всех фото, видео или Gif.
 
 [(Назад к меню)](#Разделы)
 
 ##### Книги и фильмы
 * [@flibustafreebookbot](https://t.me/flibustafreebookbot) — Бот флибусты для скачивания книг.
 * [@olibrarybot](https://t.me/olibrarybot) - Бот для скачивания книг
-* [@ru_tracker_bot](https://t.me/ru_tracker_bot) — Бот рутрекера
-* [@aud_books_bot](https://t.me/aud_books_bot) -  Бот для скачивания аудиокниг
 * [@asbookabot](https://t.me/asbookabot) - Ещё один
 * [@LikeMovieBot](https://t.me/LikeMovieBot) - Бот для просмотра фильмов
-* [@RuKinoBot](https://t.me/RuKinoBot) - Бот с расписанием кинотеатров
 * [@JaredMovieRuBot](https://t.me/JaredMovieRuBot) - Джаред - уведомляет о выходе новых эпизодов просматриваемых тобой сериалов.
 
 [(Назад к меню)](#Разделы)
@@ -104,7 +101,6 @@
 * [@SocialSaveBot](https://t.me/SocialSaveBot) — Позволяет сохранить фотографии из инстаграма
 * [@tlgurbot](https://t.me/tlgurbot) — Предоставляет доступ по http к файлам из Телеграма.
 * [@EinfoBot](https://t.me/EinfoBot) — Бот, который ищет электронные компоненты и интегрирован в поисковую систему.
-* [@parserfreelancer_bot](https://t.me/parserfreelancer_bot) — Бот, уведомляющий о появлении новой работы на разных фрилансовых сайтах
 * [@LFTVbot](https://t.me/LFTVbot) [Source](https://github.com/Lord-Protector/LostFilmBot) — Бот для сайта LostFilm.TV. Личные уведомления, загрузка нужных серий и многое другое.
 * [@KDERuBot](https://t.me/KDERuBot) — Новости сообщества KDE Россия.
 * [@myShowsMeBot](https://t.me/myShowsMeBot) — Помогает следить за выходом новых эпизодов просматриваемых сериалов.
@@ -127,12 +123,23 @@
 * [@AkinatorBot](https://t.me/AkinatorBot) - Акинатор бот, угадывает персонажей по наводящим вопросам.
 * [@Google_itBot](https://t.me/Google_itBot) - Inline Бот для поиска в Google (текст, картинки), поиск видео в YouTube.
 * [@maigret_osint_bot](https://t.me/maigret_osint_bot) - Поиск аккаунтов по никнейму на более чем 1300 сайтах.
+* [@TyzenhausBot](https://t.me/TyzenhausBot) - Упрощение взаимных долгов в групповых чатах.
 
 [(Назад к меню)](#Разделы)
 
 <details>
 <summary>Похоже нерабочие</summary>
 
+  * [@RuKinoBot](https://t.me/RuKinoBot) - Бот с расписанием кинотеатров
+
+  * [@aud_books_bot](https://t.me/aud_books_bot) -  Бот для скачивания аудиокниг
+
+  * [@ru_tracker_bot](https://t.me/ru_tracker_bot) — Бот рутрекера
+
+  * [@dotobot](https://t.me/dotobot) — Мини wunderlist/trello прямо в чате
+
+  * [@mcduckmusicbot](https://t.me/mcduckmusicbot) — McDuck MusicBot. Много хорошей музыки.
+    
   * [@spoibot](https://t.me/spoibot) — Инлайн бот для прятанья спойлер текстов за кнопку (удобно в крупных чатах)
 
   * [@temp_mail_bot](https://t.me/temp_mail_bot) — Временная электронная почта на 10 минут для регистраций
@@ -148,8 +155,6 @@
   * [@mybookbot](https://t.me/mybookbot) — Бот-поисковик/скачиватель книг.
 
   * [@sp2txt_bot](https://t.me/sp2txt_bot) — Бот распознающий голосовые сообщения
-
-  * [@FavouriteStickers](https://t.me/FavouriteStickersBot) — Бот для сохранения понравившихся стикеров.
 
   * [@OverStatsBot](https://t.me/OverStatsBot) [Source](https://github.com/Lord-Protector/OverStatsBot) — Бот для игры Overwatch. Генерирует личные профили в виде изображений.
 

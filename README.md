@@ -869,6 +869,7 @@
 * [PfSense](https://t.me/ru_pfsense) — Чат про PfSence
 * [MaxPatrol SIEM](https://t.me/MPSIEMChat) — Чат про MaxPatrol SIEM
 * [152-ФЗ и Персональные данные](https://t.me/fz152pdn) — Чат про защиту персональных данных согласно ФЗ 152
+* [ATT&CK® COMMUNITY RUSSIA](https://t.me/attack_community) — Сообщество русскоязычных специалистов по компьютерной безопасности, использующих MITRE ATT&CK®.
 
 [(Назад к меню)](#Меню)
 

@@ -1107,13 +1107,24 @@
 * [JUGNsk](https://t.me/jugnsk) — Новосибирская группа Java User Group
 * [NSK IT events](https://t.me/NSKITevents) — Митапы и другие айтишные события в Новосибирске.
 * [Docker Novosibirsk](https://t.me/dockernsk) — Чат Docker Новосибирск
-##### Зарубежные русскоязычные IT-сообщества
+
+[(Назад к меню)](#Меню)
+
+##### Русскоязычные IT-сообщества Ближнего Зарубежья
 * [iOS Community – Kharkiv](https://t.me/ios_kharkiv) — Сообщество iOS-программистов Харькова
 * [Kharkiv iOS Peerlab](https://t.me/kharkiv_ios) — Чат для связи людей, которые собираются на [iOS-пирлабы по субботам в Харькове](https://www.meetup.com/Kharkiv-iOS-Peerlab/)
 * [1с Чат РБ](https://t.me/One1c_Blr) — Связанные одним 1С в РБ.
 * [Rubyata](https://t.me/rubyata) — Ruby and Ruby On Rails community in Kyrgyzstan
 * [IT-Страна](https://t.me/itbelarus) — Чат IT-страны.
 
+[(Назад к меню)](#Меню)
+
+##### Европейские русскоязычные IT-сообщества
+######Великобритания  
+* [Гоняю Ваш JSON, дорого](https://t.me/london_ru) — Лондонское сообщество Data Scientists, Machine Learning Engineers, Machine Learning Researchers, Quantitative Researcher, Backend Developers, Data Engineers, MLOps, etc  
+######ФРГ (Федеративная Республика Германия)
+* [Чат серьезных экспатов Мюнхена ](https://t.me/muenchentraktor) — Мюнхенский чат ИТшников.
+    
 [(Назад к меню)](#Меню)
 
 ##### Электроника, микроконтроллеры и встраиваемые системы

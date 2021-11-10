@@ -1116,6 +1116,14 @@
 
 [(Назад к меню)](#Меню)
 
+##### Европейские русскоязычные IT-сообщества
+######Великобритания  
+* [Гоняю Ваш JSON, дорого](https://t.me/london_ru) — Лондонское сообщество Data Scientists, Machine Learning Engineers, Machine Learning Researchers, Quantitative Researcher, Backend Developers, Data Engineers, MLOps, etc  
+######ФРГ (Федеративная Республика Германия)
+* [Чат серьезных экспатов Мюнхена ](https://t.me/muenchentraktor) — Мюнхенский чат ИТшников.
+    
+[(Назад к меню)](#Меню)
+
 ##### Электроника, микроконтроллеры и встраиваемые системы
 * [Catethysis](https://t.me/telecatethysis_main) — Чат про электронику, программирование микроконтроллеров, stm32
 * [pro.embedded](https://t.me/proembedded) — Чат про встраиваемые системы

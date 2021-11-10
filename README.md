@@ -1107,6 +1107,9 @@
 * [JUGNsk](https://t.me/jugnsk) — Новосибирская группа Java User Group
 * [NSK IT events](https://t.me/NSKITevents) — Митапы и другие айтишные события в Новосибирске.
 * [Docker Novosibirsk](https://t.me/dockernsk) — Чат Docker Новосибирск
+
+[(Назад к меню)](#Меню)
+
 ##### Русскоязычные IT-сообщества Ближнего Зарубежья
 * [iOS Community – Kharkiv](https://t.me/ios_kharkiv) — Сообщество iOS-программистов Харькова
 * [Kharkiv iOS Peerlab](https://t.me/kharkiv_ios) — Чат для связи людей, которые собираются на [iOS-пирлабы по субботам в Харькове](https://www.meetup.com/Kharkiv-iOS-Peerlab/)

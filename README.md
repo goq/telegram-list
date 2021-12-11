@@ -126,6 +126,7 @@
 * [Разработка игр](https://t.me/progamedev) — Материалы о разработке, экспертные статьи и скромные мнения обо всём, что касается игр.
 * [Non-trivial Ruby](https://t.me/rubynontrivial) — Ruby-наркомания: микробиблиотеки, альтернативные фреймворки, security, IoT, system programming
 * [DevBrain](https://t.me/devbrain) — Новости, статьи, книги и видео из мира разработки софта
+* [Cozy room](https://t.me/cozyyrooom) - Новости, инсайды, киберспорт и мемы
 * [VR Journal](https://t.me/VR_Journal) — Уютненько о VR/AR технологиях
 * [anykeynotes](https://t.me/anykeynotes) — Записки старого эникейщика.
 * [Angular 2](https://t.me/angular2) — Новости из мира Angular (js framework)
@@ -157,6 +158,7 @@
 * [Technical Writing 101](https://t.me/technical_writing) — Личный технический блог, посвященный новым тенденциям, новостям и другим темам в области технической коммуникации и всему, где присутствуют буквы.
 * [Techwriter's Daily](https://t.me/techwriters) — Канал для технических писателей: статьи, видео, обзоры инструментов, анонсы конференций, вакансии и многое другое.
 * [Девелопер расскажет](https://t.me/devtipshere) — Новости, статьи и книги по разработке.
+* [Coozy room](https://t.me/cozyyrooom) - Новости, инсайды, киберспорт и мемы
 * [C# 1001 notes](https://t.me/csharp_1001_notes) — Канал с ежедневными заметками о языке C#
 * [Nuances of programming](https://t.me/nuancesprog) — Образовательные статьи и переводы — всё для программистов.
 * [@pmdaily](https://t.me/pmdaily) — Авторский канал о производстве сложных проектов, управлении продуктом и о развитии софтскиллов у программистов

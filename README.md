@@ -622,6 +622,7 @@
 * [aiohttp](https://t.me/aiohttp_ru) — Чат про aiohttp и asyncio (python)
 * [Angular.js](https://t.me/angular_js) — Чат про AngularJS 1.x
 * [Angular](https://t.me/angular_ru) — Чат про Angular (4.x+)
+* [AvaloniaUI](https://t.me/AvaloniaRU) — Чат про AvaloniaUI
 * [Flask](https://t.me/ru_flask) — Чат про Flask и SQLAlchemy (Python Flask)
 * [Django](https://t.me/django_framework) — Чат про веб-фреймворк Django
 * [Emacs](https://t.me/emacs_ru) — Чат про Emacs

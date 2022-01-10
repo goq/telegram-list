@@ -623,6 +623,7 @@
 * [aiohttp](https://t.me/aiohttp_ru) — Чат про aiohttp и asyncio (python)
 * [Angular.js](https://t.me/angular_js) — Чат про AngularJS 1.x
 * [Angular](https://t.me/angular_ru) — Чат про Angular (4.x+)
+* [AvaloniaUI](https://t.me/AvaloniaRU) — Чат про AvaloniaUI
 * [Flask](https://t.me/ru_flask) — Чат про Flask и SQLAlchemy (Python Flask)
 * [Django](https://t.me/django_framework) — Чат про веб-фреймворк Django
 * [Emacs](https://t.me/emacs_ru) — Чат про Emacs
@@ -884,6 +885,7 @@
 * [PfSense](https://t.me/ru_pfsense) — Чат про PfSence
 * [MaxPatrol SIEM](https://t.me/MPSIEMChat) — Чат про MaxPatrol SIEM
 * [152-ФЗ и Персональные данные](https://t.me/fz152pdn) — Чат про защиту персональных данных согласно ФЗ 152
+* [Apple CyberSecurity RU](https://t.me/apple_cybersec) — Группа по кибербезопасности операционных систем (macOS, iOS etc) и экосистемы Apple.
 * [TheHive and Cortex Russian Community](https://t.me/TheHiveRussia) — Группа для русскоязычного комьюнити по системам TheHive и Cortex
 
 [(Назад к меню)](#Меню)

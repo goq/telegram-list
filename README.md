@@ -885,6 +885,7 @@
 * [PfSense](https://t.me/ru_pfsense) — Чат про PfSence
 * [MaxPatrol SIEM](https://t.me/MPSIEMChat) — Чат про MaxPatrol SIEM
 * [152-ФЗ и Персональные данные](https://t.me/fz152pdn) — Чат про защиту персональных данных согласно ФЗ 152
+* [ATT&CK® COMMUNITY RUSSIA](https://t.me/attack_community) — Сообщество русскоязычных специалистов по компьютерной безопасности, использующих MITRE ATT&CK®.
 * [Apple CyberSecurity RU](https://t.me/apple_cybersec) — Группа по кибербезопасности операционных систем (macOS, iOS etc) и экосистемы Apple.
 * [TheHive and Cortex Russian Community](https://t.me/TheHiveRussia) — Группа для русскоязычного комьюнити по системам TheHive и Cortex
 

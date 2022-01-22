@@ -1074,6 +1074,7 @@
 * [Hardcore Development](https://t.me/joinchat/CAhDYERJVDxYlqInXLe9gQ) — Hardcore Development Team. No bullshit. FP, RP.
 * [Мы обречены (канал)](https://t.me/myobrechenychannel) — Канал подкаста про выгорание и айти
 * [Мы обречены (чат)](https://t.me/myobrecheny) — Чат подкаста про выгорание и айти
+* [Yandex Serverless Ecosystem](https://t.me/YandexCloudFunctions) — Чат о Serverless экосистеме Яндекса
 
 [(Назад к меню)](#Меню)
 

@@ -806,7 +806,7 @@
 * [Брутальный Docker](https://t.me/brutal_docker) — Чат для тех, кому есть что сказать про докер
 * [Puppet](https://t.me/puppet_ru) — Чат про Puppet и управление конфигурациями
 * [Pulumi_ru](https://t.me/pulumi_ru) — Чат про Pulumi
-* [Kubernetes](https://t.me/k8spb) — Чат про Kubernetes
+* [Kubernetes](https://t.me/kubernetes_ru) — Kubernetes русскоговорящее сообщество
 * [Метрики](https://t.me/metrics_ru) — Чат про метрики, мониторинг и анализ данных
 * [Сбор и аналитика системных сообщений](https://t.me/ru_logs) — Русскоговорящая группа по аналитике syslog/structured log. ElasticSearch, Mtail, Graylog и т.п.
 * [ru_gitlab](https://t.me/ru_gitlab) — Чат про GitLab
@@ -1098,6 +1098,7 @@
 * [PyLadies SPb](https://t.me/pyladies_spb) — PyLadies SPb, петербургское сообщество разработчиц
 * [St. Petersburg Jenkins Meetup](https://t.me/jenkins_spb) — Митап по Jenkins в Санкт-Петербурге
 * [SPb Reliability Meetup](https://t.me/spb_reliability) — SRE (Site Reliability Engineering) митапы в Санкт-Петербурге
+* [Kubernetes](https://t.me/k8spb) — Чат про Kubernetes
 ###### ЦФО
 * [OrelCodes](https://t.me/orel_codes_chat) — IT чат г. Орла (регулярно проводятся митапы)
 * [Глубокий Рефакторинг](https://t.me/deeprefactoring) — IT притон г. Воронежа

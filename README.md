@@ -844,6 +844,7 @@
 * [pgCodeKeeper](https://t.me/pgcodekeeper) — Чат поддержки [opensource](https://github.com/pgcodekeeper/pgcodekeeper) проекта [pgCodeKeeper](https://pgcodekeeper.org)
 * [Oracle RU](https://t.me/oracle_ru) — Чат про Oracle
 * [Scylla DB](https://t.me/ru_scylladb) — Чат про ScyllaDB
+* [Yandex Database Chat](https://t.me/yandexdatabase_ru) — Чат по Yandex Database
 * [dbmsdev](https://t.me/dbmsdev) — Чат о разработке СУБД
 * [Разработка СУБД](https://t.me/dev_dbms_ru) — Чат разработчиков СУБД
 * [Teradata](https://t.me/teradata_ru) — Чат по Терадате
@@ -948,6 +949,7 @@
 * [MATEMATIKA](https://t.me/matematika_org) — Чат про математику (есть хорошие книги в закрепе!). От https://matematika.org
 * [/math/](https://t.me/slashmath) — Чат для обсуждения математики, картофана, коммутирующих диаграмм иногда теоретический физики и программирования
 * [Математический чат](https://t.me/typ_math_chat) — Уютное логово математиков
+* [Формальные методы верификации ПО на практике](https://t.me/practical_fm) — Обсуждение тем, связанных с практическим использованием формальных методов верификации и спецификации ПО.
 * [Теория категорий](https://t.me/ru_catheory) — Чат о теории категорий
 
 [(Назад к меню)](#Меню)
@@ -1075,6 +1077,7 @@
 * [Hardcore Development](https://t.me/joinchat/CAhDYERJVDxYlqInXLe9gQ) — Hardcore Development Team. No bullshit. FP, RP.
 * [Мы обречены (канал)](https://t.me/myobrechenychannel) — Канал подкаста про выгорание и айти
 * [Мы обречены (чат)](https://t.me/myobrecheny) — Чат подкаста про выгорание и айти
+* [Yandex Serverless Ecosystem](https://t.me/YandexCloudFunctions) — Чат о Serverless экосистеме Яндекса
 
 [(Назад к меню)](#Меню)
 

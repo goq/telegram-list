@@ -1121,6 +1121,7 @@
 * [Dev Seagulls](https://t.me/dev_seagulls) — Чат сообщества программистов Махачкалы
 ###### ПФО
 * [JUGNN](https://t.me/jugnn) — Нижегородская группа Java User Group
+* [Golang Kazan](https://t.me/GolangKazan) — Чат сообщества разработчиков на Go в Казани
 ###### УрФО
 * [IT EKB](https://t.me/IT_EKB) — Чат айтишников Екатеринбурга и окрестностей
 * [Python Community Chelyabinsk](https://t.me/pychel) — Чат челябинского сообщества Python-разработчиков

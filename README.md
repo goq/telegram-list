@@ -1079,6 +1079,7 @@
 * [Мы обречены (канал)](https://t.me/myobrechenychannel) — Канал подкаста про выгорание и айти
 * [Мы обречены (чат)](https://t.me/myobrecheny) — Чат подкаста про выгорание и айти
 * [Yandex Serverless Ecosystem](https://t.me/YandexCloudFunctions) — Чат о Serverless экосистеме Яндекса
+* [Клавиатуры: эргономика и раскладки](https://t.me/klavaorgwork) — Чат о разработке клавиатур и раскладок
 
 [(Назад к меню)](#Меню)
 

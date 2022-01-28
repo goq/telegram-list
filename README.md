@@ -826,6 +826,7 @@
 * [EPAM AWS Community](https://t.me/epam_aws) — Чат для тех, кто уже использует технологии AWS или просто интересуется этой темой
 * [GCP RU Community](https://t.me/google_cloud_ru)  — Русскоязычное сообщество специалистов работающих с Google Cloud
 * [Deckhouse (на русском)](https://t.me/deckhouse_ru) — Чат о Kubernetes-платформе Deckhouse
+* [OpenShift](https://t.me/ru_openshift) — Русскоязычное сообщество OpenShift
 
 [(Назад к меню)](#Меню)
 

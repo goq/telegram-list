@@ -796,6 +796,7 @@
 * [Серверное администрирование](https://t.me/srv_admins) — Чат про администрирование.
 * [OpenWRT/LEDE RU](https://t.me/openwrt_ru) — Чат про OpenWRT/LEDE, свободную прошивку для роутеров
 * [nginx_ru](@nginx_ru) — Сообщество пользователей nginx
+* [pro.enterprise](https://t.me/pro_enterprise) — Сервера, системы хранения данных, hardware, InfoSec, сетевое оборудование, облачные инфраструктуры.
 * [Storage Discussions](https://t.me/storagediscussions) — Чат о системах хранения данных
 
 [(Назад к меню)](#Меню)

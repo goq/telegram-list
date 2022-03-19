@@ -530,6 +530,7 @@
 * [Dmitriy Melnik on System Design](https://t.me/dmitriy_melnik_channel) — Авторский канал Дмитрия Мельника о системном дизайне и архитектуре. Ведётся на английском языке.
 * [Витаем в облаках](https://t.me/cloud_flight) — Инженерный блог об облачных технологиях и их применении.
 * [Стой под стрелой](https://t.me/nikitonsky_pub) — Авторский канал. Ведет [Никита Прокопов](https://t.me/nikitonsky).
+* [Записки kiriharu](https://t.me/kiriharu) - Авторский канал системного администратора и разработчика.
 
 [(Назад к меню)](#Меню)
 
@@ -799,6 +800,7 @@
 * [nginx_ru](@nginx_ru) — Сообщество пользователей nginx
 * [pro.enterprise](https://t.me/pro_enterprise) — Сервера, системы хранения данных, hardware, InfoSec, сетевое оборудование, облачные инфраструктуры.
 * [Storage Discussions](https://t.me/storagediscussions) — Чат о системах хранения данных
+* [Ru HomeLab](https://t.me/ruhomelab) - Чат о домашних серверах, оборудовании для хоумлаб и селфхосте.
 
 [(Назад к меню)](#Меню)
 
@@ -1100,6 +1102,7 @@
 * [Мы обречены (чат)](https://t.me/myobrecheny) — Чат подкаста про выгорание и айти
 * [Yandex Serverless Ecosystem](https://t.me/YandexCloudFunctions) — Чат о Serverless экосистеме Яндекса
 * [Клавиатуры: эргономика и раскладки](https://t.me/klavaorgwork) — Чат о разработке клавиатур и раскладок
+* [Архивируем интернет](https://t.me/WeArchivingInternet) - Чат для поиска утилит или способов архивации ресурсов, решения вопросов раздачи контента в экстремальных условиях.
 
 [(Назад к меню)](#Меню)
 

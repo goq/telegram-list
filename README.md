@@ -279,6 +279,7 @@
 * [R0 Crew](https://t.me/R0_Crew) — Ъ Сообщество реверс-инженеров
 * [OSINT mindset](https://t.me/osint_mindset) — Авторский канал про OSINT как образ мышления
 * [Personal Security](https://t.me/psecteam) — Интересные и актуальные новости о информационной безопасности со всего мира и даркнета и методы борьбы 
+* [ATT&CK® COMMUNITY RUSSIA CHANNEL](https://t.me/attack_community_channel) — Канал сообщества русскоязычных специалистов по компьютерной безопасности, использующих MITRE ATT&CK®
 
 [(Назад к меню)](#Меню)
 

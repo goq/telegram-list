@@ -1059,6 +1059,7 @@
 + [Яндекс.Диалоги](https://t.me/yadialogschat) — Сообщество разработчиков навыков Алисы
 + [Developers Chat](https://t.me/joinchat/ABI4pz3M7FCxoDZcdcfVUA) — Чат сообщества Chatbots
 + [Facebook Developers Chat](https://t.me/joinchat/Bcr-wREj7gZxkNlTENoQew) — Чат разработчиков под платформу Facebook Messenger
++ [Aimylogic (сообщество пользователей)](https://t.me/aimylogic) — Чат о визуальном конструкторе чат-ботов, понимающих естественный язык
 
 [(Назад к меню)](#Меню)
 

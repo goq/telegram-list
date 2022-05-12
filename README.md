@@ -739,6 +739,7 @@
 * [Compiler Development](https://t.me/CompilerDev) — Разработка компиляторов и интерпретаторов
 * [IT Talks Benelux](https://t.me/ITBenelux) — IT-чат стран Бенелюкс
 * [GitHub Planeta: по-русски](https://t.me/githubplaneta) — Ежемесячные виртуальные встречи для русско-говорящей аудитории
+* [Параллельный код || Оптимизация](https://t.me/parallelcoding) — Чат про параллельное программирование и оптимизацию кода
 
 [(Назад к меню)](#Меню)
 

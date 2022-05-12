@@ -315,6 +315,7 @@
 * [DATApedia | Data Science](https://t.me/data_science_wiki) — Канал с материалами по Data Science, Big Data и Machine Learning
 * [Нейроканал](https://t.me/neuro_channel) — Искусственный интеллект, нейросети, машинное обучение
 * [Code Mining](https://t.me/codemining) — ML4Code во всей красе, анализ кода и артефактов: тикеты, лицензии, уязвимости, процессы
+* [NN for Science](https://t.me/nn_for_science) — Канал о новинках из области машинного обучения, с прицелом на использовании в науке
 * [Чаты и группы телеграма по теме](#big-data-Машинное-обучение-deep-learning-и-data-science)
 
 [(Назад к меню)](#Меню)

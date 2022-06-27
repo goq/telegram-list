@@ -207,6 +207,7 @@
 * [Чашечка Java](https://t.me/a_cup_of_java) — Лучшие материалы по Java на русском и английском
 * [GameDev: разработка игр](https://t.me/make_game) — Всё про геймдев для геймдевелоперов, художников, левел-дизайнеров, сценаристов, геймдизайнеров
 * [Параллельный код || Оптимизация](https://t.me/parallelcode) — Параллельное программирование, высокопроизводительные вычисления, GPGPU, IPC, Оптимизация кода, Профилирование, бенчмарк.
+* [BEARlogin dev](https://t.me/bearlogin) — Авторский канал Андрея Луговского - CTO, Fullstack developer, архитектора, devops и прокрастинатора
 
 [(Назад к меню)](#Меню)
 
@@ -741,6 +742,7 @@
 * [IT Talks Benelux](https://t.me/ITBenelux) — IT-чат стран Бенелюкс
 * [GitHub Planeta: по-русски](https://t.me/githubplaneta) — Ежемесячные виртуальные встречи для русско-говорящей аудитории
 * [Параллельный код || Оптимизация](https://t.me/parallelcoding) — Чат про параллельное программирование и оптимизацию кода
+* [WebDev чат для джунов и сочуствующих](https://t.me/junior_happens) - Бесплатно и не токсично помогаем с Vue.js, React.js, Angular, Javascript, Typescript, PHP, Laravel, Go, Java, Docker, Kubernetes, Node.JS, HTML, CSS
 
 [(Назад к меню)](#Меню)
 

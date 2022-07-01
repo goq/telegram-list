@@ -804,7 +804,7 @@
 * [ClubcomSale](https://t.me/ClubcomSale) — барахолка: продам и куплю любое телеком оборудование
 * [Серверное администрирование](https://t.me/srv_admins) — Чат про администрирование.
 * [OpenWRT/LEDE RU](https://t.me/openwrt_ru) — Чат про OpenWRT/LEDE, свободную прошивку для роутеров
-* [nginx_ru](@nginx_ru) — Сообщество пользователей nginx
+* [nginx_ru](https://t.me/nginx_ru) — Сообщество пользователей nginx
 * [pro.enterprise](https://t.me/pro_enterprise) — Сервера, системы хранения данных, hardware, InfoSec, сетевое оборудование, облачные инфраструктуры.
 * [Storage Discussions](https://t.me/storagediscussions) — Чат о системах хранения данных
 * [Ru HomeLab](https://t.me/ruhomelab) - Чат о домашних серверах, оборудовании для хоумлаб и селфхосте.

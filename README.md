@@ -631,7 +631,8 @@
 * [1C](https://t.me/ru_1c) — Чат про "1С:Предприятие"
 * [aiohttp](https://t.me/aiohttp_ru) — Чат про aiohttp и asyncio (python)
 * [Angular.js](https://t.me/angular_js) — Чат про AngularJS 1.x
-* [Angular](https://t.me/angular_ru) — Чат про Angular (4.x+)
+* [Angular](https://t.me/angular_ru) — Общаемся на темы Angular 4+, его экосистемы, TypeScript, NativeScript и т.д.
+* [Angular-universal-ru](https://t.me/angular_universal_ru) — Общаемся на темы SSR, Angular Universal.
 * [AvaloniaUI](https://t.me/AvaloniaRU) — Чат про AvaloniaUI
 * [Flask](https://t.me/ru_flask) — Чат про Flask и SQLAlchemy (Python Flask)
 * [Django](https://t.me/django_framework) — Чат про веб-фреймворк Django
@@ -1031,6 +1032,7 @@
 * [ClubcomJob](https://t.me/clubcomjob) — Вакансии и резюме сотрудников в телекоме.
 * [Клуб-КОМ Каналы и ПМ](https://t.me/clubcomx) — Заказ и предложение последних миль и каналов связи
 * [Jobs_IT](https://t.me/jobs_it) — IT вакансии на русском и английском языках.
+* [Angular Jobs — чат для поиска работы и людей](https://t.me/angular_jobs) — Angular Jobs — чат для поиска работы и людей
 
 [(Назад к меню)](#Меню)
 

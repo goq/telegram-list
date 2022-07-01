@@ -806,7 +806,7 @@
 * [ClubcomSale](https://t.me/ClubcomSale) — барахолка: продам и куплю любое телеком оборудование
 * [Серверное администрирование](https://t.me/srv_admins) — Чат про администрирование.
 * [OpenWRT/LEDE RU](https://t.me/openwrt_ru) — Чат про OpenWRT/LEDE, свободную прошивку для роутеров
-* [nginx_ru](@nginx_ru) — Сообщество пользователей nginx
+* [nginx_ru](https://t.me/nginx_ru) — Сообщество пользователей nginx
 * [pro.enterprise](https://t.me/pro_enterprise) — Сервера, системы хранения данных, hardware, InfoSec, сетевое оборудование, облачные инфраструктуры.
 * [Storage Discussions](https://t.me/storagediscussions) — Чат о системах хранения данных
 * [Ru HomeLab](https://t.me/ruhomelab) - Чат о домашних серверах, оборудовании для хоумлаб и селфхосте.
@@ -1040,7 +1040,7 @@
 * [Products_ru](https://t.me/products_ru) — Чат про управление продуктами, Growth Hacking, Cust Dev, Design Thinking, UX, метрикам и т.д.
 * [Agile_ru](https://t.me/agile_ru) — Общаемся на темы, посвященные Agile, Scrum, Lean, XP, Kanban, инструментам повышения эффективности.
 * [Agile Games](https://t.me/agilegames) — Оффлайн игры, помогающие понять суть гибких методологий. Регулярные митапы в Москве и Питере.
-* [Projects KZ](https://t.met/projects_kz) — Казахстанское сообщество по управлению проектами
+* [Projects KZ](https://t.me/projects_kz) — Казахстанское сообщество по управлению проектами
 * [Products.KZ](https://t.me/productskz) — Казахстанское сообщество менеджеров по управлению продуктами
 
 [(Назад к меню)](#Меню)

@@ -56,6 +56,7 @@
 ## Каналы
 
 ##### Новости
+* [Новости Ru.Ubuntu](https://t.me/+Vkee3vx1XwgwNmMy) — Новости Ubuntu Linux, актуальная и оперативная информация. События, статьи, интересные материалы из мира Linux в общем, и Ubuntu в частности.
 * [opennet news](https://t.me/opennews) — Новости opennet
 * [SPbLUG news](https://t.me/spblug) — Канал новостей Санкт-Петербургской группы пользователей Linux (SPbLUG)
 * [Geeks](https://t.me/g33ks) — Статьи и новости. Для гиков и от гиков.

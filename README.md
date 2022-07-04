@@ -10,7 +10,7 @@
 
 Канал недели:
 
-* [Data Science Jobs](https://t.me/datasciencejobs) — Вакансии в области Data Science / Machine Learning / Deep Learning / Artifical Inellegence / Neural Networks / Natural Language Processing / Data Mining
+* [Новости Ru.Ubuntu](https://t.me/+Vkee3vx1XwgwNmMy) — Новости Ubuntu Linux, актуальная и оперативная информация. События, статьи, интересные материалы из мира Linux в общем, и Ubuntu в частности.
 
 -----
 

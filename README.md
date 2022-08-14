@@ -209,6 +209,7 @@
 * [GameDev: разработка игр](https://t.me/make_game) — Всё про геймдев для геймдевелоперов, художников, левел-дизайнеров, сценаристов, геймдизайнеров
 * [Параллельный код || Оптимизация](https://t.me/parallelcode) — Параллельное программирование, высокопроизводительные вычисления, GPGPU, IPC, Оптимизация кода, Профилирование, бенчмарк.
 * [BEARlogin dev](https://t.me/bearlogin_dev) — Авторский канал Андрея Луговского - CTO, Fullstack developer, архитектора, devops и прокрастинатора
+* [Модульные Системы](https://t.me/ModularSys) — Всё об истории и эволюции модульного программного обеспечения и надёжных программных систем
 
 [(Назад к меню)](#Меню)
 
@@ -926,6 +927,7 @@
 [(Назад к меню)](#Меню)
 
 ##### Операционные системы
+* [A2 Operating System](https://t.me/A2OperatingSystem) — Чат сообщества A2 ОС
 * [ArchLinux RU](https://t.me/archlinux_ru) — ArchLinux
 * [Arch Linux RU](https://t.me/ArchLinuxChatRU) — Анархия!
 * [Astra Linux](https://t.me/joinchat/Bzt6QkHm1ZPzItPE2C9Fug) — Чат про Astra Linux

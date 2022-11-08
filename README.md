@@ -747,6 +747,7 @@
 * [GitHub Planeta: по-русски](https://t.me/githubplaneta) — Ежемесячные виртуальные встречи для русско-говорящей аудитории
 * [Параллельный код || Оптимизация](https://t.me/parallelcoding) — Чат про параллельное программирование и оптимизацию кода
 * [WebDev чат для джунов и сочуствующих](https://t.me/junior_happens) - Бесплатно и не токсично помогаем с Vue.js, React.js, Angular, Javascript, Typescript, PHP, Laravel, Go, Java, Docker, Kubernetes, Node.JS, HTML, CSS
+* [Illuminati Inc.](https://t.me/illuminatinc) - IT-сообщество, в котором обмениваются опытом и делятся полезной информацией
 
 [(Назад к меню)](#Меню)
 

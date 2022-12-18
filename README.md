@@ -533,7 +533,7 @@
 * [Искушённый Dev - Coding with Max](https://t.me/seasoneddevru) — Регулярный авторский блог Fullstack разработчика (видео, дайджест, заметки).
 * [Gamedev suffering](https://t.me/gamedev_suffering) — Авторский блог Андрея Апанасика про разработку игр.
 * [Digital Доктор](https://t.me/tlgdoc) — Мысли о мессенджерах, IT-гигантах и новых технологиях.
-* [Dmitriy Melnik on System Design](https://t.me/dmitriy_melnik_channel) — Авторский канал Дмитрия Мельника о системном дизайне и архитектуре. Ведётся на английском языке.
+* [Dmitriy Melnik on System Design](https://t.me/drim_system_design_channel) — Авторский канал Дмитрия Мельника о системном дизайне и архитектуре. Ведётся на английском языке.
 * [Витаем в облаках](https://t.me/cloud_flight) — Инженерный блог об облачных технологиях и их применении.
 * [Стой под стрелой](https://t.me/nikitonsky_pub) — Авторский канал. Ведет [Никита Прокопов](https://t.me/nikitonsky).
 * [Записки kiriharu](https://t.me/kiriharu) - Авторский канал системного администратора и разработчика.
@@ -653,7 +653,7 @@
 * [Yii Framework 3](https://t.me/yii3ru) — Чат про Yii 3
 * [React Native](https://t.me/reactnative_ru) — Чат про React Native
 * [.NET Talks](https://t.me/dotnettalks) — Свободный чат .NET разработчиков, оффтоп разрешен.
-* [.NET Group](https://t.me/dotnetgroup) — Чат разработчиков .NET. Минимум флуда, максимум полезных обсуждений
+* [.NET Group](https://t.me/drim_dotnet_group) — Чат разработчиков .NET. Минимум флуда, максимум полезных обсуждений
 * [.NET Chat](https://t.me/DotNetChat) — Чат про .NET под эгидой MSK/SPB .NET Community Group
 * [pro.net](https://t.me/pro_net) — Обсуждение .NET Framework и всего, что с ним связано.
 * [Blazor RuChat](https://t.me/BlazorRuChat) — Чат для любителей Blazor и им сочувствующих.

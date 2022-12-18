@@ -10,7 +10,7 @@
 
 Канал недели:
 
-* [Новости Ru.Ubuntu](https://t.me/+Vkee3vx1XwgwNmMy) — Новости Ubuntu Linux, актуальная и оперативная информация. События, статьи, интересные материалы из мира Linux в общем, и Ubuntu в частности.
+* [Data Science Jobs](https://t.me/datasciencejobs) — Работа и вакансии: Data Science / Machine Learning / Deep Learning / Artifical Inellegence / Neural Networks / Natural Language Processing / Data Mining
 
 -----
 
@@ -56,7 +56,6 @@
 ## Каналы
 
 ##### Новости
-* [Новости Ru.Ubuntu](https://t.me/+Vkee3vx1XwgwNmMy) — Новости Ubuntu Linux, актуальная и оперативная информация. События, статьи, интересные материалы из мира Linux в общем, и Ubuntu в частности.
 * [opennet news](https://t.me/opennews) — Новости opennet
 * [SPbLUG news](https://t.me/spblug) — Канал новостей Санкт-Петербургской группы пользователей Linux (SPbLUG)
 * [Geeks](https://t.me/g33ks) — Статьи и новости. Для гиков и от гиков.
@@ -96,7 +95,6 @@
 [(Назад к меню)](#Меню)
 
 ##### Каналы по программированию и разработке ПО
-* [Котики Кодят](https://t.me/ccoder) — Официальный канал дайджеста-подкаста "Котики Кодят". Актуальные новости из мира кодинга.
 * [GameDev Architecture](https://t.me/gamedev_architecture) — Автор пишет о том как игровым компаниям строить правильные, эффективные и красивые решения. Качество кода, проектирование архитектуры, лучшие практики.
 * [Апатичный дотнетчик](https://t.me/dotnetter) — Агрегатор новостей и статей из мира .NET
 * [pro.elixir_news](https://t.me/proelixir_news) — Новости из мира Elixir

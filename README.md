@@ -262,7 +262,6 @@
 ##### Каналы информации по Информационной безопасности
 * [Hacker News на русском](https://t.me/HNews) — Новости информационной безопасности
 * [Hacker News En](https://t.me/hacker_news_feed) — Hacker News (english)
-* [IT Security Alerts](https://t.me/itsecalert) — Оповещение о крупных уязвимостях в софте и сервисах
 * [Информация опасносте](https://t.me/alexmakus) — New! Информация опасносте
 * [Codeby.net - канал](https://t.me/webware) — Канал портала codeby.net о программировании и кибербезопасности.
 * [Сайберсекьюрити и Ко.](https://t.me/alexlitreev_channel) — Канал @alexlitreev о безопасности в интернете, уязвимостях и прочих радостях жизни.

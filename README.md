@@ -923,6 +923,7 @@
 * [ATT&CK® COMMUNITY RUSSIA](https://t.me/attack_community) — Сообщество русскоязычных специалистов по компьютерной безопасности, использующих MITRE ATT&CK®.
 * [Apple CyberSecurity RU](https://t.me/apple_cybersec) — Группа по кибербезопасности операционных систем (macOS, iOS etc) и экосистемы Apple.
 * [TheHive and Cortex Russian Community](https://t.me/TheHiveRussia) — Группа для русскоязычного комьюнити по системам TheHive и Cortex
+* [ИБ в Финсекторе](https://t.me/FinSecurity) — Обсуждаем вопросы обеспечения информационной безопасности финансовых организаций
 
 [(Назад к меню)](#Меню)
 

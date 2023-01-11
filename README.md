@@ -1016,7 +1016,6 @@
 * [JS Jobs](https://t.me/javascriptjobs) — Канал с [ботом-агрегатором](https://github.com/risentveber/js_jobs_bot) вакансий с HH и Мойкруг в сфере Javascript.
 * [DevOps Jobs](https://t.me/devops_jobs) — Чат про вакансии и работу в сфере DevOps
 * [Битрикс работа](https://t.me/bitrix_work) — Чат про вакансии и работу в сфере Битрикса и IT
-* [Devall — Upwork](https://t.me/upworkcom) — Чат про Upwork для разработчиков
 * [QA](https://t.me/qa_jobs) — Чат про вакансии и работу в сфере тестирования
 * [Products Jobs](https://t.me/products_jobs) — Вакансии и запросы на поиск работы - управление продуктами, Growth Hacking, Cust Dev, Design Thinking, UX.
 * [Agile Jobs](https://t.me/agile_jobs) — Вакансии, связанные с Agile.

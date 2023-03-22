@@ -872,6 +872,7 @@
 * [PostgreSQL + 1C + Linux](https://t.me/PostgreSQL_1C_Linux) — Чат про особенности работы PostgreSQL и 1С на Linux
 * [Pony ORM](https://t.me/ponyorm) — Чат про Pony ORM
 * [ClickHouse](https://t.me/clickhouse_ru) — Чат про СУБД от Яндекс ClickHouse
+* [YugabyteDB](https://t.me/yugabytedb) — Чат про распределённую СУБД YugabyteDB
 * [SqlCom - Стиль жизни SQL](https://t.me/sqlcom) — Чат про Microsoft SQL Server
 * [DB Tarantool](https://t.me/tarantoolru) — Русский чат про Tarantool
 * [SQL_Ninja](https://t.me/sql_ninja) — Флудильня SqlCom
@@ -1119,7 +1120,8 @@
 * [Клавиатуры: эргономика и раскладки](https://t.me/klavaorgwork) — Чат о разработке клавиатур и раскладок
 * [Архивируем интернет](https://t.me/WeArchivingInternet) - Чат для поиска утилит или способов архивации ресурсов, решения вопросов раздачи контента в экстремальных условиях.
 * [kirjs_ru Chat](https://t.me/kirjs_ru_chat) — Чат-группа для обсуждения стримов и программирования в целом.
-* [Ozon for Dev - чат разработчиков](https://t.me/OZON_int) — ✅ Официальная группа для обсуждения интеграции и помощи в подключении к интерфейсам OZON.
+* [API WILDBERRIES for Dev](https://t.me/wildberriesApiForDev) — Неофициальная группа по обсуждению API Wildberries
+* [Ozon for Dev - чат разработчиков](https://t.me/OZON_int) — Официальная группа обсуждения интеграции и помощи в подключении к интерфейсам OZON.
 
 [(Назад к меню)](#Меню)
 

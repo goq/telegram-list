@@ -872,6 +872,7 @@
 * [PostgreSQL + 1C + Linux](https://t.me/PostgreSQL_1C_Linux) — Чат про особенности работы PostgreSQL и 1С на Linux
 * [Pony ORM](https://t.me/ponyorm) — Чат про Pony ORM
 * [ClickHouse](https://t.me/clickhouse_ru) — Чат про СУБД от Яндекс ClickHouse
+* [YugabyteDB](https://t.me/yugabytedb) — Чат про распределённую СУБД YugabyteDB
 * [SqlCom - Стиль жизни SQL](https://t.me/sqlcom) — Чат про Microsoft SQL Server
 * [DB Tarantool](https://t.me/tarantoolru) — Русский чат про Tarantool
 * [SQL_Ninja](https://t.me/sql_ninja) — Флудильня SqlCom

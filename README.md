@@ -704,6 +704,7 @@
 
 ##### Сообщества разработчиков и программистов
 * [Веб-Технологи: UI/UX, Вёрстка, Фронтенд, Javascript](https://t.me/webdesign_ru) — Чат веб-технологов. Веб-дизайн, вёрстка, HTML, CSS, флекс и бутстрапы, шаблонизаторы, препроцессоры, методологии, фронтенд, и немного Javascript.
+* [HTML • CSS • JS - Русскоговорящее сообщество](https://t.me/russian_frontend) — HTML, CSS, Sass, Less, JS, TS, Vue, React - если твой вопрос имеет отношение к этим словам, или ты просто классный специалист, то тебе здесь рады. Вливайся.
 * [frontend_ru](https://t.me/frontend_ru) — Сообщество фронтенд разработчиков
 * [Программисты](https://t.me/coding_ru) — Чат программистов. Флуд.
 * [Elegant Objects OOP JAVA](https://t.me/joinchat/AAAAAEJFMRzsRTRxM3ec6A) — Чат программистов Java OOP. Elegant Objects yegor256.com.

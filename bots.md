@@ -126,6 +126,7 @@
 * [@TyzenhausBot](https://t.me/TyzenhausBot) - Упрощение взаимных долгов в групповых чатах.
 * [@toadbot](https://t.me/toadbot) - Популярный игровой бот для чатов. Тамагочи-RPG с жабами.
 * [@DinoGochi](https://t.me/DinoGochi_bot) - Тамагочи-RPG бот с динозаврами! Покори бесконечное подземелье!
+* [@GPTmodelsChat_bot](https://t.me/GPTmodelsChat_bot) - Развивающийся NoChatGPT
 
 [(Назад к меню)](#Разделы)
 

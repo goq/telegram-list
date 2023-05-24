@@ -264,7 +264,6 @@
 * [Hacker News En](https://t.me/hacker_news_feed) — Hacker News (english)
 * [Информация опасносте](https://t.me/alexmakus) — New! Информация опасносте
 * [Codeby.net - канал](https://t.me/webware) — Канал портала codeby.net о программировании и кибербезопасности.
-* [Сайберсекьюрити и Ко.](https://t.me/alexlitreev_channel) — Канал @alexlitreev о безопасности в интернете, уязвимостях и прочих радостях жизни.
 * [Киберshit](https://t.me/cybershit) — Канал про технологии и информационную безопасность
 * [WEBSITE SECURITY](https://t.me/sitesecurity) — Все о безопасности сайтов: диагностика, лечение от вирусов и защита от взлома.
 * [HttpNotOnly](https://t.me/somesecurity) — Security techniques and researches

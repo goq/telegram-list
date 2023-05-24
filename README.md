@@ -881,7 +881,6 @@
 * [PostgresChat](https://t.me/postgreschat) — Чат про PostgreSQL (english)
 * [pgCodeKeeper](https://t.me/pgcodekeeper) — Чат поддержки [opensource](https://github.com/pgcodekeeper/pgcodekeeper) проекта [pgCodeKeeper](https://pgcodekeeper.org)
 * [Oracle RU](https://t.me/oracle_ru) — Чат про Oracle
-* [Scylla DB](https://t.me/ru_scylladb) — Чат про ScyllaDB
 * [Yandex Database Chat](https://t.me/yandexdatabase_ru) — Чат по Yandex Database
 * [dbmsdev](https://t.me/dbmsdev) — Чат о разработке СУБД
 * [Разработка СУБД](https://t.me/dev_dbms_ru) — Чат разработчиков СУБД

@@ -859,8 +859,7 @@
 * [Отзывы на компании](https://t.me/qa_bad_company) — Чат про позитивные и негативные отзывы на компании
 * [Finance](https://t.me/qa_fin) — Чат про зарплату, офферы, прибавки
 * [Курсы](https://t.me/qa_courses) — Чат обсуждения курсов по тестированию
-* [Relocate](https://t.me/QA_relocate) — Чат для QA интересующихся релокацией
-* [Interviews](https://t.me/QA_relocate) — Чат для прохождения собеседований на youtube
+* [QA tracktor](https://t.me/QA_relocate) — Группа для QA интересующихся релокацией
 * [Mentors](https://t.me/qa_mentors) — Чат для поиска менторов и менти в области QA
 * [Mentorpiece](https://t.me/to_be_qa_chat) — Чат ответов и советов по QA от QA-менторов Mentorpiece с опытом 10+ лет
 

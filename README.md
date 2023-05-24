@@ -1184,7 +1184,6 @@
 * [Kharkiv iOS Peerlab](https://t.me/kharkiv_ios) — Чат для связи людей, которые собираются на [iOS-пирлабы по субботам в Харькове](https://www.meetup.com/Kharkiv-iOS-Peerlab/)
 * [1с Чат РБ](https://t.me/One1c_Blr) — Связанные одним 1С в РБ.
 * [Rubyata](https://t.me/rubyata) — Ruby and Ruby On Rails community in Kyrgyzstan
-* [IT-Страна](https://t.me/itbelarus) — Чат IT-страны.
 * [BDK - Backend Developers of Kazakhstan](https://t.me/backenderskz) - сообщество бэкенд-разработчиков Республики Казахстан
 
 [(Назад к меню)](#Меню)

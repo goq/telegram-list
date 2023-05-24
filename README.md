@@ -1144,7 +1144,6 @@
 * [SPb Reliability Meetup](https://t.me/spb_reliability) — SRE (Site Reliability Engineering) митапы в Санкт-Петербурге
 * [Kubernetes](https://t.me/k8spb) — Чат про Kubernetes
 ###### ЦФО
-* [OrelCodes](https://t.me/orel_codes_chat) — IT чат г. Орла (регулярно проводятся митапы)
 * [Глубокий Рефакторинг](https://t.me/deeprefactoring) — IT притон г. Воронежа
 * [GDG Voronezh](https://t.me/gdgvrn) — Чат айтишников Воронежа
 * [Golang Voronezh](https://t.me/golang_vrn) — Чат по интересам для golang разработчиков Воронежа

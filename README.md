@@ -1023,7 +1023,6 @@
 * [QA](https://t.me/qa_jobs) — Чат про вакансии и работу в сфере тестирования
 * [Products Jobs](https://t.me/products_jobs) — Вакансии и запросы на поиск работы - управление продуктами, Growth Hacking, Cust Dev, Design Thinking, UX.
 * [Agile Jobs](https://t.me/agile_jobs) — Вакансии, связанные с Agile.
-* [FreeLance](https://t.me/getFreelance) — Чат для поиска фриланс заработка
 * [Microsoft Stack Jobs](https://t.me/microsoftstackjobs) — Чат для поиска работы в сфере Microsoft и других Enterprise технологии.
 * [ethereum_jobs](https://t.me/eth_jobs) — Вакансии по Ethereum - Эфириум
 * [Django Jobs](https://t.me/django_jobs) — Поиск и предложения работы в области Python/Django

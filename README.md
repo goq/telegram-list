@@ -953,7 +953,6 @@
 * [🍃RU.MINT](https://t.me/ru_mint) — Официальное Русское Сообщество Linux Mint
 * [Linux Mint Україна](https://t.me/linuxmint_com) — Linux Mint Україна. cтрогие правила
 * [Linux Help](https://t.me/grouplinux) — Чат взаимопомощи по линуксу.
-* [macOS ru](https://t.me/macOS_ru) — Чат про macOS
 * [iHack - Hackintosh & Jailbreak](https://t.me/macosx86) — Чат про Хакинтош и MacOS
 * [Manjaro ru](https://t.me/manjarolinux) — Чат про Manjaro Linux
 * [openSuse](https://t.me/ru_openSUSE) — Чат про openSuse

@@ -661,7 +661,6 @@
 * [Blazor RuChat](https://t.me/BlazorRuChat) — Чат для любителей Blazor и им сочувствующих.
 * [NodeJS](https://t.me/nodejs_ru) — Чат про NodeJs
 * [NuxtJS](https://t.me/nuxtjs_ru) — Чат про NuxtJS
-* [CodenameCRUD](https://t.me/codenamecrud) — Чат про Ruby on Rails
 * [React](https://t.me/react_ru) — Чат про React
 * [Битрикс для разработчиков](https://t.me/bitrixfordevelopers) — Чат про Битрикс
 * [Odoo talks & fun](https://t.me/odoo_talks) — Чат про Odoo на русском и других языках

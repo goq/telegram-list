@@ -722,7 +722,6 @@
 * [ITForge](https://t.me/itforge) — Чат про python, парсинг сайтов и просто про IT
 * [Annode webdev](https://t.me/annode) — Чат веб-разработчиков. Frontend, Backend, CMS, БД и другое.
 * [macOS Developers](https://t.me/macdev_ru) — Чат о разработке для macOS
-* [ХабраХабр I.T.](https://t.me/habrachat) — Чат информационных технологий.
 * [Google Cloud Platform_ru](https://t.me/goo_cloud_ru) — Чат про Google Cloud Platform
 * [Чат — Типичный Верстальщик](https://t.me/tpverstakchat) — Чат верстальщиков
 * [letsCode Chat](https://t.me/letsCodeChat) — Флудильня. Место для вопросов-ответов по разработке и ИТ в целом.

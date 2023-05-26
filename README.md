@@ -69,7 +69,6 @@
 * [Tehnojam.pro](https://t.me/tehnojam) — Лента публикаций сайта ТехноДжем.
 * [QUANTUM QUINTUM](https://t.me/quantumquintum) — Канал Константина Кичинского (Technical Evangelism Lead в Microsoft), короткие заметки про Microsoft и технологии
 * [ITpro News & Reviews](https://t.me/MicrosoftRus) — Заметки о Microsoft, Windows Server, System Center, Azure, Office 365, OMS и прочее.
-* [Hackspace Saint-Petersburg](https://t.me/hackspb) — News from hackspace spb
 * [B4CKSP4CE](https://t.me/b4ck5p4c3) — Канал хакерспейса "B4CKSP4CE" в Санкт-Петербурге
 * [Linux News](https://t.me/linux_news_ru) — Новости из мира GNU и Linux.
 * [Календарь событий игровой индустрии](https://t.me/gamedev_calendar) — Канал информирующий о проходящих событиях игровой индустрии и крупных конференций на территории СНГ.

@@ -984,7 +984,6 @@
 [(Назад к меню)](#Меню)
 
 ##### Вакансии и работа
-* [Jobs and Project Chat](https://t.me/joinchat/ABI4pz7v7KfJhb12XIkIUA) — Чат по вакансиям и проектам от сообщества Chatbots
 * [Mobile Dev Jobs](https://t.me/mobile_jobs) — Чат по вакансиям разработчиков мобильных приложений
 * [Mobile Dev Jobs UA](https://t.me/mobile_job_ua) — Чат по вакансиям разработчиков мобильных приложений в Украине
 * [JavaScript Jobs](https://t.me/javascript_jobs) — Чат про вакансии и работу в сфере JavaScript

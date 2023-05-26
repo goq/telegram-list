@@ -620,7 +620,6 @@
 * [Scala](https://t.me/scala_ru) — Чат про Scala
 * [Scala PONV](https://t.me/scala_ponv) — Неформальный чат про Scala, FP, и не только
 * [Solidity](https://t.me/dev_solidity) — Чат про Solidity / Ethereum (английский)
-* [TypeScript + Flow = ❤](https://t.me/ts_ru) — Чат про TypeScript и Flow
 * [(F|R|FR)P](https://t.me/frp_ru) — Функциональное Реактивное Программирование
 * [ReactiveX](https://t.me/reactivex) — Про реактивное программирование
 * [Functional Programming](https://t.me/fp_ru) — Чат любителей функциональных языков программирования
@@ -1045,7 +1044,6 @@
 [(Назад к меню)](#Меню)
 
 ##### Управление проектами, продакт-менеджмент, Agile, Kanban, SCRUM
-* [Products_ru](https://t.me/products_ru) — Чат про управление продуктами, Growth Hacking, Cust Dev, Design Thinking, UX, метрикам и т.д.
 * [Agile_ru](https://t.me/agile_ru) — Общаемся на темы, посвященные Agile, Scrum, Lean, XP, Kanban, инструментам повышения эффективности.
 * [Agile Games](https://t.me/agilegames) — Оффлайн игры, помогающие понять суть гибких методологий. Регулярные митапы в Москве и Питере.
 * [Projects KZ](https://t.me/projects_kz) — Казахстанское сообщество по управлению проектами

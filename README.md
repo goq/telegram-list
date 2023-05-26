@@ -97,7 +97,6 @@
 * [pro.elixir_news](https://t.me/proelixir_news) — Новости из мира Elixir
 * [Elixir Formula](https://t.me/elixir_formula) — Канал новостей и интересных статей в мире Эликсира.
 * [Opensource Findings](https://t.me/opensource_findings) — Канал с ежедневными ссылками на крутые Open-Source проекты, а также статьи и доклады про фундаментальные вещи в разработке.
-* [Мобайл: дизайн и разработка](https://t.me/aboutmobile) — Канал для всех, кто создает мобильные приложения
 * [Android Дичь](https://t.me/shitty_android) — Тщательно отобранные статьи и доклады по Android-разработке и смежным темам
 * [TM Feed](https://t.me/tmfeed) — Лента публикаций с Хабра и Гиктаймс
 * [Типичный программист](https://t.me/tproger_official) — Статьи по программированию, новости IT, вакансии, ивенты.

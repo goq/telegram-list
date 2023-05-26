@@ -126,7 +126,6 @@
 * [devdigect // azure](https://t.me/azure_digest) —  дайджест новостей посвященных облачной платформе Microsoft Azure.
 * [#CoolAdmin](https://t.me/cooladmin) — канал про системное администрирование, сети, сервера и системы хранения. С новостями и историями.
 * [Разработка игр](https://t.me/progamedev) — Материалы о разработке, экспертные статьи и скромные мнения обо всём, что касается игр.
-* [Non-trivial Ruby](https://t.me/rubynontrivial) — Ruby-наркомания: микробиблиотеки, альтернативные фреймворки, security, IoT, system programming
 * [DevBrain](https://t.me/devbrain) — Новости, статьи, книги и видео из мира разработки софта
 * [VR Journal](https://t.me/VR_Journal) — Уютненько о VR/AR технологиях
 * [anykeynotes](https://t.me/anykeynotes) — Записки старого эникейщика.

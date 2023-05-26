@@ -231,7 +231,6 @@
 * [Dev Useful Stuff](https://t.me/dev_useful_stuff) — Библиотеки, фреймворки, инструменты
 * [FrontEnd Development](https://t.me/fedevelopment) — Канал ежедневно публикует полезные ссылки, новости из мира фронтенд-разработки.
 * [Spb-Frontend](https://t.me/spb_frontend) — Новости фронтенда и питерского сообщества Spb-Frontend, дайджест новостей за неделю в виде рассылки
-* [GOV](https://t.me/govdesign) — Все о государстве и дизайне государства
 * [andrew-r обо всём](https://t.me/andrew_r_notes) — Андрей Романов о разработке интерфейсов, дизайне, программировании и всём остальном
 * [Javanese Online](https://t.me/javanese_online) — статьи о Java, Android и Kotlin. Критика, ковыряние во внутренностях, эксперименты.
 * [Front End Dev](https://t.me/front_end_dev) — Новости фронтенда, переводы статей, полезные ресурсы

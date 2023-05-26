@@ -796,7 +796,6 @@
 * [glpi_ru](https://t.me/glpi_ru) — Чат о системе helpdesk и инвентаризации GLPI
 * [AWS ru](https://t.me/aws_ru) — Чат про Amazon Web Services
 * [pro.git](https://t.me/pro_git) — Чат про систему контроля версий git
-* [Git ru](https://t.me/git_ru) — Еще один чат про git
 * [e-mail](https://t.me/ru_email) — Чат про администрирование почтовой инфраструктуры и борьбу со спамом
 * [Configuration Manager](https://t.me/configmgr) — Microsoft System Center Configuration Manager & Intune & EMS
 * [Operations Manager](https://t.me/OpsMgr) — System Center Operations Manager & Orchestrator = Automation

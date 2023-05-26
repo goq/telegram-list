@@ -765,7 +765,6 @@
 * [Godot Engine](https://t.me/godot_engine) — Чат разработчиков игр на Godot Engine
 * [blender_ru](https://t.me/blender_ru) — Чат о Blender
 * [3ds Max](https://t.me/ohmy3dsmax) — Чат о 3ds Max
-* [Maya 3D](https://t.me/maya_3d) — Чат о Maya 3d
 * [Чат Дяди Паши Fusion 360](https://t.me/dadapasha_chat) — Fusion 360 и аддиктивные технологии. Generative Design, CAD, CAM
 * [MODO](https://t.me/modo_art) — Чат про Foundry MODO и около нём
 * [The Foundry MARI](https://t.me/thefoundrymari) — Чат о The Foundry MARI

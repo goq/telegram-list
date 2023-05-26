@@ -743,6 +743,7 @@
 * [GitHub Planeta: по-русски](https://t.me/githubplaneta) — Ежемесячные виртуальные встречи для русско-говорящей аудитории
 * [Параллельный код || Оптимизация](https://t.me/parallelcoding) — Чат про параллельное программирование и оптимизацию кода
 * [WebDev чат для джунов и сочуствующих](https://t.me/junior_happens) - Бесплатно и не токсично помогаем с Vue.js, React.js, Angular, Javascript, Typescript, PHP, Laravel, Go, Java, Docker, Kubernetes, Node.JS, HTML, CSS
+* [PHPize.online](https://t.me/phpize_online) — Чат поддержки проекта https://PHPize.online Вопросы по функционалу сайта, а также любые вопросы по PHP & SQL
 * [Illuminati Inc.](https://t.me/illuminatinc) - IT-сообщество, в котором обмениваются опытом и делятся полезной информацией
 
 [(Назад к меню)](#Меню)
@@ -882,6 +883,7 @@
 * [Разработка СУБД](https://t.me/dev_dbms_ru) — Чат разработчиков СУБД
 * [Teradata](https://t.me/teradata_ru) — Чат по Терадате
 * [firebase_ru — русскоговорящее сообщество](https://t.me/firebase_ru) — Чат поддержки [платформы для разработки приложений Firebase™ platform и масштабируемой базы данных Firestore™ scalable database](https://firebase.google.com/) на русском языке. Публиковать вакансии и работу с Firebase можно.
+* [SQLize.online](https://t.me/sqlize) — Чат поддержки проекта https://SQLize.online Вопросы по функционалу сайта, а также любые вопросы по SQL
 
 [(Назад к меню)](#Меню)
 

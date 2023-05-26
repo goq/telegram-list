@@ -74,7 +74,6 @@
 * [Linux News](https://t.me/linux_news_ru) — Новости из мира GNU и Linux.
 * [Календарь событий игровой индустрии](https://t.me/gamedev_calendar) — Канал информирующий о проходящих событиях игровой индустрии и крупных конференций на территории СНГ.
 * [Наука от Funscience](https://t.me/funscience) — Популярная наука, технологии,  гаджеты, космос.
-* [Qubit (Quantum Daily)](https://t.me/qubit_daily) — Канал технологического евангелиста Microsoft, Стаса Павлова, о последних новостях из мира квантовых вычислений.
 * [Samara IT Community news](https://t.me/Samara_IT_Community) — Канал новостей Самарского IT сообщества
 * [Eb*@oe IT](https://t.me/ebannoeit) — Телеграм версия одноименного ресурса eb*@oe it. Голая правда о нашем АйТи
 * [ITGM News](https://t.me/itgmnews) — Новости про [IT Global Meetup](https://piter-united.ru) — глобальный слёт IT сообществ

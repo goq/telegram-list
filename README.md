@@ -1124,7 +1124,6 @@
 ##### Российские региональные IT-сообщества
 ###### Москва
 * [KotlinMoscow](https://t.me/KotlinMoscow) — Сообщество Kotlin Moscow
-* [Moscow.rb](https://t.me/moscowrb) — Московское сообщество Ruby
 * [Москоу progers](https://t.me/moscowProgers) — Чат программистов и прочих IT специалистов Москвы
 * [PyLadies Moscow](https://t.me/pyladies_moscow_chat) — PyLadies Moscow, московское сообщество разработчиц
 * [DevOps Moscow](https://t.me/devopsmoscow) — Сообщество разработчиков, тестировщиков и сисадминов в Москве.

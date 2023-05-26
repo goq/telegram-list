@@ -168,7 +168,6 @@
 * [IT Meeting](https://t.me/ITMeeting) — Канал информирования о предстоящих митапах и конференций в области программирования.
 * [Google Apps Script Russian](https://t.me/gasru) — Все, что связано с Google Apps Script.
 * [Connection with Coding](https://t.me/cccoding) — Канал про программирование и робототехнику.
-* [DataViz](https://t.me/data_viz) — Интересные примеры визуализации данных.
 * [Game Dev Porn](https://t.me/gamedevporn) — Организованное интересное про геймдев. Киберклан. Делитесь с фаертимой.
 * [Kharkiv iOS](https://t.me/kharkiv_ios) — Новости и события iOS-комьюнити Харькова
 * [ProgHub](https://t.me/prog_hub) — Тестирования и задачи по различным языкам программирования

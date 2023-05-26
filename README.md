@@ -77,7 +77,6 @@
 * [Qubit (Quantum Daily)](https://t.me/qubit_daily) — Канал технологического евангелиста Microsoft, Стаса Павлова, о последних новостях из мира квантовых вычислений.
 * [Samara IT Community news](https://t.me/Samara_IT_Community) — Канал новостей Самарского IT сообщества
 * [Eb*@oe IT](https://t.me/ebannoeit) — Телеграм версия одноименного ресурса eb*@oe it. Голая правда о нашем АйТи
-* [ITGM News](https://t.me/itgmnews) — Новости про [IT Global Meetup](https://piter-united.ru) — глобальный слёт IT сообществ
 * [SALENAMES](https://t.me/salenames) — Новости и блог про домены от первого лица - доменного регистратора.
 * [Skolkovo Leaks](https://t.me/skolkovoleaks) — Всё об инновационном центре "Сколково" - об этом не напишут в СМИ.
 * [ICT.Moscow](https://t.me/ICT_Moscow) — ИТ и телеком в Москве: успехи, проблемы, возможности для бизнеса. Агрегация новостей, полезные контакты, исследования.

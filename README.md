@@ -758,7 +758,6 @@
 ##### Разработка игр, компьютерная графика
 * [Unreal Engine](https://t.me/UnrealEngine4) — Чат разработчиков игр на Unreal Engine 4
 * [Говорим о разработке игр](https://t.me/gamedevtalk) — Обсуждение всех возможных аспектов разработки игр
-* [Source Engine & Games](https://t.me/sourceengine) — Разработка и обсуждение игр и модов на Source Engine 1,2
 * [Urho3d](https://t.me/urho3d) — Чат разработчиков игр на Urho3D
 * [pro.graphon (and gamedev)](https://t.me/prographon) —  Чат про стандарты консорциума Khronos: OpenGL, OpenCL. Работы, туторы, интересные материалы
 * [unity3d.ru](https://t.me/unity3d_ru) — Чат про Unity3D и геймдев

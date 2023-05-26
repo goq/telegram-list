@@ -172,7 +172,6 @@
 * [Math.random(): javascript community](https://t.me/mathrandomcommunity) — сообщество инженеров связанные интересами в JavaScript технологиях.
 * [Geek Export](https://t.me/geekexport) — Канал про карьеру в Европе, лайфхаки и уроки английского для айтишников
 * [Junior Python School](https://t.me/pythonjuniorschool) — Канал с большим количеством tricky quizzes и материалов для Python dev.
-* [C#Lab](https://t.me/CSharpLab) — Примеры на C#
 * [Elgg](https://t.me/elggnews) — Новости, статьи, Q&A, релизы версий и плагинов для фреймворка Elgg
 * [NEWS Flutter Dev Podcast](https://t.me/flutterdevpodcast_news) — Flutter Dev Podcast.
 * [Библиотека C/C++ разработчика](https://t.me/cppproglib) — Полезные материалы по всему, что может быть полезно плюсовику/сишнику.

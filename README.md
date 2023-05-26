@@ -142,7 +142,6 @@
 * [AR / VR / MR / XR / HCI - RU](https://t.me/arvrmr_ru) — Заметки про AR / VR / MR / XR / HCI на русском
 * [golang](https://t.me/gophernews) — Новости по языку программирования Go, ссылки на статьи и интересные проекты
 * [IoTing: новости&мысли](https://t.me/ioting) — Мир "Интернета вещей". Новости, слухи, проповеди.
-* [WEBAwesome](https://t.me/WEBAwesome) — Про библиотеки для создания сайтов. (Есть навигация по хештегам.)
 * [Стартапы и хайпы](https://t.me/startupsandhypes) — Авторский канал про разработку, стартапы и технологии.
 * [Ruby, Rails etc (╯°□°）╯︵︵︵ ┻━┻](https://t.me/ruby_ruby_ruby) — Новости, статьи и проч. про Ruby, Rails, PostgreSQL etc.
 * [Об IT без галстуков](https://t.me/noTieInIT) — Об IT без галстуков - авторский канал Дмитрия Меньшикова [@dmitry_menshikov](https://t.me/dmitry_menshikov), CTO в Aurora Technologies.

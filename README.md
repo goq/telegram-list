@@ -159,7 +159,6 @@
 * [Zero Dereference](https://t.me/zerodereference) — Ссылки на материалы о системном программировании, разработке языков программирования, обработке сигналов и науке в целом.
 * [TechChannel](https://t.me/tech_channel4u) — Всё о технологиях, программировании, инженерии и вебе.
 * [DevChampions](https://t.me/devchampions) — Книги, ссылки и ресурсы для айтишников (на английском языке)
-* [MRG Champs](https://t.me/mrgchamps) — Канал о чемпионатах, соревнованиях и хакатонах от Mail Ru Group
 * [Saint P Ruby News](https://t.me/saintpruby) — Digest of Ruby community news
 * [Dev Tools](https://t.me/developer_tools) — Инструменты, плагины и аддоны для разработки.
 * [Middle Java](https://t.me/middle_java) — Канал про Java. Полезные материалы.

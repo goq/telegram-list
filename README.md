@@ -381,7 +381,6 @@
 * [Вакансии и резюме из Digital](https://t.me/seohr) — Вакансии и резюме из Digital
 * [Digital Job](https://t.me/digitaljob_ch) — Вакансии в индустрии Digital
 * [Web Freelance](https://t.me/webfrl) — Предложения по фрилансу для веб-разработчиков
-* [Трактор на Джинне](https://t.me/djinni_relocate) — Предложения на релокейт для программистов в Европу и США
 * [Devaller](https://t.me/devaller) — Вакансии от сообщества Devall
 * [sysadmin_jobs](https://t.me/sysadmin_jobs) — Вакансии для системных администраторов
 * [Работа за рубежом](https://t.me/jobs_abroad) — Вакансии с релокацией

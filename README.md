@@ -271,7 +271,6 @@
 * [WEBSITE SECURITY](https://t.me/sitesecurity) — Все о безопасности сайтов: диагностика, лечение от вирусов и защита от взлома.
 * [HttpNotOnly](https://t.me/somesecurity) — Security techniques and researches
 * [DC7499](https://t.me/DEFCON) — DefCon Russia
-* [Camshift](https://t.me/camshift) — Канал про ИБ в сфере видеонаблюдения
 * [Вирусолог](https://t.me/it_virologist) — Канал про it-вирусологию. Новости из мира it и инфобеза
 * [ИБач](https://t.me/ibach) — Канал об Информационной Безопасности 🔒
 * [Bug Bounty Channel](https://t.me/bug_bounty_channel) — All bug bounties here

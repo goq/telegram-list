@@ -296,7 +296,6 @@
 * [BigQuery Insights](https://t.me/bigquery) — Аналитика и большие данные в Google BigQuery, инсайты, data science, UX / WEB analytics, big data, digital marketing.
 * [Boring Berlin Scientist](https://t.me/boberscience) — Useful articles about Data Science, Machine Learning, Data Engineering and not only.
 * [Machine Learning World](https://t.me/ml_world) — Все по Data Science и Machine Learning
-* [мамкин Data Scientist](https://t.me/mommyscience) — тернистый путь в data science, личный экспирианс
 * [Neural Networks Engineering](https://t.me/neural_network_engineering) — Авторский канал про нейронные сети в NLP
 * [Machinelearning](https://t.me/ai_machinelearning_big_data) — Актуальная информация из мира ML, нейронных сетей, DI
 * [Machine Learning Explained](https://t.me/machine_learning_explained) — Канал для тех, кто хочет успевать следить за происходящим в ML

@@ -578,7 +578,6 @@
 * [phpGeeks](https://t.me/phpgeeks) — Чат про PHP / php Geeks
 * [phpclub](https://t.me/phpclubru) — Чат про PHP / php Club
 * [prophp](https://t.me/prophp7) — Чат про современный PHP
-* [Devall — PHP](https://t.me/joinchat/AAtJOjx9l5F9IhkHIIVP9Q) — Чат про PHP. Флуд
 * [PowerShell Pro](https://t.me/powershell_pro) — Язык программирования PowerShell
 * [PowerShellRus](https://t.me/powershellrus) — О Powershell на русском
 * [Powershell Ru](https://t.me/ru_powershell) — Ещё один чат про PowerShell

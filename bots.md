@@ -119,12 +119,13 @@
 * [@LaTeXyBot](https://t.me/LaTeXyBot) - Инлайн бот для отображения формул
 * [@cloud_convert_bot](https://t.me/cloud_convert_bot) - Конвертер различных форматов файлов
 * [@Ya_Disk_Bot](https://t.me/Ya_Disk_Bot) - Интеграция сервиса "Яндекс.Диск" в Telegram. Например, загрузка файлов (фото, видео, аудио и т.п.) на Яндекс.Диск.
-* [@MathCalcBot](t.me/MathCalcBot) — Поможет быстро что-то подсчитать. Работает inline
+* [@MathCalcBot](https://t.me/MathCalcBot) — Поможет быстро что-то подсчитать. Работает inline
 * [@AkinatorBot](https://t.me/AkinatorBot) - Акинатор бот, угадывает персонажей по наводящим вопросам.
 * [@Google_itBot](https://t.me/Google_itBot) - Inline Бот для поиска в Google (текст, картинки), поиск видео в YouTube.
 * [@maigret_osint_bot](https://t.me/maigret_osint_bot) - Поиск аккаунтов по никнейму на более чем 1300 сайтах.
 * [@TyzenhausBot](https://t.me/TyzenhausBot) - Упрощение взаимных долгов в групповых чатах.
 * [@toadbot](https://t.me/toadbot) - Популярный игровой бот для чатов. Тамагочи-RPG с жабами.
+* [@DinoGochi](https://t.me/DinoGochi_bot) - Тамагочи-RPG бот с динозаврами! Покори бесконечное подземелье!
 
 [(Назад к меню)](#Разделы)
 

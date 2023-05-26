@@ -239,7 +239,6 @@
 * [Front End World](https://t.me/front_end_first) — Англоязычный канал с новостями и статьями про фронтэнд
 * [Platon on frontend](https://t.me/platononfrontend) — Заметки, мысли и новости о фронтенде.
 * [Фронтенд Юность](https://t.me/frontend_u_news) — Канал подкаста «Фронтенд Юность» (18+).  Самый честный подкаст о фронтенде.
-* [Абрамов Позвонит](https://t.me/ReduxAnotherDay) — Канал информационно-развлекательной направленности про веб-разработку.
 * [WebDEV](https://t.me/webb_dev) — Полезные ресурсы для Backend и Frontend разработчиков, новости и статьи.
 * [Типичный Верстальщик](https://t.me/tpverstak) — Советы по созданию сайтов, книги, подборка сервисов для работы
 * [Frontend Magazine](https://t.me/frontendmagazine) — Образовательные материалы для Frontend инженеров.

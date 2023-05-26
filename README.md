@@ -101,7 +101,6 @@
 * [TM Feed](https://t.me/tmfeed) — Лента публикаций с Хабра и Гиктаймс
 * [Типичный программист](https://t.me/tproger_official) — Статьи по программированию, новости IT, вакансии, ивенты.
 * [Mad Devs Channel](https://t.me/maddevsio) — русскоязычный канал ребят из компании Mad Devs, информация о разработке, тулзах, методах.
-* [Spalmalo Tech Talk](https://t.me/spalmalo_tt) — Спалмало находит и шарит с вами всякие полезности
 * [Technologique](https://t.me/technologique) — Канал о тенденциях в концепциях языков программирования и технологиях разработки ПО
 * [Sysadmin Tools](https://t.me/sysadmin_tools) — Sysadmin tools and othe usefull things from modern IT.
 * [∏ρØƒuñçτØρ Øπτµç∑](https://t.me/libmustdie) — Авторский канал о программировании (Пэйперы, видео, интересные репозитории)

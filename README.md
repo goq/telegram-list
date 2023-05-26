@@ -525,7 +525,6 @@
 * [Геймдев, который мы заслужили](https://t.me/korovany) — Авторский канал о геймдеве. Статьи, видео, книги, аналитика, мнения, новости и всё такое
 * [Пингвитон](https://t.me/lautips) — полезные штуки про Linux и Python от @lauvenhelz
 * [Пых](https://t.me/phpyh) — блог [@vudaltsov](https://t.me/vudaltsov) о разработке на PHP
-* [IT Daily Blog](https://t.me/itdailyblog) — IT Daily. Работа программиста день за днём. Об IT изнутри.
 * [Иван Акулов про разработку](https://t.me/iamakulov_channel) — JS, React, веб-перформанс, разработка и архитектура от Ивана Акулова
 * [johenews](https://t.me/johenews) — Очень хороший авторский канал про IT. Обзоры, аналитика, новости.
 * [Осмыслить и забыть](https://t.me/karmind) — Личный блог Java-разработчика обо всём, кроме Java-разработки.

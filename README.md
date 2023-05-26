@@ -124,7 +124,6 @@
 * [devdigect // netcore](https://t.me/dncuug) — ежедневный дайджест новостей посвященных разработке на платформе .NET Core. Поддерживается сообществом .NET Core Ukrainian User Group.
 * [devdigect // xamarin](https://t.me/xamarin_digest) —  дайджест новостей посвященных мобильной разработке с использованием Xamarin.
 * [devdigect // azure](https://t.me/azure_digest) —  дайджест новостей посвященных облачной платформе Microsoft Azure.
-* [#CoolAdmin](https://t.me/cooladmin) — канал про системное администрирование, сети, сервера и системы хранения. С новостями и историями.
 * [Разработка игр](https://t.me/progamedev) — Материалы о разработке, экспертные статьи и скромные мнения обо всём, что касается игр.
 * [Non-trivial Ruby](https://t.me/rubynontrivial) — Ruby-наркомания: микробиблиотеки, альтернативные фреймворки, security, IoT, system programming
 * [DevBrain](https://t.me/devbrain) — Новости, статьи, книги и видео из мира разработки софта

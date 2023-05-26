@@ -268,7 +268,6 @@
 * [Информация опасносте](https://t.me/alexmakus) — New! Информация опасносте
 * [Codeby.net - канал](https://t.me/webware) — Канал портала codeby.net о программировании и кибербезопасности.
 * [Киберshit](https://t.me/cybershit) — Канал про технологии и информационную безопасность
-* [WEBSITE SECURITY](https://t.me/sitesecurity) — Все о безопасности сайтов: диагностика, лечение от вирусов и защита от взлома.
 * [HttpNotOnly](https://t.me/somesecurity) — Security techniques and researches
 * [DC7499](https://t.me/DEFCON) — DefCon Russia
 * [Camshift](https://t.me/camshift) — Канал про ИБ в сфере видеонаблюдения

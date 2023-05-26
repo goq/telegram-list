@@ -266,7 +266,6 @@
 * [Hacker News на русском](https://t.me/HNews) — Новости информационной безопасности
 * [Hacker News En](https://t.me/hacker_news_feed) — Hacker News (english)
 * [Информация опасносте](https://t.me/alexmakus) — New! Информация опасносте
-* [Codeby.net - канал](https://t.me/webware) — Канал портала codeby.net о программировании и кибербезопасности.
 * [Киберshit](https://t.me/cybershit) — Канал про технологии и информационную безопасность
 * [WEBSITE SECURITY](https://t.me/sitesecurity) — Все о безопасности сайтов: диагностика, лечение от вирусов и защита от взлома.
 * [HttpNotOnly](https://t.me/somesecurity) — Security techniques and researches

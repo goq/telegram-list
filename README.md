@@ -827,7 +827,6 @@
 * [ChatOps RU](https://t.me/chatops_ru) — Те, кто управляют серверами через чат ботов
 * [RU Devops](https://t.me/ru_devops) — Чат про DevOps
 * [RU.Docker - Официальное Русское Сообщество](https://t.me/ru_docker) — Официальное Русское Сообщество Docker
-* [Брутальный Docker](https://t.me/brutal_docker) — Чат для тех, кому есть что сказать про докер
 * [Puppet](https://t.me/puppet_ru) — Чат про Puppet и управление конфигурациями
 * [Pulumi_ru](https://t.me/pulumi_ru) — Чат про Pulumi
 * [Kubernetes](https://t.me/kubernetes_ru) — Kubernetes русскоговорящее сообщество

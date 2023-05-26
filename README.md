@@ -908,7 +908,7 @@
 * [A2 Operating System](https://t.me/A2OperatingSystem) — Чат сообщества A2 ОС
 * [ArchLinux RU](https://t.me/archlinux_ru) — ArchLinux
 * [Arch Linux RU](https://t.me/ArchLinuxChatRU) — Анархия!
-* [Astra Linux](https://t.me/joinchat/Bzt6QkHm1ZPzItPE2C9Fug) — Чат про Astra Linux
+* [Astra Linux](https://t.me/astralinux_chat) — Чат про Astra Linux
 * [CentOS](https://t.me/centos_ru) — Чат про CentOS
 * [Debian](https://t.me/DebianRu) — Чат про Debian
 * [elementaryOS](https://t.me/elementaryosuser) — Community of elementary OS users (EN)

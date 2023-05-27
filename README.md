@@ -236,7 +236,6 @@
 * [Hacker News En](https://t.me/hacker_news_feed) — Hacker News (english)
 * [Информация опасносте](https://t.me/alexmakus) — New! Информация опасносте
 * [Киберshit](https://t.me/cybershit) — Канал про технологии и информационную безопасность
-* [HttpNotOnly](https://t.me/somesecurity) — Security techniques and researches
 * [DC7499](https://t.me/DEFCON) — DefCon Russia
 * [Camshift](https://t.me/camshift) — Канал про ИБ в сфере видеонаблюдения
 * [Вирусолог](https://t.me/it_virologist) — Канал про it-вирусологию. Новости из мира it и инфобеза

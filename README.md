@@ -281,6 +281,7 @@
 * [Code Mining](https://t.me/codemining) — ML4Code во всей красе, анализ кода и артефактов: тикеты, лицензии, уязвимости, процессы
 * [NN for Science](https://t.me/nn_for_science) — Канал о новинках из области машинного обучения, с прицелом на использовании в науке
 * [мамкин Data Scientist](https://t.me/mommyscientist) — тернистый путь в data science, личный экспирианс
+* [RU Dataset | Датасеты](https://t.me/dataset_ru) — Канал-библиотека датасетов. Большая база РУ-датасетов
 * [Чаты и группы телеграма по теме](#big-data-Машинное-обучение-deep-learning-и-data-science)
 
 [(Назад к меню)](#Меню)

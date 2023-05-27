@@ -215,7 +215,6 @@
 * [WebDEV](https://t.me/webb_dev) — Полезные ресурсы для Backend и Frontend разработчиков, новости и статьи.
 * [Типичный Верстальщик](https://t.me/tpverstak) — Советы по созданию сайтов, книги, подборка сервисов для работы
 * [Frontend Info](https://t.me/frontend_info) — Ещё один канал про фронтенд со статьями по теме
-* [Juliarderity, nerdiness, geekery, travels, punk](https://t.me/juliarderity) — JS VMs, спецификации, пропозалы, #TC39 инсайды, #Babel, #WebAssembly, нёрдство, конференции, панк.
 * [Замечательная web-разработка](https://t.me/webdevblog) — Авторский блог глазами опытного веб-дэва: мемы, новости, ресурсы, хаки, полезности.
 * [Developer Starter pack](https://t.me/devsp) — Канал для начинающих. Тесты, статьи, лайфхаки и тонны обучающих материалов. Бесплатно :)
 * [JavaScript](https://t.me/we_use_js) — Статьи, видео, книги по JavaScript и фронтенд разработке

@@ -104,7 +104,6 @@
 * [Technologique](https://t.me/technologique) — Канал о тенденциях в концепциях языков программирования и технологиях разработки ПО
 * [Sysadmin Tools](https://t.me/sysadmin_tools) — Sysadmin tools and othe usefull things from modern IT.
 * [∏ρØƒuñçτØρ Øπτµç∑](https://t.me/libmustdie) — Авторский канал о программировании (Пэйперы, видео, интересные репозитории)
-* [Microsoft Developer](https://t.me/msdnru) — Официальный канал сообщества Microsoft для разработчиков и всех, кто интересуется новыми технологиям
 * [Blazor RuCommunity](https://t.me/BlazorChannel) — Русскоязычный канал с новостями и гайдами по Blazor.
 * [javaswag](https://t.me/javaswag) — дайджест интересных и полезных статей из мира Java.
 * [ES.next News](https://t.me/esnextnews) — Еженедельная рассылка новостей про Javascript

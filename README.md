@@ -468,7 +468,6 @@
 * [Пых](https://t.me/phpyh) — блог [@vudaltsov](https://t.me/vudaltsov) о разработке на PHP
 * [Иван Акулов про разработку](https://t.me/iamakulov_channel) — JS, React, веб-перформанс, разработка и архитектура от Ивана Акулова
 * [johenews](https://t.me/johenews) — Очень хороший авторский канал про IT. Обзоры, аналитика, новости.
-* [Осмыслить и забыть](https://t.me/karmind) — Личный блог Java-разработчика обо всём, кроме Java-разработки.
 * [Вадим Филимонов](https://t.me/filimonovvadim) — Авторский канал с заметками о вебе.
 * [Искушённый Dev - Coding with Max](https://t.me/seasoneddevru) — Регулярный авторский блог Fullstack разработчика (видео, дайджест, заметки).
 * [Gamedev suffering](https://t.me/gamedev_suffering) — Авторский блог Андрея Апанасика про разработку игр.

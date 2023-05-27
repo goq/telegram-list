@@ -134,7 +134,6 @@
 * [Об IT без галстуков](https://t.me/noTieInIT) — Об IT без галстуков - авторский канал Дмитрия Меньшикова [@dmitry_menshikov](https://t.me/dmitry_menshikov), CTO в Aurora Technologies.
 * [Майоров про WEB и карьеру в IT](https://t.me/prowebit) — Ведущий RadioJS Майоров про IT собеседования, WEB технологии, программирование и не только.
 * [IT Radio Streams](https://t.me/itradiostream) — Радиотрансляции IT-подкастов.
-* [До диез](https://t.me/dodiezcsharp) — Канал для программистов C#
 * [Java Dev](https://t.me/java_developer) — Советы и статьи о Java, программировании и продуктивности
 * [geeks content](https://t.me/geekscontent) — Наработки гиков из повседневщины и понравившиеся им чтиво.
 * [Уютный IT адочек](https://t.me/lovely_it_hell) — Канал для технических менеджеров, тимлидов и техдиров об управлении командой, знаниями и soft-skills

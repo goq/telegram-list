@@ -368,7 +368,6 @@
 * [bash.im](https://t.me/bash_im) — развлекательный канал Башорг / bash.im ( BASH.org ). Цитатник Рунета.
 * [Кинопаблик](https://t.me/anonhownow) — Канал про кино. Кинопаблик.
 * [MobiDevices](https://t.me/mobidevices) — Красивый журнал о технологиях.
-* [Just Links](https://t.me/j_links) — Ссылки на научные статьи и новости, с упором на Deep Learning и физику.
 * [ThinkTanker](https://t.me/ThinkTanker) — Интересные статьи
 * [BA/SA Аналитики](https://t.me/spbcoachanel) — Канал сообщества бизнес аналитиков Санкт-Петербурга и не только.
 * [StartAndroid](https://t.me/startandroid) — Канал про Android для начинающих и продвинутых

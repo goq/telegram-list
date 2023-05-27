@@ -1087,7 +1087,6 @@
 * [Sysadminka](https://t.me/sysadminka) — Чат челябинский сисадминов и ДевОпсов.
 ###### СФО
 * [QA Siberia](https://t.me/qa_siberia) — Сообщество тестировщиков Сибири.
-* [IT Lobby Irkutsk](https://t.me/joinchat/CD0D_D31vVD8L1FO4UutnQ) — чат ITишников города Иркутск
 * [JUGNsk](https://t.me/jugnsk) — Новосибирская группа Java User Group
 * [NSK IT events](https://t.me/NSKITevents) — Митапы и другие айтишные события в Новосибирске.
 * [Docker Novosibirsk](https://t.me/dockernsk) — Чат Docker Новосибирск

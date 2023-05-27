@@ -830,6 +830,7 @@
 * [Распознавание речи](https://t.me/speech_recognition_ru) — Распознавание, синтез речи и речевые технологии
 * [DL in NLP discussion group](https://t.me/dlinnlp_discuss) — Чат про DL in NLP (МФТИ)
 * [Чат Tableau](https://t.me/tableau_chat) — Сообщество Tableau-пользователей в России
+* [better data community](https://t.me/betterdatacommunity) — Сообщество фанатов градиентов. Большой тематический чат-форум по DS
 
 [(Назад к меню)](#Меню)
 

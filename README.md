@@ -612,7 +612,6 @@
 * [Qt](https://t.me/qt_chat) — Чат по Qt
 * [GTK](https://t.me/GTKchat) — Кроссплатформенная библиотека элементов интерфейса
 * [Ember.js](https://t.me/ember_js) — Сообщество Ember.js
-* [Discourse](https://t.me/joinchat/A8oWNg2L0txJw6_BygaZtg) — Чат про Discourse.
 * [Webpack](https://t.me/webpack_ru) — Обсуждения webpack 1/2, лоадеров, плагинов и сборок
 * [Meteor.js](https://t.me/meteorjs_ru) — Чат про Meteor.js
 * [Feathers.js](https://t.me/featherjs) — Сообщество Feathers.js

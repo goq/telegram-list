@@ -421,7 +421,6 @@
 [(Назад к меню)](#Меню)
 
 ##### Персональные блоги
-* [L'homme qui pleure](https://t.me/lhommequipleure) — Персональный канал Александра Чистякова ([@demeliorator](https://t.me/demeliorator))
 * [Gambala.live](https://t.me/gambala_live) — Канал Виталия Емельянцева - веб-разработчика и IT-шника. Знания и советы по CSS, JS, BEM, Ruby on Rails, бизнесу и жизни. Как войти в айти и жить в удовольствие.
 * [Архитектор_говорит](https://t.me/architect_says) — Про архитектуру IT-решений и всё, что рядом.
 * [Tolstoy Live](https://t.me/tolstoylive) — Прямые трансляции с WWDC и других IT конференций.

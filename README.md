@@ -221,7 +221,6 @@
 * [Angular Fox — русскогорящие новости сообщества](https://t.me/angular_fox) — Как костыль, летящий на реактивно-лисьей тяге
 * [Defront](https://t.me/defront) — Про фронтенд-разработку и не только. Субъективные мысли о прочитанных статьях и просмотренных докладах
 * [maxpfrontend](https://t.me/maxpfrontend) — Прокачка в React, вебинары, трюки, секреты
-* [JS Community](https://t.me/js_fans) — Канал про JavaScript (NodeJS, React, Vue) и о всём, что с ним связанно
 * [Библиотека фронтендера](https://t.me/frontendproglib) — Полезные материалы по всему, что может быть интересно frontend-разработчику
 * [PiterJS](https://t.me/piterjs) — Митап про JavaScript в Санкт-Петербурге
 * [$mol: Новости](https://t.me/mol_news) — Новости о фреймворке $mol, экосистеме MAM и основанных на них проектах.

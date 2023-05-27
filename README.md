@@ -323,7 +323,6 @@
 * [Бздынь.Архив](https://t.me/bzd_channel) — Большой архив книг для программистов.
 * [Библиотека программиста](https://t.me/proglibrary) — Библиотека программиста. (для новичков)
 * [Python Textbooks](https://t.me/python_textbooks) — Книги по Python.
-* [Math Textbooks](https://t.me/math_textbooks) — Книги по математике.
 * [Frontend Textbooks](https://t.me/frontend_textbooks) — Книги по фронтенду.
 * [Библиотека Python](https://t.me/ru_python_books) — Канал-библиотека с книгами, журналами и статьями по языку программирования Python (старый)
 * [Бизнес-книги](https://t.me/marketologmanager) — Канал с подборками литературы по бизнесу

@@ -976,23 +976,23 @@
 
 ##### Разработка в Telegram, VK и других мессенджерах
 
-+ [Bot Talk](https://t.me/BotTalk) — Официальный чат бот-платформы в Telegram
-+ [Telegram Bot Developers](https://t.me/botoid) — Чат про разработку ботов в телеграме
-+ [DevsHelper](https://t.me/devshelper) — Ещё один
-+ [pyTelegramBotAPI](https://t.me/pyTelegramBotAPI_talks_ru) — Чат о Python библиотеке pyTelegramBotAPI
-+ [aiogram_ru](https://t.me/aiogram_ru) — Чат о Python библиотеке aiogram
-+ [Боты на Telegraf](https://t.me/telegraf_ru) — Чат о JS библиотеке Telegraf
-+ [MadelineProto RU](https://t.me/pwrtelegramgroupru) — Чат PHP библиотеки  MadelineProto
-+ [Golang Telegram Bot API](https://t.me/go_telegram_bot_api) — Чат о Go библиотеке go-telegram-bot-api
-+ [Kotlin TelegramBotAPI Library](https://t.me/InMoTelegramBotAPI) — Чат о Kotlin-библиотеке TelegramBotAPI
-+ [AltTG](https://t.me/AltTG) — Чат о альтеративных клиентах телеграма
-+ [VK Developers](https://t.me/vkapichat) — Чат разработчиков для VK
-+ [VkNet.](https://t.me/VkDotNet) — Чат библиотеки Vk Api for .NET
-+ [python273/vk_api](https://t.me/python273_vk_api) — Чат Python модуля vk_api
-+ [Яндекс.Диалоги](https://t.me/yadialogschat) — Сообщество разработчиков навыков Алисы
-+ [Developers Chat](https://t.me/joinchat/ABI4pz3M7FCxoDZcdcfVUA) — Чат сообщества Chatbots
-+ [Facebook Developers Chat](https://t.me/joinchat/Bcr-wREj7gZxkNlTENoQew) — Чат разработчиков под платформу Facebook Messenger
-+ [Aimylogic (сообщество пользователей)](https://t.me/aimylogic) — Чат о визуальном конструкторе чат-ботов, понимающих естественный язык
+* [Bot Talk](https://t.me/BotTalk) — Официальный чат бот-платформы в Telegram
+* [Telegram Bot Developers](https://t.me/botoid) — Чат про разработку ботов в телеграме
+* [DevsHelper](https://t.me/devshelper) — Ещё один
+* [pyTelegramBotAPI](https://t.me/pyTelegramBotAPI_talks_ru) — Чат о Python библиотеке pyTelegramBotAPI
+* [aiogram_ru](https://t.me/aiogram_ru) — Чат о Python библиотеке aiogram
+* [Боты на Telegraf](https://t.me/telegraf_ru) — Чат о JS библиотеке Telegraf
+* [MadelineProto RU](https://t.me/pwrtelegramgroupru) — Чат PHP библиотеки  MadelineProto
+* [Golang Telegram Bot API](https://t.me/go_telegram_bot_api) — Чат о Go библиотеке go-telegram-bot-api
+* [Kotlin TelegramBotAPI Library](https://t.me/InMoTelegramBotAPI) — Чат о Kotlin-библиотеке TelegramBotAPI
+* [AltTG](https://t.me/AltTG) — Чат о альтеративных клиентах телеграма
+* [VK Developers](https://t.me/vkapichat) — Чат разработчиков для VK
+* [VkNet.](https://t.me/VkDotNet) — Чат библиотеки Vk Api for .NET
+* [python273/vk_api](https://t.me/python273_vk_api) — Чат Python модуля vk_api
+* [Яндекс.Диалоги](https://t.me/yadialogschat) — Сообщество разработчиков навыков Алисы
+* [Developers Chat](https://t.me/joinchat/ABI4pz3M7FCxoDZcdcfVUA) — Чат сообщества Chatbots
+* [Facebook Developers Chat](https://t.me/joinchat/Bcr-wREj7gZxkNlTENoQew) — Чат разработчиков под платформу Facebook Messenger
+* [Aimylogic (сообщество пользователей)](https://t.me/aimylogic) — Чат о визуальном конструкторе чат-ботов, понимающих естественный язык
 
 [(Назад к меню)](#Меню)
 

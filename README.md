@@ -1117,6 +1117,9 @@
 * [Про электронику](https://t.me/ru_electronics) — QA чат для решения вопросов, связанных с электроникой. На линии работает контроль.
 * [Анархическая электроника](https://t.me/ru_arduino) — Сателлит [@ru_electronics](https://t.me/ru_electronics) с [около]электронными темами.
 * [Hardware & Radio](https://t.me/hwnrf) — Разговоры об электронике, микроконтроллерах, FPGA, квадрокоптерах, 3D-печати, Software Defined Radio, и всяком таком.
+* [FPGA-Systems.ru](https://t.me/fpgasystems) — FPGA комунити
+* [FPGA-systems. Embedded, SoC](https://t.me/fpgasystems_embd) — Про Embedded часть FPGA - софтпроцессоры Nios II, Microblaze, RISC-V, MIPS и другие.
+* [fpgasystems_verification](https://t.me/fpgasystems_verification) — Про верификацию аппаратных модулей
 * [proFPGA](https://t.me/proFpga) — Чат про разработку под FPGA (англ.). Оффтоп запрещён.
 * [ProArduino](https://t.me/ProArduino) — Чат про Arduino
 * [ELECTRONIX](https://t.me/electronix) — Чат и обсуждения электроники и проектирования электронной аппаратуры.

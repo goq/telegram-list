@@ -533,7 +533,8 @@
 * [pro.python](https://t.me/propython) — Чат про Python
 * [Python_beginners](https://t.me/ru_python_beginners) — Чат про Python (для новичков)
 * [Async Python](https://t.me/python_async) — Обсуждаем асинхронщину в Python
-* [Rude Python](https://t.me/rudepython) — Грубый чат про Python (без нытиков)
+* [Rude Python](https://t.me/rudepython) — "Грубый" чат про Python (нецензурная лексика, оскорбления и агр)
+* [Pony ORM](https://t.me/ponyorm) — Чат про Pony ORM (Python)
 * [OpenTelemetry](https://t.me/ru_opentelemetry) — Observability! Opencensus/OpenTracing/OpenTelemetry/...
 * [phpGeeks](https://t.me/phpgeeks) — Чат про PHP / php Geeks
 * [phpclub](https://t.me/phpclubru) — Чат про PHP / php Club
@@ -791,27 +792,30 @@
 
 [(Назад к меню)](#Меню)
 ##### Базы Данных
-* [DBA](https://t.me/dba_ru) — Чат про базы данных и их администрирование
-* [MongoDBRussian](https://t.me/MongoDBRussian) — Чат про MongoDB
-* [MySQL](https://t.me/mysql_db) — Чат про MySQL
+* [DBA](https://t.me/dba_ru) — Группа обсуждения популярных СУБД и их администрирования
 * [pgsql](https://t.me/pgsql) — Чат про PostgreSQL
-* [PostgreSQL + 1C + Linux](https://t.me/PostgreSQL_1C_Linux) — Чат про особенности работы PostgreSQL и 1С на Linux
-* [Pony ORM](https://t.me/ponyorm) — Чат про Pony ORM
-* [ClickHouse](https://t.me/clickhouse_ru) — Чат про СУБД от Яндекс ClickHouse
-* [YugabyteDB](https://t.me/yugabytedb) — Чат про распределённую СУБД YugabyteDB
+* [PostgresChat](https://t.me/postgreschat) — Чат про PostgreSQL (English)
+* [PostGIS](https://t.me/postgis) — Чат о PostGIS (работа с географическиими данными в PostgreSQL)
+* [PostgreSQL + 1C](https://t.me/PostgreSQL_1C_Linux) — Чат про нюансы работы 1С с PostgreSQL
+* [MySQL](https://t.me/mysql_db) — Чат про MySQL
+* [Oracle](https://t.me/oracle_ru) — Чат про Oracle
 * [SqlCom - Стиль жизни SQL](https://t.me/sqlcom) — Чат про Microsoft SQL Server
-* [DB Tarantool](https://t.me/tarantoolru) — Русский чат про Tarantool
-* [SQL_Ninja](https://t.me/sql_ninja) — Флудильня SqlCom
-* [PostGIS](https://t.me/postgis) — Обсуждения PostGIS (поддержка географических объектов в PostgreSQL)
-* [PostgresChat](https://t.me/postgreschat) — Чат про PostgreSQL (english)
-* [pgCodeKeeper](https://t.me/pgcodekeeper) — Чат поддержки [opensource](https://github.com/pgcodekeeper/pgcodekeeper) проекта [pgCodeKeeper](https://pgcodekeeper.org)
-* [Oracle RU](https://t.me/oracle_ru) — Чат про Oracle
-* [Yandex Database Chat](https://t.me/yandexdatabase_ru) — Чат по Yandex Database
+* [ElasticSearch](https://t.me/elasticsearch_ru) — Чат про ElasticSearch
+* [MongoDBRussian](https://t.me/MongoDBRussian) — Чат про MongoDB
+* [ScyllaDB](https://t.me/scylladb_ru) — Чат про ScyllaDB
+* [ClickHouse](https://t.me/clickhouse_ru) — Чат про ClickHouse
+* [YugabyteDB](https://t.me/yugabytedb) — Чат про YugabyteDB
+* [YDB](https://t.me/yandexdatabase_ru) — Чат про YDB
+* [Teradata](https://t.me/teradata_ru) — Чат о Терадате
+* [Tarantool](https://t.me/tarantoolru) — Чат про Tarantool
+* [SQLite](https://t.me/sqliter_chat) — Чат про SQLite
+* [Firebase](https://t.me/firebase_ru) — Чат про Firebase
+* [SQL_Ninja](https://t.me/sql_ninja) — Флудильня группы MS SQL Server
+* [ksqlDB](https://t.me/ksqldb) — Чат про ksqlDB
 * [dbmsdev](https://t.me/dbmsdev) — Чат о разработке СУБД
 * [Разработка СУБД](https://t.me/dev_dbms_ru) — Чат разработчиков СУБД
-* [Teradata](https://t.me/teradata_ru) — Чат по Терадате
-* [firebase_ru — русскоговорящее сообщество](https://t.me/firebase_ru) — Чат поддержки [платформы для разработки приложений Firebase™ platform и масштабируемой базы данных Firestore™ scalable database](https://firebase.google.com/) на русском языке. Публиковать вакансии и работу с Firebase можно.
-* [SQLize.online](https://t.me/sqlize) — Чат поддержки проекта https://SQLize.online Вопросы по функционалу сайта, а также любые вопросы по SQL
+* [pgCodeKeeper](https://t.me/pgcodekeeper) — Чат [opensource](https://github.com/pgcodekeeper/pgcodekeeper)-проекта [pgCodeKeeper](https://pgcodekeeper.org)
+* [SQLize.online](https://t.me/sqlize) — Чат проекта [SQLize](https://sqlize.online/) - обсуждаются вопросы по функционалу сайта, а также любые вопросы по SQL
 
 [(Назад к меню)](#Меню)
 

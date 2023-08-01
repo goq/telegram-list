@@ -1054,6 +1054,7 @@
 * [Москоу progers](https://t.me/moscowProgers) — Чат программистов и прочих IT специалистов Москвы
 * [PyLadies Moscow](https://t.me/pyladies_moscow_chat) — PyLadies Moscow, московское сообщество разработчиц
 * [DevOps Moscow](https://t.me/devopsmoscow) — Сообщество разработчиков, тестировщиков и сисадминов в Москве.
+* [C++ Moscow](https://t.me/cppmoscow_chat) — Московское сообщество плюсовых программистов.
 ###### Санкт-Петербург
 * [SPb Python](https://t.me/spbpython) — Saint-Petersburg Python Interest Group
 * [fprog_spb](https://t.me/fprog_spb) — Митап функциональных программистов в СПб

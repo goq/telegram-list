@@ -816,6 +816,7 @@
 * [Разработка СУБД](https://t.me/dev_dbms_ru) — Чат разработчиков СУБД
 * [pgCodeKeeper](https://t.me/pgcodekeeper) — Чат [opensource](https://github.com/pgcodekeeper/pgcodekeeper)-проекта [pgCodeKeeper](https://pgcodekeeper.org)
 * [SQLize.online](https://t.me/sqlize) — Чат проекта [SQLize](https://sqlize.online/) - обсуждаются вопросы по функционалу сайта, а также любые вопросы по SQL
+* [Greenplum](https://t.me/greenplum_russia) - Чат о Greenplum
 
 [(Назад к меню)](#Меню)
 

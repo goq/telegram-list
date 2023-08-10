@@ -97,7 +97,7 @@
 * [pro.elixir_news](https://t.me/proelixir_news) — Новости из мира Elixir
 * [Elixir Formula](https://t.me/elixir_formula) — Канал новостей и интересных статей в мире Эликсира.
 * [Opensource Findings](https://t.me/opensource_findings) — Канал с ежедневными ссылками на крутые Open-Source проекты, а также статьи и доклады про фундаментальные вещи в разработке.
-* [Android Дичь](https://t.me/shitty_android) — Тщательно отобранные статьи и доклады по Android-разработке и смежным темам
+* [Разработка ждёт балета](https://t.me/devballet) — Тщательно отобранные статьи и доклады из самых разных областей нашей с вами проф. сферы (бывш. Android Дичь).
 * [TM Feed](https://t.me/tmfeed) — Лента публикаций с Хабра и Гиктаймс
 * [Типичный программист](https://t.me/tproger_official) — Статьи по программированию, новости IT, вакансии, ивенты.
 * [Mad Devs Channel](https://t.me/maddevsio) — русскоязычный канал ребят из компании Mad Devs, информация о разработке, тулзах, методах.

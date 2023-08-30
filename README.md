@@ -982,6 +982,7 @@
 ##### Разработка в Telegram, VK и других мессенджерах
 
 * [Bot Talk](https://t.me/BotTalk) — Официальный чат бот-платформы в Telegram
+* [TDLib chat](https://t.me/tdlibchat) — Чат библиотеки TDLib от разработчиков Telegram
 * [Telegram Bot Developers](https://t.me/botoid) — Чат про разработку ботов в телеграме
 * [DevsHelper](https://t.me/devshelper) — Ещё один
 * [pyTelegramBotAPI](https://t.me/pyTelegramBotAPI_talks_ru) — Чат о Python библиотеке pyTelegramBotAPI

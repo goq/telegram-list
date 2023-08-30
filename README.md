@@ -936,6 +936,7 @@
 * [Flutter Developers](https://t.me/flutter_rus) — Чат про Flutter
 * [Android_Declarative](https://t.me/android_declarative) — Чат русскоязычного android-сообщества, посвященный декларативным UI-фреймворкам: Jetpack Compose, Anko, Anvil, Litho
 * [SwiftBook](https://t.me/swiftbook_chat) — Чат про Swift от проекта [swiftbook.ru](https://swiftbook.ru)
+* [Android Guards Chat](https://t.me/android_guards) — Чат для вопросов по безопасности Android
 
 [(Назад к меню)](#Меню)
 

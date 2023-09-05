@@ -45,6 +45,7 @@
   * [Вакансии и работа](#Вакансии-и-работа)
   * [Управление проектами, продакт-менеджмент, Agile, Kanban, SCRUM](#Управление-проектами-продакт-менеджмент-agile-kanban-scrum)
   * [Разработка в Telegram, Vk и других мессенджерах](#Разработка-в-telegram-vk-и-других-мессенджерах)
+  * [Геоинформационные системы](#Геоинформационные-системы)
   * [Разные IT-сообщества](#Разные-it-сообщества)
   * [Региональные IT-сообщества](#российские-региональные-it-сообщества)
   * [Электроника, микроконтроллеры и встраиваемые системы](#Электроника-микроконтроллеры-и-встраиваемые-системы)
@@ -1004,6 +1005,21 @@
 
 [(Назад к меню)](#Меню)
 
+##### Геоинформационные системы
+
+* [QGIS взаимопомощь✊](https://t.me/QGIS_mutual_aid) — Сообщество пользователей QGIS
+* [Geoserver - русскоговорящее сообщество](https://t.me/geoserver_ru) — Чат посвященный Geoserver
+* [NextGIS по-русски](https://t.me/nextgis_chat) — Чат о продуктах и технологиях NextGIS
+* [gislab](https://t.me/gislab) — Дискуссии вокруг и около GIS-Lab.info
+* [OpenStreetMap RU](https://t.me/ruosm) — Сообщество OpenStreetMap
+* [OpenStreetMap Dev](https://t.me/OpenStreetMapDev) — Сообщество разработчков проектов связанных OpenStreetMap
+* [Mapbox чат](https://t.me/mapbox_ru) — Чат пользователей сервисов Mapbox
+* [Mapnik Everywhere](https://t.me/tilerendering) — Обсуждение вопросов генерации тайлов, стилей карт и конвертации данных разных форматов
+* [SAS.Planet (Сас Планета)](https://t.me/SAS_Planet) — Обсуждение и помощь по работе с программой SAS.Planet
+* [AutoCAD Civil 3D](https://t.me/intC3D) — Civil 3D. Int. community 
+
+[(Назад к меню)](#Меню)
+
 ##### Разные IT-сообщества
 * [IT PPL](https://t.me/spbitpeople) — IT People: общение айтишников и про айти, и не про айти ;-)
 * [SPbLUG chat](https://t.me/spblug_chat) — Saint Petersburg Linux talks (неофициальный чат SPbLUG)
@@ -1027,7 +1043,6 @@
 * [Random — дикий запад](https://t.me/random_ru) — Абсолютно ненормальное общение, выяснение отношений, холивары, грязный юмор и всё то, что можно назвать Random. Из /dev/null
 * [ru_ipv6](https://t.me/ru_ipv6) — IPv6 in ru
 * [DEVs chat](https://t.me/devschat) — Мы обсуждаем всё что связано с веб-разработкой - фронтенд, бекенд, а также сервера и DevOps.
-* [OpenStreetMap RU](https://t.me/ruosm) — Сообщество OpenStreetMap
 * [speccy hardware](https://t.me/speccy_hard) — Чат про ZX Spectrum. Rus & Eng.
 * [Фронтенд Юность](https://t.me/frontend_u) — Чат сообщества подкаста «Фронтенд Юность»
 * [FFmpeg chat](https://t.me/ffmpeg_ru) — Группа для общения на тему работы с ffmpeg и сопутствующего.
@@ -1107,6 +1122,7 @@
 * [1с Чат РБ](https://t.me/One1c_Blr) — Связанные одним 1С в РБ.
 * [Rubyata](https://t.me/rubyata) — Ruby and Ruby On Rails community in Kyrgyzstan
 * [BDK - Backend Developers of Kazakhstan](https://t.me/backenderskz) - сообщество бэкенд-разработчиков Республики Казахстан
+* [ГИС в Беларуси](https://t.me/bygis) — Чат про ГИС в общем и целом.
 
 [(Назад к меню)](#Меню)
 

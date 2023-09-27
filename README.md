@@ -353,6 +353,7 @@
 * [CMS MODX Revolution Job](https://t.me/ru_modx_work) — Предложения по CMS MODX Revolution.
 * [Remote Dev Jobs](https://t.me/remotedevjobs) — Удаленная работа для программистов
 * [Job for Sysadmin & DevOps](https://t.me/fordevops) — Вакансии для Сисадминов, DevOps & SRE.
+* [DataScienceJobs.com](https://t.me/datasciencejobs_com) - Вакансии для Data Science специалистов (преимущественно US, UK, Europe, english)
 
 [(Назад к меню)](#Меню)
 

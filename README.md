@@ -681,6 +681,7 @@
 * [WebDev чат для джунов и сочуствующих](https://t.me/junior_happens) - Бесплатно и не токсично помогаем с Vue.js, React.js, Angular, Javascript, Typescript, PHP, Laravel, Go, Java, Docker, Kubernetes, Node.JS, HTML, CSS
 * [PHPize.online](https://t.me/phpize_online) — Чат поддержки проекта https://PHPize.online Вопросы по функционалу сайта, а также любые вопросы по PHP & SQL
 * [Illuminati Inc.](https://t.me/illuminatinc) - IT-сообщество, в котором обмениваются опытом и делятся полезной информацией
+* [HTML • CSS • JS](https://t.me/russian_frontend) - Сообщество фронтенд разработчиков
 
 [(Назад к меню)](#Меню)
 

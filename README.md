@@ -385,6 +385,7 @@
 * [HackRF One](https://t.me/hackrfnooelec) — Интересный канал про электронику и RF
 * [Arduino, electronics, soldering](https://t.me/arduino_io) — Канал про Ардуино, электронику и для любителей паять :)
 * [Google Таблицы](https://t.me/google_sheets) — Работа с данными в Гугл Таблицах. Кейсы, решения и угар, всё на Google Spreadsheets. Объясняем систематично и на гифках
+* [Таблицы Гугл](https://t.me/GoogleSheets_ru) — Решение реальных задач в Таблицах Гугл. Кейсы, хитрости, приёмы и их практическое применение в бизнесе.
 * [Excel Everyday](https://t.me/excel_everyday) — Просто о сложном Excel. Уроки которые упростят Вашу жизнь и работу.
 * [Мягкие Sкилы](https://t.me/your_soft_skillzz) — Авторский канал с заметками о Soft Skills aka Мягких Sкилах для тружеников IT индустрии.
 * [ProductStar](https://t.me/productstar) — ProductStar полезные материалы для Менеджеров по продукту
@@ -1053,6 +1054,7 @@
 * [Русскоязычное сообщество технических писателей](https://t.me/technicalwriters) — чат сообщества.
 * [DocOps-чат](https://t.me/docsascode) — Чат канала [DocOps](https://t.me/docops): обсуждаем посты, делимся опытом.
 * [Google Таблицы - это чат](https://t.me/google_spreadsheets_chat) — Чат канала [Google Таблицы](https://t.me/google_sheets). Обсуждаем посты, делимся опытом, решаем задачи и проблемы.
+* [Таблицы Гугл - чат](https://t.me/google_sheets_pro) — Чат канала [Таблицы Гугл](https://t.me/GoogleSheets_ru). Решаем любые вопросы по Таблицам Гугл и смежным технологиям на добровольных началах и за донат!
 * [#Вайти](https://t.me/hashtag_whity) — Чат-школа самообучения программистов
 * [LibreOfficeRU](https://t.me/libreofficeru) — Группа для российских пользователей LibreOffice
 * [Операторы мобильной связи](https://t.me/opsosru) — Обсуждение операторов сотовой связи

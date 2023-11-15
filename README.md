@@ -353,6 +353,7 @@
 * [CMS MODX Revolution Job](https://t.me/ru_modx_work) — Предложения по CMS MODX Revolution.
 * [Remote Dev Jobs](https://t.me/remotedevjobs) — Удаленная работа для программистов
 * [Job for Sysadmin & DevOps](https://t.me/fordevops) — Вакансии для Сисадминов, DevOps & SRE.
+* [Вакансии для начинающих](https://t.me/junior_vacancies) — Вакансии для начинающих разработчиков, тестировщиков, аналитиков и т.д.
 
 [(Назад к меню)](#Меню)
 
@@ -479,9 +480,10 @@
 * [Аналитика данных / Data Study](https://t.me/data_study) - Авторский канал Даниила Джепарова. Канал для всех кто увлекается аналитикой данных, data science, бизнес-анализом. Прокачка hard и soft навыков аналитика
 * [iOS Dev](https://t.me/iOS_Career) —  iOS разработчик делится фишками, своим опытом и опытом других. Подходы к реализации, истории из жизни, новости, тренды и многое другое.
 * [Паша и его деньги](https://t.me/paulsmoney) – авторский канал о переезде, расходах и жизни в США
-* [DevToExecutive](https://t.me/dev_to_executive) — От разработки до топ-менеджмента. Про построение систем, digital-команд, процессов, бизнес и просто про ИТ. 
+* [DevToExecutive](https://t.me/dev_to_executive) — От разработки до топ-менеджмента. Про построение систем, digital-команд, процессов, бизнес и просто про ИТ.
 * [m-danya's blog](https://t.me/m_danya_blog) — Блог Python-разработчика с тягой к pet-проектам
 * [Организованное программирование](https://t.me/orgprog) — канал Кирилла Мокевнина, сооснователя онлайн-школы программирования Хекслет. Канал о программировании, бизнесе, EdTech и IT. Кирилл разбирает все: от того, как писать качественный код и строить инфраструктуру, до команд и процессов.
+* [Cross Join - канал о разработке](https://t.me/crossjoin) — Канал о разработке [https://t.me/antonokolelov](Антона Околелова).
 
 [(Назад к меню)](#Меню)
 
@@ -623,7 +625,7 @@
 * [SublimeText_RU](https://t.me/SublimeText_RU) — Чат про SublimeText
 * [opencv_ru](https://t.me/opencv_ru) — Чат про OpenCV
 * [OpenLayers](https://t.me/openlayers_ru) — Чат про картографическую библиотеку OpenLayers
-* [Tarantool PHP](https://t.me/tarantool_php) — Сообщество PHP-разработчиков использующих Тarantool 
+* [Tarantool PHP](https://t.me/tarantool_php) — Сообщество PHP-разработчиков использующих Тarantool
 * [Vapor3+, Server Side Swift](https://t.me/server_side_swift) — Чат про Vapor Swift, Server-Side-Swift, Kitura и Perfect и IBM
 * [pro.hibernate](https://t.me/hibernatechat) — Чат про Hibernate.
 * [pro.kafka](https://t.me/proKafka) — Чат про Apache Kafka.
@@ -1019,7 +1021,7 @@
 * [Mapbox чат](https://t.me/mapbox_ru) — Чат пользователей сервисов Mapbox
 * [Mapnik Everywhere](https://t.me/tilerendering) — Обсуждение вопросов генерации тайлов, стилей карт и конвертации данных разных форматов
 * [SAS.Planet (Сас Планета)](https://t.me/SAS_Planet) — Обсуждение и помощь по работе с программой SAS.Planet
-* [AutoCAD Civil 3D](https://t.me/intC3D) — Civil 3D. Int. community 
+* [AutoCAD Civil 3D](https://t.me/intC3D) — Civil 3D. Int. community
 
 [(Назад к меню)](#Меню)
 
@@ -1132,11 +1134,11 @@
 [(Назад к меню)](#Меню)
 
 ##### Европейские русскоязычные IT-сообщества
-######Великобритания  
-* [Гоняю Ваш JSON, дорого](https://t.me/london_ru) — Лондонское сообщество Data Scientists, Machine Learning Engineers, Machine Learning Researchers, Quantitative Researcher, Backend Developers, Data Engineers, MLOps, etc  
+######Великобритания
+* [Гоняю Ваш JSON, дорого](https://t.me/london_ru) — Лондонское сообщество Data Scientists, Machine Learning Engineers, Machine Learning Researchers, Quantitative Researcher, Backend Developers, Data Engineers, MLOps, etc
 ######ФРГ (Федеративная Республика Германия)
 * [Чат серьезных экспатов Мюнхена ](https://t.me/muenchentraktor) — Мюнхенский чат ИТшников.
-    
+
 [(Назад к меню)](#Меню)
 
 ##### Электроника, микроконтроллеры и встраиваемые системы

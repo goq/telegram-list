@@ -197,8 +197,6 @@
 * [Веб-стандарты](https://t.me/webstandards_ru) — Новости фронтенда от "Веб-стандартов"
 * [devSchachtChannel](https://t.me/devSchachtChannel) — Подкаст. Переводы. Веб-разработка. Анонсы новых статей и подкастов от devSchacht
 * [Иван Акулов про фронтенд](https://t.me/iamakulov_channel) — Заметки про фронтенд, UX и смежные темы.
-* [webo_ru](https://t.me/webo_ru) — Виталий Харисов из Яндекса про оптимизацию сайтов.
-* [webo_en](https://t.me/webo_en) — Web sites optimization (by @vithar)
 * [isqualog](https://t.me/isqualog) — Софья Ильинова о фронтенде, дизайне, работе и жизни. Задачки по JS.
 * [INTERNET 9000](https://t.me/internet9000) — Сергей Сурганов о дизайне и технологиях.
 * [Evil Martians](https://t.me/evilmartians) — Злые марсиане о стартапах, веб-разработке, интернет-бизнесе, бэкенде, фронтенде, мобильной разработке, devops и data science.

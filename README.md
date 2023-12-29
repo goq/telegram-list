@@ -559,6 +559,7 @@
 * [Scala](https://t.me/scala_ru) — Чат про Scala
 * [Scala PONV](https://t.me/scala_ponv) — Неформальный чат про Scala, FP, и не только
 * [Solidity](https://t.me/dev_solidity) — Чат про Solidity / Ethereum (английский)
+* [TypeScript](https://t.me/ts_cool) — Чат про TypeScript
 * [(F|R|FR)P](https://t.me/frp_ru) — Функциональное Реактивное Программирование
 * [Functional Programming](https://t.me/fp_ru) — Чат любителей функциональных языков программирования
 * [CIL](https://t.me/cilchat) — Чат про CIL/IL/MSIL

@@ -128,6 +128,7 @@
 * [@DinoGochi](https://t.me/DinoGochi_bot) - Тамагочи-RPG бот с динозаврами! Покори бесконечное подземелье!
 * [@eng_rus_words_bot](https://t.me/eng_rus_words_bot) - Помощник в изучении популярных английских слов.
 * [@iqp_check_bot](https://t.me/iqp_check_bot) - Проверка орфографии, форматирование текста для постов Instagram.
+* [@MemePlexBot](https://t.me/MemePlexBot) - Поиск мемов по тексту с картинки
 
 [(Назад к меню)](#Разделы)
 

@@ -102,7 +102,6 @@
 * [@tlgurbot](https://t.me/tlgurbot) — Предоставляет доступ по http к файлам из Телеграма.
 * [@EinfoBot](https://t.me/EinfoBot) — Бот, который ищет электронные компоненты и интегрирован в поисковую систему.
 * [@LFTVbot](https://t.me/LFTVbot) [Source](https://github.com/Lord-Protector/LostFilmBot) — Бот для сайта LostFilm.TV. Личные уведомления, загрузка нужных серий и многое другое.
-* [@KDERuBot](https://t.me/KDERuBot) — Новости сообщества KDE Россия.
 * [@myShowsMeBot](https://t.me/myShowsMeBot) — Помогает следить за выходом новых эпизодов просматриваемых сериалов.
 * [@TGhost_bot](https://t.me/TGhost_bot) — удобный бот для обмена файлами в интернете. Файлы не удаляются и всегда доступны.
 * [@memingbot](https://t.me/memingbot) - Бот для создания мемов с вашим текстом на различных шаблонах.

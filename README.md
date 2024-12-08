@@ -609,7 +609,7 @@
 * [Electron Ru](https://t.me/electron_ru) — Чат про Electron (Atom)
 * [GameDev For Web](https://t.me/gamedevforweb) — разработка игр на html5 платформе, pixi.js, cocos2d-js, phaser.js и т.п.
 * [ООП](https://t.me/oop_ru) — Объектно-Ориентированное Программирование
-* [Fire-Monkey](https://t.me/fire_monkey) — Независимое сообщество разработчиков использующих Fire-Monkey
+* [Fire-Monkey](https://t.me/fmx_ru) — Независимое сообщество разработчиков использующих Fire-Monkey (FMX) и FGX Native
 * [WordPress](https://t.me/wordpress1) — Чат про WordPress
 * [Wordpress for developers](https://t.me/wp4dev) — Группа для разработчиков на WordPress
 * [Netbeans](https://t.me/netbeans_ru) — Группа для тех, кто использует среду разработки Netbeans

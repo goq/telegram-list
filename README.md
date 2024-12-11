@@ -417,6 +417,7 @@
 * [Tech Hacks](https://t.me/tech_lifehacks) — Лайфхаки и сервисы, упрощающие цифровую жизнь
 * [Soft Skillz](https://t.me/soft_skillz) — Рассказываем про важность soft skills и способы их прокачки
 * [Григорий Дядиченко](https://t.me/dyadichenkoga) — Личный блог про геймдев, Unity разработку, AR/VR, компьютерную графику и немного веба :)
+* [Raycase New Extensions](https://t.me/raycast_new_extensions) — Канал с автоматической трансляцией недавно добавленных расширений в Raycast: https://www.raycast.com
 
 [(Назад к меню)](#Меню)
 

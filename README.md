@@ -419,6 +419,7 @@
 * [Soft Skillz](https://t.me/soft_skillz) — Рассказываем про важность soft skills и способы их прокачки
 * [Григорий Дядиченко](https://t.me/dyadichenkoga) — Личный блог про геймдев, Unity разработку, AR/VR, компьютерную графику и немного веба :)
 * [I’m CTO, bitch](https://t.me/ctobtch) — юмористический канал технического директора.
+* [Raycase New Extensions](https://t.me/raycast_new_extensions) — Канал с автоматической трансляцией недавно добавленных расширений в Raycast: https://www.raycast.com
 
 [(Назад к меню)](#Меню)
 

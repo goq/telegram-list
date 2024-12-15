@@ -189,6 +189,7 @@
 * [Параллельный код || Оптимизация](https://t.me/parallelcode) — Параллельное программирование, высокопроизводительные вычисления, GPGPU, IPC, Оптимизация кода, Профилирование, бенчмарк.
 * [BEARlogin dev](https://t.me/bearlogin_dev) — Авторский канал Андрея Луговского - CTO, Fullstack developer, архитектора, devops и прокрастинатора
 * [Модульные Системы](https://t.me/ModularSys) — Всё об истории и эволюции модульного программного обеспечения и надёжных программных систем
+* [Radix cross Linux](https://t.me/rxlinux/) — GNU/Linux дистрибутив для встроенных и персональных машин (статьи, поддержка, чат)
 
 [(Назад к меню)](#Меню)
 
@@ -417,6 +418,7 @@
 * [Tech Hacks](https://t.me/tech_lifehacks) — Лайфхаки и сервисы, упрощающие цифровую жизнь
 * [Soft Skillz](https://t.me/soft_skillz) — Рассказываем про важность soft skills и способы их прокачки
 * [Григорий Дядиченко](https://t.me/dyadichenkoga) — Личный блог про геймдев, Unity разработку, AR/VR, компьютерную графику и немного веба :)
+* [I’m CTO, bitch](https://t.me/ctobtch) — юмористический канал технического директора.
 * [Raycase New Extensions](https://t.me/raycast_new_extensions) — Канал с автоматической трансляцией недавно добавленных расширений в Raycast: https://www.raycast.com
 
 [(Назад к меню)](#Меню)
@@ -610,7 +612,7 @@
 * [Electron Ru](https://t.me/electron_ru) — Чат про Electron (Atom)
 * [GameDev For Web](https://t.me/gamedevforweb) — разработка игр на html5 платформе, pixi.js, cocos2d-js, phaser.js и т.п.
 * [ООП](https://t.me/oop_ru) — Объектно-Ориентированное Программирование
-* [Fire-Monkey](https://t.me/fire_monkey) — Независимое сообщество разработчиков использующих Fire-Monkey
+* [Fire-Monkey](https://t.me/fmx_ru) — Независимое сообщество разработчиков использующих Fire-Monkey (FMX) и FGX Native
 * [WordPress](https://t.me/wordpress1) — Чат про WordPress
 * [Wordpress for developers](https://t.me/wp4dev) — Группа для разработчиков на WordPress
 * [Netbeans](https://t.me/netbeans_ru) — Группа для тех, кто использует среду разработки Netbeans
@@ -904,6 +906,7 @@
 * [Tiling WM Mastery](https://t.me/tiling_wm_mastery) — Чат про тайлинговые менеджеры
 * [IBM i (OS/400)](https://t.me/ibm_i) — Обсуждение системы IBM i и программирования в этой системе на CL, RPG, C/C++, Java, Cobol.
 * [webOS чат](https://t.me/weboschat) — Чат об открытой операционной системе для умных телевизоров
+* [Radix cross Linux](https://t.me/rcl_chat/) — GNU/Linux дистрибутив для встроенных и персональных машин (статьи, поддержка, чат)
 
 [(Назад к меню)](#Меню)
 

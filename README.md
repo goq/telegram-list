@@ -305,6 +305,7 @@
 * [ServerAdmin.ru](https://t.me/srv_admin) — Авторская информация о системном администрировании и devops от владельца сайта serveradmin.ru.
 * [OrangeDevOps](https://t.me/orangedevops) — ссылки на статьи, видео, другие каналы и личный опыт по теме DevOps (сети, мониторинг и логирование, nginx, инфраструктуру как код, CI/CD, Docker, базы данных, git, kubernetes, облака, ну и конечно Linux).
 * [Savin Michael aka @jtprogru](https://t.me/jtprogru_channel) — Канал об SRE, автоматизации, личном опыте и около того.
+* [Опенград](https://t.me/opengrad) — Авторские статьи с подробным разбором технологий по теме DevOps.
 
 [(Назад к меню)](#Меню)
 

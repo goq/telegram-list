@@ -983,7 +983,7 @@
 * [Клуб-КОМ Каналы и ПМ](https://t.me/clubcomx) — Заказ и предложение последних миль и каналов связи
 * [Jobs_IT](https://t.me/jobs_it) — IT вакансии на русском и английском языках.
 * [Angular Jobs — чат для поиска работы и людей](https://t.me/angular_jobs) — Angular Jobs — чат для поиска работы и людей
-* [HTML • CSS • JS Jobs](https://t.me/russian_frontend_jobs) - Вакансии и рюземе для фронтенд разработчиков
+* [HTML • CSS • JS Jobs](https://t.me/russian_frontend_jobs) - Вакансии и резюме для фронтенд разработчиков
 
 [(Назад к меню)](#Меню)
 

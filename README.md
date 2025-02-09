@@ -938,6 +938,7 @@
 [(Назад к меню)](#Меню)
 
 ##### Мобильная разработка
+* [Coffee&Code | Community | Mobile | Android | iOS](https://t.me/coffeeCodeEverywhere) — Канал с регулярными офлайн встречами мобильных разработчиков
 * [Android Developers](https://t.me/android_ru) — Чат про разработку под Android
 * [Android. Разработка](https://t.me/androidev) — Чат про разработку под Android
 * [iOS Developers](https://t.me/ios_ru) — Чат про разработку под iOS
@@ -952,6 +953,7 @@
 * [Android_Declarative](https://t.me/android_declarative) — Чат русскоязычного android-сообщества, посвященный декларативным UI-фреймворкам: Jetpack Compose, Anko, Anvil, Litho
 * [SwiftBook](https://t.me/swiftbook_chat) — Чат про Swift от проекта [swiftbook.ru](https://swiftbook.ru)
 * [Android Guards Chat](https://t.me/android_guards) — Чат для вопросов по безопасности Android
+* [Coffee&Code | Chat | Mobile | Flutter | Android | Kotlin | iOS | Swift](https://t.me/ChatCoffeeCode) — Чат комьюнити мобильных разработчиков Coffee&Code
 
 [(Назад к меню)](#Меню)
 

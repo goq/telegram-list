@@ -287,7 +287,6 @@
 [(Назад к меню)](#Меню)
 
 ##### DevOps
-* [DevOps news](https://t.me/devops_news) — Новости DevOps
 * [DevOps Deflope News](https://t.me/devops_deflope) — Новостной канал DevOps
 * [DevOps&SRE Library](https://t.me/devopslibrary) — Библиотека книг и статей по теме DevOps и SRE.
 * [Админим с Буквой](https://t.me/bykvaadm) — Канал о системном администрировании, DevOps и немного Инфобеза.
@@ -295,6 +294,7 @@
 * [Мониторим ИТ](https://t.me/monitorim_it) — Канал об управлении ИТ (мониторинг, ITSM, etc.)
 * [Пятничный деплой](https://t.me/count0_digest) — Подборка ссылок, статей и постов из мира DevOps\SRE\разработки.
 * [Тупица Мёртв](https://t.me/dead2pizza) — шуточки из hangops и не только.
+* [DevOps news](https://t.me/devops_news) — Новости DevOps (последнее обновление в 2023)
 * [Записки админа](https://t.me/SysadminNotes) — Статьи, рекомендации мысли про администрирование серверов
 * [i_odmin](https://t.me/i_odmin) — Канал про сисадминов
 * [DevOps40.ru](https://t.me/devops40) — Канал новостей DevOps 40. Анонсы мероприятий, статьи, книги.

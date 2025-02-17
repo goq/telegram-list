@@ -325,7 +325,6 @@
 * [Python Textbooks](https://t.me/python_textbooks) — Книги по Python.
 * [Frontend Textbooks](https://t.me/frontend_textbooks) — Книги по фронтенду.
 * [Библиотека Python](https://t.me/ru_python_books) — Канал-библиотека с книгами, журналами и статьями по языку программирования Python (старый)
-* [Бизнес-книги](https://t.me/marketologmanager) — Канал с подборками литературы по бизнесу
 * [справочник "Единой России"](https://t.me/joinchat/ACqUWT8mxfwM8vgXxxFqQQ) — Телефонный справочник "Единой России" в Госдуме РФ :-D
 * [Awesome Russian Podcasts](https://t.me/awesome_russian_podcasts) — Ежедневные выпуски разных IT-подкастов (подборка)
 * [Awesome Russian YouTube](https://t.me/awesome_russian_youtube) — Ежедневные выпуски разных IT-видосов с ютуба

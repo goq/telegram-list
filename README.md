@@ -785,6 +785,7 @@
 * [GCP RU Community](https://t.me/google_cloud_ru)  — Русскоязычное сообщество специалистов работающих с Google Cloud
 * [Deckhouse (на русском)](https://t.me/deckhouse_ru) — Чат о Kubernetes-платформе Deckhouse
 * [OpenShift](https://t.me/ru_openshift) — Русскоязычное сообщество OpenShift
+* [CloudNativePG — Русскоговорящее сообщество](https://t.me/cnpg_ru) — Чат про CNPG, конфигурации и возможностям. Новости, вопросы, идеи и т.д.
 
 [(Назад к меню)](#Меню)
 

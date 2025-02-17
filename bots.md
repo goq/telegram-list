@@ -34,6 +34,7 @@
 * [@trello_bot](https://t.me/trello_bot) — Интеграция всемирно известной Канбан доски в телеграм
 * [@ShowJsonBot](https://t.me/ShowJsonBot) - Бот пришлёт информацию об оправленном сообщении в JSON
 * [@purl2bot](https://t.me/purl2bot) - Бот публикует файл изображения или снимок экрана из буфера обмена и предоставляет публичную ссылку на него. Сервис может быть полезным техническим писателям и разработчикам документации.
+* [Chatty Robo](https://t.me/chatty_robo_bot) — Chatty Robo is an AI Telegram Bot. It has capabilities to answer your questions using different AI models. There are free and paid versions. 
 
 [(Назад к меню)](#Разделы)
 

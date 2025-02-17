@@ -306,6 +306,7 @@
 * [OrangeDevOps](https://t.me/orangedevops) — ссылки на статьи, видео, другие каналы и личный опыт по теме DevOps (сети, мониторинг и логирование, nginx, инфраструктуру как код, CI/CD, Docker, базы данных, git, kubernetes, облака, ну и конечно Linux).
 * [Savin Michael aka @jtprogru](https://t.me/jtprogru_channel) — Канал об SRE, автоматизации, личном опыте и около того.
 * [Опенград](https://t.me/opengrad) — Авторские статьи с подробным разбором технологий по теме DevOps.
+* [Kubernative](https://t.me/kubernative) — Новости, софт, релизы и ссылки по теме Kubernetes и Cloud Native для DevOps- и SRE-инженеров. На английском языке.
 
 [(Назад к меню)](#Меню)
 

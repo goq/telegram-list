@@ -419,6 +419,7 @@
 * [I’m CTO, bitch](https://t.me/ctobtch) — юмористический канал технического директора.
 * [Raycase New Extensions](https://t.me/raycast_new_extensions) — Канал с автоматической трансляцией недавно добавленных расширений в Raycast: https://www.raycast.com
 * [@MIT_UNION_NEWS](https://t.me/MIT_UNION_NEWS) — Официальный информационный канал сообщества «МИТ - Мы ИТ»
+* [POEnews - Path of Exile 2](https://t.me/pathofexilenews) — Новости сообщества Path of Exile - драмы, интриги, стратегии фарма
 
 [(Назад к меню)](#Меню)
 

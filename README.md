@@ -421,6 +421,7 @@
 * [Григорий Дядиченко](https://t.me/dyadichenkoga) — Личный блог про геймдев, Unity разработку, AR/VR, компьютерную графику и немного веба :)
 * [I’m CTO, bitch](https://t.me/ctobtch) — юмористический канал технического директора.
 * [Raycase New Extensions](https://t.me/raycast_new_extensions) — Канал с автоматической трансляцией недавно добавленных расширений в Raycast: https://www.raycast.com
+* [@MIT_UNION_NEWS](https://t.me/MIT_UNION_NEWS) — Официальный информационный канал сообщества «МИТ - Мы ИТ»
 
 [(Назад к меню)](#Меню)
 

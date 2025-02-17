@@ -245,6 +245,7 @@
 * [OSINT mindset](https://t.me/osint_mindset) — Авторский канал про OSINT как образ мышления
 * [ATT&CK® COMMUNITY RUSSIA CHANNEL](https://t.me/attack_community_channel) — Канал сообщества русскоязычных специалистов по компьютерной безопасности, использующих MITRE ATT&CK®
 * [Персональная безопасность](https://t.me/sectipsru) — Авторские советы по личной безопасности от хакера с 6-летним стажем
+* [Void channel](https://t.me/v01dch4nn3l) — CVE, fuzzing, pentest, и прочее
 
 [(Назад к меню)](#Меню)
 

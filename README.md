@@ -289,7 +289,6 @@
 ##### DevOps
 * [DevOps news](https://t.me/devops_news) — Новости DevOps
 * [DevOps Deflope News](https://t.me/devops_deflope) — Новостной канал DevOps
-* [CatOps](https://t.me/catops) — Новости и заметки про Devops, SRE и прочее
 * [DevOps&SRE Library](https://t.me/devopslibrary) — Библиотека книг и статей по теме DevOps и SRE.
 * [Админим с Буквой](https://t.me/bykvaadm) — Канал о системном администрировании, DevOps и немного Инфобеза.
 * [Amazon AWS notes](https://t.me/aws_notes) — Канал про AWS от Amazon

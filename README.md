@@ -201,7 +201,6 @@
 * [isqualog](https://t.me/isqualog) — Софья Ильинова о фронтенде, дизайне, работе и жизни. Задачки по JS.
 * [INTERNET 9000](https://t.me/internet9000) — Сергей Сурганов о дизайне и технологиях.
 * [Evil Martians](https://t.me/evilmartians) — Злые марсиане о стартапах, веб-разработке, интернет-бизнесе, бэкенде, фронтенде, мобильной разработке, devops и data science.
-* [Школа Веб 2.0](https://t.me/webschool_rus) — Авторский канал о веб-разработке (Ruby on Rails, UI/UX, HTML5, CSS3) [dead?]
 * [Dev Useful Stuff](https://t.me/dev_useful_stuff) — Библиотеки, фреймворки, инструменты
 * [FrontEnd Development](https://t.me/fedevelopment) — Канал ежедневно публикует полезные ссылки, новости из мира фронтенд-разработки.
 * [Spb-Frontend](https://t.me/spb_frontend) — Новости фронтенда и питерского сообщества Spb-Frontend, дайджест новостей за неделю в виде рассылки

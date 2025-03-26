@@ -56,6 +56,7 @@
 * [@recordForEventBot](https://t.me/recordForEventBot) - Бот для ведения списка людей, записавшихся на событие.
 * [@setwmbot](https://t.me/setwmbot) - Бот для автоматического добавления водяных знаков на всех фото, видео или Gif.
 * [@StickerStickyBot](https://t.me/StickerStickyBot) - Бот, общающийся с помощью стикеров - разбавляет беседы забавными контекстозависимыми картинками и анимациями.
+* [@novaposhta_near_me_bot](https://t.me/novaposhta_near_me_bot) - "Nova Poshta Near Me" вернет ближайший работающий склад компании “Нова Пошта” (Украина) по вашей геолокации
 [(Назад к меню)](#Разделы)
 
 ##### Книги и фильмы

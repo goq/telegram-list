@@ -163,7 +163,6 @@
 * [Dev Tools](https://t.me/developer_tools) — Инструменты, плагины и аддоны для разработки.
 * [Middle Java](https://t.me/middle_java) — Канал про Java. Полезные материалы.
 * [Грефневая Кафка (pro.kafka)](https://t.me/AwesomeKafka_Ru) — Канал про Apache Kafka и связанными с ней событиями.
-* [Python Daily](https://t.me/pydaily) — Новости по языку программирования Python, ссылки на статьи, подкасты и другие интересные материалы.
 * [IT Finland](https://t.me/itfinland) — Канал про айти в Финляндии. Документы, недвижимость, работа и жизнь айтишника в Финляндии в целом.
 * [Python_in_depth](https://t.me/python_in_depth) — Авторский канал Python для начинающих и не очень.
 * [Daily Coding](https://t.me/dailycoding) — Интересные задачи, обучающие статьи, советы по стилю кода и многое другое

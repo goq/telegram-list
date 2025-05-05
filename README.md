@@ -283,6 +283,7 @@
 * [NN for Science](https://t.me/nn_for_science) — Канал о новинках из области машинного обучения, с прицелом на использовании в науке
 * [мамкин Data Scientist](https://t.me/mommyscientist) — тернистый путь в data science, личный экспирианс
 * [RU Dataset | Датасеты](https://t.me/dataset_ru) — Канал-библиотека датасетов. Большая база РУ-датасетов
+* [Научный опенсорс](https://t.me/scientific_opensource) — Канал про создание и использование наукоёмких open-source решений
 * [Чаты и группы телеграма по теме](#big-data-Машинное-обучение-deep-learning-и-data-science)
 
 [(Назад к меню)](#Меню)
@@ -847,7 +848,7 @@
 * [DL in NLP discussion group](https://t.me/dlinnlp_discuss) — Чат про DL in NLP (МФТИ)
 * [Чат Tableau](https://t.me/tableau_chat) — Сообщество Tableau-пользователей в России
 * [better data community](https://t.me/betterdatacommunity) — Сообщество фанатов градиентов. Большой тематический чат-форум по DS
-
+* [ITMO.Opensource](https://t.me/itmo_opensource) - Сообщество научного открытого кода ITMO OpenSource.
 [(Назад к меню)](#Меню)
 
 ##### Информационная безопасность, криптография, защита информации

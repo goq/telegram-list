@@ -191,6 +191,7 @@
 * [BEARlogin dev](https://t.me/bearlogin_dev) — Авторский канал Андрея Луговского - CTO, Fullstack developer, архитектора, devops и прокрастинатора
 * [Модульные Системы](https://t.me/ModularSys) — Всё об истории и эволюции модульного программного обеспечения и надёжных программных систем
 * [Radix cross Linux](https://t.me/rxlinux/) — GNU/Linux дистрибутив для встроенных и персональных машин (статьи, поддержка, чат)
+* [Научный опенсорс](https://t.me/scientific_opensource) — Канал про разработку наукоёмких open-source решений
 
 [(Назад к меню)](#Меню)
 
@@ -847,6 +848,7 @@
 * [DL in NLP discussion group](https://t.me/dlinnlp_discuss) — Чат про DL in NLP (МФТИ)
 * [Чат Tableau](https://t.me/tableau_chat) — Сообщество Tableau-пользователей в России
 * [better data community](https://t.me/betterdatacommunity) — Сообщество фанатов градиентов. Большой тематический чат-форум по DS
+* [ITMO.OpenSource](https://t.me/itmo_opensource) - Сообщество энтузиастов научного открытого кода в сфере ИИ.
 
 [(Назад к меню)](#Меню)
 

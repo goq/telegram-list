@@ -849,6 +849,7 @@
 * [Чат Tableau](https://t.me/tableau_chat) — Сообщество Tableau-пользователей в России
 * [better data community](https://t.me/betterdatacommunity) — Сообщество фанатов градиентов. Большой тематический чат-форум по DS
 * [ITMO.Opensource](https://t.me/itmo_opensource) - Сообщество научного открытого кода ITMO OpenSource.
+* 
 [(Назад к меню)](#Меню)
 
 ##### Информационная безопасность, криптография, защита информации

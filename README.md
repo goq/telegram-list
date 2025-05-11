@@ -341,10 +341,15 @@
 * [Вакансии и резюме из Digital](https://t.me/seohr) — Вакансии и резюме из Digital
 * [Web Freelance](https://t.me/webfrl) — Предложения по фрилансу для веб-разработчиков
 * [Devaller](https://t.me/devaller) — Вакансии от сообщества Devall
+* [Golang Jobs](https://t.me/golang_jobsgo) — Вакансии от сообщества Golang Jobs
+* [Go Get A Job](https://t.me/gogetajob) — Вакансии от сообщества Go Get A Job
+* [Golang](https://t.me/easy_golang_job) — Вакансии от сообщества Easy Golang Job
 * [sysadmin_jobs](https://t.me/sysadmin_jobs) — Вакансии для системных администраторов
 * [Работа за рубежом](https://t.me/jobs_abroad) — Вакансии с релокацией
 * [Work Embedded](https://t.me/rabotaembedded) — Вакансии по встраиваемым системам (для программистов, инженеров, и т.п.)
+* [Tech resume review](https://t.me/resume_review) — Разбор резюме(и linkedin): "Делимся советами по улучшению".
 * [Ruby Job](https://t.me/rubyjob) — Вакансии для программистов на Ruby.
+* [Rust Jobs](https://t.me/rust_jobs) — Вакансии для программистов на Rust.
 * [New.HR Vacancy](https://t.me/newhr) — Вакансии в IT & Digital для тех, кто не ищет работу
 * [pro.JVM Jobs](https://t.me/jvmjobs) — Вакансии Java
 * [Scala Jobs Feed](https://t.me/scala_jobs_feed) — Вакансии Scala
@@ -524,7 +529,10 @@
 * [FreePascal & Lazarus](https://t.me/freepascal_en) — Чат про FreePascal и Lazarus
 * [F# Chat](https://t.me/fsharp_chat) — Чат про F#
 * [FORTH и Родственные ЯП](https://t.me/forthchat) — Чат про Forth и родственные языки
-* [Golang RU](https://t.me/gogolang) — Чат про Golang
+* [Gopher Club](https://t.me/+zsSZ63wEJDs3NGVi) — Сообщество Go разработичков: "Обсуждаем Go и разработку в целом.". 
+* [Golang Go](https://t.me/golangl) — Сообщество СНГ Go разработичков 
+* [Go-Go!](https://t.me/gogolang) — Чат Go разработичков.
+* [SPb Go](https://t.me/goleningrad) — Сообщество Go разработичков в Санкт-Петербурге.
 * [Haskell](https://t.me/haskellru) — Чат про Haskell
 * [Haskell Learn](https://t.me/haskell_learn) — Чат для вопросов по основам Haskell
 * [javascript_ru](https://t.me/javascript_ru) — Чат про JavaScript

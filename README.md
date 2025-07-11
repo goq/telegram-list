@@ -1033,6 +1033,7 @@
 * [Developers Chat](https://t.me/joinchat/ABI4pz3M7FCxoDZcdcfVUA) — Чат сообщества Chatbots
 * [Facebook Developers Chat](https://t.me/joinchat/Bcr-wREj7gZxkNlTENoQew) — Чат разработчиков под платформу Facebook Messenger
 * [Aimylogic (сообщество пользователей)](https://t.me/aimylogic) — Чат о визуальном конструкторе чат-ботов, понимающих естественный язык
+* [OpenTgResearcher](https://t.me/OpenTgResearcher) - Группа разработки исследователя и поисковика Телеграм
 
 [(Назад к меню)](#Меню)
 

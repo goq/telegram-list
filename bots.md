@@ -80,6 +80,7 @@
 [(Назад к меню)](#Разделы)
 
 ##### Прочие боты
+* [@whoopysitebot](https://t.me/whoopysitebot) — Бот прекрасно подойдёт для аудита сайта, просто дай ему ссылку на сайт и он расскажет, насколько всё хорошо или плохо!
 * [@Lingvanexbot](https://t.me/lingvanexbot) - Переводчик на основе нейросетей для более чем 50 языков.
 * [Yandex Image Search](https://t.me/pic) — Бот поиска картинок от Яндекса. Inline
 * [Yandex.Translate](https://t.me/YTranslateBot) - Бот-переводчик от Яндекса

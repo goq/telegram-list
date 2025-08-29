@@ -813,6 +813,7 @@
 * [QA_Interviews](https://t.me/qa_interviews) — Чат для прохождения собеседований на youtube
 * [Mentors](https://t.me/qa_mentors) — Чат для поиска менторов и менти в области QA
 * [Mentorpiece](https://t.me/to_be_qa_chat) — Чат ответов и советов по QA от QA-менторов Mentorpiece с опытом 10+ лет
+* [QA — Load & Performance](https://t.me/qa_load) - Чат про производительность
 
 [(Назад к меню)](#Меню)
 

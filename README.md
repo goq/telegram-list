@@ -899,6 +899,7 @@
 * [Russian Fedora](https://t.me/russianfedora) — Чат про Fedora (рус.)
 * [freebsd_ru](https://t.me/freebsd_ru) — Чат про FreeBSD
 * [Gentoo](https://t.me/russian_gentoo) — Чат про Gentoo
+* [Russian Guix System](https://t.me/gnu_guix_ru) — Чат про Guix и Guix System
 * [Gnome RU](https://t.me/gnome_ru) — Чат про Gnome
 * [Gnome Rus](https://t.me/gnome_rus) — Ещё один чат про GNOME
 * [Gnome Global](https://t.me/gnome_global) — Чат про Gnome (English)

@@ -631,6 +631,7 @@
 * [Wordpress for developers](https://t.me/wp4dev) — Группа для разработчиков на WordPress
 * [Netbeans](https://t.me/netbeans_ru) — Группа для тех, кто использует среду разработки Netbeans
 * [pro.vim](https://t.me/vimers) — Русскоязычные вимеры
+* [Neovim](https://t.me/nvimers) — Чат про Neovim
 * [weex](https://t.me/weex_ru) — Чат про Weex
 * [Qt](https://t.me/qt_chat) — Чат по Qt
 * [GTK](https://t.me/GTKchat) — Кроссплатформенная библиотека элементов интерфейса

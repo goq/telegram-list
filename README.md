@@ -910,6 +910,7 @@
 * [Kolibri OS](https://t.me/kolibri_os) — Group about fastest graphical operating system written in assembly.
 * [🍃RU.MINT](https://t.me/ru_mint) — Официальное Русское Сообщество Linux Mint
 * [Linux Mint Україна](https://t.me/linuxmint_com) — Linux Mint Україна. cтрогие правила
+* [NixOS RU](https://t.me/ru_nixos) — Чат про Nix и NixOS
 * [Linux Help](https://t.me/grouplinux) — Чат взаимопомощи по линуксу.
 * [iHack - Hackintosh & Jailbreak](https://t.me/macosx86) — Чат про Хакинтош и MacOS
 * [Manjaro ru](https://t.me/manjarolinux) — Чат про Manjaro Linux

@@ -23,6 +23,7 @@
 * [@yandex_music_bot](https://t.me/yandex_music_bot) - Бот ищет музыку в Яндекс.Музыке
 * [@podcastly_bot](https://t.me/podcastly_bot) - Бот поможет найти подкаст с помощью поиска/рекомендательной системы, уведомит о новых эпизодах.
 * [@Shazam Music Charts](https://t.me/ShazamMusicChartsBot) - Бот для поиска новой музыки в качестве Lossless / FLAC (без сжатия). 
+* [@YouttubeAudioBot](https://t.me/YouttubeAudioBot) — Скачивает аудио из YouTube, подбирает оптимальный битрейт под размер файла, в боте есть история скачиваний и статистика пользователя
 
 [(Назад к меню)](#Разделы)
 

@@ -35,6 +35,7 @@
 * [@ShowJsonBot](https://t.me/ShowJsonBot) - Бот пришлёт информацию об оправленном сообщении в JSON
 * [@purl2bot](https://t.me/purl2bot) - Бот публикует файл изображения или снимок экрана из буфера обмена и предоставляет публичную ссылку на него. Сервис может быть полезным техническим писателям и разработчикам документации.
 * [Chatty Robo](https://t.me/chatty_robo_bot) — Chatty Robo is an AI Telegram Bot. It has capabilities to answer your questions using different AI models. There are free and paid versions. 
+* [@RealAddrBot](https://t.me/RealAddrBot) — Free identity & address generator for testing and privacy. 21 countries, 3 depth levels, built-in temp email inbox, 12 languages. Luhn-valid credit cards for payment gateway testing. [Website](https://realaddrbot.com)
 
 [(Назад к меню)](#Разделы)
 

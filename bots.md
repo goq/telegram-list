@@ -27,6 +27,7 @@
 [(Назад к меню)](#Разделы)
 
 ##### Полезные боты для разработки
+* [@seopankprobot](https://t.me/seopankprobot) — Professional Google SEO single-page deep diagnosis: real crawl, technical checks, expert-style interpretation, and fix recommendations. Send a URL to diagnose. (EN/CN)
 * [@bitbucket_bot](https://t.me/bitbucket_bot) — Интеграция bitbucket в телеграм
 * [@ChatbroBot](https://t.me/chatbrobot) — Позволяет встроить Telegram чат на сайт
 * [@GitHubBot](https://t.me/GitHubBot) — Интеграция GitHub в телеграм

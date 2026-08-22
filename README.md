@@ -192,6 +192,7 @@
 * [Модульные Системы](https://t.me/ModularSys) — Всё об истории и эволюции модульного программного обеспечения и надёжных программных систем
 * [Radix cross Linux](https://t.me/rxlinux/) — GNU/Linux дистрибутив для встроенных и персональных машин (статьи, поддержка, чат)
 * [Научный опенсорс](https://t.me/scientific_opensource) — Канал про разработку наукоёмких open-source решений
+* [GNU/Linux | Notes](https://t.me/krxnotes) — Канал про Debian, GNU/Linux, Open Source и инструменты для разработчиков
 
 [(Назад к меню)](#Меню)
 

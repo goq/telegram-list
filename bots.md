@@ -109,6 +109,7 @@
 * [@SynoptykBot](https://t.me/SynoptykBot) - Погодный бот с уведомлениями, текущей погодой и прогнозом на 7 дней, а также возможностью задать до 5 локаций.
 * [@fStikBot](https://t.me/fStikBot) - Бот сохраняет любимые стикеры в один стикерпак.
 * [@CryptoBitBot](https://t.me/CryptoBitBot) - Бот показывает информацию о курсах валют
+* [@CoinPingAlertBot](https://t.me/CoinPingAlertBot) - [Open Source](https://github.com/SeigeC/coinping-bot) Крипто-оповещения: пороги цен, изменение за 24ч и спреды между биржами. Бесплатно: 3 алерта.
 * [@apkdl_bot](https://t.me/apkdl_bot) - Бот скачивает APK-файлы приложений для Android
 * [@dictsbot](https://t.me/dictsbot) - Бот ищущий слово по словарям
 * [@egrul_bot](https://t.me/egrul_bot) - Бот для поиска информации о юридических лицах

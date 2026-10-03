@@ -91,6 +91,7 @@
 * [Код Дурова](https://t.me/d_code) — Код Дурова: Новости из мира IT.
 * [illumination web](https://t.me/illumination_web) — Новости и полезные ссылки из мира IT, программирование, дизайна, математики и т.д.
 * [Интересное в IT](https://t.me/interestingit) — Разные интересные и полезные ссылки из IT сферы для неспешного чтения.
+* [Gram News](https://t.me/gramnews) — Новости Telegram и TON: беты клиентов, изменения API, кошельки и подарки. Сайт [gramnews.org](https://gramnews.org/).
 
 [(Назад к меню)](#Меню)
 

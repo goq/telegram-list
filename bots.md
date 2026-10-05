@@ -170,3 +170,5 @@
 </details>
 
 [(Назад к меню)](#Разделы)
+* [@SplitTabsBot](https://t.me/SplitTabsBot) - Разделение общих расходов в групповых чатах (есть библиотека гайдов на tg.zovo.one).
+* [@FocusTimerProBot](https://t.me/FocusTimerProBot) - Таймер фокусировки и продуктивности с сессиями и статистикой.
